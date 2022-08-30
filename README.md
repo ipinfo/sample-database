@@ -1,41 +1,29 @@
-# [IPinfo.io](http://IPinfo.io) Sample Database Repository
+# [<img src="https://ipinfo.io/static/ipinfo-small.svg" alt="IPinfo" width="24"/>](https://ipinfo.io/) IPinfo Sample Database Repository
 
 
 ## This repository contains CSV sample datasets of all the [IP address database products](https://ipinfo.io/account/data-downloads) we have to offer.
 
 ![IPinfoio product overview](./assets/header_grahics_main_readme.png)
 
-# Overview
 
-The database products [IPInfo.io](http://IPInfo.io) has to offer are -
-
-- [IP Geolocation Database](https://ipinfo.io/products/ip-geolocation-database)
-- [IP to Company Database](https://ipinfo.io/products/ip-company-database)
-- [ASN Database](https://ipinfo.io/products/asn-database)
-- [IP to Mobile Carrier Database](https://ipinfo.io/products/mobile-ip-database)
-- [Privacy Detection Database](https://ipinfo.io/products/anonymous-ip-database)
-- [Hosted Domain Database](https://ipinfo.io/products/hosted-domains-database)
-- [Abuse Contact Database](https://ipinfo.io/products/ip-abuse-contact-database)
-- [WHOIS Database](https://ipinfo.io/products/ip-whois-data-download)
-
-**All of these products are available as CSV, JSON and MMDB type.**
-
-# Database Summary & Links
-
-*Please give a second to let the gif load. It is ~4mb*
+# Database Overview
 
 ![Product Demo](./assets/product_demo_main_readme.gif)
 
-| Database Product | Product Webpage | Sample Database Repo | Description |
-| --- | --- | --- | --- |
-| IP Geolocation | Product Webpage | Sample Database within the repo (to be linked) |  |
-| IP to Company | Product Webpage | - |  |
-| ASN | Product Webpage | - |  |
-| IP to Mobile Carrier | Product Webpage | - |  |
-| Privacy Detection | Product Webpage | - |  |
-| Hosted Domain | Product Webpage | - |  |
-| Abuse Contact | Product Webpage | - |  |
-| WHOIS | Product Webpage | - |  |
+The database products [IPInfo.io](http://IPInfo.io) has to offer are -
+
+| Database Product | Sample Database Repo | Description |
+| --- | --- | --- |
+| [IP Geolocation Database](https://ipinfo.io/products/ip-geolocation-database) | [IP Geolocation Sample](/IP%20Geolocation) |  |
+| [IP to Company Database](https://ipinfo.io/products/ip-company-database) | - |  |
+| [ASN Database](https://ipinfo.io/products/asn-database) | - |  |
+| [IP to Mobile Carrier Database](https://ipinfo.io/products/mobile-ip-database) | - |  |
+| [Privacy Detection Database](https://ipinfo.io/products/anonymous-ip-database) | - |  |
+| [Hosted Domain Database](https://ipinfo.io/products/hosted-domains-database) | - |  |
+| [Abuse Contact Database](https://ipinfo.io/products/ip-abuse-contact-database) | - |  |
+| [WHOIS Database](https://ipinfo.io/products/ip-whois-data-download) | - |  |
+
+**All of these products are available as CSV, JSON and MMDB type.**
 
 # Features of the Repository
 
@@ -76,9 +64,11 @@ The list of FAQs (Frequently Asked Questions) can be found here [here](https://i
 - You can select how frequently the database gets updated. It can be daily, weekly, bi-weekly or monthly.
 - To lookup an specific database you can use any kind of data exploration package or database system you want to use. [Here is an example](https://ipinfo.io/faq/article/144-how-do-you-do-a-lookup-of-an-ip-address-using-your-database) of using mySQL and PosgreSQL to lookup a specific IP address.
 
-# Summary of the Databases Fields
+<details id=0>
+<summary><h1>Summary of the Databases Fields</h1></summary>
 
 Please visit the database directories to learn more.
+
 <details id=1>
 <summary><h2>IP Geolocation</h2></summary>
 
@@ -275,6 +265,7 @@ The WHOIS database and their respective fields are listed below:
 
 </details>
 
+</details>
 
 
 
@@ -301,4 +292,4 @@ See [https://ipinfo.io/developers/libraries](https://ipinfo.io/developers/librar
 
 Founded in 2013, IPinfo prides itself on being the most reliable, accurate, and in-depth source of IP address data available anywhere. We process terabytes of data to produce our custom IP geolocation, company, carrier, VPN detection, hosted domains, and IP type data sets. Our API handles over 40 billion requests a month for 100,000 businesses and developers.
 
-[https://avatars3.githubusercontent.com/u/15721521?s=128&u=7bb7dde5c4991335fb234e68a30971944abc6bf3&v=4](https://avatars3.githubusercontent.com/u/15721521?s=128&u=7bb7dde5c4991335fb234e68a30971944abc6bf3&v=4)
+[![image](https://avatars3.githubusercontent.com/u/15721521?s=128&u=7bb7dde5c4991335fb234e68a30971944abc6bf3&v=4)](https://ipinfo.io/)
