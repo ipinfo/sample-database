@@ -1,28 +1,9 @@
-# Sample Database
-
-[IP Geolocation Database](Sample%20Database%20fb322a60f0544458ad861eb738e869cd/IP%20Geolocation%20Database%209911f66c2c744ad9981b291dd62b7cd0.md)
-
-[IP to Company Database](Sample%20Database%20fb322a60f0544458ad861eb738e869cd/IP%20to%20Company%20Database%2081d7f85aaeb244b19608f3a1de1fecad.md)
-
-[ASN Database](Sample%20Database%20fb322a60f0544458ad861eb738e869cd/ASN%20Database%20f0a4a626172e48af820b3ef05471b2dd.md)
-
-[IP to Mobile Carrier](Sample%20Database%20fb322a60f0544458ad861eb738e869cd/IP%20to%20Mobile%20Carrier%20145a346a938841a0aaa20b3b95953cc7.md)
-
-[Privacy Detection](Sample%20Database%20fb322a60f0544458ad861eb738e869cd/Privacy%20Detection%2053466f12588d45a388a061cd2963f355.md)
-
-[Hosted Domain Database](Sample%20Database%20fb322a60f0544458ad861eb738e869cd/Hosted%20Domain%20Database%2092e759fbc2ad42b3bc1edd7723e99cf9.md)
-
-[Abuse Contact Database](Sample%20Database%20fb322a60f0544458ad861eb738e869cd/Abuse%20Contact%20Database%20d9fe185684b949ea9f6f6e504e865a64.md)
-
-[WHOIS Database](Sample%20Database%20fb322a60f0544458ad861eb738e869cd/WHOIS%20Database%205a997263129047ac857caf5f204031fb.md)
-
----
-
 # [IPinfo.io](http://IPinfo.io) Sample Database Repository
+
 
 ## This repository contains CSV sample datasets of all the [IP address database products](https://ipinfo.io/account/data-downloads) we have to offer.
 
-![Database Product Sample Repository (2).png](Sample%20Database%20fb322a60f0544458ad861eb738e869cd/Database_Product_Sample_Repository_(2).png)
+![IPinfoio product overview](./assets/header_grahics_main_readme.png)
 
 # Overview
 
@@ -43,7 +24,7 @@ The database products [IPInfo.io](http://IPInfo.io) has to offer are -
 
 *Please give a second to let the gif load. It is ~4mb*
 
-![IP Geolocation Database (800 × 450 px) (1).gif](Sample%20Database%20fb322a60f0544458ad861eb738e869cd/IP_Geolocation_Database_(800__450_px)_(1).gif)
+![Product Demo](./assets/product_demo_main_readme.gif)
 
 | Database Product | Product Webpage | Sample Database Repo | Description |
 | --- | --- | --- | --- |
