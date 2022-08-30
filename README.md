@@ -14,14 +14,14 @@ The database products [IPInfo.io](http://IPInfo.io) has to offer are -
 
 | Database Product | Sample Database Repo | Description |
 | --- | --- | --- |
-| [IP Geolocation Database](https://ipinfo.io/products/ip-geolocation-database) | [IP Geolocation Sample](/IP%20Geolocation) |  |
-| [IP to Company Database](https://ipinfo.io/products/ip-company-database) | - |  |
-| [ASN Database](https://ipinfo.io/products/asn-database) | - |  |
-| [IP to Mobile Carrier Database](https://ipinfo.io/products/mobile-ip-database) | - |  |
-| [Privacy Detection Database](https://ipinfo.io/products/anonymous-ip-database) | - |  |
-| [Hosted Domain Database](https://ipinfo.io/products/hosted-domains-database) | - |  |
-| [Abuse Contact Database](https://ipinfo.io/products/ip-abuse-contact-database) | - |  |
-| [WHOIS Database](https://ipinfo.io/products/ip-whois-data-download) | - |  |
+| [IP Geolocation Database](https://ipinfo.io/products/ip-geolocation-database) | [IP Geolocation Sample](/IP%20Geolocation) | IP geolocation information |
+| [IP to Company Database](https://ipinfo.io/products/ip-company-database) | [IP to Company Sample](/IP%20to%20Company) | Company associated with IP address |
+| [ASN Database](https://ipinfo.io/products/asn-database) | [ASN Sample](/ASN) | IP range and ASN |
+| [IP to Mobile Carrier Database](https://ipinfo.io/products/mobile-ip-database) | [IP to Mobile Sample](/IP%20to%20Mobile%20Carrier) | Carrier and country information |
+| [Privacy Detection Database](https://ipinfo.io/products/anonymous-ip-database) | [Privacy Detection Sample](/Privacy%20Detection) | VPN, Proxies, Tor, Relays |
+| [Hosted Domain Database](https://ipinfo.io/products/hosted-domains-database) | [Hosted Domains Sample](/Hosted%20Domains) | Reverse IP lookup |
+| [Abuse Contact Database](https://ipinfo.io/products/ip-abuse-contact-database) | [Abuse Contact Sample](/Abuse%20Contact) | Abuse contact information |
+| [WHOIS Database](https://ipinfo.io/products/ip-whois-data-download) | [WHOIS Sample](/WHOIS) | Contexualized WHOIS Database |
 
 **All of these products are available as CSV, JSON and MMDB type.**
 
@@ -48,9 +48,11 @@ Please visit each folder to learn more about the databases. Each directory READM
 
 The list of FAQs (Frequently Asked Questions) can be found here [here](https://ipinfo.io/faq/category/137-data-downloads).
 
-# Other Information (Usage, Exploration etc.)
 
-### How to explore the sample databases
+<details id=usage>
+<summary><h1>Other Information (Usage, Exploration etc.)</h1></summary>
+
+## How to explore the sample databases
 
 - Please visit the folders for each database. You can also find the API response samples there for each products.
 - If you would like to explore CSV files, feel free to use any of these online services and import the raw CSV there -
@@ -58,11 +60,14 @@ The list of FAQs (Frequently Asked Questions) can be found here [here](https://i
     - [https://lite.datasette.io/](https://lite.datasette.io/)
 - Or you can you just download the CSV files to take a closer look.
 
-### Usage Information
+## Usage Information
 
 - After signing up for database downloads service, you can either download the database from our website or you can `curl` the database from the database download endpoint. But make sure you have redirect [enabled](https://ipinfo.io/faq/article/142-when-i-access-the-database-endpoint-using-something-like-curl-it-doesn-t-seem-to-work-and-i-get-a-corrupted-empty-file-what-am-i-doing-wrong).
 - You can select how frequently the database gets updated. It can be daily, weekly, bi-weekly or monthly.
 - To lookup an specific database you can use any kind of data exploration package or database system you want to use. [Here is an example](https://ipinfo.io/faq/article/144-how-do-you-do-a-lookup-of-an-ip-address-using-your-database) of using mySQL and PosgreSQL to lookup a specific IP address.
+
+</details>
+
 
 <details id=0>
 <summary><h1>Summary of the Databases Fields</h1></summary>
