@@ -101,7 +101,9 @@ Please visit the database directories to learn more.
 <details id=1>
 <summary><h2>IP Geolocation</h2></summary>
 
-**Get geolocation information from IP Addresses.** The CSV database includes the following fields:
+**Get geolocation information from IP Addresses.**
+
+The CSV database includes the following fields:
 
 - start_ip
 - end_ip
@@ -114,16 +116,18 @@ Please visit the database directories to learn more.
 - postal_code
 - timezone
 
-🔗 [IP Geolocation Database Page](https://ipinfo.io/products/ip-geolocation-database)
+### 🔗 [IP Geolocation Database Page](https://ipinfo.io/products/ip-geolocation-database)
 
-🔗 IP Geolocation Repository
+### 🔗 IP Geolocation Repository
 
 </details>
 
 <details id=2>
 <summary><h2>IP to Company</h2></summary>
 
-**Get firmographics data and identify the company behind the IP Address and network traffic.** Database includes the following fields:
+**Get firmographics data and identify the company behind the IP Address and network traffic.**
+
+Database includes the following fields:
 
 - start_ip
 - end_ip
@@ -137,9 +141,9 @@ Please visit the database directories to learn more.
 - as_type
 - country
 
-🔗 [IP to Company Database Page](Sample%20Database%20fb322a60f0544458ad861eb738e869cd/IP%20to%20Company%20Database%2081d7f85aaeb244b19608f3a1de1fecad.md)
+### 🔗 [IP to Company Database Page](Sample%20Database%20fb322a60f0544458ad861eb738e869cd/IP%20to%20Company%20Database%2081d7f85aaeb244b19608f3a1de1fecad.md)
 
-🔗 IP to Company Repository
+### 🔗 IP to Company Repository
 
 </details>
 
@@ -147,7 +151,9 @@ Please visit the database directories to learn more.
 <summary><h2>ASN</h2></summary>
 
 
-**Get ASN data from ASN or IP Address information.** Database (CSV) contains the following fields:
+**Get ASN data from ASN or IP Address information.**
+
+Database (CSV) contains the following fields:
 
 - start_ip
 - end_ip
@@ -158,16 +164,18 @@ Please visit the database directories to learn more.
 - type
 - country
 
-🔗 [ASN Database Page](https://ipinfo.io/products/asn-database)
+### 🔗 [ASN Database Page](https://ipinfo.io/products/asn-database)
 
-🔗 ASN Repository
+### 🔗 ASN Repository
 
 </details>
 
 <details id=4>
 <summary><h2> IP to Mobile Carrier </h2></summary>
 
-**Lookup Mobile Carrier data such as - MCC and MNC from IP addresses.** The database (CSV) contains the following fields:
+**Lookup Mobile Carrier data such as - MCC and MNC from IP addresses.** 
+
+The database (CSV) contains the following fields:
 
 - start_ip
 - end_ip
@@ -177,16 +185,18 @@ Please visit the database directories to learn more.
 - mcc
 - mnc
 
-🔗 [IP to Mobile Carrier Database Page](https://ipinfo.io/products/mobile-ip-database)
+### 🔗 [IP to Mobile Carrier Database Page](https://ipinfo.io/products/mobile-ip-database)
 
-🔗 IP to Mobile Carrier Repository
+### 🔗 IP to Mobile Carrier Repository
 
 </details>
 
 <details id=5>
 <summary><h2>Privacy Detection</h2></summary>
 
-**Privacy detection such as VPN, Tor, Proxies, Relays and Hosting from IP addresses.** Demystify anonymous IP addresses. The CSV database includes the following fields:
+**Privacy detection such as VPN, Tor, Proxies, Relays and Hosting from IP addresses. Demystify anonymous IP addresses.**
+
+The CSV database includes the following fields:
 
 - start_ip
 - end_ip
@@ -198,24 +208,26 @@ Please visit the database directories to learn more.
 - relay
 - service
 
-🔗 [Privacy Detection Database Page](https://ipinfo.io/products/anonymous-ip-database)
+### 🔗 [Privacy Detection Database Page](https://ipinfo.io/products/anonymous-ip-database)
 
-🔗 Privacy Detection Repository
+### 🔗 Privacy Detection Repository
 
 </details>
 
 <details id=6>
 <summary><h2>Hosted Domains</h2></summary>
 
-**Hosted Domains database enables you to do reverse IP lookups.** Through our Hosted Domains service, you can see the the full list of domain hosted on a single IP address. The fields in the database includes:
+**Hosted Domains database enables you to do reverse IP lookups.** Through our Hosted Domains service, you can see the the full list of domain hosted on a single IP address. 
+
+The fields in the database includes:
 
 - ip
 - total
 - domains
 
-🔗 [Hosted Domains Database Page](https://ipinfo.io/products/hosted-domains-database)
+### 🔗 [Hosted Domains Database Page](https://ipinfo.io/products/hosted-domains-database)
 
-🔗 Hosted Domains Repository
+### 🔗 Hosted Domains Repository
 
 </details>
 
@@ -224,7 +236,9 @@ Please visit the database directories to learn more.
 <details id=7>
 <summary><h2>Abuse Contact</h2></summary>
 
-Get the abuse contact information of every ISP in the internet. The fields of the database are:
+**Get the abuse contact information of every ISP in the internet.**
+
+The fields of the database are:
 
 - start_ip
 - end_ip
@@ -235,9 +249,9 @@ Get the abuse contact information of every ISP in the internet. The fields of th
 - country
 - phone
 
-🔗 [Abuse Contact Database Page](https://ipinfo.io/products/ip-abuse-contact-database)
+### 🔗 [Abuse Contact Database Page](https://ipinfo.io/products/ip-abuse-contact-database)
 
-🔗 Abuse Contact Repository
+### 🔗 Abuse Contact Repository
 
 </details>
 
@@ -248,7 +262,9 @@ Get the abuse contact information of every ISP in the internet. The fields of th
 
 
 
-**IPinfo WHOIS database is contextual, robust and consistent database of various types of WHOIS data.** The WHOIS database and their respective fields are listed below:
+**IPinfo WHOIS database is contextual, robust and consistent database of various types of WHOIS data.**
+
+The WHOIS database and their respective fields are listed below:
 
 | R WHOIS | WHOIS ASN | WHOIS MNT | WHOIS NET | WHOIS ORG | WHOIS POC |
 | --- | --- | --- | --- | --- | --- |
@@ -270,6 +286,11 @@ Get the abuse contact information of every ISP in the internet. The fields of th
 |  |  |  |  | updated |  |
 |  |  |  |  | source |  |
 |  |  |  |  | raw |  |
+
+
+### 🔗 [WHOIS Database Page](https://ipinfo.io/products/ip-abuse-contact-database)
+
+### 🔗 Abuse Contact Repository
 
 </details>
 
