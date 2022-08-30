@@ -1,0 +1,84 @@
+{
+    "total": 1,
+    "page": 0,
+    "records": [
+      {
+        "range": "204.197.0.0/17",
+        "id": "ME-K12-LIB",
+        "name": "University of Maine System",
+        "country": "US",
+        "org": {
+          "id": "ME",
+          "name": "University of Maine System",
+          "address": null,
+          "country": "US",
+          "admin": "IKA-ARIN",
+          "abuse": "IKA-ARIN",
+          "tech": "IKA-ARIN\\NPEIRC1-ARIN",
+          "maintainer": "UCC-ARIN",
+          "created": "1996-05-16",
+          "updated": "2019-12-11",
+          "source": "arin",
+          "raw": "OrgID:          ME\\nOrgName:        University of Maine System\\nCanAllocate:    \\nStreet:         c/o ITS Computing Center\\nStreet:         5752 Neville Hall\\nStreet:         Attn: Jeffrey Letourneau\\nStreet:         University of Maine System\\nCity:           Orono\\nState/Prov:     ME\\nCountry:        US\\nPostalCode:     04469\\nRegDate:        1996-05-16\\nUpdated:        2019-12-11\\nReferralServer: rwhois://named.its.maine.edu:4321\\nOrgAbuseHandle: IKA-ARIN\\nOrgAdminHandle: IKA-ARIN\\nOrgNOCHandle:   UCC-ARIN\\nOrgRoutingHandle:   PEIRC1-ARIN\\nOrgTechHandle:  IKA-ARIN\\nOrgTechHandle:  PEIRC1-ARIN\\nSource:         ARIN\\n\\n\\nPOCHandle:      IKA-ARIN\\nIsRole:         N\\nLastName:       Anderson\\nFirstName:      Irelann\\nStreet:         ITS Computing Center\\nStreet:         5752 Neville Hall\\nCity:           Orono\\nState/Prov:     ME\\nCountry:        US\\nPostalCode:     04469-5752\\nRegDate:        1970-01-01\\nUpdated:        2022-01-20\\nOfficePhone:    +1-207-581-3508\\nMailbox:        ika@maine.edu\\nSource:         ARIN\\n\\n\\nPOCHandle:      PEIRC1-ARIN\\nIsRole:         N\\nLastName:       Peirce\\nFirstName:      Garry\\nStreet:         ITS \\nStreet:         5752 Computing Center\\nStreet:         Neville Hall\\nCity:           Orono\\nState/Prov:     ME\\nCountry:        US\\nPostalCode:     04469\\nRegDate:        2012-07-26\\nUpdated:        2021-12-14\\nOfficePhone:    +1-207-581-3539\\nMobilePhone:    +1-207-949-4229\\nMailbox:        peirce@maine.edu\\nSource:         ARIN\\n\\n\\nPOCHandle:      UCC-ARIN\\nIsRole:         Y\\nLastName:       UNET Computing Center\\nFirstName:      \\nStreet:         ITS Computing Center\\nStreet:         5752 Neville Hall\\nStreet:         University of Maine System\\nCity:           Orono\\nState/Prov:     ME\\nCountry:        US\\nPostalCode:     04469-5752\\nRegDate:        2002-10-09\\nUpdated:        2022-06-21\\nOfficePhone:    +1-207-581-3587\\nMailbox:        MSLN@lists.maine.edu\\nSource:         ARIN\\n"
+        },
+        "status": "ALLOCATION",
+        "tech": {
+          "id": "IKA-ARIN",
+          "name": "Irelann Anderson",
+          "email": "ika@maine.edu",
+          "address": "US, ME, Orono, ITS Computing Center\\n5752 Neville Hall, 04469-5752",
+          "country": "US",
+          "phone": "",
+          "fax": "",
+          "created": "1970-01-01",
+          "updated": "2022-01-20",
+          "source": "arin",
+          "raw": "POCHandle:      IKA-ARIN\\nIsRole:         N\\nLastName:       Anderson\\nFirstName:      Irelann\\nStreet:         ITS Computing Center\\nStreet:         5752 Neville Hall\\nCity:           Orono\\nState/Prov:     ME\\nCountry:        US\\nPostalCode:     04469-5752\\nRegDate:        1970-01-01\\nUpdated:        2022-01-20\\nOfficePhone:    +1-207-581-3508\\nMailbox:        ika@maine.edu\\nSource:         ARIN\\n"
+        },
+        "maintainer": {
+          "id": "UCC-ARIN",
+          "name": "UNET Computing Center",
+          "email": "MSLN@lists.maine.edu",
+          "address": "US, ME, Orono, ITS Computing Center\\n5752 Neville Hall\\nUniversity of Maine System, 04469-5752",
+          "country": "US",
+          "phone": "",
+          "fax": "",
+          "created": "2002-10-09",
+          "updated": "2022-06-21",
+          "source": "arin",
+          "raw": "POCHandle:      UCC-ARIN\\nIsRole:         Y\\nLastName:       UNET Computing Center\\nFirstName:      \\nStreet:         ITS Computing Center\\nStreet:         5752 Neville Hall\\nStreet:         University of Maine System\\nCity:           Orono\\nState/Prov:     ME\\nCountry:        US\\nPostalCode:     04469-5752\\nRegDate:        2002-10-09\\nUpdated:        2022-06-21\\nOfficePhone:    +1-207-581-3587\\nMailbox:        MSLN@lists.maine.edu\\nSource:         ARIN\\n"
+        },
+        "admin": {
+          "id": "IKA-ARIN",
+          "name": "Irelann Anderson",
+          "email": "ika@maine.edu",
+          "address": "US, ME, Orono, ITS Computing Center\\n5752 Neville Hall, 04469-5752",
+          "country": "US",
+          "phone": "",
+          "fax": "",
+          "created": "1970-01-01",
+          "updated": "2022-01-20",
+          "source": "arin",
+          "raw": "POCHandle:      IKA-ARIN\\nIsRole:         N\\nLastName:       Anderson\\nFirstName:      Irelann\\nStreet:         ITS Computing Center\\nStreet:         5752 Neville Hall\\nCity:           Orono\\nState/Prov:     ME\\nCountry:        US\\nPostalCode:     04469-5752\\nRegDate:        1970-01-01\\nUpdated:        2022-01-20\\nOfficePhone:    +1-207-581-3508\\nMailbox:        ika@maine.edu\\nSource:         ARIN\\n"
+        },
+        "abuse": {
+          "id": "IKA-ARIN",
+          "name": "Irelann Anderson",
+          "email": "ika@maine.edu",
+          "address": "US, ME, Orono, ITS Computing Center\\n5752 Neville Hall, 04469-5752",
+          "country": "US",
+          "phone": "",
+          "fax": "",
+          "created": "1970-01-01",
+          "updated": "2022-01-20",
+          "source": "arin",
+          "raw": "POCHandle:      IKA-ARIN\\nIsRole:         N\\nLastName:       Anderson\\nFirstName:      Irelann\\nStreet:         ITS Computing Center\\nStreet:         5752 Neville Hall\\nCity:           Orono\\nState/Prov:     ME\\nCountry:        US\\nPostalCode:     04469-5752\\nRegDate:        1970-01-01\\nUpdated:        2022-01-20\\nOfficePhone:    +1-207-581-3508\\nMailbox:        ika@maine.edu\\nSource:         ARIN\\n"
+        },
+        "created": "2009-08-04",
+        "updated": "2012-03-20",
+        "source": "arin",
+        "raw": "NetHandle:      NET-204-197-0-0-1\nOrgID:          ME\nParent:         NET-204-0-0-0-0\nNetName:        ME-K12-LIB\nNetRange:       204.197.0.0 - 204.197.127.255\nNetType:        allocation\nOriginAS:       557\nRegDate:        2009-08-04\nUpdated:        2012-03-20\nAbuseHandle:    NAR5-ARIN\nNOCHandle:      UCC-ARIN\nTechHandle:     IKA-ARIN\nSource:         ARIN\n\n\nOrgID:          ME\nOrgName:        University of Maine System\nCanAllocate:    \nStreet:         c/o ITS Computing Center\nStreet:         5752 Neville Hall\nStreet:         Attn: Jeffrey Letourneau\nStreet:         University of Maine System\nCity:           Orono\nState/Prov:     ME\nCountry:        US\nPostalCode:     04469\nRegDate:        1996-05-16\nUpdated:        2019-12-11\nReferralServer: rwhois://named.its.maine.edu:4321\nOrgAbuseHandle: IKA-ARIN\nOrgAdminHandle: IKA-ARIN\nOrgNOCHandle:   UCC-ARIN\nOrgRoutingHandle:   PEIRC1-ARIN\nOrgTechHandle:  IKA-ARIN\nOrgTechHandle:  PEIRC1-ARIN\nSource:         ARIN\n\n\nPOCHandle:      UCC-ARIN\nIsRole:         Y\nLastName:       UNET Computing Center\nFirstName:      \nStreet:         ITS Computing Center\nStreet:         5752 Neville Hall\nStreet:         University of Maine System\nCity:           Orono\nState/Prov:     ME\nCountry:        US\nPostalCode:     04469-5752\nRegDate:        2002-10-09\nUpdated:        2022-06-21\nOfficePhone:    +1-207-581-3587\nMailbox:        MSLN@lists.maine.edu\nSource:         ARIN\n\n\nPOCHandle:      NAR5-ARIN\nIsRole:         Y\nLastName:       Network Abuse Reports\nFirstName:      \nStreet:         ITS Computing Center\nStreet:         University of Maine\nCity:           Orono\nState/Prov:     ME\nCountry:        US\nPostalCode:     04469\nRegDate:        2004-01-22\nUpdated:        2021-12-29\nOfficePhone:    +1-207-581-3587\nMailbox:        abuse@maine.edu\nSource:         ARIN\n\n\nPOCHandle:      PEIRC1-ARIN\nIsRole:         N\nLastName:       Peirce\nFirstName:      Garry\nStreet:         ITS \nStreet:         5752 Computing Center\nStreet:         Neville Hall\nCity:           Orono\nState/Prov:     ME\nCountry:        US\nPostalCode:     04469\nRegDate:        2012-07-26\nUpdated:        2021-12-14\nOfficePhone:    +1-207-581-3539\nMobilePhone:    +1-207-949-4229\nMailbox:        peirce@maine.edu\nSource:         ARIN\n\n\nPOCHandle:      IKA-ARIN\nIsRole:         N\nLastName:       Anderson\nFirstName:      Irelann\nStreet:         ITS Computing Center\nStreet:         5752 Neville Hall\nCity:           Orono\nState/Prov:     ME\nCountry:        US\nPostalCode:     04469-5752\nRegDate:        1970-01-01\nUpdated:        2022-01-20\nOfficePhone:    +1-207-581-3508\nMailbox:        ika@maine.edu\nSource:         ARIN\n"
+      }
+    ],
+    "net": "204.197.0.0/17"
+  }

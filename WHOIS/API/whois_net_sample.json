@@ -1,0 +1,84 @@
+{
+    "total": 1,
+    "page": 0,
+    "records": [
+      {
+        "range": "216.177.96.0/19",
+        "id": "COGENT-ANET-0007",
+        "name": "Cogent Communications",
+        "country": "US",
+        "org": {
+          "id": "COGC",
+          "name": "Cogent Communications",
+          "address": null,
+          "country": "US",
+          "admin": "IPALL-ARIN",
+          "abuse": "COGEN-ARIN",
+          "tech": "IPALL-ARIN",
+          "maintainer": "ZC108-ARIN",
+          "created": "2000-05-30",
+          "updated": "2021-06-27",
+          "source": "arin",
+          "raw": "OrgID:          COGC\\nOrgName:        Cogent Communications\\nCanAllocate:    \\nStreet:         2450 N Street NW\\nCity:           Washington\\nState/Prov:     DC\\nCountry:        US\\nPostalCode:     20037\\nRegDate:        2000-05-30\\nUpdated:        2021-06-27\\nReferralServer: rwhois://rwhois.cogentco.com:4321\\nOrgAbuseHandle: COGEN-ARIN\\nOrgAdminHandle: IPALL-ARIN\\nOrgNOCHandle:   ZC108-ARIN\\nOrgTechHandle:  IPALL-ARIN\\nSource:         ARIN\\n\\n\\nPOCHandle:      ZC108-ARIN\\nIsRole:         Y\\nLastName:       Cogent Communications\\nFirstName:      \\nStreet:         2450 N Street NW\\nCity:           Washington\\nState/Prov:     DC\\nCountry:        US\\nPostalCode:     20037\\nRegDate:        2001-01-24\\nUpdated:        2022-07-07\\nOfficePhone:    +1-877-875-4311\\nMailbox:        noc@cogentco.com\\nSource:         ARIN\\n\\n\\nPOCHandle:      COGEN-ARIN\\nIsRole:         Y\\nLastName:       Cogent Abuse\\nFirstName:      \\nStreet:         2450 N street, NW\\nCity:           Washington\\nState/Prov:     DC\\nCountry:        US\\nPostalCode:     20037\\nRegDate:        2002-11-13\\nUpdated:        2022-07-07\\nOfficePhone:    +1-877-875-4311\\nMailbox:        abuse@cogentco.com\\nSource:         ARIN\\n\\n\\nPOCHandle:      IPALL-ARIN\\nIsRole:         Y\\nLastName:       IP Allocation\\nFirstName:      \\nStreet:         2450 N Street NW\\nCity:           Washington\\nState/Prov:     DC\\nCountry:        US\\nPostalCode:     20037\\nRegDate:        2002-11-13\\nUpdated:        2022-07-07\\nOfficePhone:    +1-877-875-4311\\nMailbox:        ipalloc@cogentco.com\\nSource:         ARIN\\n"
+        },
+        "status": "ALLOCATION",
+        "tech": {
+          "id": "IPALL-ARIN",
+          "name": "IP Allocation",
+          "email": "ipalloc@cogentco.com",
+          "address": "US, DC, Washington, 2450 N Street NW, 20037",
+          "country": "US",
+          "phone": "",
+          "fax": "",
+          "created": "2002-11-13",
+          "updated": "2022-07-07",
+          "source": "arin",
+          "raw": "POCHandle:      IPALL-ARIN\\nIsRole:         Y\\nLastName:       IP Allocation\\nFirstName:      \\nStreet:         2450 N Street NW\\nCity:           Washington\\nState/Prov:     DC\\nCountry:        US\\nPostalCode:     20037\\nRegDate:        2002-11-13\\nUpdated:        2022-07-07\\nOfficePhone:    +1-877-875-4311\\nMailbox:        ipalloc@cogentco.com\\nSource:         ARIN\\n"
+        },
+        "maintainer": {
+          "id": "ZC108-ARIN",
+          "name": "Cogent Communications",
+          "email": "noc@cogentco.com",
+          "address": "US, DC, Washington, 2450 N Street NW, 20037",
+          "country": "US",
+          "phone": "",
+          "fax": "",
+          "created": "2001-01-24",
+          "updated": "2022-07-07",
+          "source": "arin",
+          "raw": "POCHandle:      ZC108-ARIN\\nIsRole:         Y\\nLastName:       Cogent Communications\\nFirstName:      \\nStreet:         2450 N Street NW\\nCity:           Washington\\nState/Prov:     DC\\nCountry:        US\\nPostalCode:     20037\\nRegDate:        2001-01-24\\nUpdated:        2022-07-07\\nOfficePhone:    +1-877-875-4311\\nMailbox:        noc@cogentco.com\\nSource:         ARIN\\n"
+        },
+        "admin": {
+          "id": "IPALL-ARIN",
+          "name": "IP Allocation",
+          "email": "ipalloc@cogentco.com",
+          "address": "US, DC, Washington, 2450 N Street NW, 20037",
+          "country": "US",
+          "phone": "",
+          "fax": "",
+          "created": "2002-11-13",
+          "updated": "2022-07-07",
+          "source": "arin",
+          "raw": "POCHandle:      IPALL-ARIN\\nIsRole:         Y\\nLastName:       IP Allocation\\nFirstName:      \\nStreet:         2450 N Street NW\\nCity:           Washington\\nState/Prov:     DC\\nCountry:        US\\nPostalCode:     20037\\nRegDate:        2002-11-13\\nUpdated:        2022-07-07\\nOfficePhone:    +1-877-875-4311\\nMailbox:        ipalloc@cogentco.com\\nSource:         ARIN\\n"
+        },
+        "abuse": {
+          "id": "COGEN-ARIN",
+          "name": "Cogent Abuse",
+          "email": "abuse@cogentco.com",
+          "address": "US, DC, Washington, 2450 N street, NW, 20037",
+          "country": "US",
+          "phone": "",
+          "fax": "",
+          "created": "2002-11-13",
+          "updated": "2022-07-07",
+          "source": "arin",
+          "raw": "POCHandle:      COGEN-ARIN\\nIsRole:         Y\\nLastName:       Cogent Abuse\\nFirstName:      \\nStreet:         2450 N street, NW\\nCity:           Washington\\nState/Prov:     DC\\nCountry:        US\\nPostalCode:     20037\\nRegDate:        2002-11-13\\nUpdated:        2022-07-07\\nOfficePhone:    +1-877-875-4311\\nMailbox:        abuse@cogentco.com\\nSource:         ARIN\\n"
+        },
+        "created": "2000-09-27",
+        "updated": "2012-03-02",
+        "source": "arin",
+        "raw": "NetHandle:      NET-216-177-96-0-1\nOrgID:          COGC\nParent:         NET-216-0-0-0-0\nNetName:        COGENT-ANET-0007\nNetRange:       216.177.96.0 - 216.177.127.255\nNetType:        allocation\nOriginAS:       174\nRegDate:        2000-09-27\nUpdated:        2012-03-02\nSource:         ARIN\n\n\nOrgID:          COGC\nOrgName:        Cogent Communications\nCanAllocate:    \nStreet:         2450 N Street NW\nCity:           Washington\nState/Prov:     DC\nCountry:        US\nPostalCode:     20037\nRegDate:        2000-05-30\nUpdated:        2021-06-27\nReferralServer: rwhois://rwhois.cogentco.com:4321\nOrgAbuseHandle: COGEN-ARIN\nOrgAdminHandle: IPALL-ARIN\nOrgNOCHandle:   ZC108-ARIN\nOrgTechHandle:  IPALL-ARIN\nSource:         ARIN\n\n\nPOCHandle:      IPALL-ARIN\nIsRole:         Y\nLastName:       IP Allocation\nFirstName:      \nStreet:         2450 N Street NW\nCity:           Washington\nState/Prov:     DC\nCountry:        US\nPostalCode:     20037\nRegDate:        2002-11-13\nUpdated:        2022-07-07\nOfficePhone:    +1-877-875-4311\nMailbox:        ipalloc@cogentco.com\nSource:         ARIN\n\n\nPOCHandle:      COGEN-ARIN\nIsRole:         Y\nLastName:       Cogent Abuse\nFirstName:      \nStreet:         2450 N street, NW\nCity:           Washington\nState/Prov:     DC\nCountry:        US\nPostalCode:     20037\nRegDate:        2002-11-13\nUpdated:        2022-07-07\nOfficePhone:    +1-877-875-4311\nMailbox:        abuse@cogentco.com\nSource:         ARIN\n\n\nPOCHandle:      ZC108-ARIN\nIsRole:         Y\nLastName:       Cogent Communications\nFirstName:      \nStreet:         2450 N Street NW\nCity:           Washington\nState/Prov:     DC\nCountry:        US\nPostalCode:     20037\nRegDate:        2001-01-24\nUpdated:        2022-07-07\nOfficePhone:    +1-877-875-4311\nMailbox:        noc@cogentco.com\nSource:         ARIN\n"
+      }
+    ],
+    "net": "COGENT-ANET-0007"
+  }
