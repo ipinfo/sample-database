@@ -99,7 +99,8 @@ The list of FAQs (Frequently Asked Questions) can be found here [here](https://i
 
 Please visit the database directories to learn more.
 <details id=1>
-<summary><h3>IP Geolocation</h3></summary>
+<summary><h2>IP Geolocation</h2></summary>
+
 **Get geolocation information from IP Addresses.** The CSV database includes the following fields:
 
 - start_ip
@@ -116,11 +117,13 @@ Please visit the database directories to learn more.
 🔗 [IP Geolocation Database Page](https://ipinfo.io/products/ip-geolocation-database)
 
 🔗 IP Geolocation Repository
+
 </details>
 
-### IP to Company
+<details id=2>
+<summary><h2>IP to Company</h2></summary>
 
-Get firmographics data and identify the company behind the IP Address and network traffic. Database includes the following fields:
+**Get firmographics data and identify the company behind the IP Address and network traffic.** Database includes the following fields:
 
 - start_ip
 - end_ip
@@ -138,7 +141,11 @@ Get firmographics data and identify the company behind the IP Address and networ
 
 🔗 IP to Company Repository
 
-### ASN
+</details>
+
+<details id=3>
+<summary><h2>ASN</h2></summary>
+
 
 **Get ASN data from ASN or IP Address information.** Database (CSV) contains the following fields:
 
@@ -155,9 +162,12 @@ Get firmographics data and identify the company behind the IP Address and networ
 
 🔗 ASN Repository
 
-### IP to Mobile Carrier
+</details>
 
-Lookup Mobile Carrier data such as - MCC and MNC from IP addresses. The database (CSV) contains the following fields:
+<details id=4>
+<summary><h2> IP to Mobile Carrier </h2></summary>
+
+**Lookup Mobile Carrier data such as - MCC and MNC from IP addresses.** The database (CSV) contains the following fields:
 
 - start_ip
 - end_ip
@@ -171,9 +181,12 @@ Lookup Mobile Carrier data such as - MCC and MNC from IP addresses. The database
 
 🔗 IP to Mobile Carrier Repository
 
-### Privacy Detection
+</details>
 
-Privacy detection such as VPN, Tor, Proxies, Relays and Hosting from IP addresses. Demystify anonymous IP addresses. The CSV database includes the following fields:
+<details id=5>
+<summary><h2>Privacy Detection</h2></summary>
+
+**Privacy detection such as VPN, Tor, Proxies, Relays and Hosting from IP addresses.** Demystify anonymous IP addresses. The CSV database includes the following fields:
 
 - start_ip
 - end_ip
@@ -189,9 +202,12 @@ Privacy detection such as VPN, Tor, Proxies, Relays and Hosting from IP addresse
 
 🔗 Privacy Detection Repository
 
-### Hosted Domains
+</details>
 
-Hosted Domains database enables you to do reverse IP lookups. You can see the the full list of domain hosted on a single IP address. The fields in the database includes:
+<details id=6>
+<summary><h2>Hosted Domains</h2></summary>
+
+**Hosted Domains database enables you to do reverse IP lookups.** Through our Hosted Domains service, you can see the the full list of domain hosted on a single IP address. The fields in the database includes:
 
 - ip
 - total
@@ -201,7 +217,12 @@ Hosted Domains database enables you to do reverse IP lookups. You can see the th
 
 🔗 Hosted Domains Repository
 
-### Abuse Contact
+</details>
+
+
+
+<details id=7>
+<summary><h2>Abuse Contact</h2></summary>
 
 Get the abuse contact information of every ISP in the internet. The fields of the database are:
 
@@ -218,9 +239,16 @@ Get the abuse contact information of every ISP in the internet. The fields of th
 
 🔗 Abuse Contact Repository
 
-### WHOIS
+</details>
 
-IPinfo WHOIS database is contextual, robust and consistent database of various types of WHOIS data. The WHOIS database and their respective fields are listed below:
+
+
+<details id=8>
+<summary><h2>WHOIS</h2></summary>
+
+
+
+**IPinfo WHOIS database is contextual, robust and consistent database of various types of WHOIS data.** The WHOIS database and their respective fields are listed below:
 
 | R WHOIS | WHOIS ASN | WHOIS MNT | WHOIS NET | WHOIS ORG | WHOIS POC |
 | --- | --- | --- | --- | --- | --- |
@@ -242,6 +270,12 @@ IPinfo WHOIS database is contextual, robust and consistent database of various t
 |  |  |  |  | updated |  |
 |  |  |  |  | source |  |
 |  |  |  |  | raw |  |
+
+</details>
+
+
+
+
 
 # Found a bug?
 
