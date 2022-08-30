@@ -3,12 +3,17 @@
 
 ## This repository contains CSV sample datasets of all the [IP address database products](https://ipinfo.io/account/data-downloads) we have to offer.
 
-![IPinfoio product overview](./assets/header_grahics_main_readme.png)
+
+<p align="center">
+  <img src="./assets/header_grahics_main_readme.png">
+</p>
 
 
 # Database Overview
 
-![Product Demo](./assets/product_demo_main_readme.gif)
+<p align="center">
+  <img src="./assets/product_demo_main_readme.gif">
+</p>
 
 The database products [IPInfo.io](http://IPInfo.io) has to offer are -
 
@@ -50,7 +55,7 @@ The list of FAQs (Frequently Asked Questions) can be found here [here](https://i
 
 
 <details id=usage>
-<summary><h1>Other Information (Usage, Exploration etc.)</h1></summary>
+<summary><h1>Other Information (Usage, Exploration etc.) [Click to Expand]</h1></summary>
 
 ## How to explore the sample databases
 
@@ -70,7 +75,7 @@ The list of FAQs (Frequently Asked Questions) can be found here [here](https://i
 
 
 <details id=0>
-<summary><h1>Summary of the Databases Fields</h1></summary>
+<summary><h1>Summary of the Databases Fields [Click to Expand]</h1></summary>
 
 Please visit the database directories to learn more.
 
