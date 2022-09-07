@@ -40,42 +40,9 @@ Please visit each folder to learn more about the databases. Each directory READM
 - Breakdown of the API response
 - Helpful guides, resources and articles
 
-# Relevant Articles
-
-## Guides
-
-- [Our downloadable IP WHOIS data sets are live!](https://ipinfo.io/blog/our-downloadable-ip-whois-data-sets-are-live)
-- [Data downloads vs API, or both?](https://ipinfo.io/blog/data-downloads-vs-api-or-both/)
-- [Ingesting IPinfo geolocation data with PostgreSQL 13](https://ipinfo.io/blog/ingesting-ipinfo-geolocation-data-with-postgresql-13/)
-- [Introducing a Simpler Way to get IP Address Data in Snowflake](https://ipinfo.io/blog/ip-address-data-in-snowflake/)
-
-## FAQs
-
-The list of FAQs (Frequently Asked Questions) can be found here [here](https://ipinfo.io/faq/category/137-data-downloads).
-
-
-<details id=usage>
-<summary><h1>Other Information (Usage, Exploration etc.) [Click to Expand]</h1></summary>
-
-## How to explore the sample databases
-
-- Please visit the folders for each database. You can also find the API response samples there for each products.
-- If you would like to explore CSV files, feel free to use any of these online services and import the raw CSV there -
-    - [https://csvfiddle.io/](https://csvfiddle.io/)
-    - [https://lite.datasette.io/](https://lite.datasette.io/)
-- Or you can you just download the CSV files to take a closer look.
-
-## Usage Information
-
-- After signing up for database downloads service, you can either download the database from our website or you can `curl` the database from the database download endpoint. But make sure you have redirect [enabled](https://ipinfo.io/faq/article/142-when-i-access-the-database-endpoint-using-something-like-curl-it-doesn-t-seem-to-work-and-i-get-a-corrupted-empty-file-what-am-i-doing-wrong).
-- You can select how frequently the database gets updated. It can be daily, weekly, bi-weekly or monthly.
-- To lookup an specific database you can use any kind of data exploration package or database system you want to use. [Here is an example](https://ipinfo.io/faq/article/144-how-do-you-do-a-lookup-of-an-ip-address-using-your-database) of using mySQL and PosgreSQL to lookup a specific IP address.
-
-</details>
-
 
 <details id=0>
-<summary><h1>Summary of the Databases Fields [Click to Expand]</h1></summary>
+<summary><h1>Summary of the Databases</h1></summary>
 
 Please visit the database directories to learn more.
 
@@ -84,22 +51,24 @@ Please visit the database directories to learn more.
 
 **Get geolocation information from IP Addresses.**
 
-The CSV database includes the following fields:
+You can find the schema, database sample, API response sample, and other information from the **[IP Geolocation folder](/IP%20Geolocation)**. The CSV database includes the following fields:
 
-- start_ip
-- end_ip
-- join_key
-- city
-- region
-- country
-- latitude
-- longitude
-- postal_code
-- timezone
+| Field Name | Example | Notes |
+| --- | --- | --- |
+| `start_ip` | 1.253.242.0 | Starting IP address of an IP address range |
+| `end_ip` | 1.253.242.255 | Ending IP address of an IP address range |
+| `join_key` | 1.253.0.0 | Special variable to facilitate join operation |
+| `city` | Yangsan | City of the location |
+| `region` | Gyeongsangnam-do | Region of the location |
+| `country` | KR | ISO 3166 country code |
+| `latitude` | 35.34199 | Latitude value of the location |
+| `longitude` | 129.03358 | Longitude value of the location |
+| `postal_code` | 50593 | Postal code of the region.
+This is not the same as zip code. |
+| `timezone` | Asia/Seoul | Local time zone |
+
 
 ### 🔗 [IP Geolocation Database Page](https://ipinfo.io/products/ip-geolocation-database)
-
-### 🔗 IP Geolocation Repository
 
 </details>
 
@@ -108,23 +77,26 @@ The CSV database includes the following fields:
 
 **Get firmographics data and identify the company behind the IP Address and network traffic.**
 
-Database includes the following fields:
+You can find the schema, database sample, API response sample, and other information from the **[IP to Company folder](/IP%20to%20Company)**. Database includes the following fields:
 
-- start_ip
-- end_ip
-- join_key
-- name
-- domain
-- type
-- asn
-- as_name
-- as_domain
-- as_type
-- country
+| Field Name | Example | Notes |
+| --- | --- | --- |
+| `start_ip` | 107.136.106.168 | Starting IP address of an IP address range |
+| `end_ip` | 107.136.106.175 | Ending IP address of an IP address range |
+| `join_key` | 107.136.0.0 | Specialized variable to facilitate join operation |
+| `name` | ZSPEC FLOW-180709174314 | Name of the company |
+| `domain` | zspec.com | Domain of the company |
+| `type` | business | Type of business. e.g. Business, ISP, Hosting or Education |
+| `asn` | AS7018 | ASN associated with the company |
+| `as_name` | AT&T Services, Inc. | Name of the ASN |
+| `as_domain` | att.com | Domain name of the ASN |
+| `as_type` | isp | ASN Type: ISP, Hosting, Business or Education |
+| `country` | US | ISO 3166 country code |
+
 
 ### 🔗 [IP to Company Database Page](Sample%20Database%20fb322a60f0544458ad861eb738e869cd/IP%20to%20Company%20Database%2081d7f85aaeb244b19608f3a1de1fecad.md)
 
-### 🔗 IP to Company Repository
+
 
 </details>
 
@@ -134,20 +106,21 @@ Database includes the following fields:
 
 **Get ASN data from ASN or IP Address information.**
 
-Database (CSV) contains the following fields:
+You can find the schema, database sample, API response sample, and other information from the **[ASN folder](/ASN)**. Database (CSV) contains the following fields:
 
-- start_ip
-- end_ip
-- join_key
-- asn
-- domain
-- name
-- type
-- country
+| Field Name | Example | Notes |
+| --- | --- | --- |
+| `start_ip` | 125.113.0.0 | Starting IP address of the ASN IP address block |
+| `end_ip` | 125.113.255.255 | Ending IP address of the ASN IP address block |
+| `join_key` | 125.113.0.0 | Special variable to facilitate join operation |
+| `asn` | AS4134 | Autonomous System Number (ASN) |
+| `domain` | chinatelecom.com.cn | Domain name of the AS |
+| `name` | CHINANET-BACKBONE | Name of the ASN |
+| `type` | isp | ASN Type: ISP, Hosting, Education or Business |
+| `country` | CN | ISO 3166 country code |
 
 ### 🔗 [ASN Database Page](https://ipinfo.io/products/asn-database)
 
-### 🔗 ASN Repository
 
 </details>
 
@@ -156,42 +129,42 @@ Database (CSV) contains the following fields:
 
 **Lookup Mobile Carrier data such as - MCC and MNC from IP addresses.** 
 
-The database (CSV) contains the following fields:
+You can find the schema, database sample, API response sample, and other information from the **[IP to Mobile Carrier folder](/IP%20to%20Mobile%20Carrier)**. The database (CSV) contains the following fields:
 
-- start_ip
-- end_ip
-- join_key
-- name
-- country
-- mcc
-- mnc
+| Field Name | Example | Notes |
+| --- | --- | --- |
+| `start_ip` | 5.208.203.0 | Starting IP address of an IP address range |
+| `end_ip` | 5.208.203.255 | Ending IP address of an IP address range |
+| `join_key` | 5.208.0.0 | Special variable to facilitate join operation. |
+| `name` | Mobile Communication Company of Iran PLC | Name of the mobile carrier |
+| `country` | IR | ISO 3166 country code |
+| `mcc` | 432 | Mobile Country Code (MCC) of the carrier |
+| `mnc` | 11 | Mobile Network Code (MNC) of the carrier |
 
 ### 🔗 [IP to Mobile Carrier Database Page](https://ipinfo.io/products/mobile-ip-database)
-
-### 🔗 IP to Mobile Carrier Repository
 
 </details>
 
 <details id=5>
 <summary><h2>Privacy Detection</h2></summary>
 
-**Privacy detection such as VPN, Tor, Proxies, Relays and Hosting from IP addresses. Demystify anonymous IP addresses.**
+**Demystify anonymous IP addresses. Privacy detection such as VPN, Tor, Proxies, Relays and Hosting from IP addresses.**
 
-The CSV database includes the following fields:
+You can find the schema, database sample, API response sample, and other information from the **[Privacy Detection folder](/Privacy%20Detection)**. The CSV database includes the following fields:
 
-- start_ip
-- end_ip
-- join_key
-- hosting
-- proxy
-- tor
-- vpn
-- relay
-- service
+| Field Name | Example | Notes |
+| --- | --- | --- |
+| `start_ip` | 115.9.76.79 | Starting IP address of an IP address range |
+| `end_ip` | 115.9.76.79 | Ending IP address of an IP address range |
+| `join_key` | 115.9.0.0 | Special variable to facilitate join operation |
+| `hosting` |  | Indicates a hosting IP address most of the time based on a datacenter. Indicative of bots, scrapers or malicious activities |
+| `proxy` |  | Similar to VPN mainly used by businesses |
+| `tor` |  | IP address originated from the Onion router |
+| `vpn`| True | Virtual Private Network (VPN) service IP address |
+| `relay` |  | Traffic relays often provided by CDN companies |
+| `service` |  | Name of the privacy service provider |
 
 ### 🔗 [Privacy Detection Database Page](https://ipinfo.io/products/anonymous-ip-database)
-
-### 🔗 Privacy Detection Repository
 
 </details>
 
@@ -200,50 +173,47 @@ The CSV database includes the following fields:
 
 **Hosted Domains database enables you to do reverse IP lookups.** Through our Hosted Domains service, you can see the the full list of domain hosted on a single IP address. 
 
-The fields in the database includes:
+You can find the schema, database sample, API response sample, and other information from the **[Hosted Domains folder](/Hosted%20Domains)**. The fields in the database includes:
 
-- ip
-- total
-- domains
+| Field Name | Example | Notes |
+| --- | --- | --- |
+| `ip` | 135.125.236.225 | IP address for reverse IP lookup |
+| `total` | 3 | Number of domains registered to the IP Address |
+| `domains` | farmanaut.com,pharmanaut.be,farmanaut.be | Name of the domain(s) under the IP address |
 
 ### 🔗 [Hosted Domains Database Page](https://ipinfo.io/products/hosted-domains-database)
 
-### 🔗 Hosted Domains Repository
-
 </details>
-
-
 
 <details id=7>
 <summary><h2>Abuse Contact</h2></summary>
 
 **Get the abuse contact information of every ISP in the internet.**
 
-The fields of the database are:
+You can find the schema, database sample, API response sample, and other information from the **[Abuse Contact folder](/Abuse%20Contact)**. The fields of the database are:
 
-- start_ip
-- end_ip
-- join_key
-- name
-- email
-- address
-- country
-- phone
+| Field Name | Example | Notes |
+| --- | --- | --- |
+| `start_ip` | 119.93.20.248 | Starting IP address of an IP address block |
+| `end_ip` | 119.93.20.255 | Ending IP address of an IP address block |
+| `join_key` | 119.93.0.0 | Special variable to facilitate join operation |
+| `name` | Nilo Agir | Name of the abuse contact |
+| `email` | abuse@pldt.net | Organizational email of the abuse contact |
+| `address` | Philippine Long Distance Telephone Company, 6/... | Organizational address of the abuse contact |
+| `country` | PH | ISO 3166 country code |
+| `phone` | +632-584-1045 | Organizational phone number of the abuse contact |
 
 ### 🔗 [Abuse Contact Database Page](https://ipinfo.io/products/ip-abuse-contact-database)
 
-### 🔗 Abuse Contact Repository
-
 </details>
-
-
 
 <details id=8>
 <summary><h2>WHOIS</h2></summary>
 
 
-
 **IPinfo WHOIS database is contextual, robust and consistent database of various types of WHOIS data.**
+
+You can find the schema, database sample, API response sample, and other information from the **[WHOIS folder](/WHOIS)**. The WHOIS database and their respective fields are listed below:
 
 The WHOIS database and their respective fields are listed below:
 
@@ -277,6 +247,47 @@ The WHOIS database and their respective fields are listed below:
 
 </details>
 
+<details id=usage>
+<summary><h1>Other Information (Usage, Exploration etc.)</h1></summary>
+
+## How to explore the sample databases
+
+- Please visit the folders for each database. You can also find the API response samples there for each products.
+- If you would like to explore CSV files, feel free to use any of these online services and import the raw CSV there -
+    - [https://csvfiddle.io/](https://csvfiddle.io/)
+    - [https://lite.datasette.io/](https://lite.datasette.io/)
+- Or you can you just download the CSV files to take a closer look.
+
+## Usage Information
+
+- After signing up for database downloads service, you can either download the database from our website or you can `curl` the database from the database download endpoint. But make sure you have redirect [enabled](https://ipinfo.io/faq/article/142-when-i-access-the-database-endpoint-using-something-like-curl-it-doesn-t-seem-to-work-and-i-get-a-corrupted-empty-file-what-am-i-doing-wrong).
+- You can select how frequently the database gets updated. It can be daily, weekly, bi-weekly or monthly.
+- To lookup an specific database you can use any kind of data exploration package or database system you want to use. [Here is an example](https://ipinfo.io/faq/article/144-how-do-you-do-a-lookup-of-an-ip-address-using-your-database) of using mySQL and PosgreSQL to lookup a specific IP address.
+
+</details>
+
+# Relevant Articles
+
+## Guides
+
+- [Our downloadable IP WHOIS data sets are live!](https://ipinfo.io/blog/our-downloadable-ip-whois-data-sets-are-live)
+- [Data downloads vs API, or both?](https://ipinfo.io/blog/data-downloads-vs-api-or-both/)
+- [Ingesting IPinfo geolocation data with PostgreSQL 13](https://ipinfo.io/blog/ingesting-ipinfo-geolocation-data-with-postgresql-13/)
+- [Introducing a Simpler Way to get IP Address Data in Snowflake](https://ipinfo.io/blog/ip-address-data-in-snowflake/)
+
+## FAQs
+
+The list of FAQs (Frequently Asked Questions) can be found here [here](https://ipinfo.io/faq/category/137-data-downloads).
+
+<details>
+
+<summary><h2>External Resources</h2></summary>
+
+
+- IP Address Data Type declaration:
+    - [PostgreSQL: Network Address Types: INET vs CIDR](https://www.postgresql.org/docs/current/datatype-net-types.html#DATATYPE-INET-VS-CIDR)
+
+</details>
 
 
 
