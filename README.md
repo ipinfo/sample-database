@@ -63,8 +63,7 @@ You can find the schema, database sample, API response sample, and other informa
 | `country` | KR | ISO 3166 country code |
 | `latitude` | 35.34199 | Latitude value of the location |
 | `longitude` | 129.03358 | Longitude value of the location |
-| `postal_code` | 50593 | Postal code of the region.
-This is not the same as zip code. |
+| `postal_code` | 50593 | Postal code of the region. This is not the same as zip code. |
 | `timezone` | Asia/Seoul | Local time zone |
 
 
@@ -240,8 +239,6 @@ The WHOIS database and their respective fields are listed below:
 
 
 ### 🔗 [WHOIS Database Page](https://ipinfo.io/products/ip-abuse-contact-database)
-
-### 🔗 Abuse Contact Repository
 
 </details>
 
