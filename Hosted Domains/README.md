@@ -2,7 +2,7 @@
 
 ## Hosted Domain Database facilitates reverse IP lookup and shows how many and which domains are hosted on which IP Addresses.
 
-*If you are interested in Domain Name API/Database check out: [host.io](https://host.io/)*
+*If you are interested in Domain Name API / Database check out: [host.io](https://host.io/)*
 
 # Database Schema & Description
 
@@ -20,7 +20,7 @@ Each domain in the `domains` column is separated by a `,` (comma).
 
 # API Response
 
-As well as the database product IPinfo also provides a robust API service. Please visit the [IPinfo Documentation](https://ipinfo.io/developers) portal to learn more.
+As well as the database product, IPinfo also provides a robust API service. Please visit the [IPinfo Documentation](https://ipinfo.io/developers) portal to learn more.
 
 🔗 [Hosted Domains Documentation](https://ipinfo.io/developers/hosted-domains)
 
@@ -32,7 +32,7 @@ $ curl "ipinfo.io/domains/IP_ADDRESS?token=TOKEN"
 
 This will return the full list of domains. So, if you are querying an IP address that hosts many domains, it is best to pipe the data to `less`
 
-You can also limit the names of domains shown with the `limit` param.
+You can also limit the names of domains shown with the `limit` parameter.
 
 ```bash
 curl "ipinfo.io/domains/IP_ADDRESS?token=TOKEN&limit=5"
@@ -64,7 +64,9 @@ curl "ipinfo.io/domains/IP_ADDRESS?token=TOKEN&limit=5"
 
 # Interested in more?
 
-Currently we are limiting the sample datasets to only **200 rows**. If you would like to request a larger sample or would like to get a quote on the database products [feel free to reach to us](https://ipinfo.io/products/ip-database-download#request_form). Follow us on [Twitter](https://twitter.com/ipinfoio) and [LinkedIn](https://www.linkedin.com/company/ipinfo/) to learn more about IP Address data and it’s fascinating potential.
+Currently, we are limiting the sample datasets to only **200 rows**. If you would like to request a larger sample or would like to get a quote on the database products **[feel free to reach to us](https://ipinfo.io/products/ip-database-download#request_form)**.
+
+Follow us on [Twitter](https://twitter.com/ipinfoio) and [LinkedIn](https://www.linkedin.com/company/ipinfo/) to learn more about IP Address data and it’s fascinating potential.
 
 # About IPinfo
 

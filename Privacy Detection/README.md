@@ -23,15 +23,15 @@ The following database schema represents the CSV database. We also provide JSON 
 > `join_key` → This key represents the Class C network each IP address is part of, allowing you to filter the result set significantly before filtering to the exact IP address you want. [[*Source*](https://ipinfo.io/blog/ingesting-ipinfo-geolocation-data-with-postgresql-13/)]
 > 
 
-IP Address data like `start_ip`, `end_ip` and `join_key` should be assigned `inet` data type if you are ingesting the data in PostgreSQL.
+IP address data like `start_ip`, `end_ip` and `join_key` should be assigned `inet` data type if you are ingesting the data in PostgreSQL.
 
 # API Response
 
-As well as the database product IPinfo also provides a robust API service. Please visit the [IPinfo Documentation](https://ipinfo.io/developers) portal to learn more.
+As well as the database product, IPinfo also provides a robust API service. Please visit the [IPinfo Documentation](https://ipinfo.io/developers) portal to learn more.
 
 🔗 [Privacy Data Documentation](https://ipinfo.io/developers/data-types#privacy-data)
 
-![privacy detection api response.png](../assets/privacy_detection_api_response.png)
+![privacy detection API response.png](../assets/privacy_detection_api_response.png)
 
 # Guides, Resources & Links
 
@@ -59,7 +59,9 @@ As well as the database product IPinfo also provides a robust API service. Pleas
 
 # Interested in more?
 
-Currently we are limiting the sample datasets to only **200 rows**. If you would like to request a larger sample or would like to get a quote on the database products [feel free to reach to us](https://ipinfo.io/products/ip-database-download#request_form). Follow us on [Twitter](https://twitter.com/ipinfoio) and [LinkedIn](https://www.linkedin.com/company/ipinfo/) to learn more about IP Address data and it’s fascinating potential.
+Currently, we are limiting the sample datasets to only **200 rows**. If you would like to request a larger sample or would like to get a quote on the database products, **[feel free to reach to us](https://ipinfo.io/products/ip-database-download#request_form)**.
+
+Follow us on [Twitter](https://twitter.com/ipinfoio) and [LinkedIn](https://www.linkedin.com/company/ipinfo/) to learn more about IP Address data and it’s fascinating potential.
 
 # About IPinfo
 

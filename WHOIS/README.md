@@ -175,7 +175,7 @@ WHOIS database registry from point of contact
 
 # API Response
 
-As well as the database product IPinfo also provides a robust API service. Please visit the [IPinfo Documentation](https://ipinfo.io/developers) portal to learn more.
+As well as the database product, IPinfo also provides a robust API service. Please visit the [IPinfo Documentation](https://ipinfo.io/developers) portal to learn more.
 
 ![IP WHOIS API Commands](../assets/whois_api_command.png)
 
@@ -254,7 +254,7 @@ curl ipinfo.io/whois/poc/CP312-ARIN?token=0df49bbbc5e4eb&source=arin
 ## Links
 
 - [IP WHOIS Database Page](https://ipinfo.io/products/ip-whois-data-download)
-- [IP WHOIS API Page Page](https://ipinfo.io/products/whois-api)
+- [IP WHOIS API Page](https://ipinfo.io/products/whois-api)
 - [IP WHOIS API Documentation](https://ipinfo.io/developers/whois)
 
 ## Articles & Guides (2)
@@ -270,7 +270,9 @@ curl ipinfo.io/whois/poc/CP312-ARIN?token=0df49bbbc5e4eb&source=arin
 
 # Interested in more?
 
-Currently we are limiting the sample datasets to only **200 rows**. If you would like to request a larger sample or would like to get a quote on the database products [feel free to reach to us](https://ipinfo.io/products/ip-database-download#request_form). Follow us on [Twitter](https://twitter.com/ipinfoio) and [LinkedIn](https://www.linkedin.com/company/ipinfo/) to learn more about IP Address data and it’s fascinating potential.
+Currently, we are limiting the sample datasets to only **200 rows**. If you would like to request a larger sample or would like to get a quote on the database products **[feel free to reach to us](https://ipinfo.io/products/ip-database-download#request_form)**.
+
+Follow us on [Twitter](https://twitter.com/ipinfoio) and [LinkedIn](https://www.linkedin.com/company/ipinfo/) to learn more about IP Address data and it’s fascinating potential.
 
 # About IPinfo
 

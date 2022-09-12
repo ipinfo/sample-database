@@ -1,6 +1,6 @@
 # IP to Mobile Carrier
 
-## Get mobile carrier information (carrier, mcc, mnc) matched to IP addresses.
+## Get mobile carrier information (carrier, MCC, MNC) matched to IP addresses.
 
 # Database Schema & Description
 
@@ -21,17 +21,17 @@ The following database schema represents the CSV database. We also provide JSON 
 > `join_key` → This key represents the Class C network each IP address is part of, allowing you to filter the result set significantly before filtering to the exact IP address you want. [[*Source*](https://ipinfo.io/blog/ingesting-ipinfo-geolocation-data-with-postgresql-13/)]
 > 
 
-IP Address data like `start_ip`, `end_ip` and `join_key` should be assigned `inet` data type if you are ingesting the data in PostgreSQL.
+IP address data like `start_ip`, `end_ip` and `join_key` should be assigned `inet` data type if you are ingesting the data in PostgreSQL.
 
 # API Response
 
-As well as the database product IPinfo also provides a robust API service. Please visit the [IPinfo Documentation](https://ipinfo.io/developers) portal to learn more.
+As well as the database product, IPinfo also provides a robust API service. Please visit the [IPinfo Documentation](https://ipinfo.io/developers) portal to learn more.
 
 ```bash
 $ curl ipinfo.io/IP_ADDRESS?token=TOKEN
 ```
 
-![mobile carrier api response.png](../assets/mobile_carrier_api_response.png)
+![mobile carrier API response.png](../assets/mobile_carrier_api_response.png)
 
 # Guides, Resources & Links
 
@@ -41,7 +41,7 @@ $ curl ipinfo.io/IP_ADDRESS?token=TOKEN
 
 🔗 [IP to Mobile Carrier API Page](https://ipinfo.io/products/ip-carrier-api)
 
-🔗 [Carrier Data Data Type Documentation](https://ipinfo.io/developers/data-types#carrier-data)
+🔗 [Carrier Information Data Type Documentation](https://ipinfo.io/developers/data-types#carrier-data)
 
 ## Articles & Guides (1)
 
@@ -51,7 +51,9 @@ $ curl ipinfo.io/IP_ADDRESS?token=TOKEN
 
 # Interested in more?
 
-Currently we are limiting the sample datasets to only **200 rows**. If you would like to request a larger sample or would like to get a quote on the database products [feel free to reach to us](https://ipinfo.io/products/ip-database-download#request_form). Follow us on [Twitter](https://twitter.com/ipinfoio) and [LinkedIn](https://www.linkedin.com/company/ipinfo/) to learn more about IP Address data and it’s fascinating potential.
+Currently, we are limiting the sample datasets to only **200 rows**. If you would like to request a larger sample or would like to get a quote on the database products, **[feel free to reach to us](https://ipinfo.io/products/ip-database-download#request_form)**.
+
+Follow us on [Twitter](https://twitter.com/ipinfoio) and [LinkedIn](https://www.linkedin.com/company/ipinfo/) to learn more about IP Address data and it’s fascinating potential.
 
 # About IPinfo
 

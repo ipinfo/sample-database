@@ -26,7 +26,7 @@ The database products [IPInfo.io](http://IPInfo.io) has to offer are -
 | [Privacy Detection Database](https://ipinfo.io/products/anonymous-ip-database) | [Privacy Detection Sample](/Privacy%20Detection) | VPN, Proxies, Tor, Relays |
 | [Hosted Domain Database](https://ipinfo.io/products/hosted-domains-database) | [Hosted Domains Sample](/Hosted%20Domains) | Reverse IP lookup |
 | [Abuse Contact Database](https://ipinfo.io/products/ip-abuse-contact-database) | [Abuse Contact Sample](/Abuse%20Contact) | Abuse contact information |
-| [WHOIS Database](https://ipinfo.io/products/ip-whois-data-download) | [WHOIS Sample](/WHOIS) | Contexualized WHOIS Database |
+| [WHOIS Database](https://ipinfo.io/products/ip-whois-data-download) | [WHOIS Sample](/WHOIS) | Contextualized WHOIS Database |
 
 **All of these products are available as CSV, JSON and MMDB type.**
 
@@ -76,7 +76,7 @@ You can find the schema, database sample, API response sample, and other informa
 
 **Get firmographics data and identify the company behind the IP Address and network traffic.**
 
-You can find the schema, database sample, API response sample, and other information from the **[IP to Company folder](/IP%20to%20Company)**. Database includes the following fields:
+You can find the schema, database sample, API response sample, and other information from the **[IP to Company folder](/IP%20to%20Company)**. The database includes the following fields:
 
 | Field Name | Example | Notes |
 | --- | --- | --- |
@@ -170,7 +170,7 @@ You can find the schema, database sample, API response sample, and other informa
 <details id=6>
 <summary><h2>Hosted Domains</h2></summary>
 
-**Hosted Domains database enables you to do reverse IP lookups.** Through our Hosted Domains service, you can see the the full list of domain hosted on a single IP address. 
+**Hosted Domains database enables you to do reverse IP lookups.** Through our Hosted Domains service, you can see the full list of domain hosted on a single IP address. 
 
 You can find the schema, database sample, API response sample, and other information from the **[Hosted Domains folder](/Hosted%20Domains)**. The fields in the database includes:
 
@@ -187,7 +187,7 @@ You can find the schema, database sample, API response sample, and other informa
 <details id=7>
 <summary><h2>Abuse Contact</h2></summary>
 
-**Get the abuse contact information of every ISP in the internet.**
+**Get the abuse contact information of every ISP on the internet.**
 
 You can find the schema, database sample, API response sample, and other information from the **[Abuse Contact folder](/Abuse%20Contact)**. The fields of the database are:
 
@@ -210,7 +210,7 @@ You can find the schema, database sample, API response sample, and other informa
 <summary><h2>WHOIS</h2></summary>
 
 
-**IPinfo WHOIS database is contextual, robust and consistent database of various types of WHOIS data.**
+**IPinfo WHOIS database is a contextual, robust and consistent database of various types of WHOIS data.**
 
 You can find the schema, database sample, API response sample, and other information from the **[WHOIS folder](/WHOIS)**. The WHOIS database and their respective fields are listed below:
 
@@ -249,7 +249,7 @@ The WHOIS database and their respective fields are listed below:
 
 ## How to explore the sample databases
 
-- Please visit the folders for each database. You can also find the API response samples there for each products.
+- Please visit the folders for each database. You can also find the API response samples there for each product.
 - If you would like to explore CSV files, feel free to use any of these online services and import the raw CSV there -
     - [https://csvfiddle.io/](https://csvfiddle.io/)
     - [https://lite.datasette.io/](https://lite.datasette.io/)
@@ -259,7 +259,7 @@ The WHOIS database and their respective fields are listed below:
 
 - After signing up for database downloads service, you can either download the database from our website or you can `curl` the database from the database download endpoint. But make sure you have redirect [enabled](https://ipinfo.io/faq/article/142-when-i-access-the-database-endpoint-using-something-like-curl-it-doesn-t-seem-to-work-and-i-get-a-corrupted-empty-file-what-am-i-doing-wrong).
 - You can select how frequently the database gets updated. It can be daily, weekly, bi-weekly or monthly.
-- To lookup an specific database you can use any kind of data exploration package or database system you want to use. [Here is an example](https://ipinfo.io/faq/article/144-how-do-you-do-a-lookup-of-an-ip-address-using-your-database) of using mySQL and PosgreSQL to lookup a specific IP address.
+- To look up an specific database, you can use any kind of data exploration package or database system you want to use. [Here is an example](https://ipinfo.io/faq/article/144-how-do-you-do-a-lookup-of-an-ip-address-using-your-database) of using MySQL and PostgreSQL to look up a specific IP address.
 
 </details>
 
@@ -274,7 +274,7 @@ The WHOIS database and their respective fields are listed below:
 
 ## FAQs
 
-The list of FAQs (Frequently Asked Questions) can be found here [here](https://ipinfo.io/faq/category/137-data-downloads).
+The list of FAQs (Frequently Asked Questions) can be found [here](https://ipinfo.io/faq/category/137-data-downloads).
 
 <details>
 
@@ -294,7 +294,9 @@ If you found an issue or would like to submit an improvement to this project, pl
 
 # Interested in more?
 
-Currently we are limiting the sample datasets to only **200 rows**. If you would like to request a larger sample or would like to get a quote on the database products [feel free to reach to us](https://ipinfo.io/products/ip-database-download#request_form). Follow us on [Twitter](https://twitter.com/ipinfoio) and [LinkedIn](https://www.linkedin.com/company/ipinfo/) to learn more about IP Address data and it’s fascinating potential.
+Currently, we are limiting the sample datasets to only **200 rows**. If you would like to request a larger sample or would like to get a quote on the database products, **[feel free to reach to us](https://ipinfo.io/products/ip-database-download#request_form)**.
+
+Follow us on [Twitter](https://twitter.com/ipinfoio) and [LinkedIn](https://www.linkedin.com/company/ipinfo/) to learn more about IP Address data and it’s fascinating potential.
 
 ---
 
