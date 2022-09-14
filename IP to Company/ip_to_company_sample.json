@@ -1,0 +1,41 @@
+{
+  "ip": "103.50.94.3",
+  "city": "San Francisco",
+  "region": "California",
+  "country": "US",
+  "loc": "37.7725,-122.4147",
+  "postal": "94103",
+  "timezone": "America/Los_Angeles",
+  "asn": {
+    "asn": "AS63086",
+    "name": "Uber Technologies, Inc",
+    "domain": "uber.com",
+    "route": "103.50.94.0/24",
+    "type": "business"
+  },
+  "company": {
+    "name": "Uber Technologies, Inc",
+    "domain": "uber.com",
+    "type": "business"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "US, CA, San Francisco, 1725 Third Street, 94158",
+    "country": "US",
+    "email": "gni-notifications@uber.com",
+    "name": "Uber Network Engineering",
+    "network": "103.50.92.0/22",
+    "phone": "+1-408-891-1195"
+  },
+  "domains": {
+    "total": 0,
+    "domains": []
+  }
+}

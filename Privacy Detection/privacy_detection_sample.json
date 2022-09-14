@@ -1,0 +1,45 @@
+{
+  "ip": "77.234.46.224",
+  "hostname": "r-224.46.234.77.ptr.avast.com",
+  "city": "New York City",
+  "region": "New York",
+  "country": "US",
+  "loc": "40.7139,-74.0070",
+  "postal": "10007",
+  "timezone": "America/New_York",
+  "asn": {
+    "asn": "AS198605",
+    "name": "AVAST Software s.r.o.",
+    "domain": "avast.com",
+    "route": "77.234.46.0/24",
+    "type": "isp"
+  },
+  "company": {
+    "name": "AVAST Software s.r.o.",
+    "domain": "avast.com",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": true,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": "HideMyAss"
+  },
+  "abuse": {
+    "address": "Pikrtova 1737/1a, Praha 4, 140 00, CZ",
+    "country": "CZ",
+    "email": "abuse@avast.com",
+    "name": "AVAST Software",
+    "network": "77.234.46.0/24",
+    "phone": "+420724634790"
+  },
+  "domains": {
+    "ip": "77.234.46.224",
+    "total": 1,
+    "domains": [
+      "booking6.com"
+    ]
+  }
+}

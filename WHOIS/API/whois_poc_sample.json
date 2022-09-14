@@ -1,0 +1,20 @@
+{
+    "total": 1,
+    "page": 0,
+    "records": [
+      {
+        "id": "JKB10-ARIN",
+        "name": "Jerome Backmeyer",
+        "email": "jerome.backmeyer@vincentcommunications.ca",
+        "address": "CA, AB, Grande Prairie, 9640 - 136th Ave, T8X 0K4",
+        "country": "CA",
+        "phone": "+1-780-978-1550",
+        "fax": "+1-866-943-2430",
+        "created": "2014-08-08",
+        "updated": "2022-03-25",
+        "source": "arin",
+        "raw": "POCHandle:      JKB10-ARIN\nIsRole:         N\nLastName:       Backmeyer\nFirstName:      Jerome\nStreet:         9640 - 136th Ave\nCity:           Grande Prairie\nState/Prov:     AB\nCountry:        CA\nPostalCode:     T8X 0K4\nRegDate:        2014-08-08\nUpdated:        2022-03-25\nFaxPhone:       +1-866-943-2430\nMobilePhone:    +1-780-978-1550\nOfficePhone:    +1-780-833-6160\nOfficePhone:    +1-780-833-3000\nOfficePhone:    +1-780-833-3510\nMailbox:        jerome.backmeyer@vincentcommunications.ca\nMailbox:        jbackmeyer@nexxcom.ca\nMailbox:        eadmin@nexxcom.ca\nSource:         ARIN\n"
+      }
+    ],
+    "poc": "JKB10-ARIN"
+  }
