@@ -1,0 +1,99 @@
+{
+    "total": 2,
+    "page": 0,
+    "records": [
+      {
+        "range": "192.104.169.0/24",
+        "id": "BAC-192-104-169-0-1",
+        "name": "Bank of America, National Association",
+        "country": "US",
+        "org": "BANKOF-2",
+        "status": "ALLOCATION",
+        "tech": null,
+        "maintainer": {
+          "id": "ZB29-ARIN",
+          "name": "HOSTMASTER",
+          "email": "HOSTMASTER@bankofamerica.com",
+          "address": "US, NC, Charlotte, ATTN: Patrick O'Hagerty\\nMailcode NC1-003-03-95\\n901 West Trade Street, 28255",
+          "country": "US",
+          "phone": "+1-518-708-9371",
+          "fax": "",
+          "created": "2000-05-09",
+          "updated": "2021-12-10",
+          "source": "arin",
+          "raw": "POCHandle:      ZB29-ARIN\\nIsRole:         Y\\nLastName:       HOSTMASTER\\nFirstName:      \\nStreet:         ATTN: Patrick O'Hagerty\\nStreet:         Mailcode NC1-003-03-95\\nStreet:         901 West Trade Street\\nCity:           Charlotte\\nState/Prov:     NC\\nCountry:        US\\nPostalCode:     28255\\nRegDate:        2000-05-09\\nUpdated:        2021-12-10\\nMobilePhone:    +1-518-708-9371\\nOfficePhone:    +1-980-387-3750\\nMailbox:        HOSTMASTER@bankofamerica.com\\nMailbox:        patrick.ohagerty@bofa.com\\nSource:         ARIN\\n"
+        },
+        "admin": {
+          "id": "ZB29-ARIN",
+          "name": "HOSTMASTER",
+          "email": "HOSTMASTER@bankofamerica.com",
+          "address": "US, NC, Charlotte, ATTN: Patrick O'Hagerty\\nMailcode NC1-003-03-95\\n901 West Trade Street, 28255",
+          "country": "US",
+          "phone": "+1-518-708-9371",
+          "fax": "",
+          "created": "2000-05-09",
+          "updated": "2021-12-10",
+          "source": "arin",
+          "raw": "POCHandle:      ZB29-ARIN\\nIsRole:         Y\\nLastName:       HOSTMASTER\\nFirstName:      \\nStreet:         ATTN: Patrick O'Hagerty\\nStreet:         Mailcode NC1-003-03-95\\nStreet:         901 West Trade Street\\nCity:           Charlotte\\nState/Prov:     NC\\nCountry:        US\\nPostalCode:     28255\\nRegDate:        2000-05-09\\nUpdated:        2021-12-10\\nMobilePhone:    +1-518-708-9371\\nOfficePhone:    +1-980-387-3750\\nMailbox:        HOSTMASTER@bankofamerica.com\\nMailbox:        patrick.ohagerty@bofa.com\\nSource:         ARIN\\n"
+        },
+        "abuse": {
+          "id": "ABUSE608-ARIN",
+          "name": "ABUSE",
+          "email": "ABUSE@bankofamerica.com",
+          "address": "US, NC, CHARLOTTE, 200 S. COLLEGE STREET\\nNC1-014-14-04, 28255",
+          "country": "US",
+          "phone": "",
+          "fax": "",
+          "created": "2004-04-14",
+          "updated": "2018-11-05",
+          "source": "arin",
+          "raw": "POCHandle:      ABUSE608-ARIN\\nIsRole:         Y\\nLastName:       ABUSE\\nFirstName:      \\nStreet:         200 S. COLLEGE STREET\\nStreet:         NC1-014-14-04\\nCity:           CHARLOTTE\\nState/Prov:     NC\\nCountry:        US\\nPostalCode:     28255\\nRegDate:        2004-04-14\\nUpdated:        2018-11-05\\nOfficePhone:    +1-704-386-5000\\nMailbox:        ABUSE@bankofamerica.com\\nSource:         ARIN\\n"
+        },
+        "created": "1991-07-30",
+        "updated": "2021-12-14",
+        "source": "arin",
+        "raw": "NetHandle:      NET-192-104-169-0-1\nOrgID:          BANKOF-2\nParent:         NET-192-0-0-0-0\nNetName:        BAC-192-104-169-0-1\nNetRange:       192.104.169.0 - 192.104.169.255\nNetType:        allocation\nRegDate:        1991-07-30\nUpdated:        2021-12-14\nSource:         ARIN\n\n\nOrgID:          BANKOF-2\nOrgName:        Bank of America, National Association\nCanAllocate:    \nStreet:         Bank of America Corporation\nStreet:         100 North Tryon Street\nCity:           Charlotte\nState/Prov:     NC\nCountry:        US\nPostalCode:     28255\nComment:        For abuse issues contact abuse@bankofamerica.com\nRegDate:        1992-01-06\nUpdated:        2022-04-25\nOrgAbuseHandle: ABUSE608-ARIN\nOrgAdminHandle: ZB29-ARIN\nOrgNOCHandle:   ZB29-ARIN\nOrgTechHandle:  LAU-ARIN\nOrgTechHandle:  SPD3-ARIN\nOrgTechHandle:  ZB29-ARIN\nSource:         ARIN\n\n\nPOCHandle:      ZB29-ARIN\nIsRole:         Y\nLastName:       HOSTMASTER\nFirstName:      \nStreet:         ATTN: Patrick O'Hagerty\nStreet:         Mailcode NC1-003-03-95\nStreet:         901 West Trade Street\nCity:           Charlotte\nState/Prov:     NC\nCountry:        US\nPostalCode:     28255\nRegDate:        2000-05-09\nUpdated:        2021-12-10\nMobilePhone:    +1-518-708-9371\nOfficePhone:    +1-980-387-3750\nMailbox:        HOSTMASTER@bankofamerica.com\nMailbox:        patrick.ohagerty@bofa.com\nSource:         ARIN\n\n\nPOCHandle:      SPD3-ARIN\nIsRole:         N\nLastName:       Dornan\nFirstName:      Sean\nStreet:         30650 23 MILE RD\nCity:           Chesterfield\nState/Prov:     MI\nCountry:        US\nPostalCode:     48047\nRegDate:        2016-01-04\nUpdated:        2021-01-04\nMobilePhone:    +1-586-876-7947\nOfficePhone:    +1-586-273-1444\nMailbox:        sean.dornan@bankofamerica.com\nSource:         ARIN\n\n\nPOCHandle:      ABUSE608-ARIN\nIsRole:         Y\nLastName:       ABUSE\nFirstName:      \nStreet:         200 S. COLLEGE STREET\nStreet:         NC1-014-14-04\nCity:           CHARLOTTE\nState/Prov:     NC\nCountry:        US\nPostalCode:     28255\nRegDate:        2004-04-14\nUpdated:        2018-11-05\nOfficePhone:    +1-704-386-5000\nMailbox:        ABUSE@bankofamerica.com\nSource:         ARIN\n\n\nPOCHandle:      LAU-ARIN\nIsRole:         N\nLastName:       Uribarri\nFirstName:      Luis\nStreet:         330 N Mesa St\nCity:           El Paso\nState/Prov:     TX\nCountry:        US\nPostalCode:     79901\nRegDate:        2003-03-19\nUpdated:        2021-12-07\nOfficePhone:    +1-646-556-2742\nMailbox:        luis.a.uribarri@bofa.com\nSource:         ARIN\n"
+      },
+      {
+        "range": "192.136.66.0/24",
+        "id": "BAC-192-136-66-0-1",
+        "name": "Bank of America, National Association",
+        "country": "US",
+        "org": "BANKOF-2-Z",
+        "status": "ALLOCATION",
+        "tech": null,
+        "maintainer": null,
+        "admin": {
+          "id": "ZB29-ARIN",
+          "name": "HOSTMASTER",
+          "email": "HOSTMASTER@bankofamerica.com",
+          "address": "US, NC, Charlotte, ATTN: Patrick O'Hagerty\\nMailcode NC1-003-03-95\\n901 West Trade Street, 28255",
+          "country": "US",
+          "phone": "+1-518-708-9371",
+          "fax": "",
+          "created": "2000-05-09",
+          "updated": "2021-12-10",
+          "source": "arin",
+          "raw": "POCHandle:      ZB29-ARIN\\nIsRole:         Y\\nLastName:       HOSTMASTER\\nFirstName:      \\nStreet:         ATTN: Patrick O'Hagerty\\nStreet:         Mailcode NC1-003-03-95\\nStreet:         901 West Trade Street\\nCity:           Charlotte\\nState/Prov:     NC\\nCountry:        US\\nPostalCode:     28255\\nRegDate:        2000-05-09\\nUpdated:        2021-12-10\\nMobilePhone:    +1-518-708-9371\\nOfficePhone:    +1-980-387-3750\\nMailbox:        HOSTMASTER@bankofamerica.com\\nMailbox:        patrick.ohagerty@bofa.com\\nSource:         ARIN\\n"
+        },
+        "abuse": {
+          "id": "ABUSE608-ARIN",
+          "name": "ABUSE",
+          "email": "ABUSE@bankofamerica.com",
+          "address": "US, NC, CHARLOTTE, 200 S. COLLEGE STREET\\nNC1-014-14-04, 28255",
+          "country": "US",
+          "phone": "",
+          "fax": "",
+          "created": "2004-04-14",
+          "updated": "2018-11-05",
+          "source": "arin",
+          "raw": "POCHandle:      ABUSE608-ARIN\\nIsRole:         Y\\nLastName:       ABUSE\\nFirstName:      \\nStreet:         200 S. COLLEGE STREET\\nStreet:         NC1-014-14-04\\nCity:           CHARLOTTE\\nState/Prov:     NC\\nCountry:        US\\nPostalCode:     28255\\nRegDate:        2004-04-14\\nUpdated:        2018-11-05\\nOfficePhone:    +1-704-386-5000\\nMailbox:        ABUSE@bankofamerica.com\\nSource:         ARIN\\n"
+        },
+        "created": "1992-01-06",
+        "updated": "2021-12-14",
+        "source": "arin",
+        "raw": "NetHandle:      NET-192-136-66-0-1\nOrgID:          BANKOF-2-Z\nParent:         NET-192-0-0-0-0\nNetName:        BAC-192-136-66-0-1\nNetRange:       192.136.66.0 - 192.136.66.255\nNetType:        allocation\nRegDate:        1992-01-06\nUpdated:        2021-12-14\nSource:         ARIN\n\n\nOrgID:          BANKOF-2-Z\nOrgName:        Bank of America, National Association\nCanAllocate:    \nStreet:         Bank of America Corporation\nStreet:         100 North Tryon Street\nCity:           Charlotte\nState/Prov:     NC\nCountry:        US\nPostalCode:     28255\nComment:        For abuse issues contact abuse@bankofamerica.com\nRegDate:        2010-09-07\nUpdated:        2022-04-25\nOrgAbuseHandle: ABUSE608-ARIN\nOrgAdminHandle: ZB29-ARIN\nOrgTechHandle:  LAU-ARIN\nOrgTechHandle:  SPD3-ARIN\nOrgTechHandle:  ZB29-ARIN\nSource:         ARIN\n\n\nPOCHandle:      ZB29-ARIN\nIsRole:         Y\nLastName:       HOSTMASTER\nFirstName:      \nStreet:         ATTN: Patrick O'Hagerty\nStreet:         Mailcode NC1-003-03-95\nStreet:         901 West Trade Street\nCity:           Charlotte\nState/Prov:     NC\nCountry:        US\nPostalCode:     28255\nRegDate:        2000-05-09\nUpdated:        2021-12-10\nMobilePhone:    +1-518-708-9371\nOfficePhone:    +1-980-387-3750\nMailbox:        HOSTMASTER@bankofamerica.com\nMailbox:        patrick.ohagerty@bofa.com\nSource:         ARIN\n\n\nPOCHandle:      SPD3-ARIN\nIsRole:         N\nLastName:       Dornan\nFirstName:      Sean\nStreet:         30650 23 MILE RD\nCity:           Chesterfield\nState/Prov:     MI\nCountry:        US\nPostalCode:     48047\nRegDate:        2016-01-04\nUpdated:        2021-01-04\nMobilePhone:    +1-586-876-7947\nOfficePhone:    +1-586-273-1444\nMailbox:        sean.dornan@bankofamerica.com\nSource:         ARIN\n\n\nPOCHandle:      ABUSE608-ARIN\nIsRole:         Y\nLastName:       ABUSE\nFirstName:      \nStreet:         200 S. COLLEGE STREET\nStreet:         NC1-014-14-04\nCity:           CHARLOTTE\nState/Prov:     NC\nCountry:        US\nPostalCode:     28255\nRegDate:        2004-04-14\nUpdated:        2018-11-05\nOfficePhone:    +1-704-386-5000\nMailbox:        ABUSE@bankofamerica.com\nSource:         ARIN\n\n\nPOCHandle:      LAU-ARIN\nIsRole:         N\nLastName:       Uribarri\nFirstName:      Luis\nStreet:         330 N Mesa St\nCity:           El Paso\nState/Prov:     TX\nCountry:        US\nPostalCode:     79901\nRegDate:        2003-03-19\nUpdated:        2021-12-07\nOfficePhone:    +1-646-556-2742\nMailbox:        luis.a.uribarri@bofa.com\nSource:         ARIN\n"
+      }
+    ],
+    "net": "AS10959"
+  }

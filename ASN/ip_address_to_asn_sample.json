@@ -1,0 +1,42 @@
+{
+  "ip": "58.172.0.20",
+  "hostname": "cpe-58-172-0-20.tb02.tas.asp.telstra.net",
+  "city": "Launceston",
+  "region": "Tasmania",
+  "country": "AU",
+  "loc": "-41.4388,147.1347",
+  "postal": "7250",
+  "timezone": "Australia/Hobart",
+  "asn": {
+    "asn": "AS1221",
+    "name": "Telstra Corporation Ltd",
+    "domain": "telstra.com.au",
+    "route": "58.160.0.0/12",
+    "type": "isp"
+  },
+  "company": {
+    "name": "Telstra Internet",
+    "domain": "telstra.com.au",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "Telstra Internet",
+    "country": "AU",
+    "email": "abuse@telstra.net",
+    "name": "Telstra Internet Address Registry",
+    "network": "58.160.0.0/12",
+    "phone": "+61 000000000"
+  },
+  "domains": {
+    "total": 0,
+    "domains": []
+  }
+}

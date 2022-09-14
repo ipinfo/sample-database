@@ -1,0 +1,42 @@
+{
+  "ip": "77.224.89.172",
+  "hostname": "static-172-89-224-77.ipcom.comunitel.net",
+  "city": "Vigo",
+  "region": "Galicia",
+  "country": "ES",
+  "loc": "42.1997,-8.7613",
+  "postal": "36393",
+  "timezone": "Europe/Madrid",
+  "asn": {
+    "asn": "AS12430",
+    "name": "VODAFONE ESPANA S.A.U.",
+    "domain": "vodafone.es",
+    "route": "77.224.0.0/13",
+    "type": "isp"
+  },
+  "company": {
+    "name": "Comunitel Global S.A.",
+    "domain": "vodafone.es",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "Vodafone Spain, Avenida de AmÃ©rica, 115, 28042, Madrid, Spain",
+    "country": "ES",
+    "email": "abuse@corp.vodafone.es",
+    "name": "VODAFONE ESPANA ROLE",
+    "network": "77.224.89.0-77.224.90.255",
+    "phone": "+34 607133333"
+  },
+  "domains": {
+    "total": 0,
+    "domains": []
+  }
+}
