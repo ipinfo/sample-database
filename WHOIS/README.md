@@ -38,7 +38,38 @@ Parsed and normalized data we have collected from different RIRs. We also provid
 
 </details>
 
+<details>
+<summary>
+<h2>RIR WHOIS</h2>
+</summary>
 
+RIR WHOIS data is created by parsing IP WHOIS data from the regional Internet Registries. Aside from normalizing and structuring the data from different RIR, we include additional contexts and insights.
+
+<!-- Need to add the Data Type for this -->
+| Field Name | Example | Data Type | Notes |
+| --- | --- | --- | --- |
+| `range` | 45.142.160.224-45.142.161.255 | TEXT | IP Address range/netblock |
+| `id` | PL-DOMYNET-NETWORK | TEXT | Raw netblock identifier from WHOIS |
+| `name` | DomyNet Sp. z o.o. | TEXT | Name of netblock |
+| `country` | PL | TEXT | ISO 3166 country code |
+| `status` | ASSIGNED PA | TEXT | Range assignment type ([RIPE’s documentation](https://www.ripe.net/publications/docs/ripe-733)) |
+| `tech` | PK9274-RIPE | TEXT | ID for technical contact of WHOIS record |
+| `maintainer` | MNT-PL-DOMYNET-1 | TEXT | ID for contact authorized to update WHOIS record for netblock |
+| `admin` | PK9274-RIPE | TEXT | ID for administrative contact of netblock |
+| `source` | ripe | TEXT | RIR associated with record (RIPE, ARIN, etc.) |
+| `whois_domain` | domynet.pl | TEXT | Domain name (from WHOIS entry) |
+| `updated` | 2020-01-09 | TEXT | Last updated date (taken from WHOIS entry) |
+| `org` | ORG-DSZO39-RIPE | TEXT | ID or name of organization responsible for netblock |
+| `rdns_domain` | domynet.pl | TEXT | Domain associated with IP range (only available if a majority of IPs within range share a common reverse DNS domain) |
+| `domain` | domynet.pl | TEXT | Domain associated with netblock (based on our data sets) |
+| `geoloc` | 52.2260524 20.9941955 | TEXT | Latitude/longitude coordinates indicating where users of network are located |
+| `org_address` | ul. Lindleya 16/301 02-013 Warszawa POLAND | TEXT | Address of the associated organization |
+| `asn` | AS208348 | TEXT | Autonomous system number for organization that routes traffic for IP (based on BGP routing data) |
+| `as_name` | DomyNet Sp. z o.o. | TEXT | Name of AS (based on our data sets and data processing) |
+| `as_domain` | domynet.pl | TEXT | Domain of AS (based on our data sets and data processing) |
+| `as_type` | isp | TEXT | ISP, business, or hosting (based on around 20 different features and our custom training set) |
+
+</details>
 
 <details>
 <summary>

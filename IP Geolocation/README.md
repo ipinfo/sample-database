@@ -18,7 +18,7 @@ The following database schema represents the CSV database. We also provide JSON 
 | `country` | KR | TEXT | ISO 3166 country code |
 | `latitude` | 35.34199 | FLOAT | Latitude value of the location |
 | `longitude` | 129.03358 | FLOAT | Longitude value of the location |
-| `postal_code` | 50593 | TEXT | Postal code of the region. This is not the same as zip code. |
+| `postal_code` | 50593 | TEXT | Postal code of the location |
 | `timezone` | Asia/Seoul | TEXT | Local time zone |
 
 > `join_key` → This key represents the Class C network each IP address is part of, allowing you to filter the result set significantly before filtering to the exact IP address you want. [[*Source*](https://ipinfo.io/blog/ingesting-ipinfo-geolocation-data-with-postgresql-13/)]

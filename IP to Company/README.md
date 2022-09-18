@@ -1,6 +1,6 @@
 # IP to Company Database
 
-## Identify the company, their type, their domain and the IP addresses they own.
+## Identify large scale companies, their type, their domain, their ASN information and the IP addresses they own.
 
 # Database Schema & Description
 

@@ -63,7 +63,7 @@ You can find the schema, database sample, API response sample, and other informa
 | `country` | KR | ISO 3166 country code |
 | `latitude` | 35.34199 | Latitude value of the location |
 | `longitude` | 129.03358 | Longitude value of the location |
-| `postal_code` | 50593 | Postal code of the region. This is not the same as zip code. |
+| `postal_code` | 50593 | Postal code of the location |
 | `timezone` | Asia/Seoul | Local time zone |
 
 
@@ -216,26 +216,28 @@ You can find the schema, database sample, API response sample, and other informa
 
 The WHOIS database and their respective fields are listed below:
 
-| R WHOIS | WHOIS ASN | WHOIS MNT | WHOIS NET | WHOIS ORG | WHOIS POC |
-| --- | --- | --- | --- | --- | --- |
-| range | id | id | range | id | id |
-| id | name | name | id | name | name |
-| name | country | admin_id | name | address | mobilephone |
-| descr | org_id | tech_id | country | street | officephone |
-| host | created | org_id | domain | city | fax |
-| country | updated | created | org_id | state | addres |
-| email | source | updated | status | postalcode | country |
-| abuse | raw | source | tech_id | country | email |
-| domain |  | raw | mnt_id | admin_id | abuse_email |
-| countr.1 |  |  | admin_id | tech_id | created |
-| city |  |  | created | abuse_id | updated |
-| street |  |  | updated | mnt_id | source |
-| postal |  |  | source | email | raw |
-| updated |  |  | raw | domain |  |
-| imported |  |  |  | created |  |
-|  |  |  |  | updated |  |
-|  |  |  |  | source |  |
-|  |  |  |  | raw |  |
+| R WHOIS | RIR WHOIS | WHOIS ASN | WHOIS MNT | WHOIS NET | WHOIS ORG | WHOIS POC |
+| --- | --- | --- | --- | --- | --- | --- |
+| range | range | id | id | range | id | id |
+| id | id | name | name | id | name | name |
+| name | name | country | admin_id | name | address | mobilephone |
+| descr | country | org_id | tech_id | country | street | officephone |
+| host | status | created | org_id | domain | city | fax |
+| country | tech | updated | created | org_id | state | addres |
+| email | maintainer | source | updated | status | postalcode | country |
+| abuse | admin | raw | source | tech_id | country | email |
+| domain | source |  | raw | mnt_id | admin_id | abuse_email |
+| countr.1 | whois_domain |  |  | admin_id | tech_id | created |
+| city | updated |  |  | created | abuse_id | updated |
+| street | org |  |  | updated | mnt_id | source |
+| postal | rdns_domain |  |  | source | email | raw |
+| updated | domain |  |  | raw | domain |  |
+| imported | geoloc |  |  |  | created |  |
+|  | org_address |  |  |  | updated |  |
+|  | asn |  |  |  | source |  |
+|  | as_name |  |  |  | raw |  |
+|  | as_domain |  |  |  |  |  |
+|  | as_type |  |  |  |  |  |
 
 
 ### 🔗 [WHOIS Database Page](https://ipinfo.io/products/ip-abuse-contact-database)
