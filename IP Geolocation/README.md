@@ -36,6 +36,11 @@ $ curl ipinfo.io/IP_ADDRESS?token=TOKEN
 
 ![IP Geolocation API (1).png](../assets/IP_Geolocation_API.png)
 
+# Samples
+
+- [CSV Database] [IP Geolocation Database Sample](/IP%20Geolocation/ip_geolocation_sample.csv)
+- [API] [IP Geolocation API Response Sample](/IP%20Geolocation/ip_geolocation_api_sample.json)
+
 # Guides, Resources & Links
 
 ## Links

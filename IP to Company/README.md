@@ -37,6 +37,11 @@ $ curl ipinfo.io/IP_ADDRESS?token=TOKEN
 
 ![IP to Company (1).png](../assets/IP_to_Company.png)
 
+# Samples
+
+- [CSV Database] [IP to Company Database Sample](/IP%20to%20Company/ip_company_sample.csv)
+- [API] [IP to Company API Response Sample](/IP%20to%20Company/ip_company_api_sample.json)
+
 # Guides, Resources & Links
 
 ## Links

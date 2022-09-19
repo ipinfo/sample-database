@@ -33,6 +33,11 @@ As well as the database product, IPinfo also provides a robust API service. Plea
 
 ![privacy detection API response.png](../assets/privacy_detection_api_response.png)
 
+# Samples
+
+- [CSV Database] [Privacy Detection Database Sample](/Privacy%20Detection/privacy_detection_sample.csv)
+- [API] [Privacy Detection API Response Sample](/Privacy%20Detection/privacy_detection_api_sample.json)
+
 # Guides, Resources & Links
 
 ## Links

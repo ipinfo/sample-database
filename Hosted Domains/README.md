@@ -40,6 +40,11 @@ curl "ipinfo.io/domains/IP_ADDRESS?token=TOKEN&limit=5"
 
 ![Hosted Domains  Reverse IP Lookup.png](../assets/Hosted_Domains__Reverse_IP_Lookup.png)
 
+# Samples
+
+- [CSV Database] [Hosted Domains Database Sample](/Hosted%20Domains/hosted_domains_sample.csv)
+- [API] [Hosted Domains API Response Sample](/Hosted%20Domains/hosted_domains_api_sample.json)
+
 # Guides, Resources & Links
 
 ## Links

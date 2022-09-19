@@ -33,6 +33,11 @@ $ curl ipinfo.io/IP_ADDRESS?token=TOKEN
 
 ![mobile carrier API response.png](../assets/mobile_carrier_api_response.png)
 
+# Samples
+
+- [CSV Database] [IP to Mobile Carrier Database Sample](/IP%20to%20Mobile%20Carrier/ip_carrier_sample.csv)
+- [API] [IP to Mobile Carrier API Response Sample](/IP%20to%20Mobile%20Carrier/ip_carrier_api_sample.json)
+
 # Guides, Resources & Links
 
 ## Links

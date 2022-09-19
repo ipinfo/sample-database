@@ -277,8 +277,25 @@ Please see the sample JSON in the codebase. This is a **truncated** version of t
 All our WHOIS API queries supports source parameter to filter records by RIR associated with the record.
 
 ```bash
-curl ipinfo.io/whois/poc/CP312-ARIN?token=0df49bbbc5e4eb&source=arin
+curl ipinfo.io/whois/poc/CP312-ARIN?token=TOKEN&source=arin
 ```
+
+# Samples
+
+- [CSV Database] [RWHOIS Database Sample](/WHOIS/rwhois_sample.csv)
+- [CSV Database] [RIR WHOIS Database Sample](/WHOIS/whois_rir_sample.csv)
+- [CSV Database] [WHOIS ASN Database Sample](/WHOIS/whois_asn_sample.csv)
+- [CSV Database] [WHOIS MNT Database Sample](/WHOIS/whois_mnt_sample.csv)
+- [CSV Database] [WHOIS NET Database Sample](/WHOIS/whois_net_sample.csv)
+- [CSV Database] [WHOIS ORG Database Sample](/WHOIS/whois_org_sample.csv)
+- [CSV Database] [WHOIS POC Database Sample](/WHOIS/whois_poc_sample.csv)
+- [API] [WHOIS ASN API Response Sample](/WHOIS/API/whois_asn_api_sample.json)
+- [API] [WHOIS Domain API Response Sample](/WHOIS/API/whois_domain_api_sample.json)
+- [API] [WHOIS IP Range API Response Sample](/WHOIS/API/whois_ip_range_api_sample.json)
+- [API] [WHOIS NET API Response Sample](/WHOIS/API/whois_net_api_sample.json)
+- [API] [WHOIS ORG API Response Sample](/WHOIS/API/whois_org_api_sample.json)
+- [API] [WHOIS POC API Response Sample](/WHOIS/API/whois_poc_api_sample.json)
+ 
 
 # Guides, Resources & Links
 
