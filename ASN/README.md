@@ -44,6 +44,12 @@ $ curl ipinfo.io/ASN?token=TOKEN
 
 ![ASN Data API (1).png](../assets/ASN_Data_API.png)
 
+# Samples
+
+- [CSV Database] [ASN Database Sample](/asn_sample.csv)
+- [API] [ASN Lookup API Response Sample](/asn_lookup_api_sample.json)
+- [API ][IP Address to ASN API Response Sample](/ip_address_to_asn_api_sample.json)
+
 # Guides, Resources & Links
 
 ## Links
