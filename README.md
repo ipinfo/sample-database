@@ -1,7 +1,7 @@
 # [<img src="https://ipinfo.io/static/ipinfo-small.svg" alt="IPinfo" width="24"/>](https://ipinfo.io/) IPinfo Sample Database Repository
 
 
-## This repository contains CSV sample datasets of all the [IP address database products](https://ipinfo.io/account/data-downloads) we have to offer.
+## Sample datasets of all the [IP address database products](https://ipinfo.io/account/data-downloads).
 
 
 <p align="center">
@@ -256,6 +256,7 @@ The WHOIS database and their respective fields are listed below:
     - [https://csvfiddle.io/](https://csvfiddle.io/)
     - [https://lite.datasette.io/](https://lite.datasette.io/)
 - Or you can you just download the CSV files to take a closer look.
+- You can also check out `.mmdb` sample files. Please use IPinfo's [mmdbctl](https://github.com/ipinfo/mmdbctl) tool to explore them.
 
 ## Usage Information
 

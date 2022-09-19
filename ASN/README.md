@@ -47,6 +47,7 @@ $ curl ipinfo.io/ASN?token=TOKEN
 # Samples
 
 - [CSV Database] [ASN Database Sample](/ASN/asn_sample.csv)
+- [MMDB Database] [ASN Database Sample](/ASN/asn_sample.mmdb)
 - [API] [ASN Lookup API Response Sample](/ASN/asn_lookup_api_sample.json)
 - [API ][IP Address to ASN API Response Sample](/ASN/ip_address_to_asn_api_sample.json)
 

@@ -289,6 +289,8 @@ curl ipinfo.io/whois/poc/CP312-ARIN?token=TOKEN&source=arin
 - [CSV Database] [WHOIS NET Database Sample](/WHOIS/whois_net_sample.csv)
 - [CSV Database] [WHOIS ORG Database Sample](/WHOIS/whois_org_sample.csv)
 - [CSV Database] [WHOIS POC Database Sample](/WHOIS/whois_poc_sample.csv)
+- [MMDB Database] [RWHOIS Database Sample](/WHOIS/rwhois_sample.mmdb)
+- [MMDB Database] [RIR WHOIS Database Sample](/WHOIS/whois_rir_sample.mmdb)
 - [API] [WHOIS ASN API Response Sample](/WHOIS/API/whois_asn_api_sample.json)
 - [API] [WHOIS Domain API Response Sample](/WHOIS/API/whois_domain_api_sample.json)
 - [API] [WHOIS IP Range API Response Sample](/WHOIS/API/whois_ip_range_api_sample.json)

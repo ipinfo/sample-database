@@ -43,6 +43,7 @@ curl "ipinfo.io/domains/IP_ADDRESS?token=TOKEN&limit=5"
 # Samples
 
 - [CSV Database] [Hosted Domains Database Sample](/Hosted%20Domains/hosted_domains_sample.csv)
+- [MMDB Database] [Hosted Domains Database Sample](/Hosted%20Domains/hosted_domains_sample.mmdb)
 - [API] [Hosted Domains API Response Sample](/Hosted%20Domains/hosted_domains_api_sample.json)
 
 # Guides, Resources & Links
