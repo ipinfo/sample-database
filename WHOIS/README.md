@@ -29,7 +29,7 @@ Parsed and normalized data we have collected from different RIRs. We also provid
 | `email` | webmaster@gradocero.com | TEXT | Contact email information |
 | `abuse` | abuse@sourcedns.com | TEXT | Abuse email information |
 | `domain` | gradocero.com | TEXT | Domain associated with the netblock |
-| `countr`y.1 | MX | TEXT | Secondary country information |
+| `country.1` | MX | TEXT | Secondary country information |
 | `city` | Naucalpan de Juarez | TEXT | City information |
 | `street` | Calle Andes #46 | TEXT | Street information |
 | `postal` | 53125 | TEXT | Postal Code information |
@@ -45,7 +45,6 @@ Parsed and normalized data we have collected from different RIRs. We also provid
 
 RIR WHOIS data is created by parsing IP WHOIS data from the regional Internet Registries. Aside from normalizing and structuring the data from different RIR, we include additional contexts and insights.
 
-<!-- Need to add the Data Type for this -->
 | Field Name | Example | Data Type | Notes |
 | --- | --- | --- | --- |
 | `range` | 45.142.160.224-45.142.161.255 | TEXT | IP Address range/netblock |
