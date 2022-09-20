@@ -40,6 +40,7 @@ $ curl ipinfo.io/IP_ADDRESS?token=TOKEN
 # Samples
 
 - [CSV Database] [IP to Company Database Sample](/IP%20to%20Company/ip_company_sample.csv)
+- [JSON Database] [IP to Company Database Sample](/IP%20to%20Company/ip_company_sample.json)
 - [MMDB Database] [IP to Company Database Sample](/IP%20to%20Company/ip_company_sample.mmdb)
 - [API] [IP to Company API Response Sample](/IP%20to%20Company/ip_company_api_sample.json)
 

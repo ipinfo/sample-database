@@ -36,6 +36,7 @@ $ curl ipinfo.io/IP_ADDRESS?token=TOKEN
 # Samples
 
 - [CSV Database] [IP to Mobile Carrier Database Sample](/IP%20to%20Mobile%20Carrier/ip_carrier_sample.csv)
+- [JSON Database] [IP to Mobile Carrier Database Sample](/IP%20to%20Mobile%20Carrier/ip_carrier_sample.json)
 - [MMDB Database] [IP to Mobile Carrier Database Sample](/IP%20to%20Mobile%20Carrier/ip_carrier_sample.mmdb)
 - [API] [IP to Mobile Carrier API Response Sample](/IP%20to%20Mobile%20Carrier/ip_carrier_api_sample.json)
 
