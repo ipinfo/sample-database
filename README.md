@@ -217,8 +217,8 @@ You can find the schema, database sample, API response sample, and other informa
 
 ### R WHOIS
 
-| Field Name | Example | Data Type | Notes |
-| --- | --- | --- | --- |
+| Field Name | Example | Notes |
+| --- | --- | --- |
 | `range` | 50.28.18.195 | IP Address range/netblock |
 | `id` | NETBLK-GRADOCEROPUB.50.28.18.195/32 | Raw netblock identifier from WHOIS |
 | `name` | Grado Cero Publicidad S.A. de C.V. | Name of netblock |
@@ -238,8 +238,8 @@ You can find the schema, database sample, API response sample, and other informa
 
 ### RIR WHOIS
 
-| Field Name | Example | Data Type | Notes |
-| --- | --- | --- | --- |
+| Field Name | Example | Notes |
+| --- | --- | --- |
 | `range` | 45.142.160.224-45.142.161.255 | IP Address range/netblock |
 | `id` | PL-DOMYNET-NETWORK | Raw netblock identifier from WHOIS |
 | `name` | DomyNet Sp. z o.o. | Name of netblock |
@@ -290,9 +290,9 @@ Other kinds of WHOIS Database IPinfo offers:
 
 </details>
 
-### 🔗 [WHOIS Database Page](https://ipinfo.io/products/ip-abuse-contact-database)
+### 🔗 [WHOIS Database Product Page](https://ipinfo.io/products/ip-abuse-contact-database)
 
-</>
+</details>
 
 </details>
 
