@@ -290,9 +290,9 @@ Other kinds of WHOIS Database IPinfo offers:
 
 </details>
 
-### 🔗 [WHOIS Database Page](https://ipinfo.io/products/ip-abuse-contact-database)
+### 🔗 [WHOIS Database Product Page](https://ipinfo.io/products/ip-abuse-contact-database)
 
-</>
+</details>
 
 </details>
 
