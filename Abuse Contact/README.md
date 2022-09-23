@@ -36,6 +36,13 @@ $ curl ipinfo.io/IP_ADDRESS?token=TOKEN
 
 ![Abuse Contact API Response.png](../assets/Abuse_Contact_API_Response.png)
 
+# Samples
+
+- [CSV Database] [Abuse Contact Database Sample](/Abuse%20Contact/abuse_contact_sample.csv)
+- [JSON Database] [Abuse Contact Database Sample](/Abuse%20Contact/abuse_contact_sample.json)
+- [MMDB Database] [Abuse Contact Database Sample](/Abuse%20Contact/abuse_contact_sample.mmdb)
+- [API] [Abuse Contact API Response Sample](/Abuse%20Contact/abuse_contact_api_sample.json)
+
 # Guides, Resources & Links
 
 ## Links

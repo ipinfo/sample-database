@@ -1,6 +1,6 @@
 # IP to Company Database
 
-## Identify the company, their type, their domain and the IP addresses they own.
+## Identify large scale companies, their type, their domain, their ASN information and the IP addresses they own.
 
 # Database Schema & Description
 
@@ -36,6 +36,13 @@ $ curl ipinfo.io/IP_ADDRESS?token=TOKEN
 ```
 
 ![IP to Company (1).png](../assets/IP_to_Company.png)
+
+# Samples
+
+- [CSV Database] [IP to Company Database Sample](/IP%20to%20Company/ip_company_sample.csv)
+- [JSON Database] [IP to Company Database Sample](/IP%20to%20Company/ip_company_sample.json)
+- [MMDB Database] [IP to Company Database Sample](/IP%20to%20Company/ip_company_sample.mmdb)
+- [API] [IP to Company API Response Sample](/IP%20to%20Company/ip_company_api_sample.json)
 
 # Guides, Resources & Links
 

@@ -29,7 +29,7 @@ Parsed and normalized data we have collected from different RIRs. We also provid
 | `email` | webmaster@gradocero.com | TEXT | Contact email information |
 | `abuse` | abuse@sourcedns.com | TEXT | Abuse email information |
 | `domain` | gradocero.com | TEXT | Domain associated with the netblock |
-| `countr`y.1 | MX | TEXT | Secondary country information |
+| `country.1` | MX | TEXT | Secondary country information |
 | `city` | Naucalpan de Juarez | TEXT | City information |
 | `street` | Calle Andes #46 | TEXT | Street information |
 | `postal` | 53125 | TEXT | Postal Code information |
@@ -38,7 +38,37 @@ Parsed and normalized data we have collected from different RIRs. We also provid
 
 </details>
 
+<details>
+<summary>
+<h2>RIR WHOIS</h2>
+</summary>
 
+RIR WHOIS data is created by parsing IP WHOIS data from the regional Internet Registries. Aside from normalizing and structuring the data from different RIR, we include additional contexts and insights.
+
+| Field Name | Example | Data Type | Notes |
+| --- | --- | --- | --- |
+| `range` | 45.142.160.224-45.142.161.255 | TEXT | IP Address range/netblock |
+| `id` | PL-DOMYNET-NETWORK | TEXT | Raw netblock identifier from WHOIS |
+| `name` | DomyNet Sp. z o.o. | TEXT | Name of netblock |
+| `country` | PL | TEXT | ISO 3166 country code |
+| `status` | ASSIGNED PA | TEXT | Range assignment type ([RIPE’s documentation](https://www.ripe.net/publications/docs/ripe-733)) |
+| `tech` | PK9274-RIPE | TEXT | ID for technical contact of WHOIS record |
+| `maintainer` | MNT-PL-DOMYNET-1 | TEXT | ID for contact authorized to update WHOIS record for netblock |
+| `admin` | PK9274-RIPE | TEXT | ID for administrative contact of netblock |
+| `source` | ripe | TEXT | RIR associated with record (RIPE, ARIN, etc.) |
+| `whois_domain` | domynet.pl | TEXT | Domain name (from WHOIS entry) |
+| `updated` | 2020-01-09 | TEXT | Last updated date (taken from WHOIS entry) |
+| `org` | ORG-DSZO39-RIPE | TEXT | ID or name of organization responsible for netblock |
+| `rdns_domain` | domynet.pl | TEXT | Domain associated with IP range (only available if a majority of IPs within range share a common reverse DNS domain) |
+| `domain` | domynet.pl | TEXT | Domain associated with netblock (based on our data sets) |
+| `geoloc` | 52.2260524 20.9941955 | TEXT | Latitude/longitude coordinates indicating where users of network are located |
+| `org_address` | ul. Lindleya 16/301 02-013 Warszawa POLAND | TEXT | Address of the associated organization |
+| `asn` | AS208348 | TEXT | Autonomous system number for organization that routes traffic for IP (based on BGP routing data) |
+| `as_name` | DomyNet Sp. z o.o. | TEXT | Name of AS (based on our data sets and data processing) |
+| `as_domain` | domynet.pl | TEXT | Domain of AS (based on our data sets and data processing) |
+| `as_type` | isp | TEXT | ISP, business, or hosting (based on around 20 different features and our custom training set) |
+
+</details>
 
 <details>
 <summary>
@@ -246,8 +276,33 @@ Please see the sample JSON in the codebase. This is a **truncated** version of t
 All our WHOIS API queries supports source parameter to filter records by RIR associated with the record.
 
 ```bash
-curl ipinfo.io/whois/poc/CP312-ARIN?token=0df49bbbc5e4eb&source=arin
+curl ipinfo.io/whois/poc/CP312-ARIN?token=TOKEN&source=arin
 ```
+
+# Samples
+
+- [CSV Database] [RWHOIS Database Sample](/WHOIS/rwhois_sample.csv)
+- [CSV Database] [RIR WHOIS Database Sample](/WHOIS/whois_rir_sample.csv)
+- [CSV Database] [WHOIS ASN Database Sample](/WHOIS/whois_asn_sample.csv)
+- [CSV Database] [WHOIS MNT Database Sample](/WHOIS/whois_mnt_sample.csv)
+- [CSV Database] [WHOIS NET Database Sample](/WHOIS/whois_net_sample.csv)
+- [CSV Database] [WHOIS ORG Database Sample](/WHOIS/whois_org_sample.csv)
+- [CSV Database] [WHOIS POC Database Sample](/WHOIS/whois_poc_sample.csv)
+- [MMDB Database] [RWHOIS Database Sample](/WHOIS/rwhois_sample.mmdb)
+- [MMDB Database] [RIR WHOIS Database Sample](/WHOIS/whois_rir_sample.mmdb)
+- [JSON Database] [RWHOIS Database Sample](/WHOIS/json/rwhois_sample.json)
+- [JSON Database] [RIR WHOIS Database Sample](/WHOIS/json/whois_rir_sample.json)
+- [JSON Database] [WHOIS MNT Database Sample](/WHOIS/json/whois_mnt_sample.json)
+- [JSON Database] [WHOIS NET Database Sample](/WHOIS/json/whois_net_sample.json)
+- [JSON Database] [WHOIS ORG Database Sample](/WHOIS/json/whois_org_sample.json)
+- [JSON Database] [WHOIS POC Database Sample](/WHOIS/json/whois_poc_sample.json)
+- [API] [WHOIS ASN API Response Sample](/WHOIS/API/whois_asn_api_sample.json)
+- [API] [WHOIS Domain API Response Sample](/WHOIS/API/whois_domain_api_sample.json)
+- [API] [WHOIS IP Range API Response Sample](/WHOIS/API/whois_ip_range_api_sample.json)
+- [API] [WHOIS NET API Response Sample](/WHOIS/API/whois_net_api_sample.json)
+- [API] [WHOIS ORG API Response Sample](/WHOIS/API/whois_org_api_sample.json)
+- [API] [WHOIS POC API Response Sample](/WHOIS/API/whois_poc_api_sample.json)
+ 
 
 # Guides, Resources & Links
 
