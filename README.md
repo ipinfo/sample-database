@@ -1,4 +1,4 @@
-# [<img src="https://ipinfo.io/static/ipinfo-small.svg" alt="IPinfo" width="24"/>](https://ipinfo.io/) IPinfo Sample Database Repository
+# [<img src="https://ipinfo.io/static/ipinfo-small.svg" alt="IPinfo" width="24"/>](https://ipinfo.io/) IPinfo® Sample Database Repository
 
 
 ## Sample datasets of all the [IP address database products](https://ipinfo.io/account/data-downloads).
@@ -211,7 +211,7 @@ You can find the schema, database sample, API response sample, and other informa
 <summary><h2>WHOIS</h2></summary>
 
 
-**IPinfo WHOIS database is a contextual, robust and consistent database of various types of WHOIS data.**
+**IPinfo® WHOIS database is a contextual, robust and consistent database of various types of WHOIS data.**
 
 You can find the schema, database sample, API response sample, and other information in the **[WHOIS folder](/WHOIS)**. The WHOIS database and their respective fields are listed below:
 
@@ -353,7 +353,7 @@ Follow us on [Twitter](https://twitter.com/ipinfoio) and [LinkedIn](https://www.
 
 ---
 
-# IPinfo Tools
+# IPinfo® Tools
 
 There are official IPinfo client libraries available for many languages including PHP, Python, Go, Java, Ruby, and many popular frameworks such as Django, Rails and Laravel. There are also many third party libraries and integrations available for our API.
 
@@ -361,8 +361,8 @@ We also have an excellent CLI tool (**930 Stars on Github**) and mapping tool.
 
 See [https://ipinfo.io/developers/libraries](https://ipinfo.io/developers/libraries) for more details.
 
-# About IPinfo
+# About IPinfo®
 
-Founded in 2013, IPinfo prides itself on being the most reliable, accurate, and in-depth source of IP address data available anywhere. We process terabytes of data to produce our custom IP geolocation, company, carrier, VPN detection, hosted domains, and IP type data sets. Our API handles over 40 billion requests a month for 100,000 businesses and developers.
+Founded in 2013, IPinfo® prides itself on being the most reliable, accurate, and in-depth source of IP address data available anywhere. We process terabytes of data to produce our custom IP geolocation, company, carrier, VPN detection, hosted domains, and IP type data sets. Our API handles over 40 billion requests a month for 100,000 businesses and developers.
 
 [![image](https://avatars3.githubusercontent.com/u/15721521?s=128&u=7bb7dde5c4991335fb234e68a30971944abc6bf3&v=4)](https://ipinfo.io/)
