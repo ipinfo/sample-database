@@ -8,6 +8,22 @@
   <img src="./assets/header_grahics_main_readme.png">
 </p>
 
+<!-- TOC: Manually Generated -->
+- [Database Overview](#database-overview)
+- [Features of the Repository](#features-of-the-repository)
+- [Summary of the Databases](#summary-of-the-databases)
+    - [IP Geolocation](#ip-geolocation)
+    - [IP to Company](#ip-to-company)
+    - [ASN](#asn)
+    - [IP to Mobile Carrier](#ip-to-mobile-carrier)
+    - [Privacy Detection](#privacy-detection--anonymous-ip-detection)
+    - [Hosted Domains](#hosted-domains--reverse-ip-lookup)
+    - [Abuse Contact](#abuse-contact)
+    - [WHOIS](#whois)
+- [Relevant Articles](#relevant-articles)
+  - [Guides](#guides)
+  - [FAQs](#faqs)
+- [About IPinfo](#about-ipinfo)
 
 # Database Overview
 
@@ -41,8 +57,7 @@ Please visit each folder to learn more about the databases. Each directory READM
 - Helpful guides, resources and articles
 
 
-<details id=0>
-<summary><h1>Summary of the Databases</h1></summary>
+# Summary of the Databases
 
 Please visit the individual database directories to learn more. The database schemas were generated in August, 2022.
 
@@ -93,7 +108,7 @@ You can find the schema, database sample, API response sample, and other informa
 | `country` | US | ISO 3166 country code |
 
 
-### 🔗 [IP to Company Database Product Page](Sample%20Database%20fb322a60f0544458ad861eb738e869cd/IP%20to%20Company%20Database%2081d7f85aaeb244b19608f3a1de1fecad.md)
+### 🔗 [IP to Company Database Product Page](https://ipinfo.io/products/ip-company-database)
 
 
 
@@ -123,7 +138,7 @@ You can find the schema, database sample, API response sample, and other informa
 </details>
 
 <details id=4>
-<summary><h2> IP to Mobile Carrier </h2></summary>
+<summary><h2>IP to Mobile Carrier</h2></summary>
 
 **Lookup Mobile Carrier data such as - MCC and MNC from IP addresses.** 
 
@@ -290,16 +305,13 @@ Other kinds of WHOIS Database IPinfo offers:
 
 </details>
 
-### 🔗 [WHOIS Database Product Page](https://ipinfo.io/products/ip-abuse-contact-database)
+### 🔗 [WHOIS Database Product Page](https://ipinfo.io/products/ip-whois-data-download)
 
 </details>
 
-</details>
+# Other Information (Usage, Exploration etc.)
 
-<details id=usage>
-<summary><h1>Other Information (Usage, Exploration etc.)</h1></summary>
-
-## How to explore the sample databases
+**How to explore the sample databases**
 
 - Please visit the folders for each database. You can also find the API response samples there for each product.
 - If you would like to explore CSV files, feel free to use any of these online services and import the raw CSV there -
@@ -308,13 +320,11 @@ Other kinds of WHOIS Database IPinfo offers:
 - Or you can you just download the CSV files to take a closer look.
 - You can also check out `.mmdb` sample files. Please use IPinfo's [mmdbctl](https://github.com/ipinfo/mmdbctl) tool to explore them.
 
-## Usage Information
+**Usage Information**
 
 - After signing up for database downloads service, you can either download the database from our website or you can `curl` the database from the database download endpoint. But make sure you have redirect [enabled](https://ipinfo.io/faq/article/142-when-i-access-the-database-endpoint-using-something-like-curl-it-doesn-t-seem-to-work-and-i-get-a-corrupted-empty-file-what-am-i-doing-wrong).
 - You can select how frequently the database gets updated. It can be daily, weekly, bi-weekly or monthly.
 - To look up an specific database, you can use any kind of data exploration package or database system you want to use. [Here is an example](https://ipinfo.io/faq/article/144-how-do-you-do-a-lookup-of-an-ip-address-using-your-database) of using MySQL and PostgreSQL to look up a specific IP address.
-
-</details>
 
 # Relevant Articles
 
@@ -328,18 +338,6 @@ Other kinds of WHOIS Database IPinfo offers:
 ## FAQs
 
 The list of FAQs (Frequently Asked Questions) can be found [here](https://ipinfo.io/faq/category/137-data-downloads).
-
-<details>
-
-<summary><h2>External Resources</h2></summary>
-
-
-- IP Address Data Type declaration:
-    - [PostgreSQL: Network Address Types: INET vs CIDR](https://www.postgresql.org/docs/current/datatype-net-types.html#DATATYPE-INET-VS-CIDR)
-
-</details>
-
-
 
 # Found a bug?
 

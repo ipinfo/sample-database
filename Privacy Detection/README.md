@@ -45,7 +45,9 @@ As well as the database product, IPinfo also provides a robust API service. Plea
 ## Links
 
 🔗 [Privacy Detection Database Type](https://ipinfo.io/products/anonymous-ip-database)
+
 🔗 [Privacy Detection API Page](https://ipinfo.io/products/proxy-vpn-detection-api)
+
 🔗 [Privacy Detection Data Type](https://ipinfo.io/developers/data-types#privacy-data)
 
 ## Articles & Guides (4)
