@@ -12,6 +12,9 @@
 - [Database Overview](#database-overview)
 - [Features of the Repository](#features-of-the-repository)
 - [Summary of the Databases](#summary-of-the-databases)
+    - [IP to Country (Free)](#ip-to-country-free)
+    - [IP to ASN (Free)](#ip-to-asn-free)
+    - [IP to Country + ASN (Free)](#ip-to-country--asn-free)
     - [IP Geolocation](#ip-geolocation)
     - [IP to Company](#ip-to-company)
     - [ASN](#asn)
@@ -35,9 +38,12 @@ The database products [IPinfo.io](https://ipinfo.io) has to offer are -
 
 | Database Product | Sample Database Repo | Description |
 | --- | --- | --- |
+| [IP to Country (Free)](#) | [IP to Country Sample](/IP%20Country) | IP to Country Information|
+| [IP to ASN (Free)](#) | [IP to ASN (Free) Sample](/IP%20ASN) | IP to ASN inforamtion |
+| [IP to Country+ASN (Free)](#) | [IP to Country + ASN Sample](/IP%2Country%2ASN) | Joined database of IP to Country and IP to ASN (Free) |
 | [IP Geolocation Database](https://ipinfo.io/products/ip-geolocation-database) | [IP Geolocation Sample](/IP%20Geolocation) | IP geolocation information |
 | [IP to Company Database](https://ipinfo.io/products/ip-company-database) | [IP to Company Sample](/IP%20to%20Company) | Company associated with IP address |
-| [ASN Database](https://ipinfo.io/products/asn-database) | [ASN Sample](/ASN) | IP range and ASN |
+| [ASN Database](https://ipinfo.io/products/asn-database) | [ASN Sample](/ASN) | IP range and ASN inforamtion |
 | [IP to Mobile Carrier Database](https://ipinfo.io/products/mobile-ip-database) | [IP to Mobile Sample](/IP%20to%20Mobile%20Carrier) | Mobile carrier and country information |
 | [Privacy Detection Database](https://ipinfo.io/products/anonymous-ip-database) | [Privacy Detection Sample](/Privacy%20Detection) | VPN, proxy, Tor, relay detection |
 | [Hosted Domain Database](https://ipinfo.io/products/hosted-domains-database) | [Hosted Domains Sample](/Hosted%20Domains) | Reverse IP lookup |
@@ -59,16 +65,76 @@ Please visit each folder to learn more about the databases. Each directory READM
 
 # Summary of the Databases
 
-Please visit the individual database directories to learn more. The database schemas were generated in August, 2022.
+Please visit the individual database directories to learn more. The database schemas were generated in February, 2023.
 
 <details id=1>
+<summary><h2>IP to Country (Free)</h2></summary>
+
+**Get the country and continent information from IP addresses.**
+
+You can find the schema, database sample, API response sample, and other information in the **[IP to Country folder](/IP%20Country)**. The database includes the following fields:
+
+| Field Name       | Example         | Description                                |
+|------------------|-----------------|--------------------------------------------|
+| `start_ip`       | 217.220.0.0     | Starting IP address of an IP address range |
+| `end_ip`         | 217.223.255.255 | Ending IP address of an IP address range   |
+| `country`        | IT              | ISO 3166 country code of the location      |
+| `country_name`   | Italy           | Name of the country                        |
+| `continent`      | EU              | Continent code of the country              |
+| `continent_name` | Europe          | Name of the continent                      |
+
+
+</details>
+
+<details id=2>
+<summary><h2>IP to ASN (Free)</h2></summary>
+
+**Get ASN information (limited) from an IP address range.**
+
+You can find the schema, database sample, API response sample, and other information in the **[IP to ASN folder](/IP%20ASN)**. The database includes the following fields:
+
+| Field Name | Example       | Description                                       |
+|------------|---------------|---------------------------------------------------|
+| `start_ip` | 62.235.50.0   | Starting IP address of an IP address range        |
+| `end_ip`   | 62.235.50.255 | Ending IP address of an IP address range          |
+| `asn`      | AS29005       | Autonomous System Number                          |
+| `name`     | Proximus NV   | Name of the AS (Autonomous System) organization   |
+| `domain`   | proximus.com  | Official domain or website of the AS organization |
+
+
+</details>
+
+
+<details id=3>
+<summary><h2>IP to Country + ASN (Free)</h2></summary>
+
+**Joined database of IP to Country and IP to ASN database.**
+
+You can find the schema, database sample, API response sample, and other information in the **[IP to Country ASN folder](/IP%20Country%20ASN)**. The database includes the following fields:
+
+| Field Name       | Example        | Description                                       |
+|------------------|----------------|---------------------------------------------------|
+| `start_ip`       | 194.87.139.0   | Starting IP address of an IP address range        |
+| `end_ip`         | 194.87.139.255 | Ending IP address of an IP address range          |
+| `country`        | NL             | ISO 3166 country code of the location             |
+| `country_name`   | Netherlands    | Name of the country                               |
+| `continent`      | EU             | Continent code of the country                     |
+| `continent_name` | Europe         | Name of the continent                             |
+| `asn`            | AS1239         | Autonomous System Number                          |
+| `as_name`        | Sprint         | Name of the AS (Autonomous System) organization   |
+| `as_domain`      | sprint.net     | Official domain or website of the AS organization |
+
+
+</details>
+
+<details id=4>
 <summary><h2>IP Geolocation</h2></summary>
 
 **Get geolocation information from IP addresses.**
 
 You can find the schema, database sample, API response sample, and other information in the **[IP Geolocation folder](/IP%20Geolocation)**. The database includes the following fields:
 
-| Field Name | Example | Notes |
+| Field Name | Example | Description |
 | --- | --- | --- |
 | `start_ip` | 1.253.242.0 | Starting IP address of an IP address range |
 | `end_ip` | 1.253.242.255 | Ending IP address of an IP address range |
@@ -86,14 +152,14 @@ You can find the schema, database sample, API response sample, and other informa
 
 </details>
 
-<details id=2>
+<details id=5>
 <summary><h2>IP to Company</h2></summary>
 
 **Get firmographics data and identify the company behind the IP address and network traffic.**
 
 You can find the schema, database sample, API response sample, and other information in the **[IP to Company folder](/IP%20to%20Company)**. This database is can be used to identify large scale organization or companies behind IP address ranges. The database includes the following fields:
 
-| Field Name | Example | Notes |
+| Field Name | Example | Description |
 | --- | --- | --- |
 | `start_ip` | 107.136.106.168 | Starting IP address of an IP address range |
 | `end_ip` | 107.136.106.175 | Ending IP address of an IP address range |
@@ -110,11 +176,9 @@ You can find the schema, database sample, API response sample, and other informa
 
 ### 🔗 [IP to Company Database Product Page](https://ipinfo.io/products/ip-company-database)
 
-
-
 </details>
 
-<details id=3>
+<details id=6>
 <summary><h2>ASN</h2></summary>
 
 
@@ -122,7 +186,7 @@ You can find the schema, database sample, API response sample, and other informa
 
 You can find the schema, database sample, API response sample, and other information in the **[ASN folder](/ASN)**. The Database contains the following fields:
 
-| Field Name | Example | Notes |
+| Field Name | Example | Description |
 | --- | --- | --- |
 | `start_ip` | 125.113.0.0 | Starting IP address of the ASN IP address block |
 | `end_ip` | 125.113.255.255 | Ending IP address of the ASN IP address block |
@@ -137,14 +201,14 @@ You can find the schema, database sample, API response sample, and other informa
 
 </details>
 
-<details id=4>
+<details id=7>
 <summary><h2>IP to Mobile Carrier</h2></summary>
 
 **Lookup Mobile Carrier data such as - MCC and MNC from IP addresses.** 
 
 You can find the schema, database sample, API response sample, and other information in the **[IP to Mobile Carrier folder](/IP%20to%20Mobile%20Carrier)**. The database contains the following fields:
 
-| Field Name | Example | Notes |
+| Field Name | Example | Description |
 | --- | --- | --- |
 | `start_ip` | 5.208.203.0 | Starting IP address of an IP address range |
 | `end_ip` | 5.208.203.255 | Ending IP address of an IP address range |
@@ -158,14 +222,14 @@ You can find the schema, database sample, API response sample, and other informa
 
 </details>
 
-<details id=5>
+<details id=8>
 <summary><h2>Privacy Detection / Anonymous IP Detection</h2></summary>
 
 **Demystify anonymous IP addresses. Identify privacy masking services such as VPN, Tor, proxies, relays and hosting from IP addresses.**
 
 You can find the schema, database sample, API response sample, and other information in the **[Privacy Detection folder](/Privacy%20Detection)**. The database includes the following fields:
 
-| Field Name | Example | Notes |
+| Field Name | Example | Description |
 | --- | --- | --- |
 | `start_ip` | 115.9.76.79 | Starting IP address of an IP address range |
 | `end_ip` | 115.9.76.79 | Ending IP address of an IP address range |
@@ -181,7 +245,7 @@ You can find the schema, database sample, API response sample, and other informa
 
 </details>
 
-<details id=6>
+<details id=9>
 <summary><h2>Hosted Domains / Reverse IP Lookup</h2></summary>
 
 **Hosted Domains database enables you to do reverse IP lookups.**
@@ -190,7 +254,7 @@ Through our Hosted Domains service, you can see the full list of domains hosted 
 
 You can find the schema, database sample, API response sample, and other information in the **[Hosted Domains folder](/Hosted%20Domains)**. The database includes the following fields:
 
-| Field Name | Example | Notes |
+| Field Name | Example | Description |
 | --- | --- | --- |
 | `ip` | 135.125.236.225 | IP address for reverse IP lookup |
 | `total` | 3 | Number of domains registered to the IP Address |
@@ -200,14 +264,14 @@ You can find the schema, database sample, API response sample, and other informa
 
 </details>
 
-<details id=7>
+<details id=10>
 <summary><h2>Abuse Contact</h2></summary>
 
 **Get the abuse contact information of every ISP on the internet.**
 
 You can find the schema, database sample, API response sample, and other information in the **[Abuse Contact folder](/Abuse%20Contact)**. The database includes the following fields:
 
-| Field Name | Example | Notes |
+| Field Name | Example | Description |
 | --- | --- | --- |
 | `start_ip` | 119.93.20.248 | Starting IP address of an IP address block |
 | `end_ip` | 119.93.20.255 | Ending IP address of an IP address block |
@@ -222,7 +286,7 @@ You can find the schema, database sample, API response sample, and other informa
 
 </details>
 
-<details id=8>
+<details id=11>
 <summary><h2>WHOIS</h2></summary>
 
 
@@ -232,7 +296,7 @@ You can find the schema, database sample, API response sample, and other informa
 
 ### R WHOIS
 
-| Field Name | Example | Notes |
+| Field Name | Example | Description |
 | --- | --- | --- |
 | `range` | 50.28.18.195 | IP Address range/netblock |
 | `id` | NETBLK-GRADOCEROPUB.50.28.18.195/32 | Raw netblock identifier from WHOIS |
@@ -253,7 +317,7 @@ You can find the schema, database sample, API response sample, and other informa
 
 ### RIR WHOIS
 
-| Field Name | Example | Notes |
+| Field Name | Example | Description |
 | --- | --- | --- |
 | `range` | 45.142.160.224-45.142.161.255 | IP Address range/netblock |
 | `id` | PL-DOMYNET-NETWORK | Raw netblock identifier from WHOIS |
@@ -277,7 +341,7 @@ You can find the schema, database sample, API response sample, and other informa
 | `as_type` | isp | ISP, business, or hosting (based on around 20 different features and our custom training set) |
 
 
-<details id=8>
+<details id=12>
 <summary><h3>Other WHOIS Databases</h3></summary>
 
 Other kinds of WHOIS Database IPinfo offers:
@@ -315,8 +379,9 @@ Other kinds of WHOIS Database IPinfo offers:
 
 - Please visit the folders for each database. You can also find the API response samples there for each product.
 - If you would like to explore CSV files, feel free to use any of these online services and import the raw CSV there -
-    - [https://csvfiddle.io/](https://csvfiddle.io/)
-    - [https://lite.datasette.io/](https://lite.datasette.io/)
+    - [DuckDB] [CSVfiddle](https://csvfiddle.io/)
+    - [SQLite3] [Datasette](https://lite.datasette.io/)
+    - [PostgreSQL] [Bit.io](https://bit.io/)
 - Or you can you just download the CSV files to take a closer look.
 - You can also check out `.mmdb` sample files. Please use IPinfo's [mmdbctl](https://github.com/ipinfo/mmdbctl) tool to explore them.
 
@@ -330,6 +395,8 @@ Other kinds of WHOIS Database IPinfo offers:
 
 ## Guides
 
+- [How to choose the best file format for your IPinfo database?](https://ipinfo.io/blog/ipinfo-database-formats/)
+- [How to get IP data and IP location in C# with IPinfo](https://ipinfo.io/blog/ip-geolocation-c-sharp/)
 - [Our downloadable IP WHOIS data sets are live!](https://ipinfo.io/blog/our-downloadable-ip-whois-data-sets-are-live)
 - [Data downloads vs API, or both?](https://ipinfo.io/blog/data-downloads-vs-api-or-both/)
 - [Ingesting IPinfo geolocation data with PostgreSQL 13](https://ipinfo.io/blog/ingesting-ipinfo-geolocation-data-with-postgresql-13/)
