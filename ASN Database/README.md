@@ -46,11 +46,11 @@ $ curl ipinfo.io/ASN?token=TOKEN
 
 # Samples
 
-- [CSV Database] [ASN Database Sample](/ASN/asn_sample.csv)
-- [JSON Database] [ASN Database Sample](/ASN/asn_sample.json)
-- [MMDB Database] [ASN Database Sample](/ASN/asn_sample.mmdb)
-- [API] [ASN Lookup API Response Sample](/ASN/asn_lookup_api_sample.json)
-- [API ][IP Address to ASN API Response Sample](/ASN/ip_address_to_asn_api_sample.json)
+- [CSV Database] [ASN Database Sample](/ASN%20Database/asn_sample.csv)
+- [JSON Database] [ASN Database Sample](/ASN%20Database/asn_sample.json)
+- [MMDB Database] [ASN Database Sample](/ASN%20Database/asn_sample.mmdb)
+- [API] [ASN Lookup API Response Sample](/ASN%20Database/asn_lookup_api_sample.json)
+- [API][IP Address to ASN API Response Sample](/ASN%20Database/ip_address_to_asn_api_sample.json)
 
 # Guides, Resources & Links
 
