@@ -1,6 +1,6 @@
-# IP to ASN
+# IP to Country
 
-## Get ASN information from an IP address range.
+## Get the country and continent where the IP address is located
 
 # Database Schema & Description
 
@@ -8,21 +8,21 @@
 
 The following database schema represents the CSV database. We also provide JSON and MMDB format data.
 
-| Field Name | Example            | Data Type | Description                                       |
-|------------|--------------------|-----------|---------------------------------------------------|
-| `start_ip` | 1.0.0.0            | TEXT      | Starting IP address of an IP address range        |
-| `end_ip`   | 1.0.0.255          | TEXT      | Ending IP address of an IP address range          |
-| `asn`      | AS13335            | TEXT      | Autonomous System Number                          |
-| `name`     | Cloudflare, Inc.   | TEXT      | Name of the AS (Autonomous System) organization   |
-| `domain`   | cloudflare.com     | TEXT      | Official domain or website of the AS organization |
+| Field Name | Example | Data Type | Description |
+| --- | --- | --- | --- |
+| `start_ip` | 217.220.0.0 | TEXT | Starting IP address of an IP address range |
+| `end_ip` | 217.223.255.255 | TEXT | Ending IP address of an IP address range |
+| `country` | IT | TEXT | ISO 3166 country code of the location |
+| `country_name` | Italy | TEXT | Name of the country |
+| `continent` | EU | TEXT | Continent code of the country |
+| `continent_name` | Europe | TEXT | Name of the continent |
 
 
 # Samples
 
-- [CSV Database] [IP to ASN Database Sample](/IP%20ASN/ip_asn_sample.csv)
-- [JSON Database] [IP to ASN Database Sample](/IP%20ASN/ip_asn_sample.json)
-- [MMDB Database] [IP to ASN Sample](/IP%20ASN/ip_asn_sample.mmdb)
-
+- [CSV Database] [IP to Country Database Sample](/IP%20to%20Country/ip_country_sample.csv)
+- [JSON Database] [IP to Country Database Sample](/IP%20to%20Country/ip_country_sample.json)
+- [MMDB Database] [IP to Database Sample](/IP%20to%20Country/ip_country_sample.mmdb)
 
 ---
 

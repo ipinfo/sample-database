@@ -26,9 +26,9 @@ The following database schema represents the CSV database. We also provide JSON 
 
 # Samples
 
-- [CSV Database] [IP to Country + ASN Database Sample](/IP%20Country%20ASN/ip_country_asn_sample.csv)
-- [JSON Database] [IP to Country + ASN Database Sample](/IP%20Country%20ASN/ip_country_asn_sample.json)
-- [MMDB Database] [IP to Database + ASN Sample](/IP%20Country%20ASN/ip_country_asn_sample.mmdb)
+- [CSV Database] [IP to Country + ASN Database Sample](/IP%20to%20Country%20ASN/ip_country_asn_sample.csv)
+- [JSON Database] [IP to Country + ASN Database Sample](/IP%20to%20Country%20ASN/ip_country_asn_sample.json)
+- [MMDB Database] [IP to Database + ASN Sample](/IP%20to%20Country%20ASN/ip_country_asn_sample.mmdb)
 
 ---
 

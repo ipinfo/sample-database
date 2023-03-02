@@ -17,7 +17,7 @@
     - [IP to Country + ASN (Free)](#ip-to-country--asn-free)
     - [IP Geolocation](#ip-geolocation)
     - [IP to Company](#ip-to-company)
-    - [ASN](#asn)
+    - [ASN Database](#asn-database)
     - [IP to Mobile Carrier](#ip-to-mobile-carrier)
     - [Privacy Detection](#privacy-detection--anonymous-ip-detection)
     - [Hosted Domains](#hosted-domains--reverse-ip-lookup)
@@ -38,12 +38,12 @@ The database products [IPinfo.io](https://ipinfo.io) has to offer are -
 
 | Database Product | Sample Database Repo | Description |
 | --- | --- | --- |
-| [IP to Country (Free)](#) | [IP to Country Sample](/IP%20Country) | IP to Country Information|
-| [IP to ASN (Free)](#) | [IP to ASN (Free) Sample](/IP%20ASN) | IP to ASN inforamtion |
-| [IP to Country+ASN (Free)](#) | [IP to Country + ASN Sample](/IP%2Country%2ASN) | Joined database of IP to Country and IP to ASN (Free) |
+| [IP to Country (Free)](https://ipinfo.io/products/free-ip-database) | [IP to Country Sample](/IP%20to%20Country) | IP to Country Information|
+| [IP to ASN (Free)](https://ipinfo.io/products/free-ip-database) | [IP to ASN (Free) Sample](/IP%20to%20ASN) | IP to ASN inforamtion |
+| [IP to Country+ASN (Free)](https://ipinfo.io/products/free-ip-database) | [IP to Country + ASN Sample](/IP%20to%20Country%20ASN) | Joined database of IP to Country and IP to ASN (Free) |
 | [IP Geolocation Database](https://ipinfo.io/products/ip-geolocation-database) | [IP Geolocation Sample](/IP%20Geolocation) | IP geolocation information |
 | [IP to Company Database](https://ipinfo.io/products/ip-company-database) | [IP to Company Sample](/IP%20to%20Company) | Company associated with IP address |
-| [ASN Database](https://ipinfo.io/products/asn-database) | [ASN Sample](/ASN) | IP range and ASN inforamtion |
+| [ASN Database](https://ipinfo.io/products/asn-database) | [ASN Database Sample](/ASN%20Database) | IP range and ASN inforamtion |
 | [IP to Mobile Carrier Database](https://ipinfo.io/products/mobile-ip-database) | [IP to Mobile Sample](/IP%20to%20Mobile%20Carrier) | Mobile carrier and country information |
 | [Privacy Detection Database](https://ipinfo.io/products/anonymous-ip-database) | [Privacy Detection Sample](/Privacy%20Detection) | VPN, proxy, Tor, relay detection |
 | [Hosted Domain Database](https://ipinfo.io/products/hosted-domains-database) | [Hosted Domains Sample](/Hosted%20Domains) | Reverse IP lookup |
@@ -72,7 +72,7 @@ Please visit the individual database directories to learn more. The database sch
 
 **Get the country and continent information from IP addresses.**
 
-You can find the schema, database sample, API response sample, and other information in the **[IP to Country folder](/IP%20Country)**. The database includes the following fields:
+You can find the schema, database sample, API response sample, and other information in the **[IP to Country folder](/IP%20to%20Country)**. The database includes the following fields:
 
 | Field Name       | Example         | Description                                |
 |------------------|-----------------|--------------------------------------------|
@@ -91,7 +91,7 @@ You can find the schema, database sample, API response sample, and other informa
 
 **Get ASN information (limited) from an IP address range.**
 
-You can find the schema, database sample, API response sample, and other information in the **[IP to ASN folder](/IP%20ASN)**. The database includes the following fields:
+You can find the schema, database sample, API response sample, and other information in the **[IP to ASN folder](/IP%20to%20ASN)**. The database includes the following fields:
 
 | Field Name | Example       | Description                                       |
 |------------|---------------|---------------------------------------------------|
@@ -110,7 +110,7 @@ You can find the schema, database sample, API response sample, and other informa
 
 **Joined database of IP to Country and IP to ASN database.**
 
-You can find the schema, database sample, API response sample, and other information in the **[IP to Country ASN folder](/IP%20Country%20ASN)**. The database includes the following fields:
+You can find the schema, database sample, API response sample, and other information in the **[IP to Country ASN folder](/IP%20to%20Country%20ASN)**. The database includes the following fields:
 
 | Field Name       | Example        | Description                                       |
 |------------------|----------------|---------------------------------------------------|
@@ -179,12 +179,12 @@ You can find the schema, database sample, API response sample, and other informa
 </details>
 
 <details id=6>
-<summary><h2>ASN</h2></summary>
+<summary><h2>ASN Database</h2></summary>
 
 
 **Get ASN data from ASN or IP Address information.**
 
-You can find the schema, database sample, API response sample, and other information in the **[ASN folder](/ASN)**. The Database contains the following fields:
+You can find the schema, database sample, API response sample, and other information in the **[ASN folder](/ASN%20Database)**. The Database contains the following fields:
 
 | Field Name | Example | Description |
 | --- | --- | --- |
@@ -401,6 +401,8 @@ Other kinds of WHOIS Database IPinfo offers:
 - [Data downloads vs API, or both?](https://ipinfo.io/blog/data-downloads-vs-api-or-both/)
 - [Ingesting IPinfo geolocation data with PostgreSQL 13](https://ipinfo.io/blog/ingesting-ipinfo-geolocation-data-with-postgresql-13/)
 - [Introducing a Simpler Way to get IP Address Data in Snowflake](https://ipinfo.io/blog/ip-address-data-in-snowflake/)
+- [IP data enrichment with IPinfo: 4 ways to add insights to your traffic/server logs](https://ipinfo.io/blog/ip-data-enrichment-in-4-ways/)
+- [Meet IPinfo’s Free IP Data Downloads](https://ipinfo.io/blog/meet-free-ip-address-database/)
 
 ## FAQs
 
