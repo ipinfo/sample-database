@@ -2,6 +2,8 @@
 
 ## Joined database of our free IP to Country and IP to ASN Database
 
+This database is part of our [free IP data downloads offering](https://ipinfo.io/products/free-ip-database). The database is updated daily, provides full accuracy, and includes both IPv4 and IPv6 information in one database download. This database is created by joining our IP to Country and IP to ASN database. The database join operation is optimized and standardized for IP queries.
+
 # Database Schema & Description
 
 *[data updated as of February, 2023]*

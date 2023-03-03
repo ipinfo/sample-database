@@ -12,9 +12,9 @@
 - [Database Overview](#database-overview)
 - [Features of the Repository](#features-of-the-repository)
 - [Summary of the Databases](#summary-of-the-databases)
-    - [IP to Country (Free)](#ip-to-country-free)
-    - [IP to ASN (Free)](#ip-to-asn-free)
-    - [IP to Country + ASN (Free)](#ip-to-country--asn-free)
+    - [IP to Country](#ip-to-country)
+    - [IP to ASN](#ip-to-asn)
+    - [IP to Country + ASN](#ip-to-country--asn)
     - [IP Geolocation](#ip-geolocation)
     - [IP to Company](#ip-to-company)
     - [ASN Database](#asn-database)
@@ -38,9 +38,6 @@ The database products [IPinfo.io](https://ipinfo.io) has to offer are -
 
 | Database Product | Sample Database Repo | Description |
 | --- | --- | --- |
-| [IP to Country (Free)](https://ipinfo.io/products/free-ip-database) | [IP to Country Sample](/IP%20to%20Country) | IP to Country Information|
-| [IP to ASN (Free)](https://ipinfo.io/products/free-ip-database) | [IP to ASN (Free) Sample](/IP%20to%20ASN) | IP to ASN inforamtion |
-| [IP to Country+ASN (Free)](https://ipinfo.io/products/free-ip-database) | [IP to Country + ASN Sample](/IP%20to%20Country%20ASN) | Joined database of IP to Country and IP to ASN (Free) |
 | [IP Geolocation Database](https://ipinfo.io/products/ip-geolocation-database) | [IP Geolocation Sample](/IP%20Geolocation) | IP geolocation information |
 | [IP to Company Database](https://ipinfo.io/products/ip-company-database) | [IP to Company Sample](/IP%20to%20Company) | Company associated with IP address |
 | [ASN Database](https://ipinfo.io/products/asn-database) | [ASN Database Sample](/ASN%20Database) | IP range and ASN inforamtion |
@@ -49,6 +46,15 @@ The database products [IPinfo.io](https://ipinfo.io) has to offer are -
 | [Hosted Domain Database](https://ipinfo.io/products/hosted-domains-database) | [Hosted Domains Sample](/Hosted%20Domains) | Reverse IP lookup |
 | [Abuse Contact Database](https://ipinfo.io/products/ip-abuse-contact-database) | [Abuse Contact Sample](/Abuse%20Contact) | Abuse contact information |
 | [WHOIS Database](https://ipinfo.io/products/ip-whois-data-download) | [WHOIS Sample](/WHOIS) | Contextualized and structured WHOIS database |
+
+
+IPinfo also provides the following [IP databases for free](https://ipinfo.io/products/free-ip-database). The database provide full accuracy, daily updates and complete IP data solution. The databases are licensed under (CC BY-SA 4.0) and require an attribution statement, which can found on your account dashboard.
+
+| Database Product | Sample Database Repo | Description |
+| --- | --- | --- |
+| [IP to Country](https://ipinfo.io/products/free-ip-database) | [IP to Country Sample](/IP%20to%20Country) | IP to Country Information|
+| [IP to ASN](https://ipinfo.io/products/free-ip-database) | [IP to ASN Sample](/IP%20to%20ASN) | IP to ASN inforamtion |
+| [IP to Country + ASN](https://ipinfo.io/products/free-ip-database) | [IP to Country + ASN Sample](/IP%20to%20Country%20ASN) | Joined database of IP to Country and IP to ASN|
 
 **All of these products are available as CSV, JSON and MMDB type.**
 
@@ -68,7 +74,7 @@ Please visit each folder to learn more about the databases. Each directory READM
 Please visit the individual database directories to learn more. The database schemas were generated in February, 2023.
 
 <details id=1>
-<summary><h2>IP to Country (Free)</h2></summary>
+<summary><h2>IP to Country</h2></summary>
 
 **Get the country and continent information from IP addresses.**
 
@@ -87,7 +93,7 @@ You can find the schema, database sample, API response sample, and other informa
 </details>
 
 <details id=2>
-<summary><h2>IP to ASN (Free)</h2></summary>
+<summary><h2>IP to ASN</h2></summary>
 
 **Get ASN information (limited) from an IP address range.**
 
@@ -106,7 +112,7 @@ You can find the schema, database sample, API response sample, and other informa
 
 
 <details id=3>
-<summary><h2>IP to Country + ASN (Free)</h2></summary>
+<summary><h2>IP to Country + ASN</h2></summary>
 
 **Joined database of IP to Country and IP to ASN database.**
 

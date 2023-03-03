@@ -2,6 +2,8 @@
 
 ## Get ASN information from an IP address range.
 
+This database is part of our [free IP data downloads offering](https://ipinfo.io/products/free-ip-database). The database is updated daily, provides full accuracy and includes both IPv4 and IPv6 information in one database download.
+
 # Database Schema & Description
 
 *[data updated as of February, 2023]*
