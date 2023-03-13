@@ -1,201 +1,101 @@
 start_ip,end_ip,asn,name,domain
-67.59.128.0,67.59.191.255,AS20021,"Ntirety, Inc.",ntirety.com
-210.160.0.0,210.164.255.255,AS4713,NTT Communications Corporation,ntt.com
-131.75.87.0,131.75.87.255,AS721,DoD Network Information Center,mail.mil
-65.73.124.0,65.73.124.255,AS7011,"Frontier Communications of America, Inc.",frontiernet.net
-124.250.38.0,124.250.60.255,AS56048,China Mobile Communicaitons Corporation,chinamobile.com
-2806:230:101b::,2806:230:101b:ffff:ffff:ffff:ffff:ffff,AS11888,"Television Internacional, S.A. de C.V.",izzi.mx
-2a00:79e1:abc::,2a00:79e1:abf:ffff:ffff:ffff:ffff:ffff,AS36384,Google LLC,google.com
-187.85.56.0,187.85.59.255,AS262962,BRASIL NET EMPREENDIMENTOS LTDA - ME,brasilnett.com.br
-167.82.176.0,167.82.223.255,AS33745,Atos IT Solutions and Services Inc,atos.net
-2602:ffb7:d00::,2602:ffb7:dff:ffff:ffff:ffff:ffff:ffff,AS62874,Web2Objects LLC,web2objects.de
-45.133.4.0,45.133.7.255,AS137409,GSL Networks Pty LTD,globalsecurelayer.com
-2607:4a80::,2607:4a80:ffff:ffff:ffff:ffff:ffff:ffff,AS3778,Temple University,temple.edu
-103.234.160.0,103.234.161.255,AS149131,SOC LUA COMPANY LIMITED,soclua.net
-209.45.104.0,209.45.127.255,AS3132,Red Cientifica Peruana,rcp.pe
-185.144.36.0,185.144.39.255,AS559,SWITCH,switch.ch
-103.137.4.0,103.137.4.255,AS18403,FPT Telecom Company,fpt.vn
-207.14.30.0,207.14.31.255,AS1239,Sprint,sprint.net
-2607:1d00::,2607:1d00:ffff:ffff:ffff:ffff:ffff:ffff,AS63003,Infra-Solutions inc.,infra-solutions.com
-103.47.208.0,103.47.211.255,AS63930,READY SERVER PTE LTD,readyserver.sg
-206.12.80.0,206.12.81.255,AS271,BCnet,bc.net
-2406:c500:ffd2::,2406:c500:ffd2:ffff:ffff:ffff:ffff:ffff,AS9268,Over The Wire Pty Ltd,overthewire.com.au
-211.112.0.0,211.112.63.255,AS4663,"ELIMNET, INC.",elim.net
-104.36.224.0,104.36.224.255,AS10122,BIGO TECHNOLOGY PTE. LTD.,bigo.sg
-115.109.240.0,115.109.247.255,AS4755,TATA Communications formerly VSNL is Leading ISP,tatacommunications.com
-198.164.10.0,198.164.10.255,AS395431,IGT Canada Solutions,spielo.com
-159.98.80.0,159.98.103.255,AS3371,MCI,mci.com
-45.140.200.0,45.140.203.255,AS201341,"trafficforce, UAB",trafficforce.lt
-158.51.68.0,158.51.71.255,AS11910,LakeNet LLC,lakenetmi.com
-202.138.78.0,202.138.79.255,AS45838,Anticlockwise Pty Ltd,anticlockwise.com.au
-103.175.22.0,103.175.22.255,AS147199,BSOFT INDIA TECHNOLOGIES PRIVATE LIMITED,bsoftindia.com
-198.27.57.0,198.27.57.255,AS1828,Unitas Global LLC,unitasglobal.com
-103.93.166.0,103.93.166.255,AS18256,Bank of Ayudhya Public Company Limited.,krungsri.com
-2001:250:5::,2001:250:61:ffff:ffff:ffff:ffff:ffff,AS23910,China Next Generation Internet CERNET2,cernet.edu.cn
-146.135.0.0,146.135.31.255,AS5778,"CenturyLink Communications, LLC",centurylink.com
-204.62.116.0,204.62.119.255,AS19247,Northwestern Memorial Hospital,nm.org
-188.214.159.0,188.214.159.255,AS41011,CH-NET S.R.L.,ch-center.ro
-6.16.177.0,6.16.191.255,AS749,DoD Network Information Center,mail.mil
-91.227.140.0,91.227.143.255,AS56776,DialogSiberia-Barnaul Ltd,dialog-it.ru
-202.50.180.0,202.50.181.255,AS20868,ABB Information Systems Ltd,abb.com
-138.36.164.0,138.36.167.255,AS263444,Open X Tecnologia Ltda,openx.com.br
-37.156.108.0,37.156.108.255,AS200845,"AVATEL TELECOM, SA",avatel.es
-194.75.32.0,194.75.79.255,AS2856,British Telecommunications PLC,bt.com
-217.23.0.0,217.23.15.255,AS49981,WorldStream B.V.,worldstream.com
-2a0b:6900::,2a0b:6900:0:ffff:ffff:ffff:ffff:ffff,AS206873,GalaxyStar LLC,galaxydata.ru
-5.35.229.0,5.35.229.255,AS20773,Host Europe GmbH,hosteurope.de
-46.8.50.0,46.8.51.255,AS205569,REGIONSVYAZ OOO,regsv.com
-194.120.16.0,194.120.17.255,AS205376,Dirk Meyer,dinoex.de
-222.126.128.0,222.126.255.255,AS37965,Pacnet Business Solutions LTD,t-pbs.net
-118.99.85.0,118.99.86.255,AS38482,Biznet ISP,biznetnetworks.com
-133.173.0.0,133.173.255.255,AS2497,Internet Initiative Japan Inc.,iij.ad.jp
-74.254.198.0,74.254.203.255,AS6389,AT&T Corp.,att.com
-203.80.68.0,203.80.69.255,AS10103,HK Broadband Network Ltd.,hkbn.com.hk
-66.51.208.0,66.51.208.255,AS16509,"Amazon.com, Inc.",amazon.com
-2.95.0.0,2.95.255.255,AS3216,PJSC Vimpelcom,beeline.ru
-165.84.212.0,165.84.223.255,AS31463,4D Data Centres Limited,4d-dc.com
-94.143.56.0,94.143.63.255,AS12714,PJSC MegaFon,wifire.ru
-154.213.0.0,154.213.0.255,AS134548,DXTL Tseung Kwan O Service,rtat.net
-173.240.240.0,173.240.255.255,AS36687,WiLine Networks Inc.,wiline.com
-205.94.105.0,205.94.127.255,AS721,DoD Network Information Center,mail.mil
-198.168.108.0,198.168.111.255,AS23314,Summit Broadband,summit-broadband.com
-142.200.211.0,142.200.211.255,AS6327,Shaw Communications Inc.,shaw.ca
-46.40.128.0,46.40.191.255,AS29256,Syrian Telecommunication Private Closed Joint Stock Company,syriantelecom.sy
-107.163.38.0,107.163.56.255,AS395776,FEDERAL ONLINE GROUP LLC,foaaa.com
-20.157.3.0,20.157.5.255,AS8075,Microsoft Corporation,microsoft.com
-114.198.240.0,114.198.243.255,AS4761,INDOSAT Internet Network Provider,ioh.co.id
-23.166.32.0,23.166.32.255,AS394352,Fastnet Communications,fastnet.me
-155.225.62.0,155.225.64.255,AS2939,State of South Carolina,sc.gov
-103.176.160.0,103.176.161.255,AS141526,Jbn Online Private Limited,
-154.210.65.0,154.210.65.255,AS134548,DXTL Tseung Kwan O Service,rtat.net
-72.22.76.0,72.22.76.255,AS29873,"Newfold Digital, Inc.",enduranceinternational.com
-125.62.66.0,125.62.66.255,AS47582,ANSON NETWORK LIMITED,ansonnet.com
-198.218.118.0,198.218.120.255,AS27138,DoD Network Information Center,mail.mil
-208.117.223.0,208.117.223.255,AS32592,Uniti Fiber Holdings Inc.,uniti.com
-196.244.49.0,196.244.70.255,AS37518,Fiber Grid INC,fibergride.com
-203.22.104.0,203.22.105.255,AS56307,"ac3, Australian Centre for Advanced Computing and Communications",ac3.com.au
-198.177.190.0,198.177.190.255,AS19631,"Travelport Operations, Inc.",travelport.com
-2804:8844::,2804:8844:ffff:ffff:ffff:ffff:ffff:ffff,AS272760,MRJ INTERNET TELECOMUNICACOES EIRELI,
-103.166.234.0,103.166.234.255,AS140407,KitaNet,kita.net.id
-2001:67c:2f1c::,2001:67c:2f1c:ffff:ffff:ffff:ffff:ffff,AS41847,STEALTH NETWORKS,peerpointinternet.co.uk
-197.247.0.0,197.247.255.255,AS36925,MEDITELECOM,orange.ma
-2804:3188::,2804:3188:ffff:ffff:ffff:ffff:ffff:ffff,AS265022,VIP RIO TELECOMUNICAÇÕES LTDA - EPP,vipriointernet.com.br
-207.144.37.0,207.144.37.255,AS12208,TruVista Communications,truvista.net
-158.9.72.0,158.9.75.255,AS367,DoD Network Information Center,mail.mil
-202.81.8.0,202.81.15.255,AS9621,"Okinawa Telecommunication Network Co.,Inc",otnet.co.jp
-208.109.159.0,208.109.159.255,AS398788,"GoDaddy.com, LLC",godaddy.com
-173.244.144.0,173.244.149.255,AS21299,Kar-Tel LLC,beeline.kz
-217.11.224.0,217.11.225.255,AS15685,CASABLANCA INT a.s.,casablanca.cz
-213.202.192.0,213.202.255.255,AS24961,myLoc managed IT AG,myloc.de
-178.132.248.0,178.132.255.255,AS45011,Bredband2 AB,a3.se
-2a01:5041:600e::,2a01:5041:600e:ffff:ffff:ffff:ffff:ffff,AS202196,Booking.com BV,booking.com
-202.3.27.0,202.3.31.255,AS9530,"SHINSEGAE I C Co., Ltd.",shinsegae.com
-182.242.80.0,182.242.95.255,AS134766,CHINANET Yunnan province IDC2 network,chinatelecom.cn
-158.148.160.0,158.148.191.255,AS3269,Telecom Italia S.p.A.,telecomitalia.com
-2.199.240.0,2.199.255.255,AS16232,Telecom Italia S.p.A.,telecomitalia.com
-103.226.152.0,103.226.155.255,AS135357,"Shenzhen Katherine Heng Technology Information Co., Ltd.",rtat.net
-141.98.10.0,141.98.11.255,AS209605,UAB Host Baltic,serveroffer.lt
-192.253.253.0,192.253.253.255,AS9009,M247 Europe SRL,m247.com
-71.160.124.0,71.160.127.255,AS5650,"Frontier Communications of America, Inc.",frontier.com
-190.3.184.0,190.3.191.255,AS267765,COTAP LTDA,cotapnet.com.bo
-66.112.106.0,66.112.106.255,AS209,"CenturyLink Communications, LLC",lumen.com
-2607:fcd0:1336::,2607:fcd0:1337:ffff:ffff:ffff:ffff:ffff,AS29761,QuadraNet Enterprises LLC,quadranet.com
-91.195.168.0,91.195.169.255,AS25180,Exponential-E Ltd.,exponential-e.com
-80.243.120.0,80.243.120.255,AS51482,Banedanmark,bane.dk
-160.113.0.0,160.113.255.255,AS37463,MTN CONGO,mtncongo.net
-208.116.242.0,208.116.243.255,AS33480,Web Werks,webwerks.in
-2602:80b:b000::,2602:80b:b000:ffff:ffff:ffff:ffff:ffff,AS60354,Richie Ltd,richie.fi
-67.206.184.0,67.206.185.255,AS14993,"Millennium Health, LLC",millenniumhealth.com
-209.162.155.0,209.162.155.255,AS26506,"Limelight Networks, Inc.",limelight.com
-185.94.83.0,185.94.83.255,AS31034,Aruba S.p.A.,aruba.it
-41.79.140.0,41.79.143.255,AS36974,MTN COTE D'IVOIRE S.A,mtn.ci
-45.236.128.0,45.236.131.255,AS64111,INFORMATICA BLUEHOSTING LIMITADA,infor.com
-45.186.108.0,45.186.111.255,AS269815,"RED 4G, SA DE CV",red4g.net
-64.129.153.0,64.129.153.255,AS54319,Bridgehead Networks,bridgeheadnetworks.com
-38.146.161.0,38.146.161.255,AS394869,Asia Pacific Network Corporation,apntelecom.com
-85.209.196.0,85.209.199.255,AS43350,NForce Entertainment B.V.,nforce.com
-216.107.176.0,216.107.191.255,AS32765,"Sentco.net, LLC",sentco.net
-103.170.96.0,103.170.97.255,AS142368,PT Global Data Akses Persada,globaldataakses.com
-195.20.120.0,195.20.121.255,AS5401,Daniel Roesen,cluenet.de
-2400:a660::,2400:a660:ffff:ffff:ffff:ffff:ffff:ffff,AS135866,Lucky Airnet Pvt Ltd.,
-65.51.169.0,65.51.171.255,AS54004,Optimum WiFi,cv.net
-2a01:280:3a0::,2a01:280:3a0:ffff:ffff:ffff:ffff:ffff,AS8473,Bahnhof AB,bahnhof.se
-148.245.249.0,148.245.255.255,AS6503,"Axtel, S.A.B. de C.V.",axtel.mx
-185.136.204.0,185.136.204.255,AS43350,NForce Entertainment B.V.,nforce.com
-49.108.238.0,49.108.241.255,AS9605,"NTT DOCOMO, INC.",nttdocomo.com
-131.161.132.0,131.161.135.255,AS262293,Sistema Oeste de Serviços LTDA,tcmtelecom.com.br
-1.7.181.0,1.7.190.255,AS9583,Sify Limited,sifycorp.com
-193.138.116.0,193.138.116.255,AS34984,Superonline Iletisim Hizmetleri A.S.,superonline.net
-188.95.91.0,188.95.91.255,AS60759,"netsapiens, ltd",netsapiens.com
-67.14.219.0,67.14.223.255,AS6528,SOUTH ARKANSAS TELEPHONE COMPANY,sat-co.net
-66.63.166.0,66.63.169.255,AS8100,QuadraNet Enterprises LLC,quadranet.com
-187.191.33.0,187.191.34.255,AS17072,TOTAL PLAY TELECOMUNICACIONES SA DE CV,totalplay.com.mx
-93.118.176.0,93.118.179.255,AS8926,Moldtelecom SA,moldtelecom.md
-198.169.115.0,198.169.115.255,AS399844,Saskatchewan Telecommunications,sasktel.com
-89.116.198.0,89.116.198.255,AS46573,LayerHost,layerhost.com
-138.0.208.0,138.0.211.255,AS264553,J da L Moraes Telecom ME,
-185.233.72.0,185.233.75.255,AS203667,"Piotr Gadomski trading as PC Service Piotr Gadomski, Bartosz Gadomski S.C.",zipnet.pl
-193.195.19.0,193.195.137.255,AS1273,Vodafone Group PLC,vodafone.com
-142.111.144.0,142.111.144.255,AS1239,Sprint,sprint.net
-93.170.252.0,93.170.252.255,AS60337,MEDIATEK Limited,mediatech.by
-192.234.105.0,192.234.105.255,AS14618,"Amazon.com, Inc.",amazon.com
-114.108.192.0,114.108.204.255,AS23944,SKYBroadband SKYCable Corporation,skybroadband.com.ph
-196.204.0.0,196.204.1.255,AS24835,Vodafone Data,vodafone.com
-91.195.182.0,91.195.183.255,AS43838,Education Bradford,bradford.gov.uk
-170.247.120.0,170.247.123.255,AS52399,Alvarez Cable Hogar S.A.,alvarezcablehogar.com.ar
-197.215.103.0,197.215.103.255,AS37164,Orange (SL) Limited,orange-sonatel.com
-2401:4900:1bb0::,2401:4900:1bb0:ffff:ffff:ffff:ffff:ffff,AS45609,Bharti Airtel Ltd. AS for GPRS Service,airtel.com
-2001:43f8:2a0::,2001:43f8:2a0:ffff:ffff:ffff:ffff:ffff,AS32279,University of Botswana,UB.bw
-198.253.128.0,198.253.159.255,AS668,DoD Network Information Center,mail.mil
-2804:1f00::,2804:1f00:ffff:ffff:ffff:ffff:ffff:ffff,AS11802,Centro de Informatica e Automacao do Estado de SC,csc.sc.gov.br
-199.83.240.0,199.83.243.255,AS33361,THE WIRE INC.,thewire.ca
-143.202.116.0,143.202.119.255,AS263587,SOS INFORMÁTICA,sosrbnet.com.br
-207.161.0.0,207.161.210.255,AS7122,Bell Canada,bell.ca
-192.175.70.0,192.175.70.255,AS749,DoD Network Information Center,mail.mil
-23.217.0.0,23.217.3.255,AS35994,"Akamai Technologies, Inc.",akamai.com
-143.208.72.0,143.208.75.255,AS265138,ACESSO.COM PROVEDOR DE INTERNET,acessodf.net
-202.245.13.0,202.245.13.255,AS2907,"Research Organization of Information and Systems, National Institute of Informatics",sinet.ad.jp
-202.85.201.0,202.85.201.255,AS10231,Tech-trans System Ltd.,tech-trans.com
-2404:e801:2020::,2404:e801:ffff:ffff:ffff:ffff:ffff:ffff,AS55430,Starhub Ltd,starhub.com
-208.6.80.0,208.6.95.255,AS5778,"CenturyLink Communications, LLC",centurylink.com
-213.170.222.0,213.170.222.255,AS48031,PE Ivanov Vitaliy Sergeevich,xserver.ua
-2001:4878:2158::,2001:4878:2158:ffff:ffff:ffff:ffff:ffff,AS12222,"Akamai Technologies, Inc.",akamai.com
-202.170.208.0,202.170.215.255,AS23791,LCV Corporation,lcv.jp
-103.146.151.0,103.146.151.255,AS138346,Sajid Trading Ltd.,stl-bd.net
-50.58.32.0,50.58.42.255,AS3549,"Level 3 Parent, LLC",lumen.com
-62.235.0.0,62.235.10.255,AS29005,Proximus NV,proximus.com
-31.15.8.0,31.15.15.255,AS25234,"ACTIVE 24, s.r.o.",active24.cz
-2602:fc97:30::,2602:fc97:39:ffff:ffff:ffff:ffff:ffff,AS399544,"PeopleNTech, LLC",peoplentech.com
-2001:67c:11d4::,2001:67c:11d4:ffff:ffff:ffff:ffff:ffff,AS47702,Teleradiocompany Discovery Ltd.,tvnet.if.ua
-38.45.252.0,38.46.43.255,AS174,Cogent Communications,cogentcomm.biz
-198.184.8.0,198.184.8.255,AS3655,General Electric Company,ge.com
-121.227.8.0,121.227.19.255,AS4134,CHINANET-BACKBONE,chinatelecom.com.cn
-185.92.125.0,185.92.127.255,AS59905,NTH AG,nth.ch
-185.153.234.0,185.153.234.255,AS210687,QWireless srls,qwireless.it
-76.73.201.0,76.73.203.255,AS20412,Clarity Telecom LLC,mybluepeak.com
-94.31.203.0,94.31.204.255,AS35154,PJSC Rostelecom,rostelecom.ru
-5.105.2.0,5.105.3.255,AS204372,Vincent PICCO,
-64.154.18.0,64.154.18.255,AS32208,SKL Services Inc,sklservices.com
-185.6.248.0,185.6.251.255,AS34139,TSI Service JSC,tsinet.ru
-103.182.164.0,103.182.165.255,AS149531,SNETTA PVT LTD,
-188.186.58.0,188.186.59.255,AS50543,"JSC ""ER-Telecom Holding""",ertelecom.ru
-2804:2540::,2804:2540:ffff:ffff:ffff:ffff:ffff:ffff,AS264268,TELETURBO SERVICOS DE TELECOMUNICACOES LTDA,teleturbo.com.br
-186.0.148.0,186.0.151.255,AS270506,G5 Rede de Telecomunicacoes Multimidia Ltda,g5telecom.net.br
-2607:ff60:5002::,2607:ff60:5002:ffff:ffff:ffff:ffff:ffff,AS397110,Marathon Oil Company,marathonoil.com
-162.159.128.0,162.159.255.255,AS13335,"Cloudflare, Inc.",cloudflare.com
-177.126.52.0,177.126.52.255,AS271856,COOPERATIVA ELECTRICA DE VILLA MAZA LIMITADA,
-23.249.222.0,23.249.223.255,AS16509,"Amazon.com, Inc.",amazon.com
-2409:803c:3000::,2409:803c:308f:ffff:ffff:ffff:ffff:ffff,AS24444,Shandong Mobile Communication Company Limited,chinamobile.com
-38.54.52.0,38.54.53.255,AS174,Cogent Communications,cogentcomm.biz
-208.17.72.0,208.17.72.255,AS5778,"CenturyLink Communications, LLC",centurylink.com
-47.61.86.0,47.61.88.255,AS12430,VODAFONE ESPANA S.A.U.,vodafone.es
-66.244.128.0,66.244.143.255,AS32524,"Grupo-SMS USA, LLC",grupo-sms-usa.com
-202.168.51.0,202.168.51.255,AS7545,TPG Telecom Limited,tpgtelecom.com.au
-2a00:8a03::,2a00:8a03:1f:ffff:ffff:ffff:ffff:ffff,AS28723,Nokia Oyj,nokia.com
-45.135.28.0,45.135.31.255,AS35751,Internet Tekhnologii LLC,inethost.net
-95.47.250.0,95.47.251.255,AS41773,Arslannet Ltd.,
-210.178.0.0,210.178.28.255,AS4766,Korea Telecom,kt.com
-185.164.184.0,185.164.184.255,AS13030,Init7 (Switzerland) Ltd.,init7.net
-207.148.230.0,207.148.248.255,AS29873,"Newfold Digital, Inc.",enduranceinternational.com
-8.33.128.0,8.33.137.255,AS16276,OVH SAS,ovhcloud.com
-176.107.200.0,176.107.207.255,AS12484,Boris Ltd.,borishof.ru
+93.158.236.0,93.158.239.255,AS60503,FNX Tecnologia LTDA,fnxtec.com
+69.87.212.0,69.87.212.255,AS21800,"Advanced Integration Technology, LP",aint.com
+199.38.224.0,199.38.231.255,AS39970,Pioneer Cellular,gopioneer.com
+188.132.174.0,188.132.174.255,AS60446,Datema Bilisim Ticaret Anonim Sirketi,datacasa.com.tr
+2a00:dbc0::,2a00:dbc0:ffff:ffff:ffff:ffff:ffff:ffff,AS48885,Neocarrier Communications Sarl,neocarrier.com
+185.185.235.0,185.185.235.255,AS47952,ICT BULUT BILISIM A.S.,ictbulut.com
+2607:f928:4::,2607:f928:4:ffff:ffff:ffff:ffff:ffff,AS13359,LEARN,learn.k12.ct.us
+110.92.16.0,110.92.19.255,AS18159,Netspeed Data Ltd,netspeed.net.nz
+45.227.128.0,45.227.130.255,AS266778,ORTLIEB JAN ALBERT (MIKROCOM),mikrocom.com.ar
+67.55.230.0,67.55.230.255,AS30325,South Slope Cooperative Telephone Company,southslope.com
+192.197.163.0,192.197.163.255,AS5769,Videotron Telecom Ltee,videotron.com
+2404:bf40:80c2::,2404:bf40:813f:ffff:ffff:ffff:ffff:ffff,AS139084,DIGITAL IMMORTALITY PTY LTD,futurebroadband.com.au
+27.62.128.0,27.63.119.255,AS45609,Bharti Airtel Ltd. AS for GPRS Service,airtel.com
+5.226.179.0,5.226.179.255,AS209242,"Cloudflare London, LLC",cloudflare.com
+92.38.152.0,92.38.153.255,AS210756,EdgeCenter LLC,edgecenter.ru
+122.226.101.0,122.226.101.255,AS4134,CHINANET-BACKBONE,chinatelecom.com.cn
+120.84.32.0,120.84.33.255,AS17622,China Unicom Guangzhou network,chinaunicom.cn
+212.85.64.0,212.85.95.255,AS8473,Bahnhof AB,bahnhof.se
+92.53.0.0,92.53.63.255,AS43612,Company for communications services A1 Makedonija DOOEL Skopje,a1.mk
+74.216.176.0,74.216.177.255,AS7385,"Allstream Business US, LLC",electriclightwave.com
+193.233.32.0,193.233.47.255,AS42007,Perviy TSOD LLC,o2dc.com
+2a02:5500::,2a02:5500:ffff:ffff:ffff:ffff:ffff:ffff,AS40993,MTS PJSC,mts.ru
+91.210.12.0,91.210.15.255,AS57213,"""FAN-TEX"" Aleksander Grzegorz HIRSZTRITT",fantex.pl
+81.11.172.0,81.11.173.255,AS5432,Proximus NV,proximus.com
+24.56.172.0,24.56.175.255,AS10949,"Smart City Networks, L.P.",smartcitynetworks.com
+92.122.186.0,92.122.188.255,AS20940,Akamai International B.V.,akamai.com
+151.248.8.0,151.248.11.255,AS199606,Nim Wave srl,nimwave.com
+8.46.174.0,8.46.199.255,AS3356,"Level 3 Parent, LLC",lumen.com
+2804:57f4:800::,2804:57f4:800:ffff:ffff:ffff:ffff:ffff,AS264349,ABSOLUTNET LTDA - ME,absolutnet.com.br
+71.49.64.0,71.49.79.255,AS18494,"CenturyLink Communications, LLC",centurylink.com
+159.148.222.0,159.148.222.255,AS35478,Bunea TELECOM SRL,bunea.eu
+193.230.129.0,193.230.129.255,AS12302,Vodafone Romania S.A.,vodafone.ro
+185.109.212.0,185.109.215.255,AS29256,Syrian Telecommunication Private Closed Joint Stock Company,syriantelecom.sy
+23.215.96.0,23.215.105.255,AS20940,Akamai International B.V.,akamai.com
+170.39.108.0,170.39.111.255,AS11594,APUA,apua.ag
+2408:8956:4080::,2408:8956:408f:ffff:ffff:ffff:ffff:ffff,AS17622,China Unicom Guangzhou network,chinaunicom.cn
+98.119.126.0,98.119.127.255,AS5650,"Frontier Communications of America, Inc.",frontier.com
+5.10.136.0,5.10.140.255,AS4809,China Telecom Next Generation Carrier Network,chinatelecom.com.cn
+194.107.80.0,194.107.80.255,AS39843,ZAO Ratecom,ratecom.ru
+82.222.18.0,82.222.53.255,AS34984,Superonline Iletisim Hizmetleri A.S.,superonline.net
+2606:c00:35::,2606:c00:35:ffff:ffff:ffff:ffff:ffff,AS10126,Taiwan Internet Gateway,cht.com.tw
+195.191.231.0,195.191.231.255,AS393427,PorterTech Consulting LLC,portertech.ai
+23.159.160.0,23.159.160.255,AS26548,PureVoltage Hosting Inc.,purevoltage.com
+37.153.80.0,37.153.87.255,AS41655,Netcloud AG,netcloud.ch
+2806:2f0:9d00::,2806:2f0:9d02:ffff:ffff:ffff:ffff:ffff,AS17072,TOTAL PLAY TELECOMUNICACIONES SA DE CV,totalplay.com.mx
+2a02:2498:e000::,2a02:2498:f001:ffff:ffff:ffff:ffff:ffff,AS13213,UK-2 Limited,uk2group.com
+193.108.36.0,193.108.37.255,AS48961,WarwickNet,glidebusiness.co.uk
+204.246.64.0,204.246.127.255,AS25720,Honeycomb Internet Services,honeycomb.net
+71.49.32.0,71.49.63.255,AS209,"CenturyLink Communications, LLC",lumen.com
+209.173.31.0,209.173.31.255,AS22580,GUARD INSURANCE GROUP,guard.com
+124.203.176.0,124.203.255.255,AS4847,China Networks Inter-Exchange,bta.net.cn
+45.8.93.0,45.8.93.255,AS49581,Ferdinand Zink trading as Tube-Hosting,tube-hosting.com
+77.108.71.0,77.108.71.255,AS42561,"OOO ""NTS GRADIENT""",gradient.ru
+89.116.171.0,89.116.171.255,AS1299,Arelion Sweden AB,arelion.com
+2607:f6f0:2002::,2607:f6f0:20ff:ffff:ffff:ffff:ffff:ffff,AS54588,"Equinix, Inc.",equinix.com
+202.0.97.0,202.0.97.255,AS134267,Matrix Tech Labs,matrixtechlabs.com
+161.123.248.0,161.123.255.255,AS203999,Geekyworks IT Solutions Pvt Ltd,gwhostinglabs.com
+194.146.23.0,194.146.23.255,AS39923,Unix-Solutions BVBA,unix-solutions.be
+2a0d:5080::,2a0d:5087:ffff:ffff:ffff:ffff:ffff:ffff,AS62240,Clouvider,clouvider.com
+195.177.76.0,195.177.79.255,AS202292,Dodecagon ST LLC,dodecagonllc.com
+192.46.208.0,192.46.239.255,AS63949,"Akamai Technologies, Inc.",akamai.com
+178.253.23.0,178.253.23.255,AS272110,"FENIX NETWORKS, S.R.L.",fenixnetworks.com.do
+208.187.144.0,208.187.159.255,AS7385,"Allstream Business US, LLC",electriclightwave.com
+151.236.66.0,151.236.66.255,AS204720,GLOBAL CLOUD NETWORK LLC,cdnetworks.ru
+38.46.54.0,38.46.54.255,AS174,Cogent Communications,cogentcomm.biz
+2a07:be80::,2a07:be87:ffff:ffff:ffff:ffff:ffff:ffff,AS212773,Crossyn B.V.,crossyn.com
+209.26.0.0,209.26.2.255,AS2379,"CenturyLink Communications, LLC",centurylink.com
+199.171.15.0,199.171.31.255,AS701,Verizon Business,verizonbusiness.com
+2a10:2ec7:5000::,2a10:2ec7:5fff:ffff:ffff:ffff:ffff:ffff,AS204916,"RACKTECH CO., LTD.",ipaddr.space
+103.249.252.0,103.249.255.255,AS56282,"Beijing Internet Harbor Technology Co., Ltd",idccun.com
+185.105.140.0,185.105.143.255,AS200437,Wojewodztwo Mazowieckie,arsma.pl
+198.184.84.0,198.184.84.255,AS17274,Robert W. Baird & Co. Incorporated,rwbaird.com
+2408:8956:2400::,2408:8956:240f:ffff:ffff:ffff:ffff:ffff,AS17622,China Unicom Guangzhou network,chinaunicom.cn
+103.7.112.0,103.7.115.255,AS17471,Grameen Cybernet Ltd. Bangladesh. AS for local peering and transit. Dhaka,citechco.net
+180.211.65.0,180.211.71.255,AS131235,SYNTELNET-IN,syntelinc.com
+139.9.160.0,139.9.223.255,AS55990,Huawei Cloud Service data center,huaweicloud.com
+2804:7934::,2804:7934:ffff:ffff:ffff:ffff:ffff:ffff,AS271291,C. M. A. RIBEIRO,linksattelecom.com.br
+79.110.232.0,79.110.232.255,AS60721,Bursabil Teknoloji A.S.,bursabil.com.tr
+5.253.225.0,5.253.225.255,AS48551,Sindad Network Technology Ltd.,sindad.com
+173.197.235.0,173.197.235.255,AS40746,Owensboro Messenger Inquirer,messenger-inquirer.com
+12.64.128.0,12.64.133.255,AS4264,California Education and Research Federation Network,cerf.net
+193.203.220.0,193.203.221.255,AS38915,Gemeente Heerlen,heerlen.nl
+2607:f5d8:20::,2607:f5d8:20:ffff:ffff:ffff:ffff:ffff,AS2553,Florida State University,fsu.edu
+146.114.0.0,146.114.255.255,AS1226,California Department of Technology,ca.gov
+2a0b:33c0:107::,2a0b:33c0:107:ffff:ffff:ffff:ffff:ffff,AS57395,Hartl Group GmbH,hartl-group.de
+2c0f:ed00:351::,2c0f:ed00:351:ffff:ffff:ffff:ffff:ffff,AS328442,United S.A.S.,united.cd
+221.149.141.0,221.149.141.255,AS10185,Hana Bank Co.,hanabank.com
+62.96.24.0,62.96.69.255,AS8220,COLT Technology Services Group Limited,colt.net
+199.204.16.0,199.204.23.255,AS20454,SECURED SERVERS LLC,securedservers.com
+103.191.162.0,103.191.162.255,AS140269,Kotalipara Net,siddhinetworks.net
+92.205.80.0,92.205.87.255,AS60253,Host Europe GmbH,hosteurope.de
+195.167.65.0,195.167.65.255,AS29247,Cosmote Mobile Telecommunications S.A.,cosmote.gr
+200.43.141.0,200.43.155.255,AS7303,Telecom Argentina S.A.,telecom.com.ar
+2.92.0.0,2.92.11.255,AS8402,PJSC Vimpelcom,corbina.net
+2801:1e:4800::,2801:1e:4800:ffff:ffff:ffff:ffff:ffff,AS269792,UNIVERSIDAD TECNOLÓGICA INDOAMERICA,uti.edu.ec
+2801:1fc:18::,2801:1fc:1d:ffff:ffff:ffff:ffff:ffff,AS13489,EPM Telecomunicaciones S.A. E.S.P.,tigo.com.co
+176.124.56.0,176.124.57.255,AS56970,Magnetic IT Services S.R.L.,magnetic-it.com
+199.251.157.0,199.251.192.255,AS721,DoD Network Information Center,mail.mil
+186.82.148.0,186.82.171.255,AS10620,Telmex Colombia S.A.,claro.com.co
+68.180.79.0,68.180.80.255,AS23473,PAVLOV MEDIA INC,pavlovmedia.com

@@ -1,201 +1,101 @@
 start_ip,end_ip,country,country_name,continent,continent_name,asn,as_name,as_domain
-185.113.176.0,185.113.179.255,SE,Sweden,EU,Europe,AS62183,Bredbandsson AB,bredbandsson.se
-23.212.0.0,23.212.0.255,JP,Japan,AS,Asia,AS20940,Akamai International B.V.,akamai.com
-97.72.80.0,97.72.178.255,US,United States,NA,North America,AS6621,"Hughes Network Systems, LLC",hughes.com
-213.80.41.129,213.80.50.4,SE,Sweden,EU,Europe,AS12552,GlobalConnect AB,ip-only.com
-136.23.24.17,136.23.24.17,CK,Cook Islands,OC,Oceania,AS36492,"Google, LLC",google.com
-2a12:3540::,2a12:3540:0:ff:ffff:ffff:ffff:ffff,RU,Russia,EU,Europe,AS60135,Megaspace Ltd,megaspacenet.com
-85.202.59.0,85.202.59.255,PL,Poland,EU,Europe,AS12741,Netia SA,netia.pl
-13.109.12.96,13.109.12.174,JP,Japan,AS,Asia,AS14340,"Salesforce.com, Inc.",salesforce.com
-2a02:26f7:f188:4000::,2a02:26f7:f188:4000:ffff:ffff:ffff:ffff,WS,Samoa,OC,Oceania,AS20940,Akamai International B.V.,akamai.com
-43.152.138.0,43.152.138.255,US,United States,NA,North America,AS139341,ACE,ace-idc.com
-21.65.125.0,21.65.128.255,US,United States,NA,North America,AS749,DoD Network Information Center,mail.mil
-92.60.187.67,92.60.187.125,UA,Ukraine,EU,Europe,AS1820,WNET TELECOM USA Corp.,wnet.global
-2401:4900:3dca:3a00::,2401:4900:3dca:3aff:ffff:ffff:ffff:ffff,BD,Bangladesh,AS,Asia,AS45609,Bharti Airtel Ltd. AS for GPRS Service,airtel.com
-194.110.86.112,194.110.86.120,NL,Netherlands,EU,Europe,AS136175,Serverhosh Internet Service,serverhosh.com
-87.98.254.179,87.98.254.185,FR,France,EU,Europe,AS16276,OVH SAS,ovhcloud.com
-2001:67c:b4c::,2001:67c:b4c:ffff:ffff:ffff:ffff:ffff,RS,Serbia,EU,Europe,AS200305,Sasa Ristic,v6.rs
-2606:54c0:1100:46a1::,2606:54c0:1100:46cf:ffff:ffff:ffff:ffff,US,United States,NA,North America,AS13335,"Cloudflare, Inc.",cloudflare.com
-89.30.15.21,89.30.15.21,GB,United Kingdom,EU,Europe,AS4455,IX Reach Ltd,ixreach.com
-146.19.209.0,146.19.209.255,RU,Russia,EU,Europe,AS42007,Perviy TSOD LLC,o2dc.com
-217.172.160.0,217.172.161.255,FR,France,EU,Europe,AS8972,Host Europe GmbH,hosteurope.de
-67.203.24.0,67.203.63.255,US,United States,NA,North America,AS21769,Colocation America Corporation,colocationamerica.com
-62.115.51.18,62.115.51.19,CA,Canada,NA,North America,AS1299,Arelion Sweden AB,arelion.com
-96.88.8.0,96.88.11.255,US,United States,NA,North America,AS33665,"Comcast Cable Communications, LLC",comcast.com
-171.17.133.102,171.17.159.255,DE,Germany,EU,Europe,AS12888,Amadeus Data Processing GmbH,amadeus.com
-2804:64fc::,2804:64fc:ffff:ffff:ffff:ffff:ffff:ffff,BR,Brazil,SA,South America,AS269461,Xfiber Internet,xfiber.net.br
-49.128.176.0,49.128.183.255,ID,Indonesia,AS,Asia,AS55666,PT Media Sarana Data,gmedia.net.id
-152.203.57.0,152.203.59.255,UY,Uruguay,SA,South America,AS3816,COLOMBIA TELECOMUNICACIONES S.A. ESP,telefonica.co
-2001:16a2:c168:a000::,2001:16a2:c168:a0ff:ffff:ffff:ffff:ffff,JO,Jordan,AS,Asia,AS39386,Saudi Telecom Company JSC,stc.com.sa
-2001:e68:5453:1900::,2001:e68:5453:2aff:ffff:ffff:ffff:ffff,MY,Malaysia,AS,Asia,AS4788,"TM Net, Internet Service Provider",tm.com.my
-46.252.224.0,46.252.239.255,CZ,Czechia,EU,Europe,AS52115,JaroNet - services s.r.o.,jaronet.cz
-203.135.176.0,203.135.183.255,ID,Indonesia,AS,Asia,AS38211,PT. Mandiri Citra Makmur,mcm-id.net
-45.114.156.0,45.114.159.255,IN,India,AS,Asia,AS45194,Syscon Infoway Pvt. Ltd.,sysconinfoway.com
-160.146.0.0,160.146.255.255,US,United States,NA,North America,AS721,DoD Network Information Center,mail.mil
-129.33.144.0,129.33.159.255,US,United States,NA,North America,AS7018,"AT&T Services, Inc.",att.com
-63.147.85.41,63.147.85.42,GB,United Kingdom,EU,Europe,AS209,"CenturyLink Communications, LLC",lumen.com
-110.225.96.0,110.226.43.255,IN,India,AS,Asia,AS24560,"Bharti Airtel Ltd., Telemedia Services",airtel.com
-69.166.231.0,69.166.231.255,US,United States,NA,North America,AS22363,"Powerhouse Management, Inc.",phmgmt.com
-52.253.197.0,52.253.197.255,BR,Brazil,SA,South America,AS8075,Microsoft Corporation,microsoft.com
-22.248.143.0,22.248.143.127,US,United States,NA,North America,AS749,DoD Network Information Center,mail.mil
-213.140.43.56,213.140.43.56,BR,Brazil,SA,South America,AS12956,TELEFONICA GLOBAL SOLUTIONS SL,telxius.com
-2001:67c:18c::,2001:67c:18c:ffff:ffff:ffff:ffff:ffff,RU,Russia,EU,Europe,AS47682,A2 Ltd,a2tele.com
-104.44.238.227,104.44.238.227,US,United States,NA,North America,AS8075,Microsoft Corporation,microsoft.com
-2a09:bac1:64a0:ff0::,2a09:bac1:64a0:ff0:ffff:ffff:ffff:ffff,SE,Sweden,EU,Europe,AS13335,"Cloudflare, Inc.",cloudflare.com
-2a09:bac1:19e0:f1::,2a09:bac1:19e0:f7:ffff:ffff:ffff:ffff,US,United States,NA,North America,AS13335,"Cloudflare, Inc.",cloudflare.com
-72.14.255.135,72.14.255.135,JP,Japan,AS,Asia,AS15169,Google LLC,google.com
-187.190.165.0,187.190.182.255,MX,Mexico,NA,North America,AS17072,TOTAL PLAY TELECOMUNICACIONES SA DE CV,totalplay.com.mx
-2a02:a03f:812f:ba00::,2a02:a03f:812f:baff:ffff:ffff:ffff:ffff,FR,France,EU,Europe,AS29005,Proximus NV,proximus.com
-206.155.49.0,206.155.70.231,US,United States,NA,North America,AS3561,"CenturyLink Communications, LLC",lumen.com
-2409:4061:2c87:7400::,2409:4061:2c87:74ff:ffff:ffff:ffff:ffff,BD,Bangladesh,AS,Asia,AS55836,Reliance Jio Infocomm Limited,jio.com
-2602:fafd:f04::,2602:fafd:f04:ffff:ffff:ffff:ffff:ffff,SG,Singapore,AS,Asia,AS204789,BIZBETA LTD,pm.me
-149.165.176.0,149.165.223.255,US,United States,NA,North America,AS19782,Indiana University,iu.edu
-17.5.12.0,17.5.38.1,US,United States,NA,North America,AS714,Apple Inc.,apple.com
-181.51.244.0,181.51.245.255,CO,Colombia,SA,South America,AS14080,Telmex Colombia S.A.,claro.com.co
-72.14.255.60,72.14.255.60,DE,Germany,EU,Europe,AS15169,Google LLC,google.com
-108.170.229.202,108.170.229.202,JP,Japan,AS,Asia,AS15169,Google LLC,google.com
-2a09:bac1:6480:c9::,2a09:bac1:6480:e7:ffff:ffff:ffff:ffff,US,United States,NA,North America,AS13335,"Cloudflare, Inc.",cloudflare.com
-89.211.6.171,89.211.6.241,QA,Qatar,AS,Asia,AS8781,Ooredoo Q.S.C.,ooredoo.qa
-2406:da14:c45:3f00::,2406:da14:c45:3fff:ffff:ffff:ffff:ffff,JP,Japan,AS,Asia,AS16509,"Amazon.com, Inc.",amazon.com
-91.102.56.0,91.102.63.255,GB,United Kingdom,EU,Europe,AS49765,Comms365 Limited,comms365.com
-12.203.169.0,12.203.196.255,US,United States,NA,North America,AS7018,"AT&T Services, Inc.",att.com
-2400:8800:e002::,2400:8800:e002:ffff:ffff:ffff:ffff:ffff,HK,Hong Kong,AS,Asia,AS3491,"PCCW Global, Inc.",pccwglobal.com
-169.55.61.10,169.55.61.11,US,United States,NA,North America,AS36351,SoftLayer Technologies Inc.,softlayer.com
-131.186.104.0,131.186.109.255,DE,Germany,EU,Europe,AS54253,Oracle Corporation,oracle.com
-2a00:79e0:200:800::,2a00:79e0:200:9ff:ffff:ffff:ffff:ffff,CH,Switzerland,EU,Europe,AS45566,AS number for Google Corporate Network in APAC,google.com
-2a09:bac1:1160:3c90::,2a09:bac1:1160:3c90:ffff:ffff:ffff:ffff,BR,Brazil,SA,South America,AS13335,"Cloudflare, Inc.",cloudflare.com
-2409:4061:1c:6d00::,2409:4061:1c:86ff:ffff:ffff:ffff:ffff,IN,India,AS,Asia,AS55836,Reliance Jio Infocomm Limited,jio.com
-213.155.134.0,213.155.134.117,FR,France,EU,Europe,AS1299,Arelion Sweden AB,arelion.com
-103.108.193.43,103.108.193.255,CN,China,AS,Asia,AS139021,West263 International Limited,hkdns.hk
-192.65.130.0,192.65.130.255,AU,Australia,OC,Oceania,AS134111,Commonwealth Scientific and Industrial Research Organisation,csiro.au
-59.158.0.0,59.159.255.255,JP,Japan,AS,Asia,AS17506,ARTERIA Networks Corporation,arteria-net.com
-200.23.118.0,200.23.118.255,BR,Brazil,SA,South America,AS265449,TRIBUNAL DE JUSTIÇA DO ESTADO DO RN,
-2001:16a2:c180:6c00::,2001:16a2:c180:6cff:ffff:ffff:ffff:ffff,JO,Jordan,AS,Asia,AS39386,Saudi Telecom Company JSC,stc.com.sa
-38.101.197.0,38.101.197.255,US,United States,NA,North America,AS13985,NASCO,orsnasco.com
-2a02:26f7:d94c:4000::,2a02:26f7:d94c:40ff:ffff:ffff:ffff:ffff,CL,Chile,SA,South America,AS20940,Akamai International B.V.,akamai.com
-194.121.185.72,194.121.185.87,NL,Netherlands,EU,Europe,AS1136,KPN B.V.,kpn.com
-199.21.232.160,199.21.232.161,AU,Australia,OC,Oceania,AS33353,Sony Interactive Entertainment LLC,playstation.com
-2a02:a03f:e9c6:2500::,2a02:a03f:e9c6:6bff:ffff:ffff:ffff:ffff,BE,Belgium,EU,Europe,AS29005,Proximus NV,proximus.com
-140.174.0.0,140.174.13.255,US,United States,NA,North America,AS2914,"NTT America, Inc.",ntt.com
-213.155.137.0,213.155.137.54,DE,Germany,EU,Europe,AS1299,Arelion Sweden AB,arelion.com
-209.167.178.224,209.167.183.255,CA,Canada,NA,North America,AS701,Verizon Business,verizonbusiness.com
-2600:1488:6300:200::,2600:1488:6300:200::a,DK,Denmark,EU,Europe,AS20940,Akamai International B.V.,akamai.com
-2804:417c::,2804:417c:ffff:ffff:ffff:ffff:ffff:ffff,BR,Brazil,SA,South America,AS267436,UPLINK INTERNET BANDA LARGA,uplinkprovedor.com.br
-154.25.0.87,154.25.0.92,US,United States,NA,North America,AS174,Cogent Communications,cogentcomm.biz
-198.134.104.0,198.134.111.255,US,United States,NA,North America,AS11990,"Unlimited Net, LLC",unlimitednet.us
-129.134.81.80,129.134.81.80,HK,Hong Kong,AS,Asia,AS32934,"Facebook, Inc.",facebook.com
-2a02:a018:49:af00::,2a02:a018:4a:a4ff:ffff:ffff:ffff:ffff,BE,Belgium,EU,Europe,AS5432,Proximus NV,proximus.com
-172.98.74.0,172.98.79.255,US,United States,NA,North America,AS46562,Performive LLC,performive.com
-67.199.151.116,67.199.151.119,TR,Turkey,AS,Asia,AS3257,GTT Communications Inc.,gtt.net
-176.111.248.0,176.111.255.255,RU,Russia,EU,Europe,AS57988,Foton Company Ltd,fotonx.ru
-77.219.0.80,77.219.0.95,LV,Latvia,EU,Europe,AS1257,Tele2 Sverige AB,tele2.se
-45.188.208.0,45.188.210.255,AR,Argentina,SA,South America,AS269786,AIREDATA SRL,airedata.com.ar
-157.240.55.74,157.240.55.90,US,United States,NA,North America,AS32934,"Facebook, Inc.",facebook.com
-2a11:d0c0::,2a11:d0c0:0:ff:ffff:ffff:ffff:ffff,RU,Russia,EU,Europe,AS49655,Easynet Group Ltd,easynet.com
-43.92.181.0,43.92.191.255,GB,United Kingdom,EU,Europe,AS134729,JOINT POWER TECHNOLOGY LIMITED,thesolarsystems.net
-2409:4061:112:3e00::,2409:4061:112:3eff:ffff:ffff:ffff:ffff,BD,Bangladesh,AS,Asia,AS55836,Reliance Jio Infocomm Limited,jio.com
-45.158.127.0,45.158.127.1,GB,United Kingdom,EU,Europe,AS209260,Magdalena Ewa Kovac,imailpro.de
-103.140.24.0,103.140.25.255,BD,Bangladesh,AS,Asia,AS139227,Hello IT,helloitbd.com
-212.221.117.187,212.221.117.191,SK,Slovakia,EU,Europe,AS3257,GTT Communications Inc.,gtt.net
-2a05:5504:3::,2a05:5504:3:ff:ffff:ffff:ffff:ffff,FR,France,EU,Europe,AS8218,Zayo Infrastructure France SA,zayo.com
-22.213.214.0,22.213.214.255,IR,Iran,AS,Asia,AS749,DoD Network Information Center,mail.mil
-121.190.250.0,121.190.251.255,KR,South Korea,AS,Asia,AS38391,Gyeonggi provincial gimpo office of education,korea.kr
-22.139.29.128,22.139.29.255,IR,Iran,AS,Asia,AS749,DoD Network Information Center,mail.mil
-216.168.64.0,216.168.64.15,US,United States,NA,North America,AS174,Cogent Communications,cogentcomm.biz
-8.34.28.0,8.34.31.255,US,United States,NA,North America,AS17378,"TierPoint, LLC",tierpoint.com
-213.254.230.41,213.254.230.41,DE,Germany,EU,Europe,AS3257,GTT Communications Inc.,gtt.net
-2a02:a03f:e569:8000::,2a02:a03f:e569:96ff:ffff:ffff:ffff:ffff,BE,Belgium,EU,Europe,AS29005,Proximus NV,proximus.com
-2804:8268::,2804:8268:ffff:ffff:ffff:ffff:ffff:ffff,BR,Brazil,SA,South America,AS272518,DVF TELECOM,
-5.196.62.0,5.196.62.117,FR,France,EU,Europe,AS16276,OVH SAS,ovhcloud.com
-108.170.232.54,108.170.232.58,US,United States,NA,North America,AS15169,Google LLC,google.com
-67.16.149.113,67.16.149.114,IT,Italy,EU,Europe,AS3549,"Level 3 Parent, LLC",lumen.com
-146.70.169.0,146.70.169.255,NL,Netherlands,EU,Europe,AS9009,M247 Europe SRL,m247.com
-58.188.0.0,58.191.255.255,JP,Japan,AS,Asia,AS17511,OPTAGE Inc.,optage.co.jp
-2001:7d0:830e:6180::,2001:7d0:830e:6180:ffff:ffff:ffff:ffff,MT,Malta,EU,Europe,AS3249,Telia Eesti AS,telia.ee
-176.221.8.0,176.221.15.255,RU,Russia,EU,Europe,AS31484,Westcall,spb.ru
-34.119.119.17,34.119.119.24,US,United States,NA,North America,AS396982,Google LLC,google.com
-212.222.123.17,212.222.123.18,BE,Belgium,EU,Europe,AS3257,GTT Communications Inc.,gtt.net
-161.69.58.16,161.69.58.16,KR,South Korea,AS,Asia,AS16509,"Amazon.com, Inc.",amazon.com
-2a02:26f7:e8c9:4001::,2a02:26f7:e8cc:3fff:ffff:ffff:ffff:ffff,US,United States,NA,North America,AS20940,Akamai International B.V.,akamai.com
-194.45.205.248,194.45.206.7,NL,Netherlands,EU,Europe,AS1136,KPN B.V.,kpn.com
-103.153.138.218,103.153.138.218,CN,China,AS,Asia,AS138538,VPSOR-GLOBAL,vpsor.com
-2a02:26f7:cd04:100::,2a02:26f7:cd04:3fff:ffff:ffff:ffff:ffff,US,United States,NA,North America,AS20940,Akamai International B.V.,akamai.com
-18.161.222.248,18.161.222.255,IN,India,AS,Asia,AS16509,"Amazon.com, Inc.",amazon.com
-123.176.128.0,123.176.255.255,JP,Japan,AS,Asia,AS17939,"miyazaki cabletelevision network Co.,LTD",miyazaki-catv.ne.jp
-67.17.93.230,67.17.94.32,AR,Argentina,SA,South America,AS3549,"Level 3 Parent, LLC",lumen.com
-102.221.8.0,102.221.11.255,LY,Libya,AF,Africa,AS37284,Aljeel Aljadeed For Technology,aljeel.ly
-92.122.116.0,92.122.119.255,GB,United Kingdom,EU,Europe,AS20940,Akamai International B.V.,akamai.com
-72.14.205.80,72.14.205.80,AU,Australia,OC,Oceania,AS15169,Google LLC,google.com
-201.221.96.0,201.221.111.255,AR,Argentina,SA,South America,AS10617,SION S.A,sion.com
-2602:fe12:9::,2602:fe12:9:ffff:ffff:ffff:ffff:ffff,US,United States,NA,North America,AS139267,"Glexia, Inc.",glexia.com
-22.214.216.128,22.214.221.127,US,United States,NA,North America,AS749,DoD Network Information Center,mail.mil
-2606:54c0:19a0:76d8::,2606:54c0:19a0:76d8:ffff:ffff:ffff:ffff,CN,China,AS,Asia,AS13335,"Cloudflare, Inc.",cloudflare.com
-200.9.176.0,200.9.176.255,EC,Ecuador,SA,South America,AS28027,Escuela Superior Politecnica del Litoral,espol.edu.ec
-204.237.242.0,204.237.242.255,US,United States,NA,North America,AS13628,AMERISOURCEBERGEN,amerisourcebergen.com
-154.14.253.18,154.14.253.18,RO,Romania,EU,Europe,AS3257,GTT Communications Inc.,gtt.net
-2a0c:79c0:3::,2a0c:79c0:3:ffff:ffff:ffff:ffff:ffff,IT,Italy,EU,Europe,AS60798,Servereasy Srl,servereasy.it
-193.240.227.208,193.240.227.247,GB,United Kingdom,EU,Europe,AS3549,"Level 3 Parent, LLC",lumen.com
-193.191.2.66,193.191.2.66,BE,Belgium,EU,Europe,AS2611,BELNET,belnet.be
-2409:4066:0:7300::,2409:4066:0:73ff:ffff:ffff:ffff:ffff,BD,Bangladesh,AS,Asia,AS55836,Reliance Jio Infocomm Limited,jio.com
-62.115.132.150,62.115.132.151,AT,Austria,EU,Europe,AS1299,Arelion Sweden AB,arelion.com
-89.34.4.0,89.34.4.255,ES,Spain,EU,Europe,AS205993,Cafe Tecnologia LLC,cafetecnologia.com
-2a09:bac1:19c1:bd0::,2a09:bac1:19c1:bd0:ffff:ffff:ffff:ffff,CN,China,AS,Asia,AS13335,"Cloudflare, Inc.",cloudflare.com
-45.150.65.0,45.150.65.255,US,United States,NA,North America,AS52000,MIRholding B.V.,mirhosting.com
-21.139.178.0,21.139.185.255,US,United States,NA,North America,AS749,DoD Network Information Center,mail.mil
-22.122.75.128,22.122.75.255,US,United States,NA,North America,AS749,DoD Network Information Center,mail.mil
-74.214.96.0,74.214.127.255,US,United States,NA,North America,AS18794,Ramapo College of New Jersey,ramapo.edu
-31.42.58.0,31.42.59.255,UA,Ukraine,EU,Europe,AS203008,"Unicast, Ltd.",
-64.125.26.149,64.125.26.150,US,United States,NA,North America,AS6461,Zayo Bandwidth,zayo.com
-240f:61:fdb2:1::,240f:61:fdb2:1:ffff:ffff:ffff:ffff,US,United States,NA,North America,AS2516,KDDI CORPORATION,kddi.com
-63.223.31.65,63.223.31.66,HK,Hong Kong,AS,Asia,AS3491,"PCCW Global, Inc.",pccwglobal.com
-180.214.252.0,180.214.255.255,ID,Indonesia,AS,Asia,AS38150,PT. TIME EXCELINDO,excelindo.co.id
-2409:4061:208b:ec00::,2409:4061:208b:f3ff:ffff:ffff:ffff:ffff,IN,India,AS,Asia,AS55836,Reliance Jio Infocomm Limited,jio.com
-2409:40e1:1:1400::,2409:40e1:1:14ff:ffff:ffff:ffff:ffff,BD,Bangladesh,AS,Asia,AS55836,Reliance Jio Infocomm Limited,jio.com
-2606:54c0:27c0:1d28::,2606:54c0:27c0:1d28:ffff:ffff:ffff:ffff,FR,France,EU,Europe,AS13335,"Cloudflare, Inc.",cloudflare.com
-172.225.178.224,172.225.178.239,SN,Senegal,AF,Africa,AS20940,Akamai International B.V.,akamai.com
-1.31.0.0,1.31.63.255,CN,China,AS,Asia,AS139007,UNICOM InnerMongolia province network,hh.nm.cn
-212.3.236.106,212.3.236.112,BG,Bulgaria,EU,Europe,AS3356,"Level 3 Parent, LLC",lumen.com
-128.90.104.108,128.90.104.111,DE,Germany,EU,Europe,AS22363,"Powerhouse Management, Inc.",phmgmt.com
-77.81.181.0,77.81.181.255,RO,Romania,EU,Europe,AS33911,TENNET TELECOM SRL,tennet.ro
-113.21.242.105,113.21.242.105,TH,Thailand,AS,Asia,AS38082,"True International Gateway Co., Ltd.",trueinternetgateway.com
-162.125.86.229,162.125.86.229,KR,South Korea,AS,Asia,AS19679,"Dropbox, Inc.",dropbox.com
-7.148.134.128,7.148.134.255,MY,Malaysia,AS,Asia,AS749,DoD Network Information Center,mail.mil
-212.103.51.88,212.103.51.89,NL,Netherlands,EU,Europe,AS9009,M247 Europe SRL,m247.com
-108.0.246.0,108.0.247.255,US,United States,NA,North America,AS5650,"Frontier Communications of America, Inc.",frontier.com
-176.116.176.0,176.116.176.255,RU,Russia,EU,Europe,AS211240,Krasseti LLC,krasseti.ru
-142.250.160.100,142.250.160.101,JP,Japan,AS,Asia,AS15169,Google LLC,google.com
-128.233.0.0,128.233.255.255,CA,Canada,NA,North America,AS22950,University of Saskatchewan,usask.ca
-206.182.232.0,206.182.232.255,US,United States,NA,North America,AS3300,British Telecommunications PLC,bt.com
-2606:54c0:2780:21d9::,2606:54c0:2780:224f:ffff:ffff:ffff:ffff,US,United States,NA,North America,AS13335,"Cloudflare, Inc.",cloudflare.com
-2a02:a03f:828b:5700::,2a02:a03f:828c:14ff:ffff:ffff:ffff:ffff,BE,Belgium,EU,Europe,AS29005,Proximus NV,proximus.com
-34.119.73.99,34.119.73.99,US,United States,NA,North America,AS396982,Google LLC,google.com
-2401:b780:5007:100::,2401:b780:ffff:ffff:ffff:ffff:ffff:ffff,MY,Malaysia,AS,Asia,AS45410,ALLO TECHNOLOGY SDN. BHD.,allo.my
-172.225.118.224,172.225.118.255,RE,Reunion,AF,Africa,AS20940,Akamai International B.V.,akamai.com
-24.29.96.0,24.29.159.255,US,United States,NA,North America,AS12271,Charter Communications Inc,charter.com
-195.24.228.0,195.24.229.255,RU,Russia,EU,Europe,AS21275,JSC Management Company Metallinvest,m-invest.ru
-2804:15b8:265::,2804:15b8:265:ff:ffff:ffff:ffff:ffff,BR,Brazil,SA,South America,AS52666,SERGIPEWEB PROVEDORES DE INTERNET LTDA,sergipeweb.com.br
-12.71.108.0,12.71.114.255,US,United States,NA,North America,AS7018,"AT&T Services, Inc.",att.com
-2401:4900:3f32:ad00::,2401:4900:3f32:adff:ffff:ffff:ffff:ffff,BD,Bangladesh,AS,Asia,AS45609,Bharti Airtel Ltd. AS for GPRS Service,airtel.com
-63.80.215.0,63.80.215.255,US,United States,NA,North America,AS395753,KKR,kkr.com
-104.28.249.219,104.28.249.227,US,United States,NA,North America,AS13335,"Cloudflare, Inc.",cloudflare.com
-22.163.202.128,22.163.202.255,AU,Australia,OC,Oceania,AS749,DoD Network Information Center,mail.mil
-185.238.200.0,185.238.203.255,RU,Russia,EU,Europe,AS29076,Filanco LLC,filanco.ru
-103.40.124.0,103.40.127.255,JP,Japan,AS,Asia,AS4686,BEKKOAME INTERNET INC.,bekkoame.co.jp
-34.104.42.48,34.104.42.90,CA,Canada,NA,North America,AS396982,Google LLC,google.com
-191.96.125.0,191.96.125.3,GB,United Kingdom,EU,Europe,AS834,IPXO LLC,ipxo.com
-2a0f:9400:102::,2a0f:9400:102:ffff:ffff:ffff:ffff:ffff,CA,Canada,NA,North America,AS59893,Free Range Cloud Ltd.,freerangecloud.com
-2a02:a45f:87ca::,2a02:a45f:87ca:ff:ffff:ffff:ffff:ffff,DE,Germany,EU,Europe,AS1136,KPN B.V.,kpn.com
-2409:4055:693:fa00::,2409:4055:695:27ff:ffff:ffff:ffff:ffff,IN,India,AS,Asia,AS55836,Reliance Jio Infocomm Limited,jio.com
-2a02:a03f:e05f:da00::,2a02:a03f:e060:deff:ffff:ffff:ffff:ffff,BE,Belgium,EU,Europe,AS29005,Proximus NV,proximus.com
-185.137.122.0,185.137.122.255,DE,Germany,EU,Europe,AS51167,Contabo GmbH,contabo.com
-11.66.240.128,11.66.246.255,US,United States,NA,North America,AS749,DoD Network Information Center,mail.mil
-91.245.194.0,91.245.194.255,LV,Latvia,EU,Europe,AS199663,Valsts Kase,kase.gov.lv
-157.240.41.112,157.240.41.112,US,United States,NA,North America,AS32934,"Facebook, Inc.",facebook.com
-2800:a4:13d6:100::,2800:a4:13d6:ffff:ffff:ffff:ffff:ffff,UY,Uruguay,SA,South America,AS6057,Administracion Nacional de Telecomunicaciones,antel.com.uy
-86.38.236.0,86.38.236.255,US,United States,NA,North America,AS210906,UAB Bite Lietuva,bi.lt
-178.33.37.186,178.33.37.192,FR,France,EU,Europe,AS16276,OVH SAS,ovhcloud.com
-154.65.0.0,154.65.3.255,ZA,South Africa,AF,Africa,AS37627,Equation Business Solutions,equation.co.za
-202.29.25.0,202.29.25.255,TH,Thailand,AS,Asia,AS4621,UNINET-TH,uni.net.th
-2606:8440::,2606:8440:ffff:ffff:ffff:ffff:ffff:ffff,CA,Canada,NA,North America,AS400030,Western Fibre Communications Corp.,getmoby.com
-178.211.133.0,178.211.133.255,ES,Spain,EU,Europe,AS56958,Raiola Networks S.L.,raiolanetworks.es
-2606:54c0:1e40:940::1d8:31,2606:54c0:1e40:968::14:1bd,DE,Germany,EU,Europe,AS13335,"Cloudflare, Inc.",cloudflare.com
+2a0e:8440::,2a0e:8447:ffff:ffff:ffff:ffff:ffff:ffff,AT,Austria,EU,Europe,AS47373,Getzner Werkstoffe GmbH,getzner.com
+2a09:bac1:5080:1780::,2a09:bac1:5080:1780:ffff:ffff:ffff:ffff,MX,Mexico,NA,North America,AS13335,"Cloudflare, Inc.",cloudflare.com
+209.29.48.80,209.29.48.87,US,United States,NA,North America,AS852,TELUS Communications Inc.,telus.com
+192.113.71.2,192.113.71.2,NL,Netherlands,EU,Europe,AS10991,Capgemini U.S. LLC,capgemini.com
+38.28.4.30,38.28.4.30,NL,Netherlands,EU,Europe,AS174,Cogent Communications,cogentcomm.biz
+129.134.49.196,129.134.49.196,HK,Hong Kong,AS,Asia,AS32934,"Facebook, Inc.",facebook.com
+2a13:8800::,2a13:8807:ffff:ffff:ffff:ffff:ffff:ffff,PL,Poland,EU,Europe,AS1820,WNET TELECOM USA Corp.,wnet.global
+81.168.41.11,81.168.41.255,NL,Netherlands,EU,Europe,AS206509,KCOM GROUP LIMITED,nasstar.com
+64.112.8.0,64.112.11.255,US,United States,NA,North America,AS3257,GTT Communications Inc.,gtt.net
+2001:2000:3080:1205:0:2000::,2001:2000:3080:120a:ffff:ffff:ffff:ffff,US,United States,NA,North America,AS1299,Arelion Sweden AB,arelion.com
+74.199.253.176,74.199.253.200,CA,Canada,NA,North America,AS3257,GTT Communications Inc.,gtt.net
+21.35.233.128,21.35.233.255,MY,Malaysia,AS,Asia,AS749,DoD Network Information Center,mail.mil
+212.9.12.138,212.9.12.138,FR,France,EU,Europe,AS8681,JT (Jersey) Limited,jtglobal.com
+195.3.156.0,195.3.159.255,UA,Ukraine,EU,Europe,AS12998,BGNet LLC,bg.net.ua
+2003:ca:cf1a:6c3e::,2003:ca:cf1a:6c3e:ffff:ffff:ffff:ffff,US,United States,NA,North America,AS3320,Deutsche Telekom AG,telekom.com
+2.18.96.0,2.18.127.255,US,United States,NA,North America,AS20940,Akamai International B.V.,akamai.com
+103.163.49.0,103.163.49.255,PK,Pakistan,AS,Asia,AS134489,S. B Link Network,sblinknetwork.com
+2409:4061:2d82:ea00::,2409:4061:2d82:eaff:ffff:ffff:ffff:ffff,BD,Bangladesh,AS,Asia,AS55836,Reliance Jio Infocomm Limited,jio.com
+185.131.65.0,185.131.65.255,DE,Germany,EU,Europe,AS56630,Melbikomas UAB,melbicom.net
+195.67.109.0,195.67.109.16,DK,Denmark,EU,Europe,AS3301,Telia Company AB,teliacompany.com
+148.237.0.0,148.237.255.255,MX,Mexico,NA,North America,AS7325,Universidad Autonoma De Tamaulipas,uat.edu.mx
+188.212.252.0,188.212.252.255,RO,Romania,EU,Europe,AS203053,CLAUS WEB srl,clausweb.ro
+103.237.171.0,103.237.171.255,AU,Australia,OC,Oceania,AS133603,Evision Pty Ltd,evision.com.au
+18.164.17.65,18.164.17.66,US,United States,NA,North America,AS16509,"Amazon.com, Inc.",amazon.com
+2606:54c0:27a0:1771::,2606:54c0:27a0:1847:ffff:ffff:ffff:ffff,US,United States,NA,North America,AS13335,"Cloudflare, Inc.",cloudflare.com
+172.225.152.160,172.225.152.191,BM,Bermuda,NA,North America,AS20940,Akamai International B.V.,akamai.com
+131.162.0.0,131.162.255.255,CA,Canada,NA,North America,AS30256,Acadia University,acadiau.ca
+103.39.249.0,103.39.249.255,AU,Australia,OC,Oceania,AS17559,Spectrums Core Network,spectrum.com.au
+203.190.144.0,203.190.144.255,IN,India,AS,Asia,AS9430,"Software Technology Parks of India,Block-IV",stpi.in
+2a01:3f8::,2a01:3f8:ffff:ffff:ffff:ffff:ffff:ffff,GB,United Kingdom,EU,Europe,AS34270,Internet Connections Ltd,inetc.co.uk
+23.255.50.56,23.255.50.63,US,United States,NA,North America,AS11878,"tzulo, inc.",tzulo.com
+2409:4066:11d:8600::,2409:4066:11d:86ff:ffff:ffff:ffff:ffff,BD,Bangladesh,AS,Asia,AS55836,Reliance Jio Infocomm Limited,jio.com
+40.92.109.0,40.92.110.255,SE,Sweden,EU,Europe,AS8075,Microsoft Corporation,microsoft.com
+205.252.49.192,205.252.49.255,CZ,Czechia,EU,Europe,AS3491,"PCCW Global, Inc.",pccwglobal.com
+2401:4900:5980:1200::,2401:4900:5980:9bff:ffff:ffff:ffff:ffff,IN,India,AS,Asia,AS45609,Bharti Airtel Ltd. AS for GPRS Service,airtel.com
+222.80.219.0,222.80.255.255,CN,China,AS,Asia,AS4134,CHINANET-BACKBONE,chinatelecom.com.cn
+193.201.107.0,193.201.107.255,ES,Spain,EU,Europe,AS13195,"Ingenieria y Economia del Transporte, S.A",ineco.com
+2a09:bac1:1480:1c1::,2a09:bac1:1480:1c7:ffff:ffff:ffff:ffff,US,United States,NA,North America,AS13335,"Cloudflare, Inc.",cloudflare.com
+185.127.168.0,185.127.171.255,NO,Norway,EU,Europe,AS203673,Alesund Kommune,alesund.kommune.no
+26.115.1.128,26.115.15.255,US,United States,NA,North America,AS749,DoD Network Information Center,mail.mil
+2a02:26f7:ab::,2a02:26f7:ab:ffff:ffff:ffff:ffff:ffff,US,United States,NA,North America,AS20940,Akamai International B.V.,akamai.com
+162.246.100.0,162.246.103.255,US,United States,NA,North America,AS11071,InfoWest,infowest.com
+13.107.194.0,13.107.194.3,ZA,South Africa,AF,Africa,AS8075,Microsoft Corporation,microsoft.com
+2409:4088:820e:a00::,2409:4088:820e:aff:ffff:ffff:ffff:ffff,BD,Bangladesh,AS,Asia,AS55836,Reliance Jio Infocomm Limited,jio.com
+2a09:bac3:5780::,2a09:bac3:5787:ffff:ffff:ffff:ffff:ffff,TK,Tokelau,OC,Oceania,AS13335,"Cloudflare, Inc.",cloudflare.com
+2a02:a03f:ea6c:6e00::,2a02:a03f:ea6c:6eff:ffff:ffff:ffff:ffff,FR,France,EU,Europe,AS29005,Proximus NV,proximus.com
+192.210.132.0,192.210.159.255,US,United States,NA,North America,AS36352,ColoCrossing,colocrossing.com
+71.41.224.0,71.41.255.255,US,United States,NA,North America,AS11427,Charter Communications Inc,charter.com
+2a09:bac1:3840:11::,2a09:bac1:3840:17:ffff:ffff:ffff:ffff,US,United States,NA,North America,AS13335,"Cloudflare, Inc.",cloudflare.com
+185.38.187.0,185.38.187.255,NL,Netherlands,EU,Europe,AS60781,LeaseWeb Netherlands B.V.,leaseweb.com
+2606:54c0:14c0:4591::,2606:54c0:14c0:462f:ffff:ffff:ffff:ffff,US,United States,NA,North America,AS13335,"Cloudflare, Inc.",cloudflare.com
+2a09:bac1:1e20:14a8::,2a09:bac1:1e20:14a8:ffff:ffff:ffff:ffff,DE,Germany,EU,Europe,AS13335,"Cloudflare, Inc.",cloudflare.com
+154.24.45.69,154.24.45.70,HK,Hong Kong,AS,Asia,AS174,Cogent Communications,cogentcomm.biz
+2606:54c0:b60:518::,2606:54c0:b60:518:ffff:ffff:ffff:ffff,BD,Bangladesh,AS,Asia,AS13335,"Cloudflare, Inc.",cloudflare.com
+2401:fa00:480:a000::,2401:fa00:480:a1ff:ffff:ffff:ffff:ffff,GB,United Kingdom,EU,Europe,AS45566,AS number for Google Corporate Network in APAC,google.com
+196.244.209.0,196.244.209.255,ZA,South Africa,AF,Africa,AS37518,Fiber Grid INC,fibergride.com
+11.11.28.160,11.11.28.191,YE,Yemen,AS,Asia,AS749,DoD Network Information Center,mail.mil
+2600:9000:2220:100::,2600:9000:2220:ffff:ffff:ffff:ffff:ffff,US,United States,NA,North America,AS16509,"Amazon.com, Inc.",amazon.com
+17.118.195.168,17.118.195.171,ES,Spain,EU,Europe,AS714,Apple Inc.,apple.com
+2409:4061:68a:5200::,2409:4061:68a:52ff:ffff:ffff:ffff:ffff,BD,Bangladesh,AS,Asia,AS55836,Reliance Jio Infocomm Limited,jio.com
+195.81.135.128,195.81.135.255,CH,Switzerland,EU,Europe,AS3257,GTT Communications Inc.,gtt.net
+195.89.99.9,195.89.99.10,IT,Italy,EU,Europe,AS1273,Vodafone Group PLC,vodafone.com
+78.142.19.0,78.142.19.255,BG,Bulgaria,EU,Europe,AS57705,Lifoet-2007 LLC,mail.bg
+2409:4061:70f:5a00::,2409:4061:70f:87ff:ffff:ffff:ffff:ffff,IN,India,AS,Asia,AS55836,Reliance Jio Infocomm Limited,jio.com
+197.80.5.8,197.80.5.8,ZA,South Africa,AF,Africa,AS10474,Dimension Data,is.co.za
+80.231.217.0,80.231.217.255,FR,France,EU,Europe,AS6453,TATA COMMUNICATIONS (AMERICA) INC,tatacommunications.com
+210.122.20.0,210.122.31.255,KR,South Korea,AS,Asia,AS4961,Daewoo Information Systems,metanet.co.kr
+2c0f:fe30:2a06::,2c0f:fe30:2a06:ff:ffff:ffff:ffff:ffff,RW,Rwanda,AF,Africa,AS37006,Liquid Telecommunication Rwanda Limited,liquid.tech
+151.248.105.30,151.248.105.31,KW,Kuwait,AS,Asia,AS59605,MENA LEVANT W.L.L,zain.com
+2409:4061:2d0c:5300::,2409:4061:2d0c:53ff:ffff:ffff:ffff:ffff,BD,Bangladesh,AS,Asia,AS55836,Reliance Jio Infocomm Limited,jio.com
+104.28.131.183,104.28.131.188,UA,Ukraine,EU,Europe,AS13335,"Cloudflare, Inc.",cloudflare.com
+21.107.106.0,21.107.125.127,US,United States,NA,North America,AS749,DoD Network Information Center,mail.mil
+104.44.30.104,104.44.30.107,US,United States,NA,North America,AS8075,Microsoft Corporation,microsoft.com
+103.204.68.0,103.204.68.255,BD,Bangladesh,AS,Asia,AS150176,Thunder link Network,thunderlinkbd.net
+208.85.212.0,208.85.215.255,CA,Canada,NA,North America,AS15247,GOCO TECHNOLOGY LIMITED PARTNERSHIP,radiant.net
+2409:4054:2088:d800::,2409:4054:2088:d9ff:ffff:ffff:ffff:ffff,PK,Pakistan,AS,Asia,AS55836,Reliance Jio Infocomm Limited,jio.com
+2606:54c0:1140:1371::,2606:54c0:1140:1377:ffff:ffff:ffff:ffff,US,United States,NA,North America,AS13335,"Cloudflare, Inc.",cloudflare.com
+41.205.128.0,41.205.152.245,NA,Namibia,AF,Africa,AS36996,Telecom Namibia,telecom.na
+185.160.64.0,185.160.64.255,IN,India,AS,Asia,AS134450,HostRoyale Technologies Pvt Ltd,hostroyale.com
+22.227.95.128,22.227.95.255,US,United States,NA,North America,AS749,DoD Network Information Center,mail.mil
+154.14.67.25,154.14.67.25,BE,Belgium,EU,Europe,AS3257,GTT Communications Inc.,gtt.net
+2a02:27ac::,2a02:27ac:ffff:ffff:ffff:ffff:ffff:ffff,LV,Latvia,EU,Europe,AS50979,ITL LLC,itl.ua
+176.67.169.0,176.67.175.255,GB,United Kingdom,EU,Europe,AS13213,UK-2 Limited,uk2group.com
+198.182.53.128,198.182.53.255,US,United States,NA,North America,AS24539,Synopsys Inc.,synopsys.com
+213.32.250.230,213.32.250.239,US,United States,NA,North America,AS150670,Suraj Meshram,solordp.com
+185.107.168.0,185.107.171.255,DK,Denmark,EU,Europe,AS24800,BornFiber Service Provider ApS,bornfiber.dk
+62.208.245.7,62.208.245.16,GB,United Kingdom,EU,Europe,AS1273,Vodafone Group PLC,vodafone.com
+23.55.96.0,23.55.99.255,BE,Belgium,EU,Europe,AS16625,"Akamai Technologies, Inc.",akamai.com
+2402:8100:3960:4000::,2402:8100:3960:5cff:ffff:ffff:ffff:ffff,IN,India,AS,Asia,AS45271,Idea Cellular Limited,adityabirla.com
+212.222.19.73,212.222.19.74,FR,France,EU,Europe,AS3257,GTT Communications Inc.,gtt.net
+2606:54c0:6f00:968::,2606:54c0:6f00:968:ffff:ffff:ffff:ffff,TH,Thailand,AS,Asia,AS13335,"Cloudflare, Inc.",cloudflare.com
+45.176.152.0,45.176.155.255,BR,Brazil,SA,South America,AS269007,MATTOS EQUIPAMENTOS ELETRONICOS,facebook.com
+64.125.31.146,64.125.31.150,US,United States,NA,North America,AS6461,Zayo Bandwidth,zayo.com
+11.11.7.192,11.11.7.223,QA,Qatar,AS,Asia,AS749,DoD Network Information Center,mail.mil
+32.112.224.164,32.112.224.167,FR,France,EU,Europe,AS2686,AT&T Corp.,att.com
+91.208.76.0,91.208.76.255,AM,Armenia,AS,Asia,AS41965,MTS Armenia CJSC,mts.am
+95.105.64.0,95.105.79.255,RU,Russia,EU,Europe,AS57128,JSC Ufanet,ufanet.ru
+2a07:aa00:0:4::4,2a07:aa00:0:4::b,DE,Germany,EU,Europe,AS3549,"Level 3 Parent, LLC",lumen.com
+22.100.219.0,22.100.220.127,US,United States,NA,North America,AS749,DoD Network Information Center,mail.mil
+213.248.87.70,213.248.87.79,SE,Sweden,EU,Europe,AS1299,Arelion Sweden AB,arelion.com
