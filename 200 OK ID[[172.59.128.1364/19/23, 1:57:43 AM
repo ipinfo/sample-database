@@ -1,0 +1,89 @@
+POST /v1/webhook_endpoints/we_1MyWZIHJKfhvoQeakZfrvjnW
+
+Status
+
+200 OK
+
+ID
+
+req_zjWZSgyTWAKz6K
+
+Time
+
+4/19/23, 1:57:43 AM
+
+IP address
+
+172.59.128.136 (from server at 172.59.128.136)
+
+API version
+
+2022-08-01
+
+Latest
+
+Source
+
+Dashboard — josenavarro19097495450@gmail.com
+
+Idempotency
+
+Key — 4ef663c3-aece-4c6a-9ca8-5ebdcbb1d012
+
+Origin
+
+https://dashboard.stripe.com/
+
+Response body
+
+{
+
+  "id": "we_1MyWZIHJKfhvoQeakZfrvjnW",
+
+  "object": "webhook_endpoint",
+
+  "api_version": null,
+
+  "application": "ca_NjL5ohGYnz4bXqLT0azbqzfwUfXWBWPk",
+
+  "created": 1681893648,
+
+  "description": "clock_1MxlLvHJKfhvoQea9NaiqACH",
+
+  "enabled_events": [
+
+    "balance.available",
+
+    "account.updated"
+
+  ],
+
+  "livemode": false,
+
+  "metadata": {
+
+  },
+
+  "status": "enabled",
+
+  "url": "https://apps.apple.com/gb/developer/google-llc/id281956209?see-all=i-phonei-pad-apps"
+
+}
+
+Request POST body
+
+{
+
+  "enabled_events": [
+
+    "balance.available",
+
+    "account.updated"
+
+  ],
+
+  "description": "clock_1MxlLvHJKfhvoQea9NaiqACH",
+
+  "url": "https://apps.apple.com/gb/developer/google-llc/id281956209?see-all=i-phonei-pad-apps"
+
+} 
