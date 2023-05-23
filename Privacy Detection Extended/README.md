@@ -32,9 +32,9 @@ The following database schema represents the CSV database. We also provide JSON 
 
 # Samples
 
-- [CSV Database] [Privacy Detection (Extended) Database Sample](/Privacy%20Detection/privacy_detection_extended_sample.csv)
-- [JSON Database] [Privacy Detection (Extended) Database Sample](/Privacy%20Detection/privacy_detection_extended_sample.json)
-- [MMDB Database] [Privacy Detection (Extended) Database Sample](/Privacy%20Detection/privacy_detection_extended_sample.mmdb)
+- [CSV Database] [Privacy Detection (Extended) Database Sample](/Privacy%20Detection%20Extendedprivacy_detection_extended_sample.csv)
+- [JSON Database] [Privacy Detection (Extended) Database Sample](/Privacy%20Detection%20Extended/privacy_detection_extended_sample.json)
+- [MMDB Database] [Privacy Detection (Extended) Database Sample](/Privacy%20Detection%20Extended/privacy_detection_extended_sample.mmdb)
 
 ---
 
