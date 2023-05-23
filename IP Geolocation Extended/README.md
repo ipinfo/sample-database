@@ -26,7 +26,7 @@ The following database schema represents the CSV database. We also provide JSON 
 | `radius`      | 5                   | Accuracy radius in terms of kilometers                       |
 
 
-> `join_key` → This key represents the Class C network each IP address is part of, allowing you to filter the result set significantly before filtering to the exact IP address you want. [[*Source*](https://ipinfo.io/blog/ingesting-ipinfo-geolocation-data-with-postgresql-13/)]
+> `join_key` → This key represents the Class C network each IP address is part of, allowing you to filter the result set significantly before filtering to the exact IP address you want.
 
 # Samples
 

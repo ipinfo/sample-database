@@ -27,12 +27,12 @@ The following database schema represents the CSV database. We also provide JSON 
 | census_port     | 443,500        | True: if we've seen this IP in a VPN provider config or their API                        |
 | vpn_name        | False          | Name of the provider, if available (eg. inferred from whois, hostname, or source config) |
 
-> `join_key` → This key represents the Class C network each IP address is part of, allowing you to filter the result set significantly before filtering to the exact IP address you want. [[*Source*](https://ipinfo.io/blog/ingesting-ipinfo-geolocation-data-with-postgresql-13/)]
+> `join_key` → This key represents the Class C network each IP address is part of, allowing you to filter the result set significantly before filtering to the exact IP address you want.
 
 
 # Samples
 
-- [CSV Database] [Privacy Detection (Extended) Database Sample](/Privacy%20Detection%20Extendedprivacy_detection_extended_sample.csv)
+- [CSV Database] [Privacy Detection (Extended) Database Sample](/Privacy%20Detection%20Extended/privacy_detection_extended_sample.csv)
 - [JSON Database] [Privacy Detection (Extended) Database Sample](/Privacy%20Detection%20Extended/privacy_detection_extended_sample.json)
 - [MMDB Database] [Privacy Detection (Extended) Database Sample](/Privacy%20Detection%20Extended/privacy_detection_extended_sample.mmdb)
 
