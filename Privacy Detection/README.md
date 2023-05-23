@@ -8,17 +8,18 @@
 
 The following database schema represents the CSV database. We also provide JSON and MMDB format data.
 
-| Field Name | Example | Data Type | Notes |
-| --- | --- | --- | --- |
-| `start_ip` | 115.9.76.79 | TEXT | Starting IP address of an IP address range |
-| `end_ip` | 115.9.76.79 | TEXT | Ending IP address of an IP address range |
-| `join_key` | 115.9.0.0 | TEXT | Special variable to facilitate join operation |
-| `hosting` |  | BOOLEAN | Indicates a hosting IP address most of the time based on a datacenter. Indicative of bots, scrapers or malicious activities |
-| `proxy` |  | BOOLEAN | Similar to VPN mainly used by businesses |
-| `tor` |  | BOOLEAN | IP address originated from the Onion router |
-| `vpn` | True | BOOLEAN | Virtual Private Network (VPN) service IP address |
-| `relay` |  | BOOLEAN | Traffic relays often provided by CDN companies |
-| `service` |  | TEXT | Name of the privacy service provider |
+| Field Name | Example     | Data Type | Notes                                                                                                                       |
+|------------|-------------|-----------|-----------------------------------------------------------------------------------------------------------------------------|
+| `start_ip` | 115.9.76.79 | TEXT      | Starting IP address of an IP address range                                                                                  |
+| `end_ip`   | 115.9.76.79 | TEXT      | Ending IP address of an IP address range                                                                                    |
+| `join_key` | 115.9.0.0   | TEXT      | Special variable to facilitate join operation                                                                               |
+| `hosting`  |             | BOOLEAN   | Indicates a hosting IP address most of the time based on a datacenter. Indicative of bots, scrapers or malicious activities |
+| `proxy`    |             | BOOLEAN   | Similar to VPN mainly used by businesses                                                                                    |
+| `tor`      |             | BOOLEAN   | IP address originated from the Onion router                                                                                 |
+| `vpn`      | True        | BOOLEAN   | Virtual Private Network (VPN) service IP address                                                                            |
+| `relay`    |             | BOOLEAN   | Traffic relays often provided by CDN companies                                                                              |
+| `service`  |             | TEXT      | Name of the privacy service provider                                                                                        |
+
 
 > `join_key` → This key represents the Class C network each IP address is part of, allowing you to filter the result set significantly before filtering to the exact IP address you want. [[*Source*](https://ipinfo.io/blog/ingesting-ipinfo-geolocation-data-with-postgresql-13/)]
 > 
@@ -68,7 +69,7 @@ As well as the database product, IPinfo also provides a robust API service. Plea
 
 # Interested in more?
 
-Currently, we are limiting the sample datasets to only **200 rows**. If you would like to request a larger sample or would like to get a quote on the database products, **[feel free to reach to us](https://ipinfo.io/products/ip-database-download#request_form)**.
+Currently, we are limiting the sample datasets to only **100 rows**. If you would like to request a larger sample or would like to get a quote on the database products, **[feel free to reach to us](https://ipinfo.io/products/ip-database-download#request_form)**.
 
 Follow us on [Twitter](https://twitter.com/ipinfoio) and [LinkedIn](https://www.linkedin.com/company/ipinfo/) to learn more about IP Address data and it’s fascinating potential.
 
