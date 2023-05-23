@@ -8,18 +8,19 @@
 
 The following database schema represents the CSV database. We also provide JSON and MMDB format data.
 
-| Field Name | Example | Data Type | Notes |
-| --- | --- | --- | --- |
-| `start_ip` | 1.253.242.0 | TEXT | Starting IP address of an IP address range |
-| `end_ip` | 1.253.242.255 | TEXT | Ending IP address of an IP address range |
-| `join_key` | 1.253.0.0 | TEXT | Special variable to facilitate join operation |
-| `city` | Yangsan | TEXT | City of the location |
-| `region` | Gyeongsangnam-do | TEXT | Region of the location |
-| `country` | KR | TEXT | ISO 3166 country code |
-| `latitude` | 35.34199 | FLOAT | Latitude value of the location |
-| `longitude` | 129.03358 | FLOAT | Longitude value of the location |
-| `postal_code` | 50593 | TEXT | Postal code of the location |
-| `timezone` | Asia/Seoul | TEXT | Local time zone |
+| Field Name    | Example          | Data Type | Notes                                         |
+|---------------|------------------|-----------|-----------------------------------------------|
+| `start_ip`    | 1.253.242.0      | TEXT      | Starting IP address of an IP address range    |
+| `end_ip`      | 1.253.242.255    | TEXT      | Ending IP address of an IP address range      |
+| `join_key`    | 1.253.0.0        | TEXT      | Special variable to facilitate join operation |
+| `city`        | Yangsan          | TEXT      | City of the location                          |
+| `region`      | Gyeongsangnam-do | TEXT      | Region of the location                        |
+| `country`     | KR               | TEXT      | ISO 3166 country code                         |
+| `latitude`    | 35.34199         | FLOAT     | Latitude value of the location                |
+| `longitude`   | 129.03358        | FLOAT     | Longitude value of the location               |
+| `postal_code` | 50593            | TEXT      | Postal code of the location                   |
+| `timezone`    | Asia/Seoul       | TEXT      | Local time zone                               |
+
 
 > `join_key` → This key represents the Class C network each IP address is part of, allowing you to filter the result set significantly before filtering to the exact IP address you want. [[*Source*](https://ipinfo.io/blog/ingesting-ipinfo-geolocation-data-with-postgresql-13/)]
 > 
@@ -69,7 +70,7 @@ $ curl ipinfo.io/IP_ADDRESS?token=TOKEN
 
 # Interested in more?
 
-Currently, we are limiting the sample datasets to only **200 rows**. If you would like to request a larger sample or would like to get a quote on the database products, **[feel free to reach to us](https://ipinfo.io/products/ip-database-download#request_form)**.
+Currently, we are limiting the sample datasets to only **100 rows**. If you would like to request a larger sample or would like to get a quote on the database products, **[feel free to reach to us](https://ipinfo.io/products/ip-database-download#request_form)**.
 
 Follow us on [Twitter](https://twitter.com/ipinfoio) and [LinkedIn](https://www.linkedin.com/company/ipinfo/) to learn more about IP Address data and it’s fascinating potential.
 

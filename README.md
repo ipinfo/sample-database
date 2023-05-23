@@ -22,6 +22,8 @@
     - [Privacy Detection](#privacy-detection--anonymous-ip-detection)
     - [Hosted Domains](#hosted-domains--reverse-ip-lookup)
     - [Abuse Contact](#abuse-contact)
+    - [IP Geolocation Extended](#ip-geolocation-extended)
+    - [Privacy Detection Extended](#privacy-detection-extended)
     - [WHOIS](#whois)
 - [Relevant Articles](#relevant-articles)
   - [Guides](#guides)
@@ -40,7 +42,7 @@ The database products [IPinfo.io](https://ipinfo.io) has to offer are -
 | --- | --- | --- |
 | [IP Geolocation Database](https://ipinfo.io/products/ip-geolocation-database) | [IP Geolocation Sample](/IP%20Geolocation) | IP geolocation information |
 | [IP to Company Database](https://ipinfo.io/products/ip-company-database) | [IP to Company Sample](/IP%20to%20Company) | Company associated with IP address |
-| [ASN Database](https://ipinfo.io/products/asn-database) | [ASN Database Sample](/ASN%20Database) | IP range and ASN inforamtion |
+| [ASN Database](https://ipinfo.io/products/asn-database) | [ASN Database Sample](/ASN%20Database) | IP range and ASN information |
 | [IP to Mobile Carrier Database](https://ipinfo.io/products/mobile-ip-database) | [IP to Mobile Sample](/IP%20to%20Mobile%20Carrier) | Mobile carrier and country information |
 | [Privacy Detection Database](https://ipinfo.io/products/anonymous-ip-database) | [Privacy Detection Sample](/Privacy%20Detection) | VPN, proxy, Tor, relay detection |
 | [Hosted Domain Database](https://ipinfo.io/products/hosted-domains-database) | [Hosted Domains Sample](/Hosted%20Domains) | Reverse IP lookup |
@@ -53,8 +55,16 @@ IPinfo also provides the following [IP databases for free](https://ipinfo.io/pro
 | Database Product | Sample Database Repo | Description |
 | --- | --- | --- |
 | [IP to Country](https://ipinfo.io/products/free-ip-database) | [IP to Country Sample](/IP%20to%20Country) | IP to Country Information|
-| [IP to ASN](https://ipinfo.io/products/free-ip-database) | [IP to ASN Sample](/IP%20to%20ASN) | IP to ASN inforamtion |
+| [IP to ASN](https://ipinfo.io/products/free-ip-database) | [IP to ASN Sample](/IP%20to%20ASN) | IP to ASN information |
 | [IP to Country + ASN](https://ipinfo.io/products/free-ip-database) | [IP to Country + ASN Sample](/IP%20to%20Country%20ASN) | Joined database of IP to Country and IP to ASN|
+
+We offer a few detailed database that comes with additional columns that gives insights to the accuracy and our data methodology. These enterprise grade databases are only available upon request.
+
+| Database Product | Sample Database Repo | Description
+| --- | --- | --- |
+| IP to Geolocation Extended Database | [IP to Geolocation Extended Sample](/IP%20Geolocation%20Extended) | IP to Geolocation database with accuracy radius
+| IP to Privacy Detection Extended Database | [IP to Privacy Detection Extended Sample](/Privacy%20Detection%20Extended) | IP to Privacy Detection database detection method information
+
 
 **All of these products are available as CSV, JSON and MMDB type.**
 
@@ -62,7 +72,7 @@ IPinfo also provides the following [IP databases for free](https://ipinfo.io/pro
 
 Please visit each folder to learn more about the databases. Each directory README contains -
 
-- Sample Dataset (200 rows) in `.csv`, `.json` and `.mmdb` format
+- Sample Dataset (100 rows) in `.csv`, `.json` and `.mmdb` format
 - API response (in `.json`)
 - Breakdown of the dataset with description of the fields
 - Breakdown of the API response
@@ -140,18 +150,19 @@ You can find the schema, database sample, API response sample, and other informa
 
 You can find the schema, database sample, API response sample, and other information in the **[IP Geolocation folder](/IP%20Geolocation)**. The database includes the following fields:
 
-| Field Name | Example | Description |
-| --- | --- | --- |
-| `start_ip` | 1.253.242.0 | Starting IP address of an IP address range |
-| `end_ip` | 1.253.242.255 | Ending IP address of an IP address range |
-| `join_key` | 1.253.0.0 | Special variable to facilitate `join` operation |
-| `city` | Yangsan | City of the location |
-| `region` | Gyeongsangnam-do | Region of the location |
-| `country` | KR | ISO 3166 country code of the location |
-| `latitude` | 35.34199 | Latitude value of the location |
-| `longitude` | 129.03358 | Longitude value of the location |
-| `postal_code` | 50593 | Postal code of the location |
-| `timezone` | Asia/Seoul | Local time zone |
+| Field Name    | Example          | Description                                     |
+|---------------|------------------|-------------------------------------------------|
+| `start_ip`    | 1.253.242.0      | Starting IP address of an IP address range      |
+| `end_ip`      | 1.253.242.255    | Ending IP address of an IP address range        |
+| `join_key`    | 1.253.0.0        | Special variable to facilitate `join` operation |
+| `city`        | Yangsan          | City of the location                            |
+| `region`      | Gyeongsangnam-do | Region of the location                          |
+| `country`     | KR               | ISO 3166 country code of the location           |
+| `latitude`    | 35.34199         | Latitude value of the location                  |
+| `longitude`   | 129.03358        | Longitude value of the location                 |
+| `postal_code` | 50593            | Postal code of the location                     |
+| `timezone`    | Asia/Seoul       | Local time zone                                 |
+
 
 
 ### 🔗 [IP Geolocation Database Product Page](https://ipinfo.io/products/ip-geolocation-database)
@@ -165,19 +176,20 @@ You can find the schema, database sample, API response sample, and other informa
 
 You can find the schema, database sample, API response sample, and other information in the **[IP to Company folder](/IP%20to%20Company)**. This database is can be used to identify large scale organization or companies behind IP address ranges. The database includes the following fields:
 
-| Field Name | Example | Description |
-| --- | --- | --- |
-| `start_ip` | 107.136.106.168 | Starting IP address of an IP address range |
-| `end_ip` | 107.136.106.175 | Ending IP address of an IP address range |
-| `join_key` | 107.136.0.0 | Specialized variable to facilitate `join` operation |
-| `name` | ZSPEC FLOW-180709174314 | Name of the company |
-| `domain` | zspec.com | Domain of the company |
-| `type` | business | Type of business. e.g. Business, ISP, Hosting or Education |
-| `asn` | AS7018 | ASN associated with the company |
-| `as_name` | AT&T Services, Inc. | Name of the ASN |
-| `as_domain` | att.com | Domain name of the ASN |
-| `as_type` | isp | ASN Type: ISP, Hosting, Business or Education |
-| `country` | US | ISO 3166 country code |
+| Field Name  | Example                 | Description                                                |
+|-------------|-------------------------|------------------------------------------------------------|
+| `start_ip`  | 107.136.106.168         | Starting IP address of an IP address range                 |
+| `end_ip`    | 107.136.106.175         | Ending IP address of an IP address range                   |
+| `join_key`  | 107.136.0.0             | Specialized variable to facilitate `join` operation        |
+| `name`      | ZSPEC FLOW-180709174314 | Name of the company                                        |
+| `domain`    | zspec.com               | Domain of the company                                      |
+| `type`      | business                | Type of business. e.g. Business, ISP, Hosting or Education |
+| `asn`       | AS7018                  | ASN associated with the company                            |
+| `as_name`   | AT&T Services, Inc.     | Name of the ASN                                            |
+| `as_domain` | att.com                 | Domain name of the ASN                                     |
+| `as_type`   | isp                     | ASN Type: ISP, Hosting, Business or Education              |
+| `country`   | US                      | ISO 3166 country code                                      |
+
 
 
 ### 🔗 [IP to Company Database Product Page](https://ipinfo.io/products/ip-company-database)
@@ -192,16 +204,17 @@ You can find the schema, database sample, API response sample, and other informa
 
 You can find the schema, database sample, API response sample, and other information in the **[ASN folder](/ASN%20Database)**. The Database contains the following fields:
 
-| Field Name | Example | Description |
-| --- | --- | --- |
-| `start_ip` | 125.113.0.0 | Starting IP address of the ASN IP address block |
-| `end_ip` | 125.113.255.255 | Ending IP address of the ASN IP address block |
-| `join_key` | 125.113.0.0 | Special variable to facilitate `join` operation |
-| `asn` | AS4134 | Autonomous System Number (ASN) |
-| `domain` | chinatelecom.com.cn | Domain name of the AS |
-| `name` | CHINANET-BACKBONE | Name of the ASN |
-| `type` | isp | ASN Type: ISP, Hosting, Education or Business |
-| `country` | CN | ISO 3166 country code |
+| Field Name | Example             | Description                                     |
+|------------|---------------------|-------------------------------------------------|
+| `start_ip` | 125.113.0.0         | Starting IP address of the ASN IP address block |
+| `end_ip`   | 125.113.255.255     | Ending IP address of the ASN IP address block   |
+| `join_key` | 125.113.0.0         | Special variable to facilitate `join` operation |
+| `asn`      | AS4134              | Autonomous System Number (ASN)                  |
+| `domain`   | chinatelecom.com.cn | Domain name of the AS                           |
+| `name`     | CHINANET-BACKBONE   | Name of the ASN                                 |
+| `type`     | isp                 | ASN Type: ISP, Hosting, Education or Business   |
+| `country`  | CN                  | ISO 3166 country code                           |
+
 
 ### 🔗 [ASN Database Product Page](https://ipinfo.io/products/asn-database)
 
@@ -214,15 +227,16 @@ You can find the schema, database sample, API response sample, and other informa
 
 You can find the schema, database sample, API response sample, and other information in the **[IP to Mobile Carrier folder](/IP%20to%20Mobile%20Carrier)**. The database contains the following fields:
 
-| Field Name | Example | Description |
-| --- | --- | --- |
-| `start_ip` | 5.208.203.0 | Starting IP address of an IP address range |
-| `end_ip` | 5.208.203.255 | Ending IP address of an IP address range |
-| `join_key` | 5.208.0.0 | Special variable to facilitate `join` operation. |
-| `name` | Mobile Communication Company of Iran PLC | Name of the mobile carrier |
-| `country` | IR | ISO 3166 country code |
-| `mcc` | 432 | Mobile Country Code (MCC) of the carrier |
-| `mnc` | 11 | Mobile Network Code (MNC) of the carrier |
+| Field Name | Example                                  | Description                                      |
+|------------|------------------------------------------|--------------------------------------------------|
+| `start_ip` | 5.208.203.0                              | Starting IP address of an IP address range       |
+| `end_ip`   | 5.208.203.255                            | Ending IP address of an IP address range         |
+| `join_key` | 5.208.0.0                                | Special variable to facilitate `join` operation. |
+| `name`     | Mobile Communication Company of Iran PLC | Name of the mobile carrier                       |
+| `country`  | IR                                       | ISO 3166 country code                            |
+| `mcc`      | 432                                      | Mobile Country Code (MCC) of the carrier         |
+| `mnc`      | 11                                       | Mobile Network Code (MNC) of the carrier         |
+
 
 ### 🔗 [IP to Mobile Carrier Database Product Page](https://ipinfo.io/products/mobile-ip-database)
 
@@ -235,17 +249,19 @@ You can find the schema, database sample, API response sample, and other informa
 
 You can find the schema, database sample, API response sample, and other information in the **[Privacy Detection folder](/Privacy%20Detection)**. The database includes the following fields:
 
-| Field Name | Example | Description |
-| --- | --- | --- |
-| `start_ip` | 115.9.76.79 | Starting IP address of an IP address range |
-| `end_ip` | 115.9.76.79 | Ending IP address of an IP address range |
-| `join_key` | 115.9.0.0 | Special variable to facilitate `join` operation |
-| `hosting` |  | Indicates a hosting IP address most of the time based on a datacenter. Indicative of bots, scrapers or malicious activities |
-| `proxy` |  | Similar to VPN mainly used by businesses |
-| `tor` |  | IP address originated from the Onion router |
-| `vpn`| True | Virtual Private Network (VPN) service IP address |
-| `relay` |  | Traffic relays often provided by CDN companies |
-| `service` |  | Name of the privacy service provider |
+| Field Name | Example     | Description                                                                                                                  |
+|------------|-------------|------------------------------------------------------------------------------------------------------------------------------|
+| `start_ip` | 115.9.76.79 | Starting IP address of an IP address range                                                                                   |
+| `end_ip`   | 115.9.76.79 | Ending IP address of an IP address range                                                                                     |
+| `join_key` | 115.9.0.0   | Special variable to facilitate `join` operation                                                                              |
+| `hosting`  |             | Indicates a hosting IP address most of the time based on a data center. Indicative of bots, scrapers or malicious activities |
+| `proxy`    |             | Similar to VPN mainly used by businesses                                                                                     |
+| `tor`      |             | IP address originated from the Onion router                                                                                  |
+| `vpn`      | True        | Virtual Private Network (VPN) service IP address                                                                             |
+| `relay`    |             | Traffic relays often provided by CDN companies                                                                               |
+| `service`  |             | Name of the privacy service provider                                                                                         |
+
+
 
 ### 🔗 [Privacy Detection Database Product Page](https://ipinfo.io/products/anonymous-ip-database)
 
@@ -260,11 +276,12 @@ Through our Hosted Domains service, you can see the full list of domains hosted 
 
 You can find the schema, database sample, API response sample, and other information in the **[Hosted Domains folder](/Hosted%20Domains)**. The database includes the following fields:
 
-| Field Name | Example | Description |
-| --- | --- | --- |
-| `ip` | 135.125.236.225 | IP address for reverse IP lookup |
-| `total` | 3 | Number of domains registered to the IP Address |
-| `domains` | farmanaut.com,pharmanaut.be,farmanaut.be | Name of the domain(s) under the IP address |
+| Field Name | Example                                  | Description                                    |
+|------------|------------------------------------------|------------------------------------------------|
+| `ip`       | 135.125.236.225                          | IP address for reverse IP lookup               |
+| `total`    | 3                                        | Number of domains registered to the IP Address |
+| `domains`  | farmanaut.com,pharmanaut.be,farmanaut.be | Name of the domain(s) under the IP address     |
+
 
 ### 🔗 [Hosted Domains Database Product Page](https://ipinfo.io/products/hosted-domains-database)
 
@@ -277,22 +294,78 @@ You can find the schema, database sample, API response sample, and other informa
 
 You can find the schema, database sample, API response sample, and other information in the **[Abuse Contact folder](/Abuse%20Contact)**. The database includes the following fields:
 
-| Field Name | Example | Description |
-| --- | --- | --- |
-| `start_ip` | 119.93.20.248 | Starting IP address of an IP address block |
-| `end_ip` | 119.93.20.255 | Ending IP address of an IP address block |
-| `join_key` | 119.93.0.0 | Special variable to facilitate `join` operation |
-| `name` | Nilo Agir | Name of the abuse contact |
-| `email` | abuse@pldt.net | Organizational email of the abuse contact |
-| `address` | Philippine Long Distance Telephone Company, 6/... | Organizational address of the abuse contact |
-| `country` | PH | ISO 3166 country code |
-| `phone` | +632-584-1045 | Organizational phone number of the abuse contact |
+| Field Name | Example                                           | Description                                      |
+|------------|---------------------------------------------------|--------------------------------------------------|
+| `start_ip` | 119.93.20.248                                     | Starting IP address of an IP address block       |
+| `end_ip`   | 119.93.20.255                                     | Ending IP address of an IP address block         |
+| `join_key` | 119.93.0.0                                        | Special variable to facilitate `join` operation  |
+| `name`     | Nilo Agir                                         | Name of the abuse contact                        |
+| `email`    | abuse@pldt.net                                    | Organizational email of the abuse contact        |
+| `address`  | Philippine Long Distance Telephone Company, 6/... | Organizational address of the abuse contact      |
+| `country`  | PH                                                | ISO 3166 country code                            |
+| `phone`    | +632-584-1045                                     | Organizational phone number of the abuse contact |
+
 
 ### 🔗 [Abuse Contact Database Product Page](https://ipinfo.io/products/ip-abuse-contact-database)
 
 </details>
 
 <details id=11>
+<summary><h2>IP Geolocation Extended</h2></summary>
+
+**IP to Geolocation database with confidence metric or accuracy radius for each entry**
+
+You can find the schema, database sample, API response sample, and other information in the **[IP Geolocation Extended folder](/IP%20Geolocation%20Extended)**. The database includes the following fields:
+
+| Field Name    | Example             | Description                                                  |
+|---------------|---------------------|--------------------------------------------------------------|
+| `start_ip`    | 171.71.0.0          | Starting IP address of an IP address range                   |
+| `end_ip`      | 171.71.127.255      | Ending IP address of an IP address range                     |
+| `join_key`    | 171.71.0.0          | Special variable to facilitate `join` operation              |
+| `city`        | San Jose            | City of the location                                         |
+| `region`      | California          | Region of the location                                       |
+| `country`     | US                  | ISO 3166 country code of the location                        |
+| `latitude`    | 37.4087             | Latitude value of the location                               |
+| `longitude`   | -121.9406           | Longitude value of the location                              |
+| `postal_code` | 95134               | Postal code of the location                                  |
+| `timezone`    | America/Los_Angeles | Local time zone                                              |
+| `geoname_id`  | 5392171             | `Geonames_id` from [geonames.org](https://www.geonames.org/) |
+| `radius`      | 5                   | Accuracy radius in terms of kilometers                       |
+
+
+
+</details>
+
+
+<details id=12>
+<summary><h2>Privacy Detection Extended</h2></summary>
+
+**Get detection method for each private IP address**
+
+You can find the schema, database sample, API response sample, and other information in the **[Privacy Detection Extended folder](/Privacy%20Detection%20Extended)**. The database includes the following fields:
+
+| Fields          | Example        | Description                                                                              |
+|-----------------|----------------|------------------------------------------------------------------------------------------|
+| start_ip        | 185.164.34.246 | First IP address of the range                                                            |
+| end_ip          | 185.164.34.246 | Last IP address of the range                                                             |
+| hosting         | True           | Indicates hosting service IP address (Bots, scrapers, data center, cloud service etc.)   |
+| proxy           | False          | IP address associated with a proxy service                                               |
+| tor             | False          | Tor exit node IP address                                                                 |
+| vpn             | False          | IP address associated with a VPN service                                                 |
+| relay           | Zenmate        | Private relay service IP address (Apple relay, android, firefox etc.)                    |
+| service         | False          | Name of the privacy service provider                                                     |
+| census          | True           | True: if we've detected this via our VPN scans (successful openvpn or ipsec handshake)   |
+| device_activity | False          | True: if we've seen VPN-like activity (multiple devices, multiple locations etc)         |
+| whois           | False          | True: if we've seen vpn provider attributes in the IP whois data (eg. provider name)     |
+| vpn_config      | True           |                                                                                          |
+| census_port     | 443,500        | True: if we've seen this IP in a VPN provider config or their API                        |
+| vpn_name        | False          | Name of the provider, if available (eg. inferred from whois, hostname, or source config) |
+
+
+
+</details>
+
+<details id=13>
 <summary><h2>WHOIS</h2></summary>
 
 
@@ -347,7 +420,7 @@ You can find the schema, database sample, API response sample, and other informa
 | `as_type` | isp | ISP, business, or hosting (based on around 20 different features and our custom training set) |
 
 
-<details id=12>
+<details id=14>
 <summary><h3>Other WHOIS Databases</h3></summary>
 
 Other kinds of WHOIS Database IPinfo offers:
@@ -420,7 +493,7 @@ If you found an issue or would like to submit an improvement to this project, pl
 
 # Interested in more?
 
-Currently, we are limiting the sample datasets to only **200 rows**. If you would like to request a larger sample or would like to get a quote on the database products, **[feel free to reach to us](https://ipinfo.io/products/ip-database-download#request_form)**.
+Currently, we are limiting the sample datasets to only **100 rows**. If you would like to request a larger sample or would like to get a quote on the database products, **[feel free to reach to us](https://ipinfo.io/products/ip-database-download#request_form)**.
 
 Follow us on [Twitter](https://twitter.com/ipinfoio) and [LinkedIn](https://www.linkedin.com/company/ipinfo/) to learn more about IP Address data and it’s fascinating potential.
 
