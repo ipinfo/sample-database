@@ -10,22 +10,24 @@ IPinfo's IP Address to Privacy Detection (Extended) database includes IP address
 
 The following database schema represents the CSV database. We also provide JSON and MMDB format data.
 
-| Fields          | Example        | Description                                                                              |
-|-----------------|----------------|------------------------------------------------------------------------------------------|
-| start_ip        | 185.164.34.246 | First IP address of the range                                                            |
-| end_ip          | 185.164.34.246 | Last IP address of the range                                                             |
-| hosting         | True           | Indicates hosting service IP address (Bots, scrapers, data center, cloud service etc.)   |
-| proxy           | False          | IP address associated with a proxy service                                               |
-| tor             | False          | Tor exit node IP address                                                                 |
-| vpn             | False          | IP address associated with a VPN service                                                 |
-| relay           | Zenmate        | Private relay service IP address (Apple relay, android, firefox etc.)                    |
-| service         | False          | Name of the privacy service provider                                                     |
-| census          | True           | True: if we've detected this via our VPN scans (successful openvpn or ipsec handshake)   |
-| device_activity | False          | True: if we've seen VPN-like activity (multiple devices, multiple locations etc)         |
-| whois           | False          | True: if we've seen vpn provider attributes in the IP whois data (eg. provider name)     |
-| vpn_config      | True           |                                                                                          |
-| census_port     | 443,500        | True: if we've seen this IP in a VPN provider config or their API                        |
-| vpn_name        | False          | Name of the provider, if available (eg. inferred from whois, hostname, or source config) |
+| Fields            | Example       | Description                                                                                                                          |
+|-------------------|---------------|--------------------------------------------------------------------------------------------------------------------------------------|
+| `start_ip`        | 62.182.99.0   | First IP address of the range                                                                                                        |
+| `end_ip`          | 62.182.99.255 | Last IP address of the range                                                                                                         |
+| `join_key`        | 62.182.0.0    | Specialized variable to facilitate join operation                                                                                    |
+| `hosting`         | False         | Indicates hosting service IP address (data center, cloud service, bots, scrapers,  etc.)                                             |
+| `proxy`           | False         | IP address associated with a proxy service                                                                                           |
+| `tor`             | False         | Tor exit node IP address                                                                                                             |
+| `vpn`             | True          | IP address associated with a VPN service                                                                                             |
+| `relay`           | False         | Private relay service IP address (Apple relay, Cloudflare, Akamai etc.)                                                              |
+| `vpn_name`        | NordVPN       | Name of the privacy service provider includes VPN, Proxy and Relay service providers names                                           |
+| `anycast`         | False         | True: if IP is indentified as being any anycast IP, that could map to multiple physical servers in different locations               |
+| `census`          | True          | True: if we've indentified VPN software running on this IP as part of our internet wide scan (successful openvpn or ipsec handshake) |
+| `device_activity` | True          | True: if we've seen VPN-like behavior (multiple devices, multiple locations etc)                                                     |
+| `whois`           | False         | True: if we've seen vpn provider attributes in the IP whois data (eg. provider name)                                                 |
+| `vpn_config`      | True          | True: if we've identified this IP in a VPN config file                                                                               |
+| `census_port`     | 500           | Port number we've identified VPN software running on                                                                                 |
+
 
 > `join_key` → This key represents the Class C network each IP address is part of, allowing you to filter the result set significantly before filtering to the exact IP address you want.
 
