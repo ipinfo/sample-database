@@ -21,8 +21,8 @@ The following database schema represents the CSV database. We also provide JSON 
 | `vpn`             | True          | IP address associated with a VPN service                                                                                             |
 | `relay`           | False         | Private relay service IP address (Apple relay, Cloudflare, Akamai etc.)                                                              |
 | `vpn_name`        | NordVPN       | Name of the privacy service provider includes VPN, Proxy and Relay service providers names                                           |
-| `anycast`         | False         | True: if IP is indentified as being any anycast IP, that could map to multiple physical servers in different locations               |
-| `census`          | True          | True: if we've indentified VPN software running on this IP as part of our internet wide scan (successful openvpn or ipsec handshake) |
+| `anycast`         | False         | True: if IP is identified as being any anycast IP, that could map to multiple physical servers in different locations               |
+| `census`          | True          | True: if we've identified VPN software running on this IP as part of our internet wide scan (successful openvpn or ipsec handshake) |
 | `device_activity` | True          | True: if we've seen VPN-like behavior (multiple devices, multiple locations etc)                                                     |
 | `whois`           | False         | True: if we've seen vpn provider attributes in the IP whois data (eg. provider name)                                                 |
 | `vpn_config`      | True          | True: if we've identified this IP in a VPN config file                                                                               |
