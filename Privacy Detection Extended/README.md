@@ -14,7 +14,6 @@ The following database schema represents the CSV database. We also provide JSON 
 |-------------------|---------------|--------------------------------------------------------------------------------------------------------------------------------------|
 | `start_ip`        | 62.182.99.0   | First IP address of the range                                                                                                        |
 | `end_ip`          | 62.182.99.255 | Last IP address of the range                                                                                                         |
-| `join_key`        | 62.182.0.0    | Specialized variable to facilitate join operation                                                                                    |
 | `hosting`         | False         | Indicates hosting service IP address (data center, cloud service, bots, scrapers,  etc.)                                             |
 | `proxy`           | False         | IP address associated with a proxy service                                                                                           |
 | `tor`             | False         | Tor exit node IP address                                                                                                             |
