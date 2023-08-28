@@ -1,101 +1,101 @@
 start_ip,end_ip,join_key,city,region,country,latitude,longitude,postal_code,timezone,geoname_id,radius
-2a02:26f7:d18c:e03a::,2a02:26f7:d18c:e03a:ffff:ffff:ffff:ffff,2a02:26f7:c000::,Laitila,Southwest Finland,FI,60.9232,21.6898,23840,Europe/Helsinki,649302,5000
-2003:db:713:e300::,2003:db:714:45ff:ffff:ffff:ffff:ffff,2003:db::,Bremen,Bremen,DE,53.07582,8.80717,28195,Europe/Berlin,2944388,5000
-2001:1890:17ff:6800::,2001:1890:17ff:68ff:ffff:ffff:ffff:ffff,0:fc:95e7:6db5:c0c:8b0c:b200:0,Los Angeles,California,US,34.0559,-118.2666,90017,America/Los_Angeles,5368361,5000
-240b:dfec::,240b:dfec:3fff:ffff:ffff:ffff:ffff:ffff,240b:dfec::,Brisbane,Queensland,AU,-27.46794,153.02809,4000,Australia/Brisbane,2174003,5000
-2804:514:ffc4:d000::,2804:514:ffc9:fcff:ffff:ffff:ffff:ffff,2804:514:c000::,João Pessoa,Paraíba,BR,-7.115,-34.86306,58000-000,America/Fortaleza,3397277,5000
-2003:cc:e744::,2003:cc:e744:60ff:ffff:ffff:ffff:ffff,2003:cc:c000::,Bremen,Bremen,DE,53.07582,8.80717,28195,Europe/Berlin,2944388,5000
-2409:4081:587:3800::,2409:4081:587:38ff:ffff:ffff:ffff:ffff,0:130:1c2c:ae34:15f4:3b83:2100:0,Ahmadnagar,Maharashtra,IN,19.88311,74.31776,423602,Asia/Kolkata,1279228,5000
-2600:1010:a106:2100::,2600:1010:a106:24ff:ffff:ffff:ffff:ffff,0:148:2dcc:a60:f403:b5a7:6600:0,Ashburn,Virginia,US,39.04372,-77.48749,20147,America/New_York,4744870,5000
-2a02:121e:2438:100::,2a02:121e:243a:ffff:ffff:ffff:ffff:ffff,2a02:121e::,Zürich,Zurich,CH,47.3789,8.5204,8004,Europe/Zurich,2657896,5000
-2a08:620b::,2a08:620b:3fff:ffff:ffff:ffff:ffff:ffff,2a08:620b::,Amsterdam,North Holland,NL,52.37403,4.88969,1012,Europe/Amsterdam,2759794,5000
-2602:186d::,2602:186d:3fff:ffff:ffff:ffff:ffff:ffff,2602:186d::,New York City,New York,US,40.71427,-74.00597,10001,America/New_York,5128581,5000
-2606:c0f3::,2606:c0f3:3fff:ffff:ffff:ffff:ffff:ffff,2606:c0f3::,New York City,New York,US,40.71427,-74.00597,10001,America/New_York,5128581,5000
-2a01:11:8910:8000::,2a01:11:891f:ffff:ffff:ffff:ffff:ffff,2a01:11:8000::,Lisbon,Lisbon,PT,38.7167,-9.1333,1600-428,Europe/Lisbon,2267057,5000
-2a13:4597::,2a13:4597:3fff:ffff:ffff:ffff:ffff:ffff,2a13:4597::,Amsterdam,North Holland,NL,52.37403,4.88969,1012,Europe/Amsterdam,2759794,5000
-263a:8123:4000::,263a:8123:7fff:ffff:ffff:ffff:ffff:ffff,263a:8123:4000::,New York City,New York,US,40.71427,-74.00597,10001,America/New_York,5128581,5000
-2603:fd75:8000::,2603:fd75:bfff:ffff:ffff:ffff:ffff:ffff,2603:fd75:8000::,Cheyenne,Wyoming,US,41.1437,-104.7962,82001,America/Denver,5821086,5000
-2001:1c05:220c:9c00::,2001:1c05:220c:ffff:ffff:ffff:ffff:ffff,2001:1c05::,Utrecht,Utrecht,NL,52.09083,5.12222,3511,Europe/Amsterdam,2745912,5000
-2a02:c2ea:8000::,2a02:c2ea:bfff:ffff:ffff:ffff:ffff:ffff,2a02:c2ea:8000::,Amsterdam,North Holland,NL,52.37403,4.88969,1012,Europe/Amsterdam,2759794,5000
-2635:5256:4000::,2635:5256:7fff:ffff:ffff:ffff:ffff:ffff,0:14c:a66d:2208:9fee:710d:1200:0,New York City,New York,US,40.71427,-74.00597,10001,America/New_York,5128581,5000
-240b:13:2a20:7600::,240b:13:2a20:76ff:ffff:ffff:ffff:ffff,240b:13::,Kōriyama,Fukushima,JP,37.4476,140.3864,963-0531,Asia/Tokyo,2112141,5000
-2804:cd46:8000::,2804:cd46:bfff:ffff:ffff:ffff:ffff:ffff,2804:cd46:8000::,Montevideo,Montevideo Department,UY,-34.90328,-56.18816,11100,America/Montevideo,3441575,5000
-2405:204:3313:400::,2405:204:3313:5ff:ffff:ffff:ffff:ffff,0:12f:8e66:7a0b:fa7a:a737:9c00:0,Delhi,Delhi,IN,28.65195,77.23149,110001,Asia/Kolkata,1273294,5000
-2409:4066:29a:600::,2409:4066:29a:6ff:ffff:ffff:ffff:ffff,0:130:1c20:45d4:74d6:3996:b200:0,Comilla,Chittagong,BD,23.6165,91.0679,3526,Asia/Dhaka,1185186,5000
-2a1b:85ed:c000::,2a1b:85ed:ffff:ffff:ffff:ffff:ffff:ffff,2a1b:85ed:c000::,Amsterdam,North Holland,NL,52.37403,4.88969,1012,Europe/Amsterdam,2759794,5000
-2a04:8fa4::,2a04:8fa4:3fff:ffff:ffff:ffff:ffff:ffff,2a04:8fa4::,Amsterdam,North Holland,NL,52.37403,4.88969,1012,Europe/Amsterdam,2759794,5000
-2a0e:5384::,2a0e:5384:3fff:ffff:ffff:ffff:ffff:ffff,2a0e:5384::,Moscow,Moscow,RU,55.7522,37.6156,105568,Europe/Moscow,524901,5000
-240f:72:91a3::,240f:72:91a3:ff:ffff:ffff:ffff:ffff,240f:72:8000::,Tokyo,Tokyo,JP,35.6895,139.69171,101-8656,Asia/Tokyo,1850147,5000
-2602:108:14:3e::,2602:108:14:3e:ffff:ffff:ffff:ffff,0:148:6b80:dfc7:5f68:a2cc:8c00:0,Eau Claire,Wisconsin,US,44.8346,-91.5159,54703,America/Chicago,5251436,5000
-2406:8fef::,2406:8fef:3fff:ffff:ffff:ffff:ffff:ffff,2406:8fef::,Brisbane,Queensland,AU,-27.46794,153.02809,4000,Australia/Brisbane,2174003,5000
-2801:bd17:8000::,2801:bd17:bfff:ffff:ffff:ffff:ffff:ffff,2801:bd17:8000::,Montevideo,Montevideo Department,UY,-34.90328,-56.18816,11100,America/Montevideo,3441575,5000
-2409:4088:9d40:5200::,2409:4088:9d40:52ff:ffff:ffff:ffff:ffff,0:130:1c33:21ea:eeda:e05a:3c00:0,Airoli,Maharashtra,IN,19.1167,72.9833,400701,Asia/Kolkata,7279599,5000
-2409:408c:130e:9c00::,2409:408c:130e:9dff:ffff:ffff:ffff:ffff,2409:408c::,Chhindwāra,Madhya Pradesh,IN,22.03652,79.00918,480001,Asia/Kolkata,1274304,5000
-2602:cab0::,2602:cab0:3fff:ffff:ffff:ffff:ffff:ffff,2602:cab0::,New York City,New York,US,40.71427,-74.00597,10001,America/New_York,5128581,5000
-2409:4085:8093:7e00::,2409:4085:8093:7eff:ffff:ffff:ffff:ffff,0:130:1c30:a6a4:9b6e:7991:5900:0,Chhindwāra,Madhya Pradesh,IN,22.03652,79.00918,480001,Asia/Kolkata,1274304,5000
-2602:165e:8000::,2602:165e:bfff:ffff:ffff:ffff:ffff:ffff,2602:165e:8000::,New York City,New York,US,40.71427,-74.00597,10001,America/New_York,5128581,5000
-260a:d9bb:4000::,260a:d9bb:7fff:ffff:ffff:ffff:ffff:ffff,260a:d9bb:4000::,New York City,New York,US,40.71427,-74.00597,10001,America/New_York,5128581,5000
-263d:2e2d::,263d:2e2d:3fff:ffff:ffff:ffff:ffff:ffff,263d:2e2d::,New York City,New York,US,40.71427,-74.00597,10001,America/New_York,5128581,5000
-2607:a9aa:c000::,2607:a9aa:ffff:ffff:ffff:ffff:ffff:ffff,2607:a9aa:c000::,New York City,New York,US,40.71427,-74.00597,10001,America/New_York,5128581,5000
-2400:4051:4741::,2400:4051:4741:ff:ffff:ffff:ffff:ffff,0:12e:f945:f0d8:af8a:a76c:8d00:0,Ninomiya,Kanagawa,JP,35.3025,139.232,256-0807,Asia/Tokyo,1855380,5000
-240f:77:d4c::,240f:77:d4c:ff:ffff:ffff:ffff:ffff,240f:77::,Tokyo,Tokyo,JP,35.6895,139.69171,101-8656,Asia/Tokyo,1850147,5000
-260b:9152:4000::,260b:9152:7fff:ffff:ffff:ffff:ffff:ffff,260b:9152:4000::,New York City,New York,US,40.71427,-74.00597,10001,America/New_York,5128581,5000
-260f:9313:8000::,260f:9313:bfff:ffff:ffff:ffff:ffff:ffff,260f:9313:8000::,New York City,New York,US,40.71427,-74.00597,10001,America/New_York,5128581,5000
-2a1e:137b:c000::,2a1e:137b:ffff:ffff:ffff:ffff:ffff:ffff,2a1e:137b:c000::,Amsterdam,North Holland,NL,52.37403,4.88969,1012,Europe/Amsterdam,2759794,5000
-2001:35b5:c000::,2001:35b5:ffff:ffff:ffff:ffff:ffff:ffff,2001:35b5:c000::,Amsterdam,North Holland,NL,52.37403,4.88969,1012,Europe/Amsterdam,2759794,5000
-2409:4056:20bb:b500::,2409:4056:20bb:b7ff:ffff:ffff:ffff:ffff,0:130:1c18:3f:5ec2:384e:6800:0,Chennai,Tamil Nadu,IN,13.08784,80.27847,600001,Asia/Kolkata,1264527,5000
-240a:3b35:4000::,240a:3b35:7fff:ffff:ffff:ffff:ffff:ffff,240a:3b35:4000::,Brisbane,Queensland,AU,-27.46794,153.02809,4000,Australia/Brisbane,2174003,5000
-2003:d5:700:5d00::,2003:d5:700:5dff:ffff:ffff:ffff:ffff,2003:d5::,Nürnberg,Bavaria,DE,49.45421,11.07752,90402,Europe/Berlin,2861650,5000
-2a1e:6c5a:8000::,2a1e:6c5a:bfff:ffff:ffff:ffff:ffff:ffff,2a1e:6c5a:8000::,Amsterdam,North Holland,NL,52.37403,4.88969,1012,Europe/Amsterdam,2759794,5000
-260b:cb19:c000::,260b:cb19:ffff:ffff:ffff:ffff:ffff:ffff,260b:cb19:c000::,New York City,New York,US,40.71427,-74.00597,10001,America/New_York,5128581,5000
-240d:b298::,240d:b298:3fff:ffff:ffff:ffff:ffff:ffff,240d:b298::,Brisbane,Queensland,AU,-27.46794,153.02809,4000,Australia/Brisbane,2174003,5000
-2607:8825:4000::,2607:8825:7fff:ffff:ffff:ffff:ffff:ffff,0:149:293a:c4df:81f9:2b50:e300:0,New York City,New York,US,40.71427,-74.00597,10001,America/New_York,5128581,5000
-2402:1429::,2402:1429:3fff:ffff:ffff:ffff:ffff:ffff,0:12f:316c:5ac8:509e:3d2b:d500:0,Brisbane,Queensland,AU,-27.46794,153.02809,4000,Australia/Brisbane,2174003,5000
-260d:6f7b::,260d:6f7b:3fff:ffff:ffff:ffff:ffff:ffff,260d:6f7b::,New York City,New York,US,40.71427,-74.00597,10001,America/New_York,5128581,5000
-2635:c22f:c000::,2635:c22f:ffff:ffff:ffff:ffff:ffff:ffff,2635:c22f:c000::,New York City,New York,US,40.71427,-74.00597,10001,America/New_York,5128581,5000
-2604:bc84:8000::,2604:bc84:bfff:ffff:ffff:ffff:ffff:ffff,2604:bc84:8000::,New York City,New York,US,40.71427,-74.00597,10001,America/New_York,5128581,5000
-2a05:2d4a:4000::,2a05:2d4a:7fff:ffff:ffff:ffff:ffff:ffff,2a05:2d4a:4000::,Amsterdam,North Holland,NL,52.37403,4.88969,1012,Europe/Amsterdam,2759794,5000
-2a1a:4dc5:4000::,2a1a:4dc5:7fff:ffff:ffff:ffff:ffff:ffff,2a1a:4dc5:4000::,Amsterdam,North Holland,NL,52.37403,4.88969,1012,Europe/Amsterdam,2759794,5000
-2801:c1c3:c000::,2801:c1c3:ffff:ffff:ffff:ffff:ffff:ffff,2801:c1c3:c000::,Montevideo,Montevideo Department,UY,-34.90328,-56.18816,11100,America/Montevideo,3441575,5000
-2001:1890:185e:af00::,2001:1890:185e:afff:ffff:ffff:ffff:ffff,0:fc:95e7:6db5:c0c:8b0c:b200:0,Shreveport,Louisiana,US,32.3912,-93.7116,71106,America/Chicago,4341513,5000
-2804:2788:c1bf:3000::,2804:2788:c1bf:30ff:ffff:ffff:ffff:ffff,2804:2788:c000::,Fortaleza,Ceará,BR,-3.71722,-38.54306,60000-000,America/Fortaleza,3399415,5000
-2405:204:a31c:cb00::,2405:204:a31c:ccff:ffff:ffff:ffff:ffff,0:12f:8e67:2374:10b9:b18f:5000:0,Airoli,Maharashtra,IN,19.1167,72.9833,400701,Asia/Kolkata,7279599,5000
-2809:40f3::,2809:40f3:3fff:ffff:ffff:ffff:ffff:ffff,2809:40f3::,Montevideo,Montevideo Department,UY,-34.90328,-56.18816,11100,America/Montevideo,3441575,5000
-2a12:b2da:8000::,2a12:b2da:bfff:ffff:ffff:ffff:ffff:ffff,2a12:b2da:8000::,Amsterdam,North Holland,NL,52.37403,4.88969,1012,Europe/Amsterdam,2759794,5000
-2a0b:1c07:4000::,2a0b:1c07:7fff:ffff:ffff:ffff:ffff:ffff,2a0b:1c07:4000::,London,England,GB,51.50853,-0.12574,EC1A,Europe/London,2643743,5000
-2803:1fa5::,2803:1fa5:3fff:ffff:ffff:ffff:ffff:ffff,2803:1fa5::,Montevideo,Montevideo Department,UY,-34.90328,-56.18816,11100,America/Montevideo,3441575,5000
-260f:60c:8000::,260f:60c:bfff:ffff:ffff:ffff:ffff:ffff,260f:60c:8000::,New York City,New York,US,40.71427,-74.00597,10001,America/New_York,5128581,5000
-2a03:32d3::,2a03:32d3:3fff:ffff:ffff:ffff:ffff:ffff,2a03:32d3::,Amsterdam,North Holland,NL,52.37403,4.88969,1012,Europe/Amsterdam,2759794,5000
-2405:204:850c:1100::,2405:204:850c:11ff:ffff:ffff:ffff:ffff,0:12f:8e67:2374:10b9:b18f:5000:0,Botād,Gujarat,IN,22.16917,71.66671,364710,Asia/Kolkata,1275218,5000
-263c:4bb5:c000::,263c:4bb5:ffff:ffff:ffff:ffff:ffff:ffff,263c:4bb5:c000::,New York City,New York,US,40.71427,-74.00597,10001,America/New_York,5128581,5000
-263f:afe0:4000::,263f:afe0:7fff:ffff:ffff:ffff:ffff:ffff,263f:afe0:4000::,New York City,New York,US,40.71427,-74.00597,10001,America/New_York,5128581,5000
-2804:56c:c19b::,2804:56c:c19b:7fff:ffff:ffff:ffff:ffff,2804:56c:c000::,Rio de Janeiro,Rio de Janeiro,BR,-22.90642,-43.18223,20000-000,America/Sao_Paulo,3451190,5000
-2636:faca:8000::,2636:faca:bfff:ffff:ffff:ffff:ffff:ffff,2636:faca:8000::,New York City,New York,US,40.71427,-74.00597,10001,America/New_York,5128581,5000
-260a:2239::,260a:2239:3fff:ffff:ffff:ffff:ffff:ffff,260a:2239::,New York City,New York,US,40.71427,-74.00597,10001,America/New_York,5128581,5000
-2600:c789:c000::,2600:c789:ffff:ffff:ffff:ffff:ffff:ffff,2600:c789:c000::,New York City,New York,US,40.71427,-74.00597,10001,America/New_York,5128581,5000
-2631:426:4000::,2631:426:7fff:ffff:ffff:ffff:ffff:ffff,0:14c:1592:a046:ff9b:fc25:3400:0,New York City,New York,US,40.71427,-74.00597,10001,America/New_York,5128581,5000
-2003:c6:ff05:3e00::,2003:c6:ff05:44ff:ffff:ffff:ffff:ffff,2003:c6:c000::,Bremen,Bremen,DE,53.07582,8.80717,28195,Europe/Berlin,2944388,5000
-2409:4043:2c8c:e600::,2409:4043:2c8c:e6ff:ffff:ffff:ffff:ffff,0:130:1c0d:3f63:f541:d03d:3b00:0,Shujālpur,Madhya Pradesh,IN,23.40673,76.7098,465333,Asia/Kolkata,1256418,5000
-2600:1:91e3:f700::,2600:1:91e3:f7ff:ffff:ffff:ffff:ffff,0:148:2a89:6a51:59ee:10f:d500:0,Xenia,Ohio,US,39.68478,-83.92965,45385,America/New_York,4528810,5000
-2607:fea8:ab5d:5600::,2607:fea8:ab5d:56ff:ffff:ffff:ffff:ffff,2607:fea8:8000::,Hamilton,Ontario,CA,43.25011,-79.84963,L8M,America/Toronto,5969782,5000
-2a0c:d0f:8000::,2a0c:d0f:bfff:ffff:ffff:ffff:ffff:ffff,2a0c:d0f:8000::,Amsterdam,North Holland,NL,52.37403,4.88969,1012,Europe/Amsterdam,2759794,5000
-2607:fea8:5820:f00::,2607:fea8:5820:fff:ffff:ffff:ffff:ffff,2607:fea8:4000::,Ajax,Ontario,CA,43.85012,-79.03288,L1S,America/Toronto,5882873,5000
-2409:4042:58e:4300::,2409:4042:58e:43ff:ffff:ffff:ffff:ffff,0:130:1c0c:6ba1:d973:34f:9a00:0,Kalyān,Maharashtra,IN,19.2963,73.2276,421102,Asia/Kolkata,1268295,5000
-263e:a858::,263e:a858:3fff:ffff:ffff:ffff:ffff:ffff,263e:a858::,New York City,New York,US,40.71427,-74.00597,10001,America/New_York,5128581,5000
-2602:8ffe:8000::,2602:8ffe:bfff:ffff:ffff:ffff:ffff:ffff,2602:8ffe:8000::,New York City,New York,US,40.71427,-74.00597,10001,America/New_York,5128581,5000
-2402:cbd3:4000::,2402:cbd3:7fff:ffff:ffff:ffff:ffff:ffff,2402:cbd3:4000::,Brisbane,Queensland,AU,-27.46794,153.02809,4000,Australia/Brisbane,2174003,5000
-263b:5f00:c000::,263b:5f00:ffff:ffff:ffff:ffff:ffff:ffff,263b:5f00:c000::,New York City,New York,US,40.71427,-74.00597,10001,America/New_York,5128581,5000
-2809:2ae1::,2809:2ae1:3fff:ffff:ffff:ffff:ffff:ffff,2809:2ae1::,Montevideo,Montevideo Department,UY,-34.90328,-56.18816,11100,America/Montevideo,3441575,5000
-2409:4070:4203:1500::,2409:4070:4203:16ff:ffff:ffff:ffff:ffff,0:130:1c23:e990:ef30:f279:1000:0,Chhindwāra,Madhya Pradesh,IN,22.03652,79.00918,480001,Asia/Kolkata,1274304,5000
-2409:4064:2499:9700::,2409:4064:2499:97ff:ffff:ffff:ffff:ffff,0:130:1c1e:9e50:3d38:9fbb:7000:0,Buxar,Bihar,IN,25.6306,84.0825,802118,Asia/Kolkata,1275019,5000
-2a04:75be::,2a04:75be:3fff:ffff:ffff:ffff:ffff:ffff,2a04:75be::,Amsterdam,North Holland,NL,52.37403,4.88969,1012,Europe/Amsterdam,2759794,5000
-2804:1254:81db:d700::,2804:1254:81db:d7ff:ffff:ffff:ffff:ffff,0:161:ee2e:527c:fa9c:ed7d:9a00:0,São Paulo,São Paulo,BR,-23.5475,-46.63611,01000-000,America/Sao_Paulo,3448439,5000
-2409:4070:4385:4100::,2409:4070:4385:41ff:ffff:ffff:ffff:ffff,0:130:1c23:e990:ef30:f279:1000:0,Hyderābād,Telangana,IN,17.38405,78.45636,500001,Asia/Kolkata,1269843,5000
-2a1d:f85f:8000::,2a1d:f85f:bfff:ffff:ffff:ffff:ffff:ffff,2a1d:f85f:8000::,Amsterdam,North Holland,NL,52.37403,4.88969,1012,Europe/Amsterdam,2759794,5000
-280e:2856::,280e:2856:3fff:ffff:ffff:ffff:ffff:ffff,280e:2856::,Montevideo,Montevideo Department,UY,-34.90328,-56.18816,11100,America/Montevideo,3441575,5000
-2a03:847c::,2a03:847c:3fff:ffff:ffff:ffff:ffff:ffff,2a03:847c::,Amsterdam,North Holland,NL,52.37403,4.88969,1012,Europe/Amsterdam,2759794,5000
-2a0c:350a:8000::,2a0c:350a:bfff:ffff:ffff:ffff:ffff:ffff,2a0c:350a:8000::,Amsterdam,North Holland,NL,52.37403,4.88969,1012,Europe/Amsterdam,2759794,5000
-2a0d:256c:4000::,2a0d:256c:7fff:ffff:ffff:ffff:ffff:ffff,2a0d:256c:4000::,Amsterdam,North Holland,NL,52.37403,4.88969,1012,Europe/Amsterdam,2759794,5000
-2631:4ae0::,2631:4ae0:3fff:ffff:ffff:ffff:ffff:ffff,2631:4ae0::,New York City,New York,US,40.71427,-74.00597,10001,America/New_York,5128581,5000
-2a1e:6331:4000::,2a1e:6331:7fff:ffff:ffff:ffff:ffff:ffff,2a1e:6331:4000::,Amsterdam,North Holland,NL,52.37403,4.88969,1012,Europe/Amsterdam,2759794,5000
-2601:246:ce80:7a71::,2601:246:ce80:7aff:ffff:ffff:ffff:ffff,2601:246:c000::,Waukegan,Illinois,US,42.36363,-87.84479,60079,America/Chicago,4915734,5000
+2a13:5c7a:4000::,2a13:5c7a:7fff:ffff:ffff:ffff:ffff:ffff,2a13:5c7a:4000::,Amsterdam,North Holland,NL,52.37403,4.88969,1012,Europe/Amsterdam,2759794,5000
+2409:4073:4d19:bd00::,2409:4073:4d19:c1ff:ffff:ffff:ffff:ffff,0:130:1c26:64d7:429d:5941:f300:0,Thiruvananthapuram,Kerala,IN,8.4855,76.94924,695020,Asia/Kolkata,1254163,5000
+240b:dfb4:8000::,240b:dfb4:bfff:ffff:ffff:ffff:ffff:ffff,240b:dfb4:8000::,Brisbane,Queensland,AU,-27.46794,153.02809,4000,Australia/Brisbane,2174003,5000
+2a10:4bba:4000::,2a10:4bba:7fff:ffff:ffff:ffff:ffff:ffff,2a10:4bba:4000::,Amsterdam,North Holland,NL,52.37403,4.88969,1012,Europe/Amsterdam,2759794,5000
+263e:29c1::,263e:29c1:3fff:ffff:ffff:ffff:ffff:ffff,263e:29c1::,New York City,New York,US,40.71427,-74.00597,10001,America/New_York,5128581,5000
+2606:d353:4000::,2606:d353:7fff:ffff:ffff:ffff:ffff:ffff,2606:d353:4000::,New York City,New York,US,40.71427,-74.00597,10001,America/New_York,5128581,5000
+2409:4063:2091:ce00::,2409:4063:2091:ceff:ffff:ffff:ffff:ffff,0:130:1c1d:ca8e:2169:d2cd:cf00:0,Lucknow,Uttar Pradesh,IN,26.83928,80.92313,226004,Asia/Kolkata,1264733,5000
+2409:4062:2019:3e00::,2409:4062:2019:3eff:ffff:ffff:ffff:ffff,0:130:1c1c:f6cc:59b:5e0:2e00:0,Chennai,Tamil Nadu,IN,13.08784,80.27847,600001,Asia/Kolkata,1264527,5000
+2806:ba58::,2806:ba58:3fff:ffff:ffff:ffff:ffff:ffff,2806:ba58::,Montevideo,Montevideo Department,UY,-34.90328,-56.18816,11100,America/Montevideo,3441575,5000
+2a0d:bfff:c000::,2a0d:bfff:ffff:ffff:ffff:ffff:ffff:ffff,2a0d:bfff:c000::,Amsterdam,North Holland,NL,52.37403,4.88969,1012,Europe/Amsterdam,2759794,5000
+2a02:a468:a96b:100::,2a02:a468:a97f:ffff:ffff:ffff:ffff:ffff,2a02:a468:8000::,Zoetermeer,South Holland,NL,52.0575,4.49306,2711,Europe/Amsterdam,2743856,5000
+2a05:849::,2a05:849:3fff:ffff:ffff:ffff:ffff:ffff,2a05:849::,Amsterdam,North Holland,NL,52.37403,4.88969,1012,Europe/Amsterdam,2759794,5000
+2601:b145:8000::,2601:b145:bfff:ffff:ffff:ffff:ffff:ffff,2601:b145:8000::,New York City,New York,US,40.71427,-74.00597,10001,America/New_York,5128581,5000
+2a1d:470c::,2a1d:470c:3fff:ffff:ffff:ffff:ffff:ffff,2a1d:470c::,Amsterdam,North Holland,NL,52.37403,4.88969,1012,Europe/Amsterdam,2759794,5000
+240f:3e71:4000::,240f:3e71:7fff:ffff:ffff:ffff:ffff:ffff,240f:3e71:4000::,Brisbane,Queensland,AU,-27.46794,153.02809,4000,Australia/Brisbane,2174003,5000
+2a1c:1189:4000::,2a1c:1189:7fff:ffff:ffff:ffff:ffff:ffff,2a1c:1189:4000::,Amsterdam,North Holland,NL,52.37403,4.88969,1012,Europe/Amsterdam,2759794,5000
+263b:fe::,263b:fe:3fff:ffff:ffff:ffff:ffff:ffff,263b:fe::,New York City,New York,US,40.71427,-74.00597,10001,America/New_York,5128581,5000
+260a:9d19:8000::,260a:9d19:bfff:ffff:ffff:ffff:ffff:ffff,260a:9d19:8000::,New York City,New York,US,40.71427,-74.00597,10001,America/New_York,5128581,5000
+240f:6ca0:8000::,240f:6ca0:bfff:ffff:ffff:ffff:ffff:ffff,240f:6ca0:8000::,Brisbane,Queensland,AU,-27.46794,153.02809,4000,Australia/Brisbane,2174003,5000
+260e:e8a6:c000::,260e:e8a6:ffff:ffff:ffff:ffff:ffff:ffff,260e:e8a6:c000::,New York City,New York,US,40.71427,-74.00597,10001,America/New_York,5128581,5000
+2a1e:758f:c000::,2a1e:758f:ffff:ffff:ffff:ffff:ffff:ffff,2a1e:758f:c000::,Amsterdam,North Holland,NL,52.37403,4.88969,1012,Europe/Amsterdam,2759794,5000
+2a0f:2ddc::,2a0f:2ddc:3fff:ffff:ffff:ffff:ffff:ffff,2a0f:2ddc::,Amsterdam,North Holland,NL,52.37403,4.88969,1012,Europe/Amsterdam,2759794,5000
+2607:a6f7::,2607:a6f7:3fff:ffff:ffff:ffff:ffff:ffff,2607:a6f7::,New York City,New York,US,40.71427,-74.00597,10001,America/New_York,5128581,5000
+2a08:9a3::,2a08:9a3:3fff:ffff:ffff:ffff:ffff:ffff,2a08:9a3::,London,England,GB,51.50853,-0.12574,EC1A,Europe/London,2643743,5000
+2402:a424::,2402:a424:3fff:ffff:ffff:ffff:ffff:ffff,2402:a424::,Brisbane,Queensland,AU,-27.46794,153.02809,4000,Australia/Brisbane,2174003,5000
+2a1e:b72b:8000::,2a1e:b72b:bfff:ffff:ffff:ffff:ffff:ffff,2a1e:b72b:8000::,Amsterdam,North Holland,NL,52.37403,4.88969,1012,Europe/Amsterdam,2759794,5000
+2a01:cb1d:8cef:c200::,2a01:cb1d:8cef:d3ff:ffff:ffff:ffff:ffff,2a01:cb1d:8000::,Châtillon,Île-de-France,FR,48.8024,2.29346,92320,Europe/Paris,3026083,5000
+2a01:e0a:c5:5800::,2a01:e0a:c5:59ff:ffff:ffff:ffff:ffff,2a01:e0a::,Paris,Île-de-France,FR,48.85341,2.3488,75000,Europe/Paris,2988507,5000
+2805:466d:c000::,2805:466d:ffff:ffff:ffff:ffff:ffff:ffff,2805:466d:c000::,Montevideo,Montevideo Department,UY,-34.90328,-56.18816,11100,America/Montevideo,3441575,5000
+2a09:dd41::,2a09:dd41:3fff:ffff:ffff:ffff:ffff:ffff,2a09:dd41::,Conil de la Frontera,Andalusia,ES,36.27719,-6.0885,11140,Europe/Madrid,2519289,5000
+2a01:a232:8000::,2a01:a232:bfff:ffff:ffff:ffff:ffff:ffff,2a01:a232:8000::,Amsterdam,North Holland,NL,52.37403,4.88969,1012,Europe/Amsterdam,2759794,5000
+2a05:90f4::,2a05:90f4:3fff:ffff:ffff:ffff:ffff:ffff,2a05:90f4::,Amsterdam,North Holland,NL,52.37403,4.88969,1012,Europe/Amsterdam,2759794,5000
+240d:cb7c::,240d:cb7c:3fff:ffff:ffff:ffff:ffff:ffff,240d:cb7c::,Brisbane,Queensland,AU,-27.46794,153.02809,4000,Australia/Brisbane,2174003,5000
+2409:408c:230c:300::,2409:408c:230c:5ff:ffff:ffff:ffff:ffff,2409:408c::,Chhindwāra,Madhya Pradesh,IN,22.03652,79.00918,480001,Asia/Kolkata,1274304,5000
+2409:4081:d92:6e00::,2409:4081:d92:6eff:ffff:ffff:ffff:ffff,0:130:1c2c:ae34:15f4:3b83:2100:0,Bhopāl,Madhya Pradesh,IN,23.25469,77.40289,464993,Asia/Kolkata,1275841,5000
+2401:4900:3a21:1200::,2401:4900:3a21:12ff:ffff:ffff:ffff:ffff,0:12f:1c53:b141:1b65:c4b4:b400:0,Māldah,West Bengal,IN,24.2416,88.3456,733142,Asia/Kolkata,1264121,5000
+2600:1:92c6:8d00::,2600:1:92c6:96ff:ffff:ffff:ffff:ffff,0:148:2a89:6a51:59ee:10f:d500:0,Chicago,Illinois,US,41.8093,-87.7052,60632,America/Chicago,4887398,5000
+2638:f40a:c000::,2638:f40a:ffff:ffff:ffff:ffff:ffff:ffff,2638:f40a:c000::,New York City,New York,US,40.71427,-74.00597,10001,America/New_York,5128581,5000
+2a1b:b648:4000::,2a1b:b648:7fff:ffff:ffff:ffff:ffff:ffff,2a1b:b648:4000::,Amsterdam,North Holland,NL,52.37403,4.88969,1012,Europe/Amsterdam,2759794,5000
+2409:4060:2d40:ab00::,2409:4060:2d40:c2ff:ffff:ffff:ffff:ffff,0:130:1c1b:4f47:cdfd:6c04:ec00:0,Chhindwāra,Madhya Pradesh,IN,22.03652,79.00918,480001,Asia/Kolkata,1274304,5000
+2409:4072:6e92:c700::,2409:4072:6e92:c9ff:ffff:ffff:ffff:ffff,0:130:1c25:9115:26ce:8c54:5200:0,Erode,Tamil Nadu,IN,11.3428,77.72741,638009,Asia/Kolkata,1272013,5000
+280f:5e88:8000::,280f:5e88:bfff:ffff:ffff:ffff:ffff:ffff,280f:5e88:8000::,Montevideo,Montevideo Department,UY,-34.90328,-56.18816,11100,America/Montevideo,3441575,5000
+2603:3005:7200:2300::,2603:3005:7200:23ff:ffff:ffff:ffff:ffff,0:148:952d:5a76:57ea:3774:6700:0,New York City,New York,US,40.71427,-74.00597,10001,America/New_York,5128581,5000
+2409:4080:9099:800::,2409:4080:9099:8ff:ffff:ffff:ffff:ffff,0:130:1c2c:83da:1064:78ed:3400:0,Dholka,Gujarat,IN,22.72732,72.44128,382450,Asia/Kolkata,1272733,5000
+2803:9586:c000::,2803:9586:ffff:ffff:ffff:ffff:ffff:ffff,2803:9586:c000::,Montevideo,Montevideo Department,UY,-34.90328,-56.18816,11100,America/Montevideo,3441575,5000
+2635:9503:4000::,2635:9503:7fff:ffff:ffff:ffff:ffff:ffff,0:14c:b426:2b43:f3b8:2b47:900:0,New York City,New York,US,40.71427,-74.00597,10001,America/New_York,5128581,5000
+2800:43d1:4000::,2800:43d1:7fff:ffff:ffff:ffff:ffff:ffff,2800:43d1:4000::,Montevideo,Montevideo Department,UY,-34.90328,-56.18816,11100,America/Montevideo,3441575,5000
+2a11:8d3f:8000::,2a11:8d3f:bfff:ffff:ffff:ffff:ffff:ffff,2a11:8d3f:8000::,Amsterdam,North Holland,NL,52.37403,4.88969,1012,Europe/Amsterdam,2759794,5000
+240b:b169::,240b:b169:3fff:ffff:ffff:ffff:ffff:ffff,240b:b169::,Brisbane,Queensland,AU,-27.46794,153.02809,4000,Australia/Brisbane,2174003,5000
+2637:a645::,2637:a645:3fff:ffff:ffff:ffff:ffff:ffff,2637:a645::,New York City,New York,US,40.71427,-74.00597,10001,America/New_York,5128581,5000
+2a14:4160:c000::,2a14:4160:ffff:ffff:ffff:ffff:ffff:ffff,2a14:4160:c000::,Amsterdam,North Holland,NL,52.37403,4.88969,1012,Europe/Amsterdam,2759794,5000
+2631:5f30:c000::,2631:5f30:ffff:ffff:ffff:ffff:ffff:ffff,2631:5f30:c000::,New York City,New York,US,40.71427,-74.00597,10001,America/New_York,5128581,5000
+2632:3232:8000::,2632:3232:bfff:ffff:ffff:ffff:ffff:ffff,0:14c:3ef3:d4f6:159a:b854:d400:0,New York City,New York,US,40.71427,-74.00597,10001,America/New_York,5128581,5000
+2605:384b::,2605:384b:3fff:ffff:ffff:ffff:ffff:ffff,2605:384b::,New York City,New York,US,40.71427,-74.00597,10001,America/New_York,5128581,5000
+263d:ddba:8000::,263d:ddba:bfff:ffff:ffff:ffff:ffff:ffff,263d:ddba:8000::,New York City,New York,US,40.71427,-74.00597,10001,America/New_York,5128581,5000
+2a00:e2a0:4000::,2a00:e2a0:7fff:ffff:ffff:ffff:ffff:ffff,2a00:e2a0:4000::,Yuzhno-Sakhalinsk,Sakhalin Oblast,RU,46.9522,142.7406,693020,Asia/Sakhalin,2119441,5000
+2601:2ed0:c000::,2601:2ed0:ffff:ffff:ffff:ffff:ffff:ffff,2601:2ed0:c000::,New York City,New York,US,40.71427,-74.00597,10001,America/New_York,5128581,5000
+2a01:c23:91ed:3600::,2a01:c23:91ed:36ff:ffff:ffff:ffff:ffff,2a01:c23:8000::,Düsseldorf,North Rhine-Westphalia,DE,51.22172,6.77616,40210,Europe/Berlin,2934246,5000
+263c:6205:8000::,263c:6205:bfff:ffff:ffff:ffff:ffff:ffff,263c:6205:8000::,New York City,New York,US,40.71427,-74.00597,10001,America/New_York,5128581,5000
+2400:2410:90a2:5b00::,2400:2410:90a2:5b00:ffff:ffff:ffff:ffff,0:12e:f3f8:de48:7a0a:8d5b:5e00:0,Tokyo,Tokyo,JP,35.6895,139.69171,101-8656,Asia/Tokyo,1850147,5000
+2a00:1f:200:2300::,2a00:1f:200:23ff:ffff:ffff:ffff:ffff,2a00:1f::,Frankfurt am Main,Hesse,DE,50.11552,8.68417,60306,Europe/Berlin,2925533,5000
+240a:6e0::,240a:6e0:3fff:ffff:ffff:ffff:ffff:ffff,240a:6e0::,Brisbane,Queensland,AU,-27.46794,153.02809,4000,Australia/Brisbane,2174003,5000
+2400:2410:81e0:4a01::,2400:2410:81e0:4eff:ffff:ffff:ffff:ffff,0:12e:f3f8:de48:7a0a:8d5b:5e00:0,Hatsudai,Tokyo,JP,35.65,139.7333,105-0021,Asia/Tokyo,8573533,5000
+2409:4043:611:2400::,2409:4043:611:25ff:ffff:ffff:ffff:ffff,0:130:1c0d:3f63:f541:d03d:3b00:0,Bhopāl,Madhya Pradesh,IN,23.25469,77.40289,464993,Asia/Kolkata,1275841,5000
+280b:8d8d:4000::,280b:8d8d:7fff:ffff:ffff:ffff:ffff:ffff,280b:8d8d:4000::,Montevideo,Montevideo Department,UY,-34.90328,-56.18816,11100,America/Montevideo,3441575,5000
+2003:e8:d742:f900::,2003:e8:d743:25ff:ffff:ffff:ffff:ffff,2003:e8:c000::,Bremen,Bremen,DE,53.07582,8.80717,28195,Europe/Berlin,2944388,5000
+2001:268:9a81:8000::,2001:268:9a81:80ff:ffff:ffff:ffff:ffff,0:fc:90aa:6740:f205:2bca:5000:0,Osaka,Ōsaka,JP,34.7393,135.5253,533-0022,Asia/Tokyo,1853909,5000
+2a02:121f:4cf::,2a02:121f:4cf:ff:ffff:ffff:ffff:ffff,2a02:121f::,Zürich,Zurich,CH,47.36667,8.55,8000,Europe/Zurich,2657896,5000
+2a1f:1572:4000::,2a1f:1572:7fff:ffff:ffff:ffff:ffff:ffff,2a1f:1572:4000::,Amsterdam,North Holland,NL,52.37403,4.88969,1012,Europe/Amsterdam,2759794,5000
+2400:2200:80a:ea00::,2400:2200:80a:eaff:ffff:ffff:ffff:ffff,0:12e:f34a:7fa5:9427:6815:9800:0,Yokohama,Kanagawa,JP,35.429,139.479,245-0018,Asia/Tokyo,1848354,5000
+2406:59c8::,2406:59c8:3fff:ffff:ffff:ffff:ffff:ffff,2406:59c8::,Brisbane,Queensland,AU,-27.46794,153.02809,4000,Australia/Brisbane,2174003,5000
+2409:4085:879a:3800::,2409:4085:879a:3bff:ffff:ffff:ffff:ffff,0:130:1c30:a6a4:9b6e:7991:5900:0,Chhindwāra,Madhya Pradesh,IN,22.03652,79.00918,480001,Asia/Kolkata,1274304,5000
+2805:76f9:4000::,2805:76f9:7fff:ffff:ffff:ffff:ffff:ffff,2805:76f9:4000::,Montevideo,Montevideo Department,UY,-34.90328,-56.18816,11100,America/Montevideo,3441575,5000
+240f:faea::,240f:faea:3fff:ffff:ffff:ffff:ffff:ffff,240f:faea::,Brisbane,Queensland,AU,-27.46794,153.02809,4000,Australia/Brisbane,2174003,5000
+2630:f64:8000::,2630:f64:bfff:ffff:ffff:ffff:ffff:ffff,2630:f64:8000::,New York City,New York,US,40.71427,-74.00597,10001,America/New_York,5128581,5000
+2a02:121e:2a4b::,2a02:121e:2a4b:ff:ffff:ffff:ffff:ffff,2a02:121e::,Zürich,Zurich,CH,47.36667,8.55,8000,Europe/Zurich,2657896,5000
+2401:efbb::,2401:efbb:3fff:ffff:ffff:ffff:ffff:ffff,2401:efbb::,Brisbane,Queensland,AU,-27.46794,153.02809,4000,Australia/Brisbane,2174003,5000
+2403:54b0:c000::,2403:54b0:ffff:ffff:ffff:ffff:ffff:ffff,2403:54b0:c000::,Brisbane,Queensland,AU,-27.46794,153.02809,4000,Australia/Brisbane,2174003,5000
+2a17:10d2::,2a17:10d2:3fff:ffff:ffff:ffff:ffff:ffff,2a17:10d2::,Amsterdam,North Holland,NL,52.37403,4.88969,1012,Europe/Amsterdam,2759794,5000
+2401:4900:815b:bf00::,2401:4900:815b:bfff:ffff:ffff:ffff:ffff,0:12f:1c54:5aa9:31a4:cf0c:6800:0,Ludhiāna,Punjab,IN,30.8975,75.9316,141015,Asia/Kolkata,1264728,5000
+2a02:61ff::,2a02:61ff:3fff:ffff:ffff:ffff:ffff:ffff,2a02:61ff::,Amsterdam,North Holland,NL,52.37403,4.88969,1012,Europe/Amsterdam,2759794,5000
+2409:4053:2199:1a00::,2409:4053:2199:1aff:ffff:ffff:ffff:ffff,0:130:1c15:84f9:b55:d185:8500:0,Jahāngīrābād,Uttar Pradesh,IN,28.40549,78.10588,203394,Asia/Kolkata,1269551,5000
+2a0d:b95c:8000::,2a0d:b95c:bfff:ffff:ffff:ffff:ffff:ffff,2a0d:b95c:8000::,Amsterdam,North Holland,NL,52.37403,4.88969,1012,Europe/Amsterdam,2759794,5000
+2800:60c5:c000::,2800:60c5:ffff:ffff:ffff:ffff:ffff:ffff,2800:60c5:c000::,Montevideo,Montevideo Department,UY,-34.90328,-56.18816,11100,America/Montevideo,3441575,5000
+2409:4088:8106:6400::,2409:4088:8106:64ff:ffff:ffff:ffff:ffff,0:130:1c33:21ea:eeda:e05a:3c00:0,Koch Bihār,West Bengal,IN,25.8817,87.99653,736134,Asia/Kolkata,1266436,5000
+2409:408c:9181:7c00::,2409:408c:9181:7cff:ffff:ffff:ffff:ffff,2409:408c:8000::,Chhindwāra,Madhya Pradesh,IN,22.03652,79.00918,480001,Asia/Kolkata,1274304,5000
+2606:6d46::,2606:6d46:3fff:ffff:ffff:ffff:ffff:ffff,2606:6d46::,New York City,New York,US,40.71427,-74.00597,10001,America/New_York,5128581,5000
+2600:5800:1edc::,2600:5800:1edc:ffff:ffff:ffff:ffff:ffff,0:148:3d45:92ed:2d33:1192:2800:0,Englewood,Colorado,US,39.6123,-104.8799,80111,America/Denver,5421250,5000
+2a17:873:8000::,2a17:873:bfff:ffff:ffff:ffff:ffff:ffff,2a17:873:8000::,Amsterdam,North Holland,NL,52.37403,4.88969,1012,Europe/Amsterdam,2759794,5000
+2608:2d78:4000::,2608:2d78:7fff:ffff:ffff:ffff:ffff:ffff,2608:2d78:4000::,New York City,New York,US,40.71427,-74.00597,10001,America/New_York,5128581,5000
+2801:935b::,2801:935b:3fff:ffff:ffff:ffff:ffff:ffff,2801:935b::,Montevideo,Montevideo Department,UY,-34.90328,-56.18816,11100,America/Montevideo,3441575,5000
+2a1b:bf40:c000::,2a1b:bf40:ffff:ffff:ffff:ffff:ffff:ffff,2a1b:bf40:c000::,Amsterdam,North Holland,NL,52.37403,4.88969,1012,Europe/Amsterdam,2759794,5000
+2609:4bc5:4000::,2609:4bc5:7fff:ffff:ffff:ffff:ffff:ffff,2609:4bc5:4000::,New York City,New York,US,40.71427,-74.00597,10001,America/New_York,5128581,5000
+2409:4042:293:e400::,2409:4042:293:e4ff:ffff:ffff:ffff:ffff,0:130:1c0c:6ba1:d973:34f:9a00:0,Ichalkaranji,Maharashtra,IN,16.3736,74.3101,416109,Asia/Kolkata,1269834,5000
+2605:5675::,2605:5675:3fff:ffff:ffff:ffff:ffff:ffff,0:148:de6d:34fc:cff2:d6f:db00:0,New York City,New York,US,40.71427,-74.00597,10001,America/New_York,5128581,5000
+2a00:3cec::,2a00:3cec:3fff:ffff:ffff:ffff:ffff:ffff,2a00:3cec::,Amsterdam,North Holland,NL,52.37403,4.88969,1012,Europe/Amsterdam,2759794,5000
+2639:4472:c000::,2639:4472:ffff:ffff:ffff:ffff:ffff:ffff,2639:4472:c000::,New York City,New York,US,40.71427,-74.00597,10001,America/New_York,5128581,5000
+2a08:ff1a:4000::,2a08:ff1a:7fff:ffff:ffff:ffff:ffff:ffff,2a08:ff1a:4000::,Amsterdam,North Holland,NL,52.37403,4.88969,1012,Europe/Amsterdam,2759794,5000
+240a:d4b3:8000::,240a:d4b3:bfff:ffff:ffff:ffff:ffff:ffff,240a:d4b3:8000::,Brisbane,Queensland,AU,-27.46794,153.02809,4000,Australia/Brisbane,2174003,5000
+2636:863b::,2636:863b:3fff:ffff:ffff:ffff:ffff:ffff,2636:863b::,New York City,New York,US,40.71427,-74.00597,10001,America/New_York,5128581,5000
