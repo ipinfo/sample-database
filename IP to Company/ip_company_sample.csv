@@ -1,101 +1,101 @@
 start_ip,end_ip,join_key,name,domain,type,asn,as_name,as_domain,as_type,country
-122.3.55.21,122.3.55.21,122.3.0.0,IPG,pldt.com,isp,AS9299,Philippine Long Distance Telephone Company,pldt.com,isp,PH
-12.234.166.144,12.234.166.159,12.234.0.0,"AT&T Services, Inc.",att.com,isp,AS7018,"AT&T Services, Inc.",att.com,isp,US
-103.233.156.0,103.233.159.255,103.233.0.0,PT Gema Lintas Benua,glbcorp.co.id,business,AS131111,PT Mora Telematika Indonesia,moratelindo.co.id,hosting,ID
-12.238.31.136,12.238.31.143,12.238.0.0,KIEWIT CORP,kiewit.com,business,AS7018,"AT&T Services, Inc.",att.com,isp,US
-118.215.0.0,118.215.191.255,118.215.0.0,"Akamai Technologies, Inc.",akamai.com,hosting,AS20940,Akamai International B.V.,akamai.com,hosting,SG
-12.129.91.0,12.129.91.31,12.129.0.0,AT&T Enhanced Network Services,attens.com,business,AS17228,AT&T Enhanced Network Services,attens.com,business,US
-12.191.41.104,12.191.41.111,12.191.0.0,TRADER JOES,traderjoes.com,business,AS7018,"AT&T Services, Inc.",att.com,isp,US
-12.69.188.0,12.69.189.255,12.69.0.0,"AT&T Services, Inc.",att.com,isp,AS7018,"AT&T Services, Inc.",att.com,isp,US
-124.106.38.168,124.106.38.183,124.106.0.0,IPG,pldt.com,isp,AS9299,Philippine Long Distance Telephone Company,pldt.com,isp,PH
-122.221.128.0,122.221.129.255,122.221.0.0,UCOM Corporation,ucom.ne.jp,isp,AS17506,ARTERIA Networks Corporation,arteria-net.com,isp,JP
-12.226.4.176,12.226.4.207,12.226.0.0,THE ESTEE LAUDER COMPANIES,estee.com,business,AS7018,"AT&T Services, Inc.",att.com,isp,US
-119.93.27.2,119.93.27.2,119.93.0.0,18-4012085_MOTOPIA INTERNET CAFE,pldt.com,isp,AS9299,Philippine Long Distance Telephone Company,pldt.com,isp,PH
-12.25.146.168,12.25.146.175,12.25.0.0,"NETSMART TECHNOLOGIES, IN",ntst.com,business,AS7018,"AT&T Services, Inc.",att.com,isp,US
-122.52.227.4,122.52.227.5,122.52.0.0,IPG,pldt.com,isp,AS9299,Philippine Long Distance Telephone Company,pldt.com,isp,PH
-122.54.94.88,122.54.94.88,122.54.0.0,CBGDSL2022031092362_ENTERPRISE Client,supportingenterprises.com,business,AS9299,Philippine Long Distance Telephone Company,pldt.com,isp,PH
-122.213.168.208,122.213.168.215,122.213.0.0,broadgate,broadgateinc.com,business,AS17506,ARTERIA Networks Corporation,arteria-net.com,isp,JP
-122.224.79.32,122.224.79.255,122.224.0.0,CHINANET-ZJ Hangzhou node network,hz.zj.cn,business,AS4134,CHINANET-BACKBONE,chinatelecom.com.cn,isp,CN
-122.3.7.110,122.3.7.110,122.3.0.0,SMEBNG2017013179445_E.P.M. GENERAL MERCHANDISE,pldt.com,isp,AS9299,Philippine Long Distance Telephone Company,pldt.com,isp,PH
-12.32.75.120,12.32.75.127,12.32.0.0,ENVIRO SAFE,envirotech.com,business,AS7018,"AT&T Services, Inc.",att.com,isp,US
-122.3.39.129,122.3.39.129,122.3.0.0,SMEPPN2022120779879_ENTERPRISE CLIENT,supportingenterprises.com,business,AS9299,Philippine Long Distance Telephone Company,pldt.com,isp,PH
-108.209.146.80,108.209.146.103,108.209.0.0,"AT&T Services, Inc.",att.com,isp,AS7018,"AT&T Services, Inc.",att.com,isp,US
-122.160.195.88,122.160.195.91,122.160.0.0,DATAGRAPH SYSTEM PVT LTD.,allendatagraph.com,business,AS9498,BHARTI Airtel Ltd.,airtel.in,isp,IN
-102.141.226.232,102.141.226.239,102.141.0.0,LavoBathroomConcepts,aerocom.co.za,isp,AS328317,AEROCOM BROADBAND SERVICES,aerocom.co.za,isp,ZA
-122.52.134.105,122.52.134.105,122.52.0.0,SMETBX2018050221402_WORLDWIDE ELECTRICAL DESIGN,pldt.com,isp,AS9299,Philippine Long Distance Telephone Company,pldt.com,isp,PH
-12.209.147.120,12.209.147.135,12.209.0.0,"AT&T Services, Inc.",att.com,isp,AS7018,"AT&T Services, Inc.",att.com,isp,US
-122.54.205.206,122.54.205.206,122.54.0.0,SMECBO2017072557333_TWIN OAKS FOOD CORP,twinoaksfoods.com,business,AS9299,Philippine Long Distance Telephone Company,pldt.com,isp,PH
-12.211.220.192,12.211.220.199,12.211.0.0,DOLE FOOD CO,dole.com,business,AS7018,"AT&T Services, Inc.",att.com,isp,US
-113.38.198.136,113.38.198.143,113.38.0.0,ARTERIA Networks Corporation,arteria-net.com,isp,AS17506,ARTERIA Networks Corporation,arteria-net.com,isp,JP
-12.108.168.192,12.108.178.255,12.108.0.0,"AT&T Services, Inc.",att.com,isp,AS7018,"AT&T Services, Inc.",att.com,isp,US
-115.236.39.32,115.236.39.47,115.236.0.0,HAZQYXZRGS,hz.zj.cn,business,AS4134,CHINANET-BACKBONE,chinatelecom.com.cn,isp,CN
-119.93.132.142,119.93.132.142,119.93.0.0,SMELPN2017071426430_LAS PIÑAS CITY NATIONAL SENIOR HIGH SCHOOL,pldt.com,isp,AS9299,Philippine Long Distance Telephone Company,pldt.com,isp,PH
-122.186.238.232,122.186.238.255,122.186.0.0,BHARTI TELENET LTD. NEW DELHI,airtel.in,isp,AS9498,BHARTI Airtel Ltd.,airtel.in,isp,IN
-113.34.104.24,113.34.104.47,113.34.0.0,ARTERIA Networks Corp.,arteria-hikari.net,isp,AS17506,ARTERIA Networks Corporation,arteria-net.com,isp,JP
-107.221.97.64,107.221.97.71,107.221.0.0,Private Customer - AT&T Internet Services,ads-internet.com,isp,AS7018,"AT&T Services, Inc.",att.com,isp,US
-122.55.147.112,122.55.147.119,122.55.0.0,1-11PTWGF_ENTERPRISE Client,supportingenterprises.com,business,AS9299,Philippine Long Distance Telephone Company,pldt.com,isp,PH
-103.195.68.0,103.195.71.255,103.195.0.0,SugarBox Networks Pvt Ltd,sugarboxnetworks.com,business,AS134249,Margo Networks Pvt Ltd,margonetworks.com,business,IN
-107.151.216.40,107.151.216.47,107.151.0.0,muxiu,nbvps.cn,hosting,AS21859,Zenlayer Inc,zenlayer.com,hosting,CN
-109.73.90.104,109.73.90.111,109.73.0.0,SILTRONIC SRL,siltronic.com,business,AS15605,Connesi s.p.a.,connesi.it,isp,IT
-108.61.1.0,108.61.2.15,108.61.0.0,"The Constant Company, LLC",constant.com,hosting,AS20473,"The Constant Company, LLC",constant.com,hosting,US
-113.36.210.136,113.36.210.143,113.36.0.0,ARTERIA Networks Corp.,arteria-hikari.net,business,AS17506,ARTERIA Networks Corporation,arteria-net.com,isp,JP
-108.77.52.192,108.77.52.199,108.77.0.0,AT&T Corp.,att.com,isp,AS7018,"AT&T Services, Inc.",att.com,isp,US
-115.125.62.56,115.125.62.63,115.125.0.0,ARTERIA Networks Corporation,arteria-net.com,isp,AS17506,ARTERIA Networks Corporation,arteria-net.com,isp,JP
-122.52.99.147,122.52.99.147,122.52.0.0,SMESFP2017122173900_KBP SKEWERS GRILL,pldt.com,isp,AS9299,Philippine Long Distance Telephone Company,pldt.com,isp,PH
-109.123.227.0,109.123.227.255,109.123.0.0,Contabo GmbH,contabo.com,business,AS141995,Contabo Asia Private Limited,contabo.com,hosting,DE
-113.33.81.48,113.33.81.127,113.33.0.0,UCOM Corporation,ucom.ne.jp,isp,AS17506,ARTERIA Networks Corporation,arteria-net.com,isp,JP
-104.245.29.236,104.245.29.239,104.245.0.0,Enervest Ltd.,enervest.net,business,AS53828,"NETWORK INNOVATIONS, LLC",nitelusa.com,business,US
-12.1.182.160,12.1.182.199,12.1.0.0,MARRIOTT CORPORATIONATTN JOH,marriott.com,business,AS7018,"AT&T Services, Inc.",att.com,isp,US
-12.233.5.160,12.233.5.167,12.233.0.0,CRAIG ZINN AUTOMOTIVE GROUP D,czag.net,business,AS7018,"AT&T Services, Inc.",att.com,isp,US
-122.54.109.132,122.54.109.132,122.54.0.0,"CBGCAB2017110339567_Pamantasan ng Araullo (Araullo University), Inc.",pldt.com,isp,AS9299,Philippine Long Distance Telephone Company,pldt.com,isp,PH
-12.211.85.64,12.211.85.103,12.211.0.0,"AT&T Services, Inc.",att.com,isp,AS7018,"AT&T Services, Inc.",att.com,isp,US
-12.183.4.144,12.183.4.151,12.183.0.0,FEDEX SUPPLY CHAIN,fedex.com,business,AS7018,"AT&T Services, Inc.",att.com,isp,US
-104.226.232.8,104.226.232.15,104.226.0.0,NN Inc.,nninc.com,business,AS5650,"Frontier Communications of America, Inc.",frontier.com,isp,US
-103.31.96.0,103.31.99.255,103.31.0.0,Mirror Tower,bodytrace.com,business,AS58744,Mirror Tower,bodytrace.com,business,HK
-116.228.201.92,116.228.201.95,116.228.0.0,"Shanghai Feixu Network Technology Co., Ltd",sta.net.cn,business,AS4812,China Telecom (Group),chinatelecom.com.cn,isp,CN
-124.107.88.75,124.107.88.75,124.107.0.0,183237666_So-En Garments Corporation,so-en.com.ph,business,AS9299,Philippine Long Distance Telephone Company,pldt.com,isp,PH
-12.229.77.88,12.229.77.95,12.229.0.0,SPECTROTEL HOLDING COMPANY LL,spectrotel.com,business,AS7018,"AT&T Services, Inc.",att.com,isp,US
-119.93.151.96,119.93.151.96,119.93.0.0,65-9080087_DEPARTMENT OF EDUCATION ZAMBOANGA DE,ed.gov,education,AS9299,Philippine Long Distance Telephone Company,pldt.com,isp,PH
-116.228.40.160,116.228.40.167,116.228.0.0,CHINA UNIONPAY SHANGHAI BRANCH,chinaunionpay.com,business,AS4812,China Telecom (Group),chinatelecom.com.cn,isp,CN
-104.130.57.232,104.130.57.239,104.130.0.0,Honey Baked Ham Company,hbham.com,business,AS27357,Rackspace Hosting,rackspace.com,hosting,US
-122.227.0.116,122.227.0.119,122.227.0.0,"Xinbaili Shoes Industry (shenzhen) Co.,ltd Hangzhou Office",hz.zj.cn,business,AS4134,CHINANET-BACKBONE,chinatelecom.com.cn,isp,CN
-122.227.20.240,122.227.20.243,122.227.0.0,"Zhejiang Pujiang Sanjian Inlet-Exportation Co.,ltd",hz.zj.cn,business,AS4134,CHINANET-BACKBONE,chinatelecom.com.cn,isp,CN
-104.180.93.48,104.180.93.63,104.180.0.0,AT&T Corp.,att.com,isp,AS7018,"AT&T Services, Inc.",att.com,isp,US
-108.171.166.56,108.171.166.71,108.171.0.0,Rackspace Hosting,rackspace.com,hosting,AS33070,Rackspace Hosting,rackspace.com,hosting,US
-122.2.5.88,122.2.5.91,122.2.0.0,101498972_DIGIWAVE SOLUTIONS INCORPORATED,pldt.com,isp,AS9299,Philippine Long Distance Telephone Company,pldt.com,isp,PH
-12.30.212.112,12.30.212.119,12.30.0.0,"AT&T Services, Inc.",att.com,isp,AS7018,"AT&T Services, Inc.",att.com,isp,US
-12.230.99.208,12.230.99.215,12.230.0.0,"AT&T Services, Inc.",att.com,isp,AS7018,"AT&T Services, Inc.",att.com,isp,US
-12.231.76.144,12.231.76.159,12.231.0.0,MILLCRAFT,millcraft.com,business,AS7018,"AT&T Services, Inc.",att.com,isp,US
-12.138.118.48,12.138.118.63,12.138.0.0,DIGITAL AGENT LLC-NEW SOUTHCO,newsouthconstruction.com,business,AS7018,"AT&T Services, Inc.",att.com,isp,US
-115.236.32.80,115.236.32.87,115.236.0.0,"Hangzhou Sunhong Imp&Exp. Co.,Ltd.",hz.zj.cn,business,AS4134,CHINANET-BACKBONE,chinatelecom.com.cn,isp,CN
 122.3.104.158,122.3.104.158,122.3.0.0,SMEMRO2019050271097_Enterprise Client,supportingenterprises.com,business,AS9299,Philippine Long Distance Telephone Company,pldt.com,isp,PH
-107.198.9.216,107.198.9.223,107.198.0.0,Private Customer - AT&T Internet Services,ads-internet.com,isp,AS7018,"AT&T Services, Inc.",att.com,isp,US
+113.42.166.0,113.42.166.31,113.42.0.0,ARTERIA Networks Corporation,arteria-net.com,isp,AS17506,ARTERIA Networks Corporation,arteria-net.com,isp,JP
+107.138.1.64,107.138.1.79,107.138.0.0,"AT&T Services, Inc.",att.com,isp,AS7018,"AT&T Services, Inc.",att.com,isp,US
+108.178.108.16,108.178.108.23,108.178.0.0,Charter Communications Inc,spectrum.com,isp,AS11427,Charter Communications Inc,charter.com,isp,US
+119.92.228.65,119.92.228.65,119.92.0.0,SMEMYG2019101627859_ENTERPRISE CLIENT,supportingenterprises.com,business,AS9299,Philippine Long Distance Telephone Company,pldt.com,isp,PH
+122.54.94.88,122.54.94.88,122.54.0.0,CBGDSL2022031092362_ENTERPRISE Client,supportingenterprises.com,business,AS9299,Philippine Long Distance Telephone Company,pldt.com,isp,PH
+12.227.45.72,12.227.45.127,12.227.0.0,"AT&T Services, Inc.",att.com,isp,AS7018,"AT&T Services, Inc.",att.com,isp,US
+122.224.114.60,122.224.114.63,122.224.0.0,"Luo on the Dayton Decoration Engineering Co., Ltd., Zhejiang Branch",163.com.cn,business,AS4134,CHINANET-BACKBONE,chinatelecom.com.cn,isp,CN
+12.25.146.168,12.25.146.175,12.25.0.0,"NETSMART TECHNOLOGIES, IN",ntst.com,business,AS7018,"AT&T Services, Inc.",att.com,isp,US
+12.215.17.8,12.215.17.15,12.215.0.0,READING FOR EDUCATION,readingforeducation.com,education,AS7018,"AT&T Services, Inc.",att.com,isp,US
+119.93.173.20,119.93.173.20,119.93.0.0,SMESFU2017011760361_LA UNION ELECTRIC COOPERATIVE INC,luelco.com.ph,business,AS9299,Philippine Long Distance Telephone Company,pldt.com,isp,PH
+119.6.35.100,119.6.35.103,119.6.0.0,Qunli-Net-Corp,wo.com.cn,isp,AS4837,CHINA UNICOM China169 Backbone,chinaunicom.cn,isp,CN
+110.50.240.0,110.50.240.31,110.50.0.0,Management-4,clara.co.jp,business,AS23661,"CLARA ONLINE, Inc.",clara.co.jp,hosting,JP
+109.123.227.0,109.123.227.255,109.123.0.0,Contabo GmbH,contabo.com,business,AS141995,Contabo Asia Private Limited,contabo.com,hosting,DE
+12.212.136.160,12.212.136.239,12.212.0.0,"AT&T Services, Inc.",att.com,isp,AS7018,"AT&T Services, Inc.",att.com,isp,US
+122.129.112.48,122.129.112.255,122.129.0.0,Cergis Networks,cergis.net.id,isp,AS38896,PT. Centra Global Investama,cergis.net.id,isp,ID
+113.28.248.88,113.28.248.111,113.28.0.0,Hong Kong Telecommunications (HKT) Limited Business Internet,hkt-enterprise.com,isp,AS4515,HKT Limited,hkt-enterprise.com,isp,HK
+12.150.241.144,12.150.241.151,12.150.0.0,ALABAMA COAL CO OP,alcoalcoop.com,business,AS7018,"AT&T Services, Inc.",att.com,isp,US
+108.87.176.56,108.87.176.63,108.87.0.0,AT&T Corp.,att.com,isp,AS7018,"AT&T Services, Inc.",att.com,isp,US
+12.36.65.120,12.36.65.127,12.36.0.0,NEW STAR METALS INC,newstarmetals.com,business,AS7018,"AT&T Services, Inc.",att.com,isp,US
+12.182.54.0,12.182.54.7,12.182.0.0,"AT&T Services, Inc.",att.com,isp,AS7018,"AT&T Services, Inc.",att.com,isp,US
+12.18.111.176,12.18.111.183,12.18.0.0,ATLANTA INQUIRER,atlinq.com,business,AS7018,"AT&T Services, Inc.",att.com,isp,US
+115.236.187.144,115.236.187.159,115.236.0.0,Hangzhou Branch of China Telecom,hz.zj.cn,isp,AS4134,CHINANET-BACKBONE,chinatelecom.com.cn,isp,CN
+109.3.142.144,109.3.142.147,109.3.0.0,Static IP,unitedtelecom.fr,business,AS15557,Societe Francaise Du Radiotelephone - SFR SA,sfr.fr,isp,FR
+103.159.54.0,103.159.55.255,103.159.0.0,HT3 VIETNAM TECHNOLOGY INVESTMENT AND DEVELOPMENT JOINT STOCK COMPANY,ht3vn.com,business,AS135944,VinhNam Commercial informatics service corporation,vinacis.com,isp,VN
+107.192.165.224,107.192.165.231,107.192.0.0,Dan Crouch05012013103537776,dancrouch.com,business,AS7018,"AT&T Services, Inc.",att.com,isp,US
+122.226.65.28,122.226.65.31,122.226.0.0,Wang Kan,hz.zj.cn,business,AS4134,CHINANET-BACKBONE,chinatelecom.com.cn,isp,CN
+12.8.151.224,12.8.152.31,12.8.0.0,"AT&T Services, Inc.",att.com,isp,AS7018,"AT&T Services, Inc.",att.com,isp,US
+122.3.151.184,122.3.151.184,122.3.0.0,"SMECPT2017122174776_HARVESTERS' MISSIONS INTERNATIONAL SCHOOL, INC.",pldt.com,isp,AS9299,Philippine Long Distance Telephone Company,pldt.com,isp,PH
+12.149.227.144,12.149.227.151,12.149.0.0,OAKLAND KIA,oaklandkia.com,business,AS7018,"AT&T Services, Inc.",att.com,isp,US
+107.192.201.8,107.192.201.15,107.192.0.0,AT&T Corp.,att.com,isp,AS7018,"AT&T Services, Inc.",att.com,isp,US
+102.141.226.232,102.141.226.239,102.141.0.0,LavoBathroomConcepts,aerocom.co.za,isp,AS328317,AEROCOM BROADBAND SERVICES,aerocom.co.za,isp,ZA
+12.31.39.200,12.31.39.207,12.31.0.0,TARKETT USA,tarkettna.com,business,AS7018,"AT&T Services, Inc.",att.com,isp,US
 119.92.247.138,119.92.247.138,119.92.0.0,SMETGM2012112348087_NETIZEN CENTRAL INTERNET CAFE,pldt.com,isp,AS9299,Philippine Long Distance Telephone Company,pldt.com,isp,PH
-118.97.224.0,118.97.255.255,118.97.0.0,PT Telkom Indonesia's customer.,telkom.net.id,isp,AS7713,PT Telekomunikasi Indonesia,telin.net,isp,ID
-122.228.163.8,122.228.163.15,122.228.0.0,Wenzhou Xiangyu middle school,hz.zj.cn,education,AS4134,CHINANET-BACKBONE,chinatelecom.com.cn,isp,CN
-122.226.49.88,122.226.49.91,122.226.0.0,"Being a precision parts manufacture Co., LTD",hz.zj.cn,business,AS4134,CHINANET-BACKBONE,chinatelecom.com.cn,isp,CN
-117.240.82.80,117.240.82.87,117.240.0.0,"chief engineer (LD),sldc bhilai",sancharnet.in,isp,AS9829,National Internet Backbone,bsnl.co.in,isp,IN
-108.166.135.208,108.166.135.219,108.166.0.0,Mediacom Communications Corp,mediacomcable.com,isp,AS30036,Mediacom Communications Corp,mediacomcable.com,isp,US
-122.52.102.232,122.52.102.239,122.52.0.0,CBGSFP2014030447312_ZUELLIG PHARMA CORPORATION,pldt.com,isp,AS9299,Philippine Long Distance Telephone Company,pldt.com,isp,PH
-122.54.199.21,122.54.199.21,122.54.0.0,"SMEMLT2016110273308_STARBRIGHT SALES ENTERPRISES, INC.",pldt.com,isp,AS9299,Philippine Long Distance Telephone Company,pldt.com,isp,PH
-12.235.90.144,12.235.90.151,12.235.0.0,CEDIA,cedia.edu.ec,education,AS7018,"AT&T Services, Inc.",att.com,isp,US
-12.50.132.32,12.50.132.63,12.50.0.0,"AT&T Services, Inc.",att.com,isp,AS7018,"AT&T Services, Inc.",att.com,isp,US
-122.3.113.191,122.3.113.191,122.3.0.0,SMEBYW2021051981083_ENTERPRISE CLIENT,supportingenterprises.com,business,AS9299,Philippine Long Distance Telephone Company,pldt.com,isp,PH
-12.178.254.48,12.178.254.55,12.178.0.0,HYPERCORE NETWORKS INC-HIGGIN,higginbotham.com,business,AS7018,"AT&T Services, Inc.",att.com,isp,US
-12.156.253.0,12.156.253.7,12.156.0.0,CANO HEALTH LLC,canohealth.com,business,AS7018,"AT&T Services, Inc.",att.com,isp,US
-12.214.193.24,12.214.193.31,12.214.0.0,NOR CAL PACIFIC INSURANCE SER,norcalpacific.com,business,AS7018,"AT&T Services, Inc.",att.com,isp,US
-118.174.35.116,118.174.35.119,118.174.0.0,TOT Public Company Limited,totisp.net,isp,AS23969,TOT Public Company Limited,ntplc.co.th,isp,TH
-113.42.76.120,113.42.76.127,113.42.0.0,ARTERIA Networks Corp.,arteria-hikari.net,isp,AS17506,ARTERIA Networks Corporation,arteria-net.com,isp,JP
-122.52.199.138,122.52.199.138,122.52.0.0,SMECBY2017072563355_PARAMOUNT CO,pldt.com,isp,AS9299,Philippine Long Distance Telephone Company,pldt.com,isp,PH
-12.48.13.160,12.48.13.191,12.48.0.0,HBNC INC,angellbusiness.com,business,AS7018,"AT&T Services, Inc.",att.com,isp,US
-12.39.253.128,12.39.253.135,12.39.0.0,H.C. FOODS CO. LTD,hcfoods.net,business,AS7018,"AT&T Services, Inc.",att.com,isp,US
+104.193.115.32,104.193.115.63,104.193.0.0,"Pacific Cycle, Inc.",pacific-cycle.com,business,AS29838,"Atlantic Metro Communications II, Inc.",atlanticmetro.net,isp,US
+12.39.185.72,12.39.185.79,12.39.0.0,JASPER PRODUCTS,jasperproducts.com,business,AS7018,"AT&T Services, Inc.",att.com,isp,US
+12.16.89.112,12.16.89.127,12.16.0.0,"AT&T Services, Inc.",att.com,isp,AS7018,"AT&T Services, Inc.",att.com,isp,US
+104.245.24.240,104.245.24.243,104.245.0.0,First Nebraska Bank,firstnebraskabank.com,business,AS53828,"NETWORK INNOVATIONS, LLC",nitelusa.com,business,US
+122.186.69.224,122.186.69.227,122.186.0.0,LEADING EDGE COMMUNICATIO,leadingedgecommunications.net,business,AS9498,BHARTI Airtel Ltd.,airtel.in,isp,IN
+124.106.19.221,124.106.19.221,124.106.0.0,SMESPC2022053160641_ENTERPRISE CLIENT,supportingenterprises.com,business,AS9299,Philippine Long Distance Telephone Company,pldt.com,isp,PH
 12.46.12.72,12.46.12.79,12.46.0.0,4 EARTH FARMS,4earthfarms.com,business,AS7018,"AT&T Services, Inc.",att.com,isp,US
-108.230.252.40,108.230.252.55,108.230.0.0,Private Customer - AT&T Internet Services,ads-internet.com,isp,AS7018,"AT&T Services, Inc.",att.com,isp,US
-117.239.140.128,117.239.140.135,117.239.0.0,SDME Society,sdmesociety.in,education,AS9829,National Internet Backbone,bsnl.co.in,isp,IN
-122.212.62.128,122.212.62.135,122.212.0.0,ARTERIA Networks Corporation,arteria-net.com,isp,AS17506,ARTERIA Networks Corporation,arteria-net.com,isp,JP
-116.228.124.80,116.228.124.175,116.228.0.0,CHINANET Shanghai province network,chinatelecom.cn,isp,AS4812,China Telecom (Group),chinatelecom.com.cn,isp,CN
-122.227.218.240,122.227.218.255,122.227.0.0,NINGBO JIAOYU XUEYUAN,nbtelecom.com,business,AS4134,CHINANET-BACKBONE,chinatelecom.com.cn,isp,CN
-12.0.150.112,12.0.150.119,12.0.0.0,"AT&T Services, Inc.",att.com,isp,AS7018,"AT&T Services, Inc.",att.com,isp,US
-12.232.238.176,12.232.238.191,12.232.0.0,"AT&T Services, Inc.",att.com,isp,AS7018,"AT&T Services, Inc.",att.com,isp,US
-108.207.155.96,108.207.155.111,108.207.0.0,HERTZ-121016131108,hertz.st,business,AS7018,"AT&T Services, Inc.",att.com,isp,US
-122.227.154.216,122.227.154.219,122.227.0.0,Yuyao Lvyi NetBar,nbtelecom.com,isp,AS4134,CHINANET-BACKBONE,chinatelecom.com.cn,isp,CN
+103.219.208.0,103.219.211.255,103.219.0.0,QubeSys Technologies Pvt Ltd,qubesys.com,business,AS134325,JETSPOTNETWORKS PVT LTD,jetspot.in,isp,IN
+107.221.104.80,107.221.104.87,107.221.0.0,Chrystal Gil02152013162956703,chrystaljgilkey.com,business,AS7018,"AT&T Services, Inc.",att.com,isp,US
+106.186.222.0,106.186.222.63,106.186.0.0,"Nissan Securities Co., Ltd.",nc-sec.co.jp,business,AS2516,KDDI CORPORATION,kddi.com,isp,JP
+12.97.62.160,12.97.62.167,12.97.0.0,VASCULAR AND SPINE,vascularandspine.com,business,AS7018,"AT&T Services, Inc.",att.com,isp,US
+104.206.233.216,104.206.233.255,104.206.0.0,Eonix Corporation,eonix.net,hosting,AS62904,Eonix Corporation,serverhub.com,hosting,US
+12.51.148.248,12.51.148.255,12.51.0.0,NETWOLVES NETWORK SERVICES LL,netwolves.com,business,AS7018,"AT&T Services, Inc.",att.com,isp,US
+121.50.214.0,121.50.214.127,121.50.0.0,BRUN-NET1 Netblock Assignment,onthenet.com.au,isp,AS9313,Network Technology (AUST) P/L,onthenet.com.au,isp,AU
+107.201.206.184,107.201.206.191,107.201.0.0,AT&T Corp.,att.com,isp,AS7018,"AT&T Services, Inc.",att.com,isp,US
+124.107.119.32,124.107.119.39,124.107.0.0,"SMEMKT2016121984254_MICROGENESIS SOFTWARE, INC.",pldt.com,isp,AS9299,Philippine Long Distance Telephone Company,pldt.com,isp,PH
+12.36.8.32,12.36.8.79,12.36.0.0,"AT&T Services, Inc.",att.com,isp,AS7018,"AT&T Services, Inc.",att.com,isp,US
+119.9.65.224,119.9.65.227,119.9.0.0,Rackspace.com Hong Kong Limited,rackspace.com,hosting,AS58683,Rackspace.com Sydney,rackspace.com,hosting,HK
+12.184.212.48,12.184.212.55,12.184.0.0,SAC HEALTH SYSTEM,sachealthsystem.org,business,AS7018,"AT&T Services, Inc.",att.com,isp,US
+124.107.41.40,124.107.41.47,124.107.0.0,IPG,pldt.com,isp,AS9299,Philippine Long Distance Telephone Company,pldt.com,isp,PH
+12.231.134.0,12.231.134.7,12.231.0.0,"AT&T Services, Inc.",att.com,isp,AS7018,"AT&T Services, Inc.",att.com,isp,US
+119.92.133.58,119.92.133.58,119.92.0.0,SMEMLB2013091939108_MMT COMPUTER SHOP - MICHAEL E TAQUIQUI,pldt.com,isp,AS9299,Philippine Long Distance Telephone Company,pldt.com,isp,PH
+121.83.218.240,121.83.218.255,121.83.0.0,Felissimo Corporation,felissimo.co.jp,business,AS17511,OPTAGE Inc.,optage.co.jp,business,JP
+115.147.5.213,115.147.5.213,115.147.0.0,CBGDVO2021031967532_ENTERPRISE CLIENT,supportingenterprises.com,business,AS9299,Philippine Long Distance Telephone Company,pldt.com,isp,PH
+122.187.127.155,122.187.127.157,122.187.0.0,BHARTI TELENET LTD. NEW DELHI,airtel.in,isp,AS9498,BHARTI Airtel Ltd.,airtel.in,isp,IN
+108.178.220.56,108.178.220.63,108.178.0.0,Mediacom Communications Corp,mediacomcable.com,isp,AS30036,Mediacom Communications Corp,mediacomcable.com,isp,US
+12.68.79.96,12.68.79.103,12.68.0.0,"SAULSBURY INDUSTRIES, INC.",si-tx.net,business,AS7018,"AT&T Services, Inc.",att.com,isp,US
+113.43.156.136,113.43.156.143,113.43.0.0,"CBC Co., Ltd.",cbc.co.jp,business,AS17506,ARTERIA Networks Corporation,arteria-net.com,isp,JP
+1.179.208.183,1.179.208.184,1.179.0.0,TOT Public Company Limited,totidc.net,isp,AS23969,TOT Public Company Limited,ntplc.co.th,isp,TH
+108.80.24.144,108.80.24.167,108.80.0.0,"AT&T Services, Inc.",att.com,isp,AS7018,"AT&T Services, Inc.",att.com,isp,US
+108.242.38.136,108.242.38.143,108.242.0.0,Private Customer - AT&T Internet Services,ads-internet.com,isp,AS7018,"AT&T Services, Inc.",att.com,isp,US
+110.50.72.104,110.50.72.111,110.50.0.0,"KVH Co., Ltd",kvhasia.com,isp,AS10021,"KVH Co.,Ltd",kvhasia.com,isp,JP
+107.140.4.24,107.140.4.31,107.140.0.0,AT&T Corp.,att.com,isp,AS7018,"AT&T Services, Inc.",att.com,isp,US
+104.244.85.164,104.244.85.167,104.244.0.0,Ameritech College,ameritechcollege.com,education,AS13415,"FirstDigital Communications, LLC",firstdigital.com,isp,US
+124.106.35.96,124.106.35.103,124.106.0.0,"18-3266490_Lica Management, Inc.",pldt.com,isp,AS9299,Philippine Long Distance Telephone Company,pldt.com,isp,PH
+108.180.200.0,108.180.203.255,108.180.0.0,TELUS-FIBRE-VANCBC07,telus.com,isp,AS852,TELUS Communications Inc.,telus.com,isp,CA
+122.52.137.155,122.52.137.155,122.52.0.0,18-4292935_SANTOS LAND DEVT. CORP.,pldt.com,isp,AS9299,Philippine Long Distance Telephone Company,pldt.com,isp,PH
+124.106.38.168,124.106.38.183,124.106.0.0,IPG,pldt.com,isp,AS9299,Philippine Long Distance Telephone Company,pldt.com,isp,PH
+122.52.216.88,122.52.216.95,122.52.0.0,18-3294124_Banco De Oro Universal Bank,pldt.com,isp,AS9299,Philippine Long Distance Telephone Company,pldt.com,isp,PH
+109.232.60.246,109.232.60.247,109.232.0.0,CONVERGENCE (GROUP NETWORKS) LIMITED,convergencegroup.co.uk,isp,AS41811,CONVERGENCE (GROUP NETWORKS) LIMITED,convergencegroup.co.uk,isp,GB
+12.129.91.0,12.129.91.31,12.129.0.0,AT&T Enhanced Network Services,attens.com,business,AS17228,AT&T Enhanced Network Services,attens.com,business,US
+107.7.126.248,107.7.126.255,107.7.0.0,Windstream Communications LLC,onecommunications.net,isp,AS7029,Windstream Communications LLC,windstream.com,isp,US
+109.73.2.72,109.73.2.75,109.73.0.0,PJSC MegaFon,megafon.ru,isp,AS31261,PJSC MegaFon,garstelecom.ru,isp,RU
+108.201.151.200,108.201.151.207,108.201.0.0,Private Customer - AT&T Internet Services,ads-internet.com,isp,AS7018,"AT&T Services, Inc.",att.com,isp,US
+122.187.43.140,122.187.43.143,122.187.0.0,Verizon Communication Ind,verizon.com,isp,AS9498,BHARTI Airtel Ltd.,airtel.in,isp,IN
+12.11.171.24,12.11.171.31,12.11.0.0,NEW HORIZON COMMUNICATIONS CO,nhcgrp.com,isp,AS7018,"AT&T Services, Inc.",att.com,isp,US
+12.54.0.0,12.54.1.111,12.54.0.0,"AT&T Services, Inc.",att.com,isp,AS7018,"AT&T Services, Inc.",att.com,isp,US
+12.188.228.192,12.188.228.199,12.188.0.0,"GIE MEDIA, INC",giemedia.com,business,AS7018,"AT&T Services, Inc.",att.com,isp,US
+104.239.184.224,104.239.184.231,104.239.0.0,Rackspace Hosting,rackspace.com,hosting,AS27357,Rackspace Hosting,rackspace.com,hosting,US
+108.215.18.136,108.215.18.159,108.215.0.0,Private Customer - AT&T Internet Services,ads-internet.com,isp,AS7018,"AT&T Services, Inc.",att.com,isp,US
+119.92.241.178,119.92.241.178,119.92.0.0,SMEGNT2022082628924_ENTERPRISE CLIENT,supportingenterprises.com,business,AS9299,Philippine Long Distance Telephone Company,pldt.com,isp,PH
+12.108.37.72,12.108.37.79,12.108.0.0,MCGEHEE ENGINEERING,mcgehee.org,business,AS7018,"AT&T Services, Inc.",att.com,isp,US
+122.185.117.136,122.185.117.139,122.185.0.0,OPTIVAL HEALTH SOLUTIONS,optivalhealth.com,business,AS9498,BHARTI Airtel Ltd.,airtel.in,isp,IN
+103.87.196.0,103.87.199.255,103.87.0.0,Kementerian Ketenagakerjaan RI,naker.go.id,business,AS136087,Kementerian Ketenagakerjaan RI,naker.go.id,business,ID
+12.221.224.64,12.221.224.79,12.221.0.0,AUTOCOM,autocomnisssan.com,business,AS7018,"AT&T Services, Inc.",att.com,isp,US
+100.42.237.144,100.42.237.151,100.42.0.0,Shengnuo Network,126.com,business,AS54288,"SolidTools Technology, Inc.",solidtools.com,hosting,CN
+122.2.74.211,122.2.74.211,122.2.0.0,SMEMKT2022020712726_ENTERPRISE CLIENT,supportingenterprises.com,business,AS9299,Philippine Long Distance Telephone Company,pldt.com,isp,PH
+108.93.157.0,108.93.157.15,108.93.0.0,AT&T Corp.,att.com,isp,AS7018,"AT&T Services, Inc.",att.com,isp,US
+12.30.209.56,12.30.209.63,12.30.0.0,CITY OF CLEVELAND,cleveland.oh.us,business,AS7018,"AT&T Services, Inc.",att.com,isp,US
+108.230.61.56,108.230.111.255,108.230.0.0,AT&T Corp.,att.com,isp,AS7018,"AT&T Services, Inc.",att.com,isp,US
+122.52.201.31,122.52.201.31,122.52.0.0,SMENOV2013120225944_PERFECT CONTOUR SLIMMING AND AESTHETIC CENTER CO.,pldt.com,isp,AS9299,Philippine Long Distance Telephone Company,pldt.com,isp,PH
+124.107.43.69,124.107.43.69,124.107.0.0,SMEANT2021040543022_ENTERPRISE CLIENT,supportingenterprises.com,business,AS9299,Philippine Long Distance Telephone Company,pldt.com,isp,PH
+12.158.176.0,12.158.176.7,12.158.0.0,BURLAN MANUFACTURING,burlan.com,business,AS7018,"AT&T Services, Inc.",att.com,isp,US
+12.206.81.40,12.206.81.47,12.206.0.0,"AT&T Services, Inc.",att.com,isp,AS7018,"AT&T Services, Inc.",att.com,isp,US
+12.16.94.96,12.16.94.127,12.16.0.0,"AT&T Services, Inc.",att.com,isp,AS7018,"AT&T Services, Inc.",att.com,isp,US
+12.53.50.208,12.53.50.215,12.53.0.0,SBC IS WIFI OPERATIONS,sbc.com,isp,AS7018,"AT&T Services, Inc.",att.com,isp,US
