@@ -1,101 +1,101 @@
 start_ip,end_ip,join_key,city,region,country,latitude,longitude,postal_code,timezone,geoname_id,radius
-2001:2d8:e2ab:9400::,2001:2d8:e2ab:94ff:ffff:ffff:ffff:ffff,2001:2d8:c000::,Yongsan-dong,Seoul,KR,37.55,127.1453,05292,Asia/Seoul,6800487,50
-81.221.202.248,81.221.202.248,81.221.0.0,Urtenen,Bern,CH,47.02667,7.50081,3322,Europe/Zurich,2658217,500
-221.110.231.206,221.110.231.206,221.110.0.0,Tokyo,Tokyo,JP,35.6895,139.69171,101-8656,Asia/Tokyo,1850147,100
-62.224.89.200,62.224.89.201,62.224.0.0,Lauffen am Neckar,Baden-Wurttemberg,DE,49.0734,9.14567,74348,Europe/Berlin,2880111,500
-69.170.35.208,69.170.35.255,69.170.0.0,San Francisco,California,US,37.77493,-122.41942,94102,America/Los_Angeles,5391959,500
-189.161.39.39,189.161.39.39,189.161.0.0,Tepeaca,Puebla,MX,18.96688,-97.8998,75200,America/Mexico_City,3515904,500
-201.114.163.127,201.114.163.127,201.114.0.0,Salina Cruz,Oaxaca,MX,16.17535,-95.19424,70630,America/Mexico_City,3520064,500
-49.38.158.112,49.38.158.127,49.38.0.0,Kolhāpur,Maharashtra,IN,16.69563,74.23167,416218,Asia/Kolkata,1266285,1000
-95.208.49.176,95.208.49.183,95.208.0.0,Karlsruhe,Baden-Wurttemberg,DE,49.00937,8.40444,76133,Europe/Berlin,2892794,500
-2605:6000:700:b7::,2605:6000:700:b8:ffff:ffff:ffff:ffff,0:148:df7a:a6a:1d7c:371d:4000:0,Elgin,Texas,US,30.34965,-97.37027,78621,America/Chicago,4688756,200
-189.129.82.6,189.129.82.6,189.129.0.0,Ocosingo,Chiapas,MX,16.90639,-92.09374,29950,America/Mexico_City,3522484,500
-79.85.90.215,79.85.90.215,79.85.0.0,Marseille,Provence-Alpes-Côte d'Azur,FR,43.29695,5.38107,13000,Europe/Paris,2995469,500
-154.24.29.128,154.24.29.135,154.24.0.0,Washington,"Washington, D.C.",US,38.9014,-77.0504,20037,America/New_York,4140963,5000
-77.51.44.221,77.51.44.223,77.51.0.0,Podolsk,Moscow Oblast,RU,55.42419,37.55472,142100,Europe/Moscow,508101,500
-150.181.5.96,150.181.5.96,150.181.0.0,Detroit,Michigan,US,42.33143,-83.04575,48226,America/Detroit,4990729,5000
-2809:4583:c000::,2809:4583:ffff:ffff:ffff:ffff:ffff:ffff,2809:4583:c000::,Montevideo,Montevideo Department,UY,-34.90328,-56.18816,11100,America/Montevideo,3441575,5000
-39.40.129.244,39.40.129.244,39.40.0.0,Islamabad,Islamabad,PK,33.72148,73.04329,44000,Asia/Karachi,1176615,500
-87.191.128.124,87.191.128.127,87.191.0.0,Hamm,North Rhine-Westphalia,DE,51.68033,7.82089,59065,Europe/Berlin,2911240,500
-126.73.72.116,126.73.72.117,126.73.0.0,Mito,Ibaraki,JP,36.35,140.45,309-1455,Asia/Tokyo,2111901,500
-5.8.127.128,5.8.127.129,5.8.0.0,Castelfranco Veneto,Veneto,IT,45.67146,11.92755,31033,Europe/Rome,3179684,500
-90.189.105.128,90.189.105.255,90.189.0.0,Abakan,Khakasiya Republic,RU,53.71556,91.42917,655000,Asia/Krasnoyarsk,1512236,500
-2409:4072:2e86:5400::,2409:4072:2e86:58ff:ffff:ffff:ffff:ffff,0:130:1c25:3c61:1baf:728:7800:0,Salem,Tamil Nadu,IN,11.65376,78.15538,636006,Asia/Kolkata,1257629,500
-46.125.37.152,46.125.37.153,46.125.0.0,Graz,Styria,AT,47.06667,15.45,8041,Europe/Vienna,2778067,500
-2a04:3e90:c000::,2a04:3e90:ffff:ffff:ffff:ffff:ffff:ffff,2a04:3e90:c000::,Amsterdam,North Holland,NL,52.37403,4.88969,1012,Europe/Amsterdam,2759794,5000
-114.190.96.213,114.190.96.213,114.190.0.0,Ube,Yamaguchi,JP,33.94306,131.25111,752-0923,Asia/Tokyo,1849498,100
-216.234.73.41,216.234.73.43,216.234.0.0,Dallas,Texas,US,32.78306,-96.80667,75201,America/Chicago,4684888,1000
-86.218.86.155,86.218.86.155,86.218.0.0,Noisy-le-Grand,Île-de-France,FR,48.84979,2.56266,93160,Europe/Paris,2990189,500
-186.255.130.24,186.255.130.27,186.255.0.0,Manaus,Amazonas,BR,-3.10194,-60.025,69000-000,America/Manaus,3663517,5
-81.108.138.0,81.108.138.1,81.108.0.0,Swallowfield,England,GB,51.37875,-0.95804,RG7,Europe/London,2636448,50
-95.223.138.54,95.223.138.54,95.223.0.0,Friedrichsdorf,Hesse,DE,50.24962,8.64281,61381,Europe/Berlin,2924625,500
-67.81.60.161,67.81.60.161,67.81.0.0,Bridgeport,Connecticut,US,41.17923,-73.18945,06602,America/New_York,5282804,10
-86.207.103.212,86.207.103.213,86.207.0.0,Saint-Étienne,Auvergne-Rhône-Alpes,FR,45.43389,4.39,42000,Europe/Paris,2980291,500
-98.114.149.164,98.114.149.167,98.114.0.0,Ardmore,Pennsylvania,US,40.00678,-75.28546,19003,America/New_York,5178481,500
-76.204.91.223,76.204.91.223,76.204.0.0,Houston,Texas,US,29.9796,-95.4625,77014,America/Chicago,4699066,5
-126.55.208.176,126.55.208.177,126.55.0.0,Motoyoyogichō,Tokyo,JP,35.67192,139.68511,151-0062,Asia/Tokyo,10866695,500
-1.246.12.0,1.246.12.159,1.246.0.0,Cheongju-si,North Chungcheong,KR,36.6361,127.4851,28524,Asia/Seoul,1845604,50
-184.97.86.19,184.97.86.20,184.97.0.0,Minneapolis,Minnesota,US,44.97997,-93.26384,55401,America/Chicago,5037649,1000
-99.128.241.185,99.128.241.185,99.128.0.0,Winnie,Texas,US,29.82022,-94.38408,77665,America/Chicago,4742616,20
-77.51.58.129,77.51.58.129,77.51.0.0,Moscow,Moscow,RU,55.75222,37.61556,101000,Europe/Moscow,524901,500
-177.206.191.230,177.206.191.231,177.206.0.0,Feira Nova,Pernambuco,BR,-7.95083,-35.38917,55715-000,America/Recife,3399679,100
-67.23.166.81,67.23.166.81,67.23.0.0,Asheville,North Carolina,US,35.60095,-82.55402,28801,America/New_York,4453066,1000
-188.43.206.220,188.43.206.220,188.43.0.0,Moscow,Moscow,RU,55.75222,37.61556,101000,Europe/Moscow,524901,1000
-219.107.103.0,219.107.103.1,219.107.0.0,Fukuoka,Fukuoka,JP,33.6,130.41667,812-0024,Asia/Tokyo,1863967,50
-2636:41fa:4000::,2636:41fa:7fff:ffff:ffff:ffff:ffff:ffff,2636:41fa:4000::,New York City,New York,US,40.71427,-74.00597,10001,America/New_York,5128581,5000
-84.105.133.62,84.105.133.62,84.105.0.0,Elshout,North Brabant,NL,51.70083,5.14167,5154,Europe/Amsterdam,2756172,500
-2.67.202.0,2.67.202.3,2.67.0.0,Eskilstuna,Södermanland,SE,59.36661,16.5077,630 03,Europe/Stockholm,2715953,500
-2804:d59:a6b5:100::,2804:d59:a6b5:ffff:ffff:ffff:ffff:ffff,2804:d59:8000::,São Paulo,São Paulo,BR,-23.5475,-46.63611,01000-000,America/Sao_Paulo,3448439,5000
-83.186.70.67,83.186.70.67,83.186.0.0,Göteborg,Västra Götaland,SE,57.70716,11.96679,400 10,Europe/Stockholm,2711537,500
-180.53.130.235,180.53.130.235,180.53.0.0,Motoyoyogichō,Tokyo,JP,35.67192,139.68511,151-0062,Asia/Tokyo,10866695,500
-74.190.23.35,74.190.23.48,74.190.0.0,Columbus,Georgia,US,32.46098,-84.98771,31999,America/New_York,4188985,500
-2001:4430:d042:d300::,2001:4430:d042:d3ff:ffff:ffff:ffff:ffff,2001:4430:c000::,Daejeon,Daejeon,KR,36.3589,127.3764,35219,Asia/Seoul,1835235,100
-64.200.240.83,64.200.240.84,64.200.0.0,Bridgeton,Missouri,US,38.7689,-90.4662,63045,America/Chicago,4378391,5000
-67.173.178.120,67.173.178.127,67.173.0.0,Chicago,Illinois,US,41.85003,-87.65005,60666,America/Chicago,4887398,500
-263c:edd0::,263c:edd0:3fff:ffff:ffff:ffff:ffff:ffff,263c:edd0::,New York City,New York,US,40.71427,-74.00597,10001,America/New_York,5128581,5000
-2a01:e0a:5e6:a170::,2a01:e0a:5e6:a170:ffff:ffff:ffff:ffff,2a01:e0a::,Paris,Île-de-France,FR,48.85341,2.3488,75000,Europe/Paris,2988507,5000
-75.209.4.248,75.209.4.248,75.209.0.0,Akron,Ohio,US,41.08144,-81.51901,44304,America/New_York,5145476,500
-87.196.109.60,87.196.109.60,87.196.0.0,Lisbon,Lisbon,PT,38.71667,-9.13333,1000-001,Europe/Lisbon,2267057,500
-199.120.117.108,199.120.117.111,199.120.0.0,Solon,Iowa,US,41.80723,-91.49406,52333,America/Chicago,4876867,500
-162.202.8.230,162.202.8.239,162.202.0.0,Indian Creek,Illinois,US,42.22697,-87.9798,60061,America/Chicago,4897016,50
-2a03:5b71::,2a03:5b71:3fff:ffff:ffff:ffff:ffff:ffff,2a03:5b71::,Amsterdam,North Holland,NL,52.37403,4.88969,1012,Europe/Amsterdam,2759794,5000
-2400:2653:b042::,2400:2653:b042:ff:ffff:ffff:ffff:ffff,0:12e:f4c1:df88:df57:12eb:3100:0,Ōsaka-sayama,Ōsaka,JP,34.49524,135.55069,589-0006,Asia/Tokyo,11612568,50
-74.193.136.135,74.193.136.147,74.193.0.0,Greenville,Mississippi,US,33.40898,-91.05978,38701,America/Chicago,4428475,500
-280d:ac5e:8000::,280d:ac5e:bfff:ffff:ffff:ffff:ffff:ffff,280d:ac5e:8000::,Montevideo,Montevideo Department,UY,-34.90328,-56.18816,11100,America/Montevideo,3441575,5000
-2604:63bf:4000::,2604:63bf:7fff:ffff:ffff:ffff:ffff:ffff,2604:63bf:4000::,New York City,New York,US,40.71427,-74.00597,10001,America/New_York,5128581,5000
-2a05:8c2e:4000::,2a05:8c2e:7fff:ffff:ffff:ffff:ffff:ffff,2a05:8c2e:4000::,Amsterdam,North Holland,NL,52.37403,4.88969,1012,Europe/Amsterdam,2759794,5000
-2a1c:66:8000::,2a1c:66:bfff:ffff:ffff:ffff:ffff:ffff,2a1c:66:8000::,Amsterdam,North Holland,NL,52.37403,4.88969,1012,Europe/Amsterdam,2759794,5000
-64.68.7.50,64.68.7.50,64.68.0.0,Fort Yates,North Dakota,US,46.08694,-100.63013,58538,America/Chicago,5689173,100
-87.40.132.185,87.40.132.185,87.40.0.0,Drogheda,Leinster,IE,53.71889,-6.34778,A92,Europe/Dublin,2964661,500
-89.220.171.84,89.220.171.85,89.220.0.0,Amstelveen,North Holland,NL,52.30083,4.86389,1181,Europe/Amsterdam,2759798,1000
-2804:97e9:8000::,2804:97e9:bfff:ffff:ffff:ffff:ffff:ffff,2804:97e9:8000::,Montevideo,Montevideo Department,UY,-34.90328,-56.18816,11100,America/Montevideo,3441575,5000
-2409:4070:4e93:ac00::,2409:4070:4e93:acff:ffff:ffff:ffff:ffff,0:130:1c23:e990:ef30:f279:1000:0,Shahmīrpet,Telangana,IN,17.59455,78.57493,500078,Asia/Kolkata,1445978,500
-178.185.93.59,178.185.93.59,178.185.0.0,Berëzovka,Krasnoyarsk Krai,RU,56.03044,93.11164,662117,Asia/Krasnoyarsk,1510255,500
-2404:ec98:8000::,2404:ec98:bfff:ffff:ffff:ffff:ffff:ffff,2404:ec98:8000::,Santa Teresa,Northern Territory,AU,-24.1307,134.3733,0872,Australia/Darwin,8219824,5000
-60.103.209.20,60.103.209.43,60.103.0.0,Nagoya,Aichi,JP,35.18147,136.90641,460-0002,Asia/Tokyo,1856057,500
-185.47.192.150,185.47.192.150,185.47.0.0,Stockholm,Stockholm,SE,59.32938,18.06871,100 05,Europe/Stockholm,2673730,500
-2608:758a::,2608:758a:3fff:ffff:ffff:ffff:ffff:ffff,2608:758a::,New York City,New York,US,40.71427,-74.00597,10001,America/New_York,5128581,5000
-79.23.111.86,79.23.111.86,79.23.0.0,Paola,Calabria,IT,39.36313,16.03691,87027,Europe/Rome,2523888,500
-2409:4061:499:fd00::,2409:4061:499:fdff:ffff:ffff:ffff:ffff,0:130:1c1c:2309:e9cc:38f2:8d00:0,Kolkata,West Bengal,IN,22.5333,88.3917,700042,Asia/Kolkata,1275004,100
-2a16:a686:c000::,2a16:a686:ffff:ffff:ffff:ffff:ffff:ffff,2a16:a686:c000::,Amsterdam,North Holland,NL,52.37403,4.88969,1012,Europe/Amsterdam,2759794,5000
-96.248.117.42,96.248.117.43,96.248.0.0,Pennington,New Jersey,US,40.32844,-74.79072,08534,America/New_York,5102535,500
-59.168.124.0,59.168.124.63,59.168.0.0,Tokyo,Tokyo,JP,35.6895,139.69171,101-8656,Asia/Tokyo,1850147,500
-87.115.127.98,87.115.127.98,87.115.0.0,Hartley,England,GB,51.38673,0.30367,DA3,Europe/London,2647398,500
-2a19:bee7:8000::,2a19:bee7:bfff:ffff:ffff:ffff:ffff:ffff,2a19:bee7:8000::,Amsterdam,North Holland,NL,52.37403,4.88969,1012,Europe/Amsterdam,2759794,5000
-199.231.83.101,199.231.83.101,199.231.0.0,Prattsville,New York,US,42.31481,-74.43293,12468,America/New_York,5132207,500
-97.94.223.164,97.94.223.167,97.94.0.0,Fort Worth,Texas,US,32.72541,-97.32085,76104,America/Chicago,4691930,5000
-2401:4900:2639:8b00::,2401:4900:2639:90ff:ffff:ffff:ffff:ffff,0:12f:1c53:b141:1b65:c4b4:b400:0,Injambakkam,Tamil Nadu,IN,12.89,80.2313,600119,Asia/Kolkata,9212569,1000
-75.213.198.64,75.213.198.64,75.213.0.0,Des Moines,Iowa,US,41.60054,-93.60911,50307,America/Chicago,4853828,500
-2001:fb1:33:3100::,2001:fb1:33:33ff:ffff:ffff:ffff:ffff,2001:fb1::,Phaya Thai,Bangkok,TH,13.78005,100.54275,10400,Asia/Bangkok,7026870,5000
-2a0b:6359:8000::,2a0b:6359:bfff:ffff:ffff:ffff:ffff:ffff,2a0b:6359:8000::,Amsterdam,North Holland,NL,52.37403,4.88969,1012,Europe/Amsterdam,2759794,5000
-90.0.177.168,90.0.177.170,90.0.0.0,Meaux,Île-de-France,FR,48.96014,2.87885,77100,Europe/Paris,2994798,500
-88.109.91.165,88.109.91.165,88.109.0.0,Banbury,England,GB,52.0632,-1.34222,OX16,Europe/London,2656406,500
-93.211.138.222,93.211.138.223,93.211.0.0,Meßkirch,Baden-Wurttemberg,DE,47.99457,9.11479,88605,Europe/Berlin,2871609,500
-23.27.167.129,23.27.167.129,23.27.0.0,New York City,New York,US,40.71427,-74.00597,10001,America/New_York,5128581,5000
-60.104.97.196,60.104.97.197,60.104.0.0,Tokyo,Tokyo,JP,35.6895,139.69171,101-8656,Asia/Tokyo,1850147,500
-263c:2427::,263c:2427:3fff:ffff:ffff:ffff:ffff:ffff,263c:2427::,New York City,New York,US,40.71427,-74.00597,10001,America/New_York,5128581,5000
-2409:4052:696:a200::,2409:4052:696:a2ff:ffff:ffff:ffff:ffff,0:130:1c14:b136:ef87:497:e400:0,Jaipur,Rajasthan,IN,26.91962,75.78781,302001,Asia/Kolkata,1269515,5000
-2405:3744:4000::,2405:3744:7fff:ffff:ffff:ffff:ffff:ffff,0:12f:99d7:6e8:8d43:f259:ca00:0,Santa Teresa,Northern Territory,AU,-24.1307,134.3733,0872,Australia/Darwin,8219824,5000
-175.131.82.212,175.131.82.215,175.131.0.0,Kyoto,Kyoto,JP,35.02107,135.75385,602-0054,Asia/Tokyo,1857910,5
-182.228.198.28,182.228.198.31,182.228.0.0,Ansan-si,Gyeonggi-do,KR,37.32361,126.82194,15271,Asia/Seoul,1846918,500
-173.53.5.116,173.53.5.116,173.53.0.0,Hopewell,Virginia,US,37.30432,-77.2872,23860,America/New_York,4764826,500
+2630:b9c2::,2630:b9c2:3fff:ffff:ffff:ffff:ffff:ffff,2630:b9c2::,Tysons Corner,Virginia,US,38.953,-77.2295,22102,America/New_York,4790534,5000
+211.38.69.124,211.38.69.124,211.38.0.0,Daejeon,Daejeon,KR,36.34913,127.38493,35228,Asia/Seoul,1835235,500
+64.183.128.76,64.183.128.79,64.183.0.0,Enterprise,Alabama,US,31.31517,-85.85522,36330,America/Chicago,4060791,200
+81.48.131.14,81.48.131.14,81.48.0.0,Saint-James,Normandy,FR,48.5218,-1.32629,50240,Europe/Paris,2979401,500
+2a02:c7f:3e60:8400::,2a02:c7f:3e61:3bff:ffff:ffff:ffff:ffff,2a02:c7f::,London,England,GB,51.50853,-0.12574,E1W,Europe/London,2643743,5000
+2400:462c:c000::,2400:462c:ffff:ffff:ffff:ffff:ffff:ffff,2400:462c:c000::,Santa Teresa,Northern Territory,AU,-24.1307,134.3733,0872,Australia/Darwin,8219824,5000
+73.169.255.107,73.169.255.115,73.169.0.0,Lacey,Washington,US,47.03426,-122.82319,98503,America/Los_Angeles,5800112,500
+59.89.186.75,59.89.186.75,59.89.0.0,Chamba,Himachal Pradesh,IN,32.55531,76.12647,176314,Asia/Kolkata,1274848,500
+27.252.238.0,27.252.238.3,27.252.0.0,Manukau City,Auckland,NZ,-36.99282,174.87986,2023,Pacific/Auckland,2187404,50
+212.60.251.240,212.60.251.255,212.60.0.0,Düsseldorf,North Rhine-Westphalia,DE,51.22172,6.77616,40210,Europe/Berlin,2934246,1000
+90.216.127.218,90.216.127.219,90.216.0.0,Colchester,England,GB,51.88921,0.90421,CO1,Europe/London,2652618,500
+2408:e921:4000::,2408:e921:7fff:ffff:ffff:ffff:ffff:ffff,2408:e921:4000::,Santa Teresa,Northern Territory,AU,-24.1307,134.3733,0872,Australia/Darwin,8219824,5000
+2a0b:cb92:4000::,2a0b:cb92:7fff:ffff:ffff:ffff:ffff:ffff,2a0b:cb92:4000::,Amsterdam,North Holland,NL,52.37403,4.88969,1012,Europe/Amsterdam,2759794,5000
+2a00:23c6:99b8:1::,2a00:23c6:99b8:ff:ffff:ffff:ffff:ffff,2a00:23c6:8000::,London,England,GB,51.5161,-0.0949,EC2V,Europe/London,2643743,1000
+2a16:c537:8000::,2a16:c537:bfff:ffff:ffff:ffff:ffff:ffff,2a16:c537:8000::,Amsterdam,North Holland,NL,52.37403,4.88969,1012,Europe/Amsterdam,2759794,5000
+156.67.15.250,156.67.15.250,156.67.0.0,Hofheim am Taunus,Hesse,DE,50.09019,8.4493,65719,Europe/Berlin,2902533,100
+2409:4053:387:2e00::,2409:4053:387:2fff:ffff:ffff:ffff:ffff,0:130:1c15:84f9:b55:d185:8500:0,Dehra Dūn,Uttarakhand,IN,30.32443,78.03392,248001,Asia/Kolkata,1273313,1000
+14.251.224.208,14.251.224.223,14.251.0.0,Tuyên Quang,Tuyên Quang,VN,21.82356,105.21424,22150,Asia/Bangkok,1563287,500
+78.105.169.112,78.105.169.115,78.105.0.0,Long Eaton,England,GB,52.89855,-1.27136,NG10,Europe/London,2643697,10
+121.105.98.208,121.105.98.223,121.105.0.0,Miyazaki,Miyazaki,JP,31.8648,131.4289,880-0922,Asia/Tokyo,1856717,200
+138.43.188.56,138.43.188.59,138.43.0.0,Pine Knot,Kentucky,US,36.65091,-84.43855,42635,America/New_York,4304361,100
+240b:a70:c000::,240b:a70:ffff:ffff:ffff:ffff:ffff:ffff,240b:a70:c000::,Santa Teresa,Northern Territory,AU,-24.1307,134.3733,0872,Australia/Darwin,8219824,5000
+2a07:5981::,2a07:5981:3fff:ffff:ffff:ffff:ffff:ffff,2a07:5981::,Enschede,Overijssel,NL,52.21833,6.89583,7511,Europe/Amsterdam,2756071,5000
+151.29.27.222,151.29.27.222,151.29.0.0,Cascina,Tuscany,IT,43.67557,10.55494,56021,Europe/Rome,3179977,500
+139.86.0.128,139.86.0.255,139.86.0.0,Melbourne,Victoria,AU,-37.814,144.96332,3000,Australia/Melbourne,2158177,5000
+79.74.138.244,79.74.138.247,79.74.0.0,Bridport,England,GB,50.7338,-2.75831,DT6,Europe/London,2654726,500
+2800:d5ef:c000::,2800:d5ef:ffff:ffff:ffff:ffff:ffff:ffff,2800:d5ef:c000::,Montevideo,Montevideo Department,UY,-34.90328,-56.18816,11100,America/Montevideo,3441575,5000
+151.6.1.224,151.6.1.224,151.6.0.0,Rho,Lombardy,IT,45.53245,9.0402,20017,Europe/Rome,3169447,500
+2a00:23c8:426:9500::,2a00:23c8:426:98ff:ffff:ffff:ffff:ffff,2a00:23c8::,London,England,GB,51.5161,-0.0949,EC2V,Europe/London,2643743,1000
+151.229.218.81,151.229.218.83,151.229.0.0,Hinckley,England,GB,52.5389,-1.37613,LE10,Europe/London,2646867,500
+78.150.159.204,78.150.159.204,78.150.0.0,Barlestone,England,GB,52.64718,-1.37013,CV13,Europe/London,2656322,500
+97.141.78.22,97.141.78.22,97.141.0.0,San Bernardino,California,US,34.10834,-117.28977,92401,America/Los_Angeles,5391710,500
+2637:e0e3:8000::,2637:e0e3:bfff:ffff:ffff:ffff:ffff:ffff,2637:e0e3:8000::,New York City,New York,US,40.71427,-74.00597,10001,America/New_York,5128581,5000
+2403:29e2:c000::,2403:29e2:ffff:ffff:ffff:ffff:ffff:ffff,2403:29e2:c000::,Santa Teresa,Northern Territory,AU,-24.1307,134.3733,0872,Australia/Darwin,8219824,5000
+2601:8d32:4000::,2601:8d32:7fff:ffff:ffff:ffff:ffff:ffff,2601:8d32:4000::,New York City,New York,US,40.71427,-74.00597,10001,America/New_York,5128581,5000
+145.53.212.250,145.53.212.250,145.53.0.0,Leiden,South Holland,NL,52.15833,4.49306,2311,Europe/Amsterdam,2751773,500
+2a03:7846:e881:200::,2a03:7846:e88c:ff:ffff:ffff:ffff:ffff,2a03:7846:c000::,Neumünster,Schleswig-Holstein,DE,54.07477,9.98195,24534,Europe/Berlin,2864475,5000
+106.68.122.13,106.68.122.13,106.68.0.0,Busselton,Western Australia,AU,-33.65249,115.3455,6280,Australia/Perth,2075265,500
+2a01:c23:89b4:1e00::,2a01:c23:89b4:1eff:ffff:ffff:ffff:ffff,2a01:c23:8000::,Düsseldorf,North Rhine-Westphalia,DE,51.22172,6.77616,40210,Europe/Berlin,2934246,5000
+75.215.232.29,75.215.232.29,75.215.0.0,Woodland,California,US,38.67852,-121.7733,95695,America/Los_Angeles,5410430,500
+280f:dfa4::,280f:dfa4:3fff:ffff:ffff:ffff:ffff:ffff,280f:dfa4::,Montevideo,Montevideo Department,UY,-34.90328,-56.18816,11100,America/Montevideo,3441575,5000
+81.227.177.208,81.227.177.208,81.227.0.0,Filipstad,Värmland,SE,59.71236,14.16831,682 01,Europe/Stockholm,2715081,500
+187.171.190.153,187.171.190.157,187.171.0.0,Chilpancingo,Guerrero,MX,17.5506,-99.50578,39034,America/Mexico_City,3530870,500
+188.101.71.170,188.101.71.170,188.101.0.0,Göttingen,Lower Saxony,DE,51.53443,9.93228,37073,Europe/Berlin,2918632,500
+2639:6bbc:c000::,2639:6bbc:ffff:ffff:ffff:ffff:ffff:ffff,2639:6bbc:c000::,New York City,New York,US,40.71427,-74.00597,10001,America/New_York,5128581,5000
+191.12.43.16,191.12.43.111,191.12.0.0,Rio de Janeiro,Rio de Janeiro,BR,-22.90642,-43.18223,20000-000,America/Sao_Paulo,3451190,500
+173.20.207.64,173.20.207.67,173.20.0.0,Knoxville,Iowa,US,41.32083,-93.10937,50138,America/Chicago,4863705,500
+2a10:6023:4000::,2a10:6023:7fff:ffff:ffff:ffff:ffff:ffff,2a10:6023:4000::,Amsterdam,North Holland,NL,52.37403,4.88969,1012,Europe/Amsterdam,2759794,5000
+79.155.167.176,79.155.167.191,79.155.0.0,Cerdanyola del Vallès,Catalonia,ES,41.49109,2.14079,08290,Europe/Madrid,3109402,500
+47.51.21.36,47.51.21.39,47.51.0.0,Hesperia,California,US,34.4222,-117.3025,92345,America/Los_Angeles,5356576,200
+2a02:aa14:8100:8000::,2a02:aa14:8140:6ff:ffff:ffff:ffff:ffff,2a02:aa14:8000::,Opfikon,Zurich,CH,47.43169,8.57588,8152,Europe/Zurich,2659292,5000
+92.14.103.132,92.14.103.132,92.14.0.0,Queensbury,England,GB,53.76657,-1.84912,BD13,Europe/London,2639792,500
+92.107.153.221,92.107.153.223,92.107.0.0,Lugano,Ticino,CH,46.01008,8.96004,6900,Europe/Zurich,2659836,500
+209.201.85.184,209.201.85.191,209.201.0.0,Ridgeway,Ohio,US,40.51394,-83.57271,43345,America/New_York,5168146,10
+87.8.69.141,87.8.69.141,87.8.0.0,Casale Monferrato,Piedmont,IT,45.13338,8.4525,15033,Europe/Rome,3180208,500
+176.155.123.138,176.155.123.139,176.155.0.0,Dieppe,Normandy,FR,49.9216,1.07772,76200,Europe/Paris,3021411,500
+87.12.237.18,87.12.237.18,87.12.0.0,Parma,Emilia-Romagna,IT,44.79935,10.32618,43100,Europe/Rome,3171457,500
+2003:fd:7703:c900::,2003:fd:7703:c9ff:ffff:ffff:ffff:ffff,2003:fd:4000::,Herforst,Rheinland-Pfalz,DE,49.95,6.7,54662,Europe/Berlin,2906119,1000
+106.70.202.210,106.70.202.211,106.70.0.0,Melbourne,Victoria,AU,-37.814,144.96332,3000,Australia/Melbourne,2158177,5000
+2003:db:1f24:1c00::,2003:db:1f24:35ff:ffff:ffff:ffff:ffff,2003:db::,Stuttgart,Baden-Wurttemberg,DE,48.78232,9.17702,70173,Europe/Berlin,2825297,5000
+240f:c1:9249:100::,240f:c1:924d:ffff:ffff:ffff:ffff:ffff,240f:c1:8000::,Tokyo,Tokyo,JP,35.691,139.7679,101-0047,Asia/Tokyo,1850147,5000
+2602:7cc7::,2602:7cc7:3fff:ffff:ffff:ffff:ffff:ffff,2602:7cc7::,New York City,New York,US,40.71427,-74.00597,10001,America/New_York,5128581,5000
+187.79.9.112,187.79.9.127,187.79.0.0,Manaus,Amazonas,BR,-3.10194,-60.025,69000-000,America/Manaus,3663517,500
+2802:75fb:4000::,2802:75fb:7fff:ffff:ffff:ffff:ffff:ffff,2802:75fb:4000::,Montevideo,Montevideo Department,UY,-34.90328,-56.18816,11100,America/Montevideo,3441575,5000
+14.244.119.24,14.244.119.25,14.244.0.0,Hưng Yên,Hưng Yên,VN,20.64637,106.05112,17150,Asia/Bangkok,1580142,50
+2001:16b8:17d0:8000::,2001:16b8:17d0:8fff:ffff:ffff:ffff:ffff,2001:16b8::,Münster,North Rhine-Westphalia,DE,51.96236,7.62571,48079,Europe/Berlin,2867543,1000
+2409:4065:284:f800::,2409:4065:284:f8ff:ffff:ffff:ffff:ffff,0:130:1c1f:7212:5907:6ca9:1100:0,Guwahati,Assam,IN,26.1844,91.7458,781030,Asia/Kolkata,1271476,200
+87.139.63.8,87.139.63.9,87.139.0.0,Dortmund,North Rhine-Westphalia,DE,51.51494,7.466,44135,Europe/Berlin,2935517,500
+2a01:e0a:2b4:8250::,2a01:e0a:2b4:8250:ffff:ffff:ffff:ffff,2a01:e0a::,Paris,Île-de-France,FR,48.85341,2.3488,75000,Europe/Paris,2988507,1000
+63.139.104.128,63.139.104.255,63.139.0.0,Crystal Beach,New York,US,42.81368,-77.26359,14424,America/New_York,5114289,5
+2.100.216.198,2.100.216.198,2.100.0.0,Southport,England,GB,53.64581,-3.01008,PR8,Europe/London,2637343,500
+208.253.44.104,208.253.44.104,208.253.0.0,New York City,New York,US,40.7139,-74.007,10007,America/New_York,5128581,10
+2001:41d0:700:75c5::,2001:41d0:700:75c5:ffff:ffff:ffff:ffff,2001:41d0::,Frankfurt am Main,Hesse,DE,50.11552,8.68417,60306,Europe/Berlin,2925533,1000
+79.53.102.125,79.53.102.125,79.53.0.0,Sarroch,Sardinia,IT,39.06577,9.00937,09018,Europe/Rome,2523222,500
+26.225.0.0,26.225.255.255,26.225.0.0,Columbus,Ohio,US,39.969,-83.0114,43218,America/New_York,4509177,5000
+2604:b3e7:4000::,2604:b3e7:7fff:ffff:ffff:ffff:ffff:ffff,2604:b3e7:4000::,New York City,New York,US,40.71427,-74.00597,10001,America/New_York,5128581,5000
+81.77.121.88,81.77.121.88,81.77.0.0,Aberdare,Wales,GB,51.71438,-3.44918,CF44,Europe/London,2657835,500
+12.180.142.192,12.180.142.223,12.180.0.0,New York City,New York,US,40.71427,-74.00597,10001,America/New_York,5128581,500
+2001:4430:c058:c400::,2001:4430:c058:c4ff:ffff:ffff:ffff:ffff,2001:4430:c000::,Busan,Busan,KR,35.10168,129.03004,48902,Asia/Seoul,1838524,500
+175.114.110.192,175.114.110.207,175.114.0.0,Yanggu,Gangwon-do,KR,38.10583,127.98944,24521,Asia/Seoul,1832909,500
+98.255.50.121,98.255.50.121,98.255.0.0,Rosemont,California,US,38.55185,-121.36467,95826,America/Los_Angeles,5388873,10
+90.117.175.235,90.117.175.235,90.117.0.0,Massy,Île-de-France,FR,48.72692,2.28301,91300,Europe/Paris,2995206,500
+2403:dd32::,2403:dd32:3fff:ffff:ffff:ffff:ffff:ffff,2403:dd32::,Santa Teresa,Northern Territory,AU,-24.1307,134.3733,0872,Australia/Darwin,8219824,5000
+2001:4998:58:5d18::1,2001:4998:58:5d18::1,0:fc:9ff2:4e4e:a6bc:8003:5600:0,Toronto,Ontario,CA,43.70643,-79.39864,M5A,America/Toronto,6167865,500
+2.64.186.164,2.64.186.167,2.64.0.0,Stockholm,Stockholm,SE,59.3333,18.05,121 77,Europe/Stockholm,2673730,500
+92.31.63.15,92.31.63.15,92.31.0.0,Andover,England,GB,51.21135,-1.49393,SP10,Europe/London,2657324,500
+89.168.198.73,89.168.198.75,89.168.0.0,Blockley,England,GB,52.0122,-1.76268,GL56,Europe/London,2655336,500
+184.82.148.143,184.82.148.143,184.82.0.0,Nakhon Pathom,Nakhon Pathom,TH,13.8196,100.04427,73000,Asia/Bangkok,1608534,500
+180.18.182.144,180.18.182.152,180.18.0.0,Matsue,Shimane,JP,35.48333,133.05,690-0801,Asia/Tokyo,1857550,500
+2001:bb6:27fc:3900::,2001:bb6:27fc:3aff:ffff:ffff:ffff:ffff,2001:bb6::,Portlaoise,Leinster,IE,53.03441,-7.29979,R32,Europe/Dublin,2962026,1000
+195.110.171.2,195.110.171.3,195.110.0.0,Charminster,England,GB,50.73333,-2.45,DT2,Europe/London,2653318,500
+109.151.149.182,109.151.149.183,109.151.0.0,Finningley,England,GB,53.48696,-0.99083,DN9,Europe/London,2649403,500
+85.5.160.219,85.5.160.219,85.5.0.0,Dübendorf,Zurich,CH,47.39724,8.61872,8600,Europe/Zurich,2660971,500
+93.245.133.140,93.245.133.141,93.245.0.0,Niederkassel,North Rhine-Westphalia,DE,50.81503,7.03777,53859,Europe/Berlin,2863223,500
+2a06:2b0:8000::,2a06:2b0:bfff:ffff:ffff:ffff:ffff:ffff,2a06:2b0:8000::,Amsterdam,North Holland,NL,52.37403,4.88969,1012,Europe/Amsterdam,2759794,5000
+133.123.4.0,133.123.7.255,133.123.0.0,Tokushima,Tokushima,JP,34.06667,134.56667,770-0802,Asia/Tokyo,1850158,100
+2001:268:9ac8:5e00::,2001:268:9ac8:5eff:ffff:ffff:ffff:ffff,0:fc:90aa:6740:f205:2bca:5000:0,Akashi,Hyōgo,JP,34.6492,135.0121,673-0866,Asia/Tokyo,1847966,500
+81.154.143.190,81.154.143.191,81.154.0.0,Royal Tunbridge Wells,England,GB,51.13321,0.26256,TN1,Europe/London,2639022,100
+194.44.129.58,194.44.129.58,194.44.0.0,Lviv,Lviv,UA,49.83826,24.02324,79000,Europe/Kyiv,702550,500
+79.243.144.191,79.243.144.216,79.243.0.0,Bad Lobenstein,Thuringia,DE,50.45223,11.6393,07356,Europe/Berlin,2876721,500
