@@ -1,101 +1,101 @@
 start_ip,end_ip,join_key,asn,domain,name,type,country
-18.8.0.0,18.8.255.255,18.8.0.0,AS3,mit.edu,Massachusetts Institute of Technology,education,US
-2400:2bbb:4000::,2400:2bbb:7fff:ffff:ffff:ffff:ffff:ffff,2400:2bbb:4000::,AS17676,softbank.jp,Softbank BB Corp.,isp,JP
-2603:f29f:4000::,2603:f29f:7fff:ffff:ffff:ffff:ffff:ffff,2603:f29f:4000::,AS397165,digitalworkspaces.com,EpicUp Holdings Inc,business,US
-2003:103d:8000::,2003:103d:bfff:ffff:ffff:ffff:ffff:ffff,2003:103d:8000::,AS3320,telekom.com,Deutsche Telekom AG,isp,DE
-2a0e:b584:8000::,2a0e:b584:bfff:ffff:ffff:ffff:ffff:ffff,2a0e:b584:8000::,AS59808,ravana.me,Sandro Bolliger trading as Bolliger Network Solutions,business,CH
-2405:d6c0:c000::,2405:d6c0:ffff:ffff:ffff:ffff:ffff:ffff,2405:d6c0:c000::,AS132369,xiangao.com.hk,XIANGAO INTERNATIONAL TELECOMMUNICATION LIMITED,isp,HK
-2a11:e582:4000::,2a11:e582:7fff:ffff:ffff:ffff:ffff:ffff,2a11:e582:4000::,AS204790,floccus.io,Falco ISP Services B.V.,business,NL
-2001:df7:1380::,2001:df7:1380:ffff:ffff:ffff:ffff:ffff,2001:df7::,AS138754,keralavisionisp.com,Kerala Vision Broad Band Private Limited,isp,IN
-2003:f76:8000::,2003:f76:bfff:ffff:ffff:ffff:ffff:ffff,2003:f76:8000::,AS3320,telekom.com,Deutsche Telekom AG,isp,DE
-2800:2f46:4000::,2800:2f46:7fff:ffff:ffff:ffff:ffff:ffff,2800:2f46:4000::,AS7303,telecom.com.ar,Telecom Argentina S.A.,isp,AR
-2409:86c0::,2409:86c0:3fff:ffff:ffff:ffff:ffff:ffff,2409:86c0::,AS9808,10086.cn,"China Mobile Communications Group Co., Ltd.",isp,CN
-2c0f:c00:4000::,2c0f:c00:7fff:ffff:ffff:ffff:ffff:ffff,2c0f:c00:4000::,AS328327,asap.co.za,ASAP Internet (Pty) LTD,isp,ZA
-2603:2418:4000::,2603:2418:7fff:ffff:ffff:ffff:ffff:ffff,2603:2418:4000::,AS33668,comcast.com,"Comcast Cable Communications, LLC",isp,US
-2a10:a000::,2a10:a000:5:ffff:ffff:ffff:ffff:ffff,2a10:a000::,AS42201,pvdatanet.com,PVDataNet AB,isp,SE
-2a07:b6c4:8000::,2a07:b6c4:bfff:ffff:ffff:ffff:ffff:ffff,2a07:b6c4:8000::,AS50782,cosys.cc,COSYS DATA GmbH,isp,AT
-193.19.191.0,193.19.191.255,193.19.0.0,AS49392,baxet.ru,LLC Baxet,hosting,RU
-180.76.77.0,180.76.197.255,180.76.0.0,AS38365,baidu.com,"Beijing Baidu Netcom Science and Technology Co., Ltd.",education,CN
-2601:acd::,2601:acd:3fff:ffff:ffff:ffff:ffff:ffff,2601:acd::,AS7922,comcast.com,"Comcast Cable Communications, LLC",isp,US
-2a00:df04:c000::,2a00:df04:ffff:ffff:ffff:ffff:ffff:ffff,2a00:df04:c000::,AS34790,tfmnetworks.com,TFM NETWORKS LIMITED,isp,GB
-2600:880d::,2600:880d:3fff:ffff:ffff:ffff:ffff:ffff,2600:880d::,AS22773,cox.com,Cox Communications Inc.,isp,US
-202.48.192.0,202.48.192.255,202.48.0.0,AS2514,nttpc.co.jp,"NTT PC Communications, Inc.",isp,JP
-2c0e:2983::,2c0e:2983:3fff:ffff:ffff:ffff:ffff:ffff,2c0e:2983::,AS5713,telkom.co.za,Telkom SA Ltd.,isp,ZA
-2a0b:b304:8000::,2a0b:b304:bfff:ffff:ffff:ffff:ffff:ffff,2a0b:b304:8000::,AS206841,everko.fr,Everko SASU,isp,FR
-2a0b:dbc3:4000::,2a0b:dbc3:7fff:ffff:ffff:ffff:ffff:ffff,2a0b:dbc3:4000::,AS207003,web1.fi,Web1 Oy,business,FI
-2400:2377::,2400:2377:3fff:ffff:ffff:ffff:ffff:ffff,2400:2377::,AS17676,softbank.jp,Softbank BB Corp.,isp,JP
-2001:24bd:8000::,2001:24bd:bfff:ffff:ffff:ffff:ffff:ffff,2001:24bd:8000::,AS1299,arelion.com,Arelion Sweden AB,isp,SE
-240a:cdb6:4000::,240a:cdb6:7fff:ffff:ffff:ffff:ffff:ffff,240a:cdb6:4000::,AS137726,pcitc.com,China Petroleum & Chemical Corporation,business,CN
-202.140.192.0,202.140.223.255,202.140.0.0,AS23808,toshima.co.jp,"TOSHIMA CABLE NETWORK CO.,LTD",isp,JP
-69.163.106.0,69.163.108.255,69.163.0.0,AS4809,chinatelecom.com.cn,China Telecom Next Generation Carrier Network,isp,CN
-130.212.128.0,130.212.255.255,130.212.0.0,AS2152,cenic.org,"California State University, Office of the Chancellor",education,US
-106.205.72.0,106.205.127.255,106.205.0.0,AS24560,airtel.com,"Bharti Airtel Ltd., Telemedia Services",isp,IN
-2a04:bb80:c000::,2a04:bb80:ffff:ffff:ffff:ffff:ffff:ffff,2a04:bb80:c000::,AS62040,itk-rus.ru,Innovative Telecommunications LLC,isp,RU
-2a09:5942:c000::,2a09:5942:ffff:ffff:ffff:ffff:ffff:ffff,2a09:5942:c000::,AS209304,sodexo.com,Sodexo SA,business,FR
-240a:ca2c:8000::,240a:ca2c:bfff:ffff:ffff:ffff:ffff:ffff,240a:ca2c:8000::,AS137726,pcitc.com,China Petroleum & Chemical Corporation,business,CN
-163.21.255.0,163.21.255.255,163.21.0.0,AS1659,moe.edu.tw,Taiwan Academic Network (TANet) Information Center,education,TW
-2408:844e:c000::,2408:844e:ffff:ffff:ffff:ffff:ffff:ffff,2408:844e:c000::,AS4837,chinaunicom.cn,CHINA UNICOM China169 Backbone,isp,CN
-2a01:1746:c000::,2a01:1746:ffff:ffff:ffff:ffff:ffff:ffff,2a01:1746:c000::,AS5617,orange.pl,Orange Polska Spolka Akcyjna,isp,PL
-2a05:1a33::,2a05:1a33:3fff:ffff:ffff:ffff:ffff:ffff,2a05:1a33::,AS43754,asiatech.ir,Asiatech Data Transmission company,hosting,IR
-209.23.224.0,209.23.224.255,209.23.0.0,AS7922,comcast.com,"Comcast Cable Communications, LLC",isp,US
-190.3.0.0,190.3.14.255,190.3.0.0,AS19037,claro.com.ar,AMX Argentina S.A.,isp,AR
-104.165.127.0,104.165.127.255,104.165.0.0,AS64267,sprious.com,Sprious LLC,hosting,US
-240a:e79c:8000::,240a:e79c:bfff:ffff:ffff:ffff:ffff:ffff,240a:e79c:8000::,AS148000,dns.nic.in,ASN used for Public DNS Service of India,business,IN
-2a02:7000:c000::,2a02:7000:ffff:ffff:ffff:ffff:ffff:ffff,2a02:7000:c000::,AS12778,sgn.net,SGN d.o.o.,isp,SI
-2603:245d::,2603:245d:3fff:ffff:ffff:ffff:ffff:ffff,2603:245d::,AS13367,comcast.com,"Comcast Cable Communications, LLC",isp,US
-2620:11a:c016::,2620:11a:c016:ffff:ffff:ffff:ffff:ffff,2620:11a:c000::,AS54113,fastly.com,"Fastly, Inc.",hosting,US
-2a02:4bc0:c000::,2a02:4bc0:ffff:ffff:ffff:ffff:ffff:ffff,2a02:4bc0:c000::,AS20618,info-connect.dk,Info-Connect A/S,business,DK
-185.21.24.0,185.21.27.255,185.21.0.0,AS199324,dodonet.it,DODONET S.R.L.,isp,IT
-2a06:4002:c000::,2a06:4002:ffff:ffff:ffff:ffff:ffff:ffff,2a06:4002:c000::,AS204151,kviknet.dk,Kviknet ApS,isp,DK
-2800:207f::,2800:207f:3fff:ffff:ffff:ffff:ffff:ffff,2800:207f::,AS7303,telecom.com.ar,Telecom Argentina S.A.,isp,AR
-173.165.160.0,173.165.191.255,173.165.0.0,AS7725,comcast.com,"Comcast Cable Communications, LLC",isp,US
+2a06:200:c000::,2a06:200:ffff:ffff:ffff:ffff:ffff:ffff,2a06:200:c000::,AS200770,requisis.com,REQUISIS GmbH,business,DE
+45.178.164.0,45.178.167.255,45.178.0.0,AS267888,global-link.net.ve,NODOS DE VENEZUELA C.A.(GLOBAL LINK),isp,VE
+2401:73c0::,2401:73c0:1:ffff:ffff:ffff:ffff:ffff,2401:73c0::,AS136792,mimecast.com,Mimecast Australia Pty Ltd,business,AU
+2003:1452:c000::,2003:1452:ffff:ffff:ffff:ffff:ffff:ffff,2003:1452:c000::,AS3320,telekom.com,Deutsche Telekom AG,isp,DE
+131.37.80.0,131.37.84.255,131.37.0.0,AS452,af.mil,Air Force Systems Networking,business,US
+2a01:2fea:4000::,2a01:2fea:7fff:ffff:ffff:ffff:ffff:ffff,2a01:2fea:4000::,AS3269,telecomitalia.com,Telecom Italia S.p.A.,isp,IT
+134.195.88.0,134.195.91.255,134.195.0.0,AS63473,hosthatch.com,"HostHatch, LLC",hosting,US
+64.210.2.0,64.210.25.255,64.210.0.0,AS3549,lumen.com,"Level 3 Parent, LLC",isp,US
+68.33.0.0,68.33.255.255,68.33.0.0,AS33657,comcast.com,"Comcast Cable Communications, LLC",isp,US
+199.247.48.0,199.247.48.255,199.247.0.0,AS16696,itel.com,iTel Networks Inc,isp,CA
+38.147.12.0,38.147.15.255,38.147.0.0,AS397778,fibrestream.ca,"FibreStream, Inc.",isp,CA
+68.86.57.0,68.86.57.255,68.86.0.0,AS7922,comcast.com,"Comcast Cable Communications, LLC",isp,US
 14.225.64.0,14.225.255.255,14.225.0.0,AS135905,vnpt.com.vn,VIETNAM POSTS AND TELECOMMUNICATIONS GROUP,isp,VN
-2a0c:f7c3:c000::,2a0c:f7c3:ffff:ffff:ffff:ffff:ffff:ffff,2a0c:f7c3:c000::,AS200374,schwarzwaelder-bote.de,Schwarzwaelder Bote Mediengesellschaft mbH,business,DE
-2607:343::,2607:343:3fff:ffff:ffff:ffff:ffff:ffff,2607:343::,AS22773,cox.com,Cox Communications Inc.,isp,US
-193.176.144.0,193.176.144.255,193.176.0.0,AS1140,sidn.nl,Stichting Internet Domeinregistratie Nederland,business,NL
-27.0.196.0,27.0.199.255,27.0.0.0,AS59288,netsentra.com,PT Net Sentra Cyberindo,business,ID
-2408:41db::,2408:41db:3fff:ffff:ffff:ffff:ffff:ffff,2408:41db::,AS37963,alibabagroup.com,"Hangzhou Alibaba Advertising Co.,Ltd.",business,CN
-2803:bb40:c000::,2803:bb40:ffff:ffff:ffff:ffff:ffff:ffff,2803:bb40:c000::,AS52507,pampacom.com.ar,Pampacom S.R.L.,isp,AR
+192.107.180.0,192.107.181.255,192.107.0.0,AS210,uen.org,Utah Education Network,education,US
+162.120.44.0,162.120.51.255,162.120.0.0,AS18722,supervalu.com,"SUPERVALU, Inc.",business,US
 240a:ed94::,240a:ed94:3fff:ffff:ffff:ffff:ffff:ffff,240a:ed94::,AS148000,dns.nic.in,ASN used for Public DNS Service of India,business,IN
-240d:4742:c000::,240d:4742:ffff:ffff:ffff:ffff:ffff:ffff,240d:4742:c000::,AS133111,cernet.com,"CERNET New Technology Co., Ltd",business,CN
-2601:c04b:4000::,2601:c04b:7fff:ffff:ffff:ffff:ffff:ffff,2601:c04b:4000::,AS10835,vcn.com,"Visionary Communications, Inc.",isp,US
-2a0c:7182:4000::,2a0c:7182:7fff:ffff:ffff:ffff:ffff:ffff,2a0c:7182:4000::,AS35207,stellar-pcs.com,Stellar PCS GmbH,business,DE
-2400:2542::,2400:2542:3fff:ffff:ffff:ffff:ffff:ffff,2400:2542::,AS17676,softbank.jp,Softbank BB Corp.,isp,JP
-185.166.172.0,185.166.175.255,185.166.0.0,AS201942,soltia.es,Soltia Consulting SL,isp,ES
-216.166.149.0,216.166.158.255,216.166.0.0,AS19092,zayo.com,Zayo Bandwidth,hosting,US
-2607:f3f0:8000::,2607:f3f0:bfff:ffff:ffff:ffff:ffff:ffff,2607:f3f0:8000::,AS16724,wowway.com,WideOpenWest Finance LLC,isp,US
-193.31.36.0,193.31.39.255,193.31.0.0,AS200738,interfibra.es,FIBRAWORLD TELECOM S.A.U.,isp,ES
-2a01:2070:8000::,2a01:2070:bfff:ffff:ffff:ffff:ffff:ffff,2a01:2070:8000::,AS3269,telecomitalia.com,Telecom Italia S.p.A.,isp,IT
-198.169.44.0,198.169.52.255,198.169.0.0,AS399844,sasktel.com,Saskatchewan Telecommunications,isp,CA
-2001:209e::,2001:209e:3fff:ffff:ffff:ffff:ffff:ffff,2001:209e::,AS1299,arelion.com,Arelion Sweden AB,isp,SE
-12.200.58.0,12.200.59.255,12.200.0.0,AS7018,att.com,"AT&T Services, Inc.",isp,US
-164.74.120.0,164.74.120.255,164.74.0.0,AS46887,crowncastle.com,"Lightower Fiber Networks I, LLC",hosting,US
-50.241.192.0,50.241.207.255,50.241.0.0,AS22909,comcast.com,"Comcast Cable Communications, LLC",isp,US
-17.239.0.0,17.239.255.255,17.239.0.0,AS714,apple.com,Apple Inc.,business,US
-2409:8ad0:4000::,2409:8ad0:7fff:ffff:ffff:ffff:ffff:ffff,2409:8ad0:4000::,AS9808,10086.cn,"China Mobile Communications Group Co., Ltd.",isp,CN
-2c0e:29a5:c000::,2c0e:29a5:ffff:ffff:ffff:ffff:ffff:ffff,2c0e:29a5:c000::,AS5713,telkom.co.za,Telkom SA Ltd.,isp,ZA
-164.152.136.0,164.152.143.255,164.152.0.0,AS32329,monkeybrains.net,"Another Corporate ISP, LLC",isp,US
-2a0b:c642::,2a0b:c642:3fff:ffff:ffff:ffff:ffff:ffff,2a0b:c642::,AS205473,sawadland.com,SAWAD LAND for Information Technology Ltd,isp,IQ
-240c:c470:8000::,240c:c470:bfff:ffff:ffff:ffff:ffff:ffff,240c:c470:8000::,AS23910,cernet.edu.cn,China Next Generation Internet CERNET2,education,CN
-2800:2692:8000::,2800:2692:bfff:ffff:ffff:ffff:ffff:ffff,2800:2692:8000::,AS7303,telecom.com.ar,Telecom Argentina S.A.,isp,AR
-2800:26e3:c000::,2800:26e3:ffff:ffff:ffff:ffff:ffff:ffff,2800:26e3:c000::,AS7303,telecom.com.ar,Telecom Argentina S.A.,isp,AR
-219.46.0.0,219.46.255.255,219.46.0.0,AS17676,softbank.jp,Softbank BB Corp.,isp,JP
-240e:438:8000::,240e:438:801f:ffff:ffff:ffff:ffff:ffff,240e:438:8000::,AS4134,chinatelecom.com.cn,CHINANET-BACKBONE,isp,CN
-2605:4300:ff00::,2605:4300:ffff:ffff:ffff:ffff:ffff:ffff,2605:4300:c000::,AS62907,zscaler.com,"ZSCALER, INC.",business,US
-2804:11dc:8000::,2804:11dc:bfff:ffff:ffff:ffff:ffff:ffff,2804:11dc:8000::,AS263444,openx.com.br,Open X Tecnologia Ltda,business,BR
-2001:88e3:4000::,2001:88e3:7fff:ffff:ffff:ffff:ffff:ffff,2001:88e3:4000::,AS1221,telstra.com.au,Telstra Corporation Ltd,isp,AU
-2600:68fe:4000::,2600:68fe:7fff:ffff:ffff:ffff:ffff:ffff,2600:68fe:4000::,AS7155,viasat.com,"ViaSat,Inc.",isp,US
-2601:a6a:8000::,2601:a6a:bfff:ffff:ffff:ffff:ffff:ffff,2601:a6a:8000::,AS36733,comcast.com,"Comcast Cable Communications, LLC",isp,US
-2c0e:297c:c000::,2c0e:297c:ffff:ffff:ffff:ffff:ffff:ffff,2c0e:297c:c000::,AS5713,telkom.co.za,Telkom SA Ltd.,isp,ZA
-45.154.105.0,45.154.105.255,45.154.0.0,AS211415,simoresta.lt,"Karolio IT paslaugos, UAB",isp,LT
-2a02:9074:8000::,2a02:9074:bfff:ffff:ffff:ffff:ffff:ffff,2a02:9074:8000::,AS3352,movistar.es,TELEFONICA DE ESPANA S.A.U.,isp,ES
-2804:a8:4000::,2804:a8:7fff:ffff:ffff:ffff:ffff:ffff,2804:a8:4000::,AS4230,claro.com.br,CLARO S.A.,isp,BR
+2a10:a8c6::,2a10:a8c6:3fff:ffff:ffff:ffff:ffff:ffff,2a10:a8c6::,AS211678,myfi.wales,Michaelston y Fedw Internet CIC,isp,GB
+2404:2c:8000::,2404:2c:bfff:ffff:ffff:ffff:ffff:ffff,2404:2c:8000::,AS17709,aptg.com.tw,Asia Pacific Telecom,isp,TW
+2a07:20c2:4000::,2a07:20c2:7fff:ffff:ffff:ffff:ffff:ffff,2a07:20c2:4000::,AS48602,234.cz,Connect plus s.r.o.,business,CZ
+2a09:5881:4000::,2a09:5881:7fff:ffff:ffff:ffff:ffff:ffff,2a09:5881:4000::,AS59441,hostiran.net,Hostiran Network,hosting,IR
+2a02:318f::,2a02:318f:3fff:ffff:ffff:ffff:ffff:ffff,2a02:318f::,AS6805,telefonica.de,Telefonica Germany GmbH & Co.OHG,isp,DE
+39.249.0.0,39.249.255.255,39.249.0.0,AS23693,telkomsel.com,PT. Telekomunikasi Selular,isp,ID
+200.5.80.0,200.5.91.255,200.5.0.0,AS10834,telefonica.com.ar,Telefonica de Argentina,isp,AR
+240e:f79::,240e:f79:3fff:ffff:ffff:ffff:ffff:ffff,240e:f79::,AS4134,chinatelecom.com.cn,CHINANET-BACKBONE,isp,CN
+2607:343::,2607:343:3fff:ffff:ffff:ffff:ffff:ffff,2607:343::,AS22773,cox.com,Cox Communications Inc.,isp,US
+2601:8c5:8000::,2601:8c5:bfff:ffff:ffff:ffff:ffff:ffff,2601:8c5:8000::,AS33654,comcast.com,"Comcast Cable Communications, LLC",isp,US
+2a04:9e03:c000::,2a04:9e03:ffff:ffff:ffff:ffff:ffff:ffff,2a04:9e03:c000::,AS62183,bredbandsson.se,Bredbandsson AB,isp,SE
+210.124.118.0,210.124.118.255,210.124.0.0,AS55592,kdtidc.com,"Korea Data Telecommunication Co., Ltd.",isp,KR
+202.48.192.0,202.48.192.255,202.48.0.0,AS2514,nttpc.co.jp,"NTT PC Communications, Inc.",isp,JP
+122.153.128.0,122.153.141.255,122.153.0.0,AS9316,pubnetplus.ne.kr,DACOM-PUBNETPLUS,isp,KR
+45.146.136.0,45.146.139.255,45.146.0.0,AS12586,ghostnet.de,GHOSTnet GmbH,hosting,DE
+103.108.0.0,103.108.1.255,103.108.0.0,AS134293,kutchtelelink.com,Kutch Telelink Private Limited,isp,IN
+2401:802e:4000::,2401:802e:7fff:ffff:ffff:ffff:ffff:ffff,2401:802e:4000::,AS9919,seed.net.tw,"New Century InfoComm Tech Co., Ltd.",isp,TW
+2c0e:a81:4000::,2c0e:a81:7fff:ffff:ffff:ffff:ffff:ffff,2c0e:a81:4000::,AS24863,link.net,Link Egypt (Link.NET),isp,EG
+2607:3d04:4000::,2607:3d04:7fff:ffff:ffff:ffff:ffff:ffff,2607:3d04:4000::,AS12083,wowway.com,WideOpenWest Finance LLC,isp,US
+2a12:d542:c000::,2a12:d542:ffff:ffff:ffff:ffff:ffff:ffff,2a12:d542:c000::,AS30633,leaseweb.com,"Leaseweb USA, Inc.",hosting,US
+2601:126::,2601:126:3fff:ffff:ffff:ffff:ffff:ffff,2601:126::,AS33665,comcast.com,"Comcast Cable Communications, LLC",isp,US
+67.148.60.0,67.148.61.255,67.148.0.0,AS399408,nubroad.com,COAXIAL NETWORKS INC,business,US
+240a:e36f:c000::,240a:e36f:ffff:ffff:ffff:ffff:ffff:ffff,240a:e36f:c000::,AS148000,dns.nic.in,ASN used for Public DNS Service of India,business,IN
 23.182.128.0,23.182.129.255,23.182.0.0,AS54919,harapartners.com,Hara Partners Systems LLC,business,US
-213.41.53.0,213.41.53.255,213.41.0.0,AS15404,colt.net,COLT Technology Services Group Limited,isp,GB
-2a0c:7a02:4000::,2a0c:7a02:7fff:ffff:ffff:ffff:ffff:ffff,2a0c:7a02:4000::,AS57910,scip.es,"Soluciones Corporativas IP, SL",isp,ES
+64.106.96.0,64.106.127.255,64.106.0.0,AS3388,unm.edu,University of New Mexico,education,US
+185.83.108.0,185.83.111.255,185.83.0.0,AS64462,wolfsec.com,Stephan Roland Wolf,business,CH
+2c0e:297c:c000::,2c0e:297c:ffff:ffff:ffff:ffff:ffff:ffff,2c0e:297c:c000::,AS5713,telkom.co.za,Telkom SA Ltd.,isp,ZA
+208.94.32.0,208.94.35.255,208.94.0.0,AS53591,ytel.com,"Ytel, Inc.",business,US
+26.205.0.0,26.205.255.255,26.205.0.0,AS749,mail.mil,DoD Network Information Center,business,US
+4.204.0.0,4.204.255.255,4.204.0.0,AS8075,microsoft.com,Microsoft Corporation,business,US
+2400:22f0:4000::,2400:22f0:7fff:ffff:ffff:ffff:ffff:ffff,2400:22f0:4000::,AS17676,softbank.jp,Softbank BB Corp.,isp,JP
+219.46.0.0,219.46.255.255,219.46.0.0,AS17676,softbank.jp,Softbank BB Corp.,isp,JP
+192.147.149.0,192.147.149.255,192.147.0.0,AS749,mail.mil,DoD Network Information Center,business,US
+45.131.154.0,45.131.154.255,45.131.0.0,AS8888,xtom.com,xTom Pty Ltd,isp,AU
+204.144.120.0,204.144.123.255,204.144.0.0,AS26272,thecosmoscloud.com,"AM Data Service, Inc.",business,US
+2001:550:9c01::,2001:550:bfff:ffff:ffff:ffff:ffff:ffff,2001:550:8000::,AS174,cogentcomm.biz,Cogent Communications,isp,US
+2a02:908:8000::,2a02:908:bfff:ffff:ffff:ffff:ffff:ffff,2a02:908:8000::,AS3209,vodafone.de,Vodafone GmbH,isp,DE
+2a13:5c87:4000::,2a13:5c87:7fff:ffff:ffff:ffff:ffff:ffff,2a13:5c87:4000::,AS400177,rootcloud.io,rootcloud LLC,business,US
+2001:b53a:4000::,2001:b53a:7fff:ffff:ffff:ffff:ffff:ffff,2001:b53a:4000::,AS3462,hinet.net,Data Communication Business Group,isp,TW
+187.194.0.0,187.194.63.255,187.194.0.0,AS8151,telmex.com,Uninet S.A. de C.V.,isp,MX
 2a10:6685::,2a10:6685:3fff:ffff:ffff:ffff:ffff:ffff,2a10:6685::,AS22773,cox.com,Cox Communications Inc.,isp,US
-165.212.0.0,165.212.97.255,165.212.0.0,AS14454,silversky.com,"SilverSky, Inc.",business,US
-240d:4366:8000::,240d:4366:bfff:ffff:ffff:ffff:ffff:ffff,240d:4366:8000::,AS133111,cernet.com,"CERNET New Technology Co., Ltd",business,CN
-193.105.115.0,193.105.115.255,193.105.0.0,AS50592,lekarnaljubljana.si,Javni Zavod Lekrana Ljubljana,business,SI
-2a0e:fd41:c000::,2a0e:fd41:ffff:ffff:ffff:ffff:ffff:ffff,2a0e:fd41:c000::,AS44103,bakker-it.eu,The Mastermind Holding B.V.,business,NL
-2a02:13d2:8000::,2a02:13d2:bfff:ffff:ffff:ffff:ffff:ffff,2a02:13d2:8000::,AS13136,interstroom.nl,Interstroom Informatietechnologie BV,business,NL
+2001:8afa:4000::,2001:8afa:7fff:ffff:ffff:ffff:ffff:ffff,2001:8afa:4000::,AS1221,telstra.com.au,Telstra Corporation Ltd,isp,AU
+2804:748c:8000::,2804:748c:bfff:ffff:ffff:ffff:ffff:ffff,2804:748c:8000::,AS270988,hotlan.net.br,HOTLAN TELECOM,isp,BR
+2601:c041:c000::,2601:c041:ffff:ffff:ffff:ffff:ffff:ffff,2601:c041:c000::,AS10835,vcn.com,"Visionary Communications, Inc.",isp,US
+104.165.127.0,104.165.127.255,104.165.0.0,AS64267,sprious.com,Sprious LLC,hosting,US
+2a0a:5083::,2a0a:5083:3fff:ffff:ffff:ffff:ffff:ffff,2a0a:5083::,AS49865,jti.com,JT International SA,business,CH
+2a09:d147::,2a09:d147:3fff:ffff:ffff:ffff:ffff:ffff,2a09:d147::,AS28753,leaseweb.com,Leaseweb Deutschland GmbH,hosting,DE
+222.234.0.0,222.234.255.255,222.234.0.0,AS9318,skbroadband.com,SK Broadband Co Ltd,isp,KR
+2600:d800::,2600:d800:3fff:ffff:ffff:ffff:ffff:ffff,2600:d800::,AS13804,atg.net,ATG Arrow Technology Group Limited Partnership,isp,CA
+240e:775::,240e:775:3fff:ffff:ffff:ffff:ffff:ffff,240e:775::,AS4134,chinatelecom.com.cn,CHINANET-BACKBONE,isp,CN
+2a02:7000:c000::,2a02:7000:ffff:ffff:ffff:ffff:ffff:ffff,2a02:7000:c000::,AS12778,sgn.net,SGN d.o.o.,isp,SI
+2602:805:7000::,2602:805:700f:ffff:ffff:ffff:ffff:ffff,2602:805:4000::,AS40069,ainfosec.com,"ASSURED INFORMATION SECURITY, INC.",business,US
+2a05:2185::,2a05:2185:3fff:ffff:ffff:ffff:ffff:ffff,2a05:2185::,AS20661,telecom.tm,State Company of Electro Communications Turkmentelecom,isp,TM
+170.65.210.0,170.65.211.255,170.65.0.0,AS29944,latisys.com,"Latisys-Ashburn, LLC",hosting,US
+2c0e:294b:4000::,2c0e:294b:7fff:ffff:ffff:ffff:ffff:ffff,2c0e:294b:4000::,AS5713,telkom.co.za,Telkom SA Ltd.,isp,ZA
+240d:4777:c000::,240d:4777:ffff:ffff:ffff:ffff:ffff:ffff,240d:4777:c000::,AS133111,cernet.com,"CERNET New Technology Co., Ltd",business,CN
+2a00:99:4000::,2a00:99:7fff:ffff:ffff:ffff:ffff:ffff,2a00:99:4000::,AS3209,vodafone.de,Vodafone GmbH,isp,DE
+2603:2ae1:8000::,2603:2ae1:bfff:ffff:ffff:ffff:ffff:ffff,2603:2ae1:8000::,AS7922,comcast.com,"Comcast Cable Communications, LLC",isp,US
+2a0b:1c1::,2a0b:1c1:3fff:ffff:ffff:ffff:ffff:ffff,2a0b:1c1::,AS51088,a2b-internet.com,A2B IP B.V.,isp,NL
+186.249.64.0,186.249.79.255,186.249.0.0,AS262822,weradiocomunicacao.com.br,WE RADIO COMUNICAÇÕES LTDA EPP,isp,BR
+192.121.133.0,192.121.133.255,192.121.0.0,AS39806,admax.se,Admax AB,hosting,SE
+107.182.160.0,107.182.175.255,107.182.0.0,AS18450,webnx.com,"WebNX, Inc.",hosting,US
+192.163.160.0,192.163.191.255,192.163.0.0,AS395954,leaseweb.com,"Leaseweb USA, Inc.",hosting,US
+2600:1237::,2600:1237:3fff:ffff:ffff:ffff:ffff:ffff,2600:1237::,AS4152,usda.gov,USDA,isp,US
+2a04:8e80::,2a04:8e80:0:ffff:ffff:ffff:ffff:ffff,2a04:8e80::,AS199937,anwb.nl,ANWB B.V.,business,NL
+2001:2b8:bc::,2001:2b8:bc:ffff:ffff:ffff:ffff:ffff,2001:2b8::,AS1237,kreonet.net,KISTI,education,KR
+38.52.142.0,38.52.142.255,38.52.0.0,AS174,cogentcomm.biz,Cogent Communications,isp,US
+209.135.208.0,209.135.223.255,209.135.0.0,AS19893,ragingwire.com,"NTT Global Data Centers Americas, INC.",hosting,US
+240d:4148:c000::,240d:4148:ffff:ffff:ffff:ffff:ffff:ffff,240d:4148:c000::,AS133111,cernet.com,"CERNET New Technology Co., Ltd",business,CN
+38.75.194.0,38.75.194.255,38.75.0.0,AS394005,sellingsimplified.com,Selling Simplified Inc.,hosting,US
+2a05:8a44:c000::,2a05:8a44:ffff:ffff:ffff:ffff:ffff:ffff,2a05:8a44:c000::,AS204561,diogenius.net,Diogenius SPRL,business,BE
+2003:7c3:8000::,2003:7c3:bfff:ffff:ffff:ffff:ffff:ffff,2003:7c3:8000::,AS3320,telekom.com,Deutsche Telekom AG,isp,DE
+209.132.0.0,209.132.127.255,209.132.0.0,AS33398,miva.com,"Miva Merchant, Inc.",hosting,US
+120.104.0.0,120.104.255.255,120.104.0.0,AS9916,nctu.edu.tw,"National Chiao Tung University,",education,TW
+2409:828d:8000::,2409:828d:bfff:ffff:ffff:ffff:ffff:ffff,2409:828d:8000::,AS9808,10086.cn,"China Mobile Communications Group Co., Ltd.",isp,CN
+103.158.166.0,103.158.166.255,103.158.0.0,AS9930,time.com.my,TTNET-MY,isp,MY
+2603:d018:c000::,2603:d018:ffff:ffff:ffff:ffff:ffff:ffff,2603:d018:c000::,AS30600,metronet.com,Metronet,isp,US
+2003:14b6:4000::,2003:14b6:7fff:ffff:ffff:ffff:ffff:ffff,2003:14b6:4000::,AS3320,telekom.com,Deutsche Telekom AG,isp,DE
+63.79.176.0,63.79.179.255,63.79.0.0,AS18573,verizonbusiness.com,Verizon Business,isp,US
+2620:11a:c016::,2620:11a:c016:ffff:ffff:ffff:ffff:ffff,2620:11a:c000::,AS54113,fastly.com,"Fastly, Inc.",hosting,US
+2a06:f302:8000::,2a06:f302:bfff:ffff:ffff:ffff:ffff:ffff,2a06:f302:8000::,AS203421,balticbroadband.com,Baltic Broadband Limited,isp,GB
+2a0e:1f::,2a0e:1f:3fff:ffff:ffff:ffff:ffff:ffff,2a0e:1f::,AS31549,shatel.ir,Aria Shatel Company Ltd,isp,IR
+104.225.212.0,104.225.213.255,104.225.0.0,AS396163,cytracom.com,"My Digital Shield, Inc.",isp,US
+2a0f:8345:8000::,2a0f:8345:bfff:ffff:ffff:ffff:ffff:ffff,2a0f:8345:8000::,AS29608,wan2many.net,Absolight SARL,isp,FR
