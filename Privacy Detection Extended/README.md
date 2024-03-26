@@ -1,4 +1,4 @@
-# Privacy Detection
+# Privacy Detection Extended Database
 
 ## IP Address to privacy detection database with detection method
 
