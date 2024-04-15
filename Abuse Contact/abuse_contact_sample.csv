@@ -1,101 +1,101 @@
 start_ip,end_ip,join_key,name,email,address,country,phone
-2631:3358:4000::,2631:3358:7fff:ffff:ffff:ffff:ffff:ffff,2631:3358:4000::,Registration Services Department,hostmaster@arin.net,"US, VA, Centreville, P.O. Box 232290, 20120",US,+1-703-227-0660
-263c:3269:4000::,263c:3269:7fff:ffff:ffff:ffff:ffff:ffff,263c:3269:4000::,Registration Services Department,hostmaster@arin.net,"US, VA, Centreville, P.O. Box 232290, 20120",US,+1-703-227-0660
-2406:9a35:8000::,2406:9a35:bfff:ffff:ffff:ffff:ffff:ffff,2406:9a35:8000::,ABUSE APNICAP,helpdesk@apnic.net,"Brisbane, Australia",AU,+000000000
-62.17.129.232,62.17.129.239,62.17.0.0,Abuse Verizon EMEA,abuse.emea@verizon.com,"P.O Box 4127, Solna 171 04, Sweden",IE,+35316215288
-280a:37e:8000::,280a:37e:bfff:ffff:ffff:ffff:ffff:ffff,280a:37e:8000::,LACNIC Whois Info,abuse@lacnic.net,"UY, , Montevideo, Potosi 1517, 11500",UY,+598-2604-2222
-2c0d:eeca::,2c0d:eeca:3fff:ffff:ffff:ffff:ffff:ffff,2c0d:eeca::,AfriNIC TEAM,sysadmin@afrinic.net,"Raffles Tower - 11th Floor, Cybercity, Mauritius",MU,tel:+230-403-5100
-2a0d:4a3a:4000::,2a0d:4a3a:7fff:ffff:ffff:ffff:ffff:ffff,2a0d:4a3a:4000::,RIPE NCC Operations,abuse@ripe.net,"Stationsplein 11, 1012 AB Amsterdam, The Netherlands",NL,+31 20 535 4444
-2a1a:1c86:8000::,2a1a:1c86:bfff:ffff:ffff:ffff:ffff:ffff,2a1a:1c86:8000::,RIPE NCC Operations,abuse@ripe.net,"Stationsplein 11, 1012 AB Amsterdam, The Netherlands",NL,+31 20 535 4444
-2402:b0af:c000::,2402:b0af:ffff:ffff:ffff:ffff:ffff:ffff,2402:b0af:c000::,ABUSE APNICAP,helpdesk@apnic.net,"Brisbane, Australia",AU,+000000000
-2c0a:e5b6:4000::,2c0a:e5b6:7fff:ffff:ffff:ffff:ffff:ffff,2c0a:e5b6:4000::,AfriNIC TEAM,sysadmin@afrinic.net,"Raffles Tower - 11th Floor, Cybercity, Mauritius",MU,tel:+230-403-5100
-2a0f:5bcc::,2a0f:5bcc:3fff:ffff:ffff:ffff:ffff:ffff,2a0f:5bcc::,RIPE NCC Operations,abuse@ripe.net,"Stationsplein 11, 1012 AB Amsterdam, The Netherlands",NL,+31 20 535 4444
-12.132.92.192,12.132.92.199,12.132.0.0,EBM Ops,dl-ebm_sd@att.com,"US, TX, PLANO, 2900 W PLANO PKWY, 75075",US,+1-855-277-8686
-2633:f211:c000::,2633:f211:ffff:ffff:ffff:ffff:ffff:ffff,2633:f211:c000::,Registration Services Department,hostmaster@arin.net,"US, VA, Centreville, P.O. Box 232290, 20120",US,+1-703-227-0660
-280e:1603:c000::,280e:1603:ffff:ffff:ffff:ffff:ffff:ffff,280e:1603:c000::,LACNIC Whois Info,abuse@lacnic.net,"UY, , Montevideo, Potosi 1517, 11500",UY,+598-2604-2222
-2405:f345:8000::,2405:f345:bfff:ffff:ffff:ffff:ffff:ffff,2405:f345:8000::,ABUSE APNICAP,helpdesk@apnic.net,"Brisbane, Australia",AU,+000000000
-2602:a7c:c000::,2602:a7c:ffff:ffff:ffff:ffff:ffff:ffff,2602:a7c:c000::,Registration Services Department,hostmaster@arin.net,"US, VA, Centreville, P.O. Box 232290, 20120",US,+1-703-227-0660
-2a15:cf34:8000::,2a15:cf34:bfff:ffff:ffff:ffff:ffff:ffff,2a15:cf34:8000::,RIPE NCC Operations,abuse@ripe.net,"Stationsplein 11, 1012 AB Amsterdam, The Netherlands",NL,+31 20 535 4444
-2402:8d52:c000::,2402:8d52:ffff:ffff:ffff:ffff:ffff:ffff,2402:8d52:c000::,ABUSE APNICAP,helpdesk@apnic.net,"Brisbane, Australia",AU,+000000000
-2808:b643:4000::,2808:b643:7fff:ffff:ffff:ffff:ffff:ffff,2808:b643:4000::,LACNIC Whois Info,abuse@lacnic.net,"UY, , Montevideo, Potosi 1517, 11500",UY,+598-2604-2222
-2608:76a5::,2608:76a5:3fff:ffff:ffff:ffff:ffff:ffff,2608:76a5::,Registration Services Department,hostmaster@arin.net,"US, VA, Centreville, P.O. Box 232290, 20120",US,+1-703-227-0660
-2a03:5cfd:c000::,2a03:5cfd:ffff:ffff:ffff:ffff:ffff:ffff,2a03:5cfd:c000::,RIPE NCC Operations,abuse@ripe.net,"Stationsplein 11, 1012 AB Amsterdam, The Netherlands",NL,+31 20 535 4444
-2001:1890:16b1:7d00::,2001:1890:16b1:7eff:ffff:ffff:ffff:ffff,2001:1890::,ATT Abuse,abuse@att.net,"US, NC, Durham, 4625 Creekstone Drive, 27703",US,+1-999-999-9999
-2a05:985f:c000::,2a05:985f:ffff:ffff:ffff:ffff:ffff:ffff,2a05:985f:c000::,RIPE NCC Operations,abuse@ripe.net,"Stationsplein 11, 1012 AB Amsterdam, The Netherlands",NL,+31 20 535 4444
-77.60.17.32,77.60.17.39,77.60.0.0,KPN Internet,abuse@kpn.com,"KPN, P.O. Box 30000, 2500 GA Den Haag, Netherlands",NL,+31 (0)33-2861255
-2a13:f429:c000::,2a13:f429:ffff:ffff:ffff:ffff:ffff:ffff,2a13:f429:c000::,RIPE NCC Operations,abuse@ripe.net,"Stationsplein 11, 1012 AB Amsterdam, The Netherlands",NL,+31 20 535 4444
-2c0f:b0e5::,2c0f:b0e5:3fff:ffff:ffff:ffff:ffff:ffff,2c0f:b0e5::,AfriNIC TEAM,sysadmin@afrinic.net,"Raffles Tower - 11th Floor, Cybercity, Mauritius",MU,tel:+230-403-5100
-260a:cdff:c000::,260a:cdff:ffff:ffff:ffff:ffff:ffff:ffff,260a:cdff:c000::,Registration Services Department,hostmaster@arin.net,"US, VA, Centreville, P.O. Box 232290, 20120",US,+1-703-227-0660
-2635:4fd9:8000::,2635:4fd9:bfff:ffff:ffff:ffff:ffff:ffff,2635:4fd9:8000::,Registration Services Department,hostmaster@arin.net,"US, VA, Centreville, P.O. Box 232290, 20120",US,+1-703-227-0660
-2a00:24b9:c000::,2a00:24b9:ffff:ffff:ffff:ffff:ffff:ffff,2a00:24b9:c000::,RIPE NCC Operations,abuse@ripe.net,"Stationsplein 11, 1012 AB Amsterdam, The Netherlands",NL,+31 20 535 4444
-2605:db88:c000::,2605:db88:ffff:ffff:ffff:ffff:ffff:ffff,2605:db88:c000::,Registration Services Department,hostmaster@arin.net,"US, VA, Centreville, P.O. Box 232290, 20120",US,+1-703-227-0660
-2a07:3b88::,2a07:3b88:3fff:ffff:ffff:ffff:ffff:ffff,2a07:3b88::,RIPE NCC Operations,abuse@ripe.net,"Stationsplein 11, 1012 AB Amsterdam, The Netherlands",NL,+31 20 535 4444
-280a:8caa:c000::,280a:8caa:ffff:ffff:ffff:ffff:ffff:ffff,280a:8caa:c000::,LACNIC Whois Info,abuse@lacnic.net,"UY, , Montevideo, Potosi 1517, 11500",UY,+598-2604-2222
-2a1c:c038:4000::,2a1c:c038:7fff:ffff:ffff:ffff:ffff:ffff,2a1c:c038:4000::,RIPE NCC Operations,abuse@ripe.net,"Stationsplein 11, 1012 AB Amsterdam, The Netherlands",NL,+31 20 535 4444
-2a18:3d18::,2a18:3d18:3fff:ffff:ffff:ffff:ffff:ffff,2a18:3d18::,RIPE NCC Operations,abuse@ripe.net,"Stationsplein 11, 1012 AB Amsterdam, The Netherlands",NL,+31 20 535 4444
-240e:c2bc::,240e:c2bc:3fff:ffff:ffff:ffff:ffff:ffff,240e:c2bc::,ABUSE APNICAP,helpdesk@apnic.net,"Brisbane, Australia",AU,+000000000
-2809:7dbe:4000::,2809:7dbe:7fff:ffff:ffff:ffff:ffff:ffff,2809:7dbe:4000::,LACNIC Whois Info,abuse@lacnic.net,"UY, , Montevideo, Potosi 1517, 11500",UY,+598-2604-2222
-2c0b:6050:c000::,2c0b:6050:ffff:ffff:ffff:ffff:ffff:ffff,2c0b:6050:c000::,AfriNIC TEAM,sysadmin@afrinic.net,"Raffles Tower - 11th Floor, Cybercity, Mauritius",MU,tel:+230-403-5100
-2001:3ab5:c000::,2001:3ab5:ffff:ffff:ffff:ffff:ffff:ffff,2001:3ab5:c000::,RIPE NCC Operations,abuse@ripe.net,"Stationsplein 11, 1012 AB Amsterdam, The Netherlands",NL,+31 20 535 4444
-65.208.92.248,65.208.92.255,65.208.0.0,JIM OVERSTREET,overstreetj@vmcmail.com,"US, AL, BIRMINGHAM, 1200 URBAN CENTER DR FL 1, 35242-2545",US,+1-205-298-3782
-2406:a586:4000::,2406:a586:7fff:ffff:ffff:ffff:ffff:ffff,2406:a586:4000::,ABUSE APNICAP,helpdesk@apnic.net,"Brisbane, Australia",AU,+000000000
-2a1b:b64d:8000::,2a1b:b64d:bfff:ffff:ffff:ffff:ffff:ffff,2a1b:b64d:8000::,RIPE NCC Operations,abuse@ripe.net,"Stationsplein 11, 1012 AB Amsterdam, The Netherlands",NL,+31 20 535 4444
-263a:c7d4::,263a:c7d4:3fff:ffff:ffff:ffff:ffff:ffff,263a:c7d4::,Registration Services Department,hostmaster@arin.net,"US, VA, Centreville, P.O. Box 232290, 20120",US,+1-703-227-0660
-2a0e:a571::,2a0e:a571:3fff:ffff:ffff:ffff:ffff:ffff,2a0e:a571::,RIPE NCC Operations,abuse@ripe.net,"Stationsplein 11, 1012 AB Amsterdam, The Netherlands",NL,+31 20 535 4444
-2a1b:3baf:8000::,2a1b:3baf:bfff:ffff:ffff:ffff:ffff:ffff,2a1b:3baf:8000::,RIPE NCC Operations,abuse@ripe.net,"Stationsplein 11, 1012 AB Amsterdam, The Netherlands",NL,+31 20 535 4444
-2409:87e8:8000::,2409:87e8:bfff:ffff:ffff:ffff:ffff:ffff,2409:87e8:8000::,ABUSE CHINAMOBILECN,abuse@chinamobile.com,"China Mobile Communications Corporation, 29, Jinrong Ave., Xicheng District, Beijing, 100032",CN,+000000000
-2608:bc3c:c000::,2608:bc3c:ffff:ffff:ffff:ffff:ffff:ffff,2608:bc3c:c000::,Registration Services Department,hostmaster@arin.net,"US, VA, Centreville, P.O. Box 232290, 20120",US,+1-703-227-0660
-2c0b:d89f:4000::,2c0b:d89f:7fff:ffff:ffff:ffff:ffff:ffff,2c0b:d89f:4000::,AfriNIC TEAM,sysadmin@afrinic.net,"Raffles Tower - 11th Floor, Cybercity, Mauritius",MU,tel:+230-403-5100
-2a02:788:103::,2a02:788:103:0:ffff:ffff:ffff:ffff,2a02:788::,SKYTRON Communications GmbH & Co. KG Abuse Contact,ripe@skytron.de,"Im Hinteracker 6-10, D-76307 Karlsbad-Ittersbach",DE,+49 7248 4528-0
-2c0f:8c68:8000::,2c0f:8c68:bfff:ffff:ffff:ffff:ffff:ffff,2c0f:8c68:8000::,AfriNIC TEAM,sysadmin@afrinic.net,"Raffles Tower - 11th Floor, Cybercity, Mauritius",MU,tel:+230-403-5100
-2a16:16ef:8000::,2a16:16ef:bfff:ffff:ffff:ffff:ffff:ffff,2a16:16ef:8000::,RIPE NCC Operations,abuse@ripe.net,"Stationsplein 11, 1012 AB Amsterdam, The Netherlands",NL,+31 20 535 4444
-2a0c:d918:8000::,2a0c:d918:bfff:ffff:ffff:ffff:ffff:ffff,2a0c:d918:8000::,RIPE NCC Operations,abuse@ripe.net,"Stationsplein 11, 1012 AB Amsterdam, The Netherlands",NL,+31 20 535 4444
-260c:d770::,260c:d770:3fff:ffff:ffff:ffff:ffff:ffff,260c:d770::,Registration Services Department,hostmaster@arin.net,"US, VA, Centreville, P.O. Box 232290, 20120",US,+1-703-227-0660
-263b:b720::,263b:b720:3fff:ffff:ffff:ffff:ffff:ffff,263b:b720::,Registration Services Department,hostmaster@arin.net,"US, VA, Centreville, P.O. Box 232290, 20120",US,+1-703-227-0660
-2609:88c9:8000::,2609:88c9:bfff:ffff:ffff:ffff:ffff:ffff,2609:88c9:8000::,Registration Services Department,hostmaster@arin.net,"US, VA, Centreville, P.O. Box 232290, 20120",US,+1-703-227-0660
-2603:6cc7:c000::,2603:6cc7:ffff:ffff:ffff:ffff:ffff:ffff,2603:6cc7:c000::,Registration Services Department,hostmaster@arin.net,"US, VA, Centreville, P.O. Box 232290, 20120",US,+1-703-227-0660
-194.122.109.88,194.122.109.95,194.122.0.0,KPN Internet,abuse@kpn.com,"KPN, P.O. Box 30000, 2500 GA Den Haag, Netherlands",NL,+31 (0)515-460222
-2604:17f6:8000::,2604:17f6:bfff:ffff:ffff:ffff:ffff:ffff,2604:17f6:8000::,Registration Services Department,hostmaster@arin.net,"US, VA, Centreville, P.O. Box 232290, 20120",US,+1-703-227-0660
-2630:7ecd:c000::,2630:7ecd:ffff:ffff:ffff:ffff:ffff:ffff,2630:7ecd:c000::,Jeff Aitken,jeffrey.aitken@capitalone.com,"US, VA, McLean, 1600 Capital One Drive, 22102",US,+1-703-328-3729
-12.56.45.56,12.56.45.63,12.56.0.0,ATT Abuse,abuse@att.net,"US, NC, Durham, 4625 Creekstone Drive, 27703",US,+1-999-999-9999
-2c0c:bb33:8000::,2c0c:bb33:bfff:ffff:ffff:ffff:ffff:ffff,2c0c:bb33:8000::,AfriNIC TEAM,sysadmin@afrinic.net,"Raffles Tower - 11th Floor, Cybercity, Mauritius",MU,tel:+230-403-5100
-2638:3a3c:8000::,2638:3a3c:bfff:ffff:ffff:ffff:ffff:ffff,2638:3a3c:8000::,Registration Services Department,hostmaster@arin.net,"US, VA, Centreville, P.O. Box 232290, 20120",US,+1-703-227-0660
-260d:902c:8000::,260d:902c:bfff:ffff:ffff:ffff:ffff:ffff,260d:902c:8000::,Registration Services Department,hostmaster@arin.net,"US, VA, Centreville, P.O. Box 232290, 20120",US,+1-703-227-0660
-2805:b914::,2805:b914:3fff:ffff:ffff:ffff:ffff:ffff,2805:b914::,LACNIC Whois Info,abuse@lacnic.net,"UY, , Montevideo, Potosi 1517, 11500",UY,+598-2604-2222
-260a:d07a:4000::,260a:d07a:7fff:ffff:ffff:ffff:ffff:ffff,260a:d07a:4000::,Registration Services Department,hostmaster@arin.net,"US, VA, Centreville, P.O. Box 232290, 20120",US,+1-703-227-0660
-260b:a102:4000::,260b:a102:7fff:ffff:ffff:ffff:ffff:ffff,260b:a102:4000::,Registration Services Department,hostmaster@arin.net,"US, VA, Centreville, P.O. Box 232290, 20120",US,+1-703-227-0660
-2404:ecdd::,2404:ecdd:3fff:ffff:ffff:ffff:ffff:ffff,2404:ecdd::,ABUSE APNICAP,helpdesk@apnic.net,"Brisbane, Australia",AU,+000000000
-2c0c:196e:8000::,2c0c:196e:bfff:ffff:ffff:ffff:ffff:ffff,2c0c:196e:8000::,AfriNIC TEAM,sysadmin@afrinic.net,"Raffles Tower - 11th Floor, Cybercity, Mauritius",MU,tel:+230-403-5100
-2802:2a3a:4000::,2802:2a3a:7fff:ffff:ffff:ffff:ffff:ffff,2802:2a3a:4000::,LACNIC Whois Info,abuse@lacnic.net,"UY, , Montevideo, Potosi 1517, 11500",UY,+598-2604-2222
-2c01:8a5e:8000::,2c01:8a5e:bfff:ffff:ffff:ffff:ffff:ffff,2c01:8a5e:8000::,AfriNIC TEAM,sysadmin@afrinic.net,"Raffles Tower - 11th Floor, Cybercity, Mauritius",MU,tel:+230-403-5100
-2a14:a045:4000::,2a14:a045:7fff:ffff:ffff:ffff:ffff:ffff,2a14:a045:4000::,RIPE NCC Operations,abuse@ripe.net,"Stationsplein 11, 1012 AB Amsterdam, The Netherlands",NL,+31 20 535 4444
-280c:af4d:8000::,280c:af4d:bfff:ffff:ffff:ffff:ffff:ffff,280c:af4d:8000::,LACNIC Whois Info,abuse@lacnic.net,"UY, , Montevideo, Potosi 1517, 11500",UY,+598-2604-2222
-2405:9b8f:c000::,2405:9b8f:ffff:ffff:ffff:ffff:ffff:ffff,2405:9b8f:c000::,ABUSE APNICAP,helpdesk@apnic.net,"Brisbane, Australia",AU,+000000000
-2400:17a9::,2400:17a9:3fff:ffff:ffff:ffff:ffff:ffff,2400:17a9::,ABUSE APNICAP,helpdesk@apnic.net,"Brisbane, Australia",AU,+000000000
-240f:159::,240f:159:3fff:ffff:ffff:ffff:ffff:ffff,240f:159::,Japan Network Information Center,hostmaster@nic.ad.jp,"Uchikanda OS Bldg 4F, 2-12-6 Uchi-Kanda, Chiyoda-ku, Tokyo 101-0047, Japan",JP,+81-3-5297-2311
-260d:81cd:c000::,260d:81cd:ffff:ffff:ffff:ffff:ffff:ffff,260d:81cd:c000::,Registration Services Department,hostmaster@arin.net,"US, VA, Centreville, P.O. Box 232290, 20120",US,+1-703-227-0660
-2637:6d95:8000::,2637:6d95:bfff:ffff:ffff:ffff:ffff:ffff,2637:6d95:8000::,Registration Services Department,hostmaster@arin.net,"US, VA, Centreville, P.O. Box 232290, 20120",US,+1-703-227-0660
-2c06:84da::,2c06:84da:3fff:ffff:ffff:ffff:ffff:ffff,2c06:84da::,AfriNIC TEAM,sysadmin@afrinic.net,"Raffles Tower - 11th Floor, Cybercity, Mauritius",MU,tel:+230-403-5100
-2400:4dcd:4000::,2400:4dcd:7fff:ffff:ffff:ffff:ffff:ffff,2400:4dcd:4000::,ABUSE APNICAP,helpdesk@apnic.net,"Brisbane, Australia",AU,+000000000
-2630:c402:8000::,2630:c402:bfff:ffff:ffff:ffff:ffff:ffff,2630:c402:8000::,Jeff Aitken,jeffrey.aitken@capitalone.com,"US, VA, McLean, 1600 Capital One Drive, 22102",US,+1-703-328-3729
-2a11:96f0:c000::,2a11:96f0:ffff:ffff:ffff:ffff:ffff:ffff,2a11:96f0:c000::,RIPE NCC Operations,abuse@ripe.net,"Stationsplein 11, 1012 AB Amsterdam, The Netherlands",NL,+31 20 535 4444
-2c07:7e9d:4000::,2c07:7e9d:7fff:ffff:ffff:ffff:ffff:ffff,2c07:7e9d:4000::,AfriNIC TEAM,sysadmin@afrinic.net,"Raffles Tower - 11th Floor, Cybercity, Mauritius",MU,tel:+230-403-5100
-2405:8f43:8000::,2405:8f43:bfff:ffff:ffff:ffff:ffff:ffff,2405:8f43:8000::,ABUSE APNICAP,helpdesk@apnic.net,"Brisbane, Australia",AU,+000000000
-2403:87b0:c000::,2403:87b0:ffff:ffff:ffff:ffff:ffff:ffff,2403:87b0:c000::,ABUSE APNICAP,helpdesk@apnic.net,"Brisbane, Australia",AU,+000000000
-2401:a00c::,2401:a00c:3fff:ffff:ffff:ffff:ffff:ffff,2401:a00c::,ABUSE APNICAP,helpdesk@apnic.net,"Brisbane, Australia",AU,+000000000
-2609:45af:c000::,2609:45af:ffff:ffff:ffff:ffff:ffff:ffff,2609:45af:c000::,Registration Services Department,hostmaster@arin.net,"US, VA, Centreville, P.O. Box 232290, 20120",US,+1-703-227-0660
-2400:869c:8000::,2400:869c:bfff:ffff:ffff:ffff:ffff:ffff,2400:869c:8000::,ABUSE APNICAP,helpdesk@apnic.net,"Brisbane, Australia",AU,+000000000
-2a18:d1c4:c000::,2a18:d1c4:ffff:ffff:ffff:ffff:ffff:ffff,2a18:d1c4:c000::,RIPE NCC Operations,abuse@ripe.net,"Stationsplein 11, 1012 AB Amsterdam, The Netherlands",NL,+31 20 535 4444
-2600:97d3:4000::,2600:97d3:7fff:ffff:ffff:ffff:ffff:ffff,2600:97d3:4000::,Registration Services Department,hostmaster@arin.net,"US, VA, Centreville, P.O. Box 232290, 20120",US,+1-703-227-0660
-2a1b:719f:8000::,2a1b:719f:bfff:ffff:ffff:ffff:ffff:ffff,2a1b:719f:8000::,RIPE NCC Operations,abuse@ripe.net,"Stationsplein 11, 1012 AB Amsterdam, The Netherlands",NL,+31 20 535 4444
-2a0f:d5e1:c000::,2a0f:d5e1:ffff:ffff:ffff:ffff:ffff:ffff,2a0f:d5e1:c000::,RIPE NCC Operations,abuse@ripe.net,"Stationsplein 11, 1012 AB Amsterdam, The Netherlands",NL,+31 20 535 4444
-2604:584a::,2604:584a:3fff:ffff:ffff:ffff:ffff:ffff,2604:584a::,Registration Services Department,hostmaster@arin.net,"US, VA, Centreville, P.O. Box 232290, 20120",US,+1-703-227-0660
-2637:5581:c000::,2637:5581:ffff:ffff:ffff:ffff:ffff:ffff,2637:5581:c000::,Registration Services Department,hostmaster@arin.net,"US, VA, Centreville, P.O. Box 232290, 20120",US,+1-703-227-0660
-2639:c045:8000::,2639:c045:bfff:ffff:ffff:ffff:ffff:ffff,2639:c045:8000::,Registration Services Department,hostmaster@arin.net,"US, VA, Centreville, P.O. Box 232290, 20120",US,+1-703-227-0660
-2a0c:def::,2a0c:def:3fff:ffff:ffff:ffff:ffff:ffff,2a0c:def::,RIPE NCC Operations,abuse@ripe.net,"Stationsplein 11, 1012 AB Amsterdam, The Netherlands",NL,+31 20 535 4444
-263e:f16:4000::,263e:f16:7fff:ffff:ffff:ffff:ffff:ffff,263e:f16:4000::,Registration Services Department,hostmaster@arin.net,"US, VA, Centreville, P.O. Box 232290, 20120",US,+1-703-227-0660
-2405:13fd:c000::,2405:13fd:ffff:ffff:ffff:ffff:ffff:ffff,2405:13fd:c000::,ABUSE APNICAP,helpdesk@apnic.net,"Brisbane, Australia",AU,+000000000
-2609:b5b7:8000::,2609:b5b7:bfff:ffff:ffff:ffff:ffff:ffff,2609:b5b7:8000::,Registration Services Department,hostmaster@arin.net,"US, VA, Centreville, P.O. Box 232290, 20120",US,+1-703-227-0660
-67.38.78.200,67.38.78.207,67.38.0.0,ATT Abuse,abuse@att.net,"US, NC, Durham, 4625 Creekstone Drive, 27703",US,+1-999-999-9999
-2a02:a9b0:4000::,2a02:a9b0:7fff:ffff:ffff:ffff:ffff:ffff,2a02:a9b0:4000::,RIPE NCC Operations,abuse@ripe.net,"Stationsplein 11, 1012 AB Amsterdam, The Netherlands",NL,+31 20 535 4444
-240f:fe0d:8000::,240f:fe0d:bfff:ffff:ffff:ffff:ffff:ffff,240f:fe0d:8000::,ABUSE APNICAP,helpdesk@apnic.net,"Brisbane, Australia",AU,+000000000
+180.168.61.188,180.168.61.191,180.168.0.0,Jiang Hao,jhws999@163.com,"Hutai slip floor room 476, 3, Shanghai,200436",CN,+86-21-66620069
+240c:b9c:4000::,240c:b9c:7fff:ffff:ffff:ffff:ffff:ffff,240c:b9c:4000::,ABUSE APNICAP,helpdesk@apnic.net,"Brisbane, Australia",AU,+000000000
+263b:b755:c000::,263b:b755:ffff:ffff:ffff:ffff:ffff:ffff,263b:b755:c000::,Registration Services Department,hostmaster@arin.net,"US, VA, Centreville, P.O. Box 232290, 20120",US,+1-703-227-0660
+2a1a:ed5e:8000::,2a1a:ed5e:bfff:ffff:ffff:ffff:ffff:ffff,2a1a:ed5e:8000::,RIPE NCC Operations,abuse@ripe.net,"Stationsplein 11, 1012 AB Amsterdam, The Netherlands",NL,+31 20 535 4444
+2408:84c6:8000::,2408:84c6:bfff:ffff:ffff:ffff:ffff:ffff,2408:84c6:8000::,ABUSE CUCN,zhaoyz3@chinaunicom.cn,"No.21,Financial Street, Beijing,100033, P.R.China",CN,+000000000
+2609:2f2b:4000::,2609:2f2b:7fff:ffff:ffff:ffff:ffff:ffff,2609:2f2b:4000::,Registration Services Department,hostmaster@arin.net,"US, VA, Centreville, P.O. Box 232290, 20120",US,+1-703-227-0660
+2a0e:fe11:8000::,2a0e:fe11:bfff:ffff:ffff:ffff:ffff:ffff,2a0e:fe11:8000::,RIPE NCC Operations,abuse@ripe.net,"Stationsplein 11, 1012 AB Amsterdam, The Netherlands",NL,+31 20 535 4444
+2802:ef72:4000::,2802:ef72:7fff:ffff:ffff:ffff:ffff:ffff,2802:ef72:4000::,LACNIC Whois Info,abuse@lacnic.net,"UY, , Montevideo, Potosi 1517, 11500",UY,+598-2604-2222
+2a0f:fadd:4000::,2a0f:fadd:7fff:ffff:ffff:ffff:ffff:ffff,2a0f:fadd:4000::,RIPE NCC Operations,abuse@ripe.net,"Stationsplein 11, 1012 AB Amsterdam, The Netherlands",NL,+31 20 535 4444
+2c04:afb1:4000::,2c04:afb1:7fff:ffff:ffff:ffff:ffff:ffff,2c04:afb1:4000::,AfriNIC TEAM,sysadmin@afrinic.net,"Raffles Tower - 11th Floor, Cybercity, Mauritius",MU,tel:+230-403-5100
+2603:ee93::,2603:ee93:3fff:ffff:ffff:ffff:ffff:ffff,2603:ee93::,Cable One Abuse Department,abuse@cableone.biz,"US, AZ, Phoenix, Internet Abuse Department, 210 E Earll Drive, Phoenix, AZ 85012, 85004",US,+1-877-692-2253
+280f:f257:4000::,280f:f257:7fff:ffff:ffff:ffff:ffff:ffff,280f:f257:4000::,LACNIC Whois Info,abuse@lacnic.net,"UY, , Montevideo, Potosi 1517, 11500",UY,+598-2604-2222
+2a1f:a399:4000::,2a1f:a399:7fff:ffff:ffff:ffff:ffff:ffff,2a1f:a399:4000::,RIPE NCC Operations,abuse@ripe.net,"Stationsplein 11, 1012 AB Amsterdam, The Netherlands",NL,+31 20 535 4444
+2801:395a::,2801:395a:3fff:ffff:ffff:ffff:ffff:ffff,2801:395a::,LACNIC Whois Info,abuse@lacnic.net,"UY, , Montevideo, Potosi 1517, 11500",UY,+598-2604-2222
+2638:6ec0:8000::,2638:6ec0:bfff:ffff:ffff:ffff:ffff:ffff,2638:6ec0:8000::,Registration Services Department,hostmaster@arin.net,"US, VA, Centreville, P.O. Box 232290, 20120",US,+1-703-227-0660
+2c05:8195:c000::,2c05:8195:ffff:ffff:ffff:ffff:ffff:ffff,2c05:8195:c000::,AfriNIC TEAM,sysadmin@afrinic.net,"Raffles Tower - 11th Floor, Cybercity, Mauritius",MU,tel:+230-403-5100
+2639:e7eb:4000::,2639:e7eb:7fff:ffff:ffff:ffff:ffff:ffff,2639:e7eb:4000::,Registration Services Department,hostmaster@arin.net,"US, VA, Centreville, P.O. Box 232290, 20120",US,+1-703-227-0660
+2a1c:434f::,2a1c:434f:3fff:ffff:ffff:ffff:ffff:ffff,2a1c:434f::,RIPE NCC Operations,abuse@ripe.net,"Stationsplein 11, 1012 AB Amsterdam, The Netherlands",NL,+31 20 535 4444
+240e:3ce8:4000::,240e:3ce8:7fff:ffff:ffff:ffff:ffff:ffff,240e:3ce8:4000::,ABUSE CHINANETCN,anti-spam@chinatelecom.cn,"No.31 ,jingrong street,beijing, 100032",CN,+000000000
+2403:53cf::,2403:53cf:3fff:ffff:ffff:ffff:ffff:ffff,2403:53cf::,ABUSE APNICAP,helpdesk@apnic.net,"Brisbane, Australia",AU,+000000000
+2635:412c:c000::,2635:412c:ffff:ffff:ffff:ffff:ffff:ffff,2635:412c:c000::,Registration Services Department,hostmaster@arin.net,"US, VA, Centreville, P.O. Box 232290, 20120",US,+1-703-227-0660
+2636:fb8b:8000::,2636:fb8b:bfff:ffff:ffff:ffff:ffff:ffff,2636:fb8b:8000::,Registration Services Department,hostmaster@arin.net,"US, VA, Centreville, P.O. Box 232290, 20120",US,+1-703-227-0660
+280f:80c3:c000::,280f:80c3:ffff:ffff:ffff:ffff:ffff:ffff,280f:80c3:c000::,LACNIC Whois Info,abuse@lacnic.net,"UY, , Montevideo, Potosi 1517, 11500",UY,+598-2604-2222
+2c00:f3ed:4000::,2c00:f3ed:7fff:ffff:ffff:ffff:ffff:ffff,2c00:f3ed:4000::,AfriNIC TEAM,sysadmin@afrinic.net,"Raffles Tower - 11th Floor, Cybercity, Mauritius",MU,tel:+230-403-5100
+2c06:d06c:c000::,2c06:d06c:ffff:ffff:ffff:ffff:ffff:ffff,2c06:d06c:c000::,AfriNIC TEAM,sysadmin@afrinic.net,"Raffles Tower - 11th Floor, Cybercity, Mauritius",MU,tel:+230-403-5100
+2a14:daaf:8000::,2a14:daaf:bfff:ffff:ffff:ffff:ffff:ffff,2a14:daaf:8000::,RIPE NCC Operations,abuse@ripe.net,"Stationsplein 11, 1012 AB Amsterdam, The Netherlands",NL,+31 20 535 4444
+2c09:cbcd:8000::,2c09:cbcd:bfff:ffff:ffff:ffff:ffff:ffff,2c09:cbcd:8000::,AfriNIC TEAM,sysadmin@afrinic.net,"Raffles Tower - 11th Floor, Cybercity, Mauritius",MU,tel:+230-403-5100
+280f:c18e::,280f:c18e:3fff:ffff:ffff:ffff:ffff:ffff,280f:c18e::,LACNIC Whois Info,abuse@lacnic.net,"UY, , Montevideo, Potosi 1517, 11500",UY,+598-2604-2222
+2809:a91a:4000::,2809:a91a:7fff:ffff:ffff:ffff:ffff:ffff,2809:a91a:4000::,LACNIC Whois Info,abuse@lacnic.net,"UY, , Montevideo, Potosi 1517, 11500",UY,+598-2604-2222
+2806:ca11:c000::,2806:ca11:ffff:ffff:ffff:ffff:ffff:ffff,2806:ca11:c000::,LACNIC Whois Info,abuse@lacnic.net,"UY, , Montevideo, Potosi 1517, 11500",UY,+598-2604-2222
+263f:d64e:8000::,263f:d64e:bfff:ffff:ffff:ffff:ffff:ffff,263f:d64e:8000::,Registration Services Department,hostmaster@arin.net,"US, VA, Centreville, P.O. Box 232290, 20120",US,+1-703-227-0660
+2c0c:fede::,2c0c:fede:3fff:ffff:ffff:ffff:ffff:ffff,2c0c:fede::,AfriNIC TEAM,sysadmin@afrinic.net,"Raffles Tower - 11th Floor, Cybercity, Mauritius",MU,tel:+230-403-5100
+2a13:7afd::,2a13:7afd:3fff:ffff:ffff:ffff:ffff:ffff,2a13:7afd::,RIPE NCC Operations,abuse@ripe.net,"Stationsplein 11, 1012 AB Amsterdam, The Netherlands",NL,+31 20 535 4444
+240c:c314::,240c:c314:3fff:ffff:ffff:ffff:ffff:ffff,240c:c314::,ABUSE CERNETAP,abuse@cernet.edu.cn,"Network Research Center,, Main Bldg, Tsinghua Univ, Beijing 100084, China",CN,+86-10-62784301
+2603:8c18:8000::,2603:8c18:bfff:ffff:ffff:ffff:ffff:ffff,2603:8c18:8000::,Registration Services Department,hostmaster@arin.net,"US, VA, Centreville, P.O. Box 232290, 20120",US,+1-703-227-0660
+2a09:cb75::,2a09:cb75:3fff:ffff:ffff:ffff:ffff:ffff,2a09:cb75::,RIPE NCC Operations,abuse@ripe.net,"Stationsplein 11, 1012 AB Amsterdam, The Netherlands",NL,+31 20 535 4444
+2633:70f9::,2633:70f9:3fff:ffff:ffff:ffff:ffff:ffff,2633:70f9::,Registration Services Department,hostmaster@arin.net,"US, VA, Centreville, P.O. Box 232290, 20120",US,+1-703-227-0660
+2605:a1e4::,2605:a1e4:3fff:ffff:ffff:ffff:ffff:ffff,2605:a1e4::,Registration Services Department,hostmaster@arin.net,"US, VA, Centreville, P.O. Box 232290, 20120",US,+1-703-227-0660
+2402:5971:c000::,2402:5971:ffff:ffff:ffff:ffff:ffff:ffff,2402:5971:c000::,ABUSE APNICAP,helpdesk@apnic.net,"Brisbane, Australia",AU,+000000000
+2c08:73a::,2c08:73a:3fff:ffff:ffff:ffff:ffff:ffff,2c08:73a::,AfriNIC TEAM,sysadmin@afrinic.net,"Raffles Tower - 11th Floor, Cybercity, Mauritius",MU,tel:+230-403-5100
+82.177.28.0,82.177.29.255,82.177.0.0,ABUSE EXATEL,abuse@exatel.pl,"Exatel SA, ul.Perkuna 47,Warszawa",PL,+ 48 55 620 88 88
+240d:c90a:4000::,240d:c90a:7fff:ffff:ffff:ffff:ffff:ffff,240d:c90a:4000::,ABUSE APNICAP,helpdesk@apnic.net,"Brisbane, Australia",AU,+000000000
+2c09:d5fb::,2c09:d5fb:3fff:ffff:ffff:ffff:ffff:ffff,2c09:d5fb::,AfriNIC TEAM,sysadmin@afrinic.net,"Raffles Tower - 11th Floor, Cybercity, Mauritius",MU,tel:+230-403-5100
+2c07:6e0a:8000::,2c07:6e0a:bfff:ffff:ffff:ffff:ffff:ffff,2c07:6e0a:8000::,AfriNIC TEAM,sysadmin@afrinic.net,"Raffles Tower - 11th Floor, Cybercity, Mauritius",MU,tel:+230-403-5100
+2630:a277:4000::,2630:a277:7fff:ffff:ffff:ffff:ffff:ffff,2630:a277:4000::,Jeff Aitken,jeffrey.aitken@capitalone.com,"US, VA, McLean, 1600 Capital One Drive, 22102",US,+1-703-328-3729
+280d:be3f:8000::,280d:be3f:bfff:ffff:ffff:ffff:ffff:ffff,280d:be3f:8000::,LACNIC Whois Info,abuse@lacnic.net,"UY, , Montevideo, Potosi 1517, 11500",UY,+598-2604-2222
+2c09:4d6a:8000::,2c09:4d6a:bfff:ffff:ffff:ffff:ffff:ffff,2c09:4d6a:8000::,AfriNIC TEAM,sysadmin@afrinic.net,"Raffles Tower - 11th Floor, Cybercity, Mauritius",MU,tel:+230-403-5100
+2c07:5cf2:4000::,2c07:5cf2:7fff:ffff:ffff:ffff:ffff:ffff,2c07:5cf2:4000::,AfriNIC TEAM,sysadmin@afrinic.net,"Raffles Tower - 11th Floor, Cybercity, Mauritius",MU,tel:+230-403-5100
+2400:8981:8000::,2400:8981:bfff:ffff:ffff:ffff:ffff:ffff,2400:8981:8000::,ABUSE APNICAP,helpdesk@apnic.net,"Brisbane, Australia",AU,+000000000
+2c09:c178:8000::,2c09:c178:bfff:ffff:ffff:ffff:ffff:ffff,2c09:c178:8000::,AfriNIC TEAM,sysadmin@afrinic.net,"Raffles Tower - 11th Floor, Cybercity, Mauritius",MU,tel:+230-403-5100
+2804:d367:c000::,2804:d367:ffff:ffff:ffff:ffff:ffff:ffff,2804:d367:c000::,LACNIC Whois Info,abuse@lacnic.net,"UY, , Montevideo, Potosi 1517, 11500",UY,+598-2604-2222
+2a03:8b5e:4000::,2a03:8b5e:7fff:ffff:ffff:ffff:ffff:ffff,2a03:8b5e:4000::,RIPE NCC Operations,abuse@ripe.net,"Stationsplein 11, 1012 AB Amsterdam, The Netherlands",NL,+31 20 535 4444
+2639:1f12:c000::,2639:1f12:ffff:ffff:ffff:ffff:ffff:ffff,2639:1f12:c000::,Registration Services Department,hostmaster@arin.net,"US, VA, Centreville, P.O. Box 232290, 20120",US,+1-703-227-0660
+240a:2b07:c000::,240a:2b07:ffff:ffff:ffff:ffff:ffff:ffff,240a:2b07:c000::,ABUSE APNICAP,helpdesk@apnic.net,"Brisbane, Australia",AU,+000000000
+2a01:44b1::,2a01:44b1:3fff:ffff:ffff:ffff:ffff:ffff,2a01:44b1::,RIPE NCC Operations,abuse@ripe.net,"Stationsplein 11, 1012 AB Amsterdam, The Netherlands",NL,+31 20 535 4444
+2a04:fe8e::,2a04:fe8e:3fff:ffff:ffff:ffff:ffff:ffff,2a04:fe8e::,RIPE NCC Operations,abuse@ripe.net,"Stationsplein 11, 1012 AB Amsterdam, The Netherlands",NL,+31 20 535 4444
+2404:b28e:8000::,2404:b28e:bfff:ffff:ffff:ffff:ffff:ffff,2404:b28e:8000::,ABUSE APNICAP,helpdesk@apnic.net,"Brisbane, Australia",AU,+000000000
+260c:2d5:c000::,260c:2d5:ffff:ffff:ffff:ffff:ffff:ffff,260c:2d5:c000::,Network DoD,disa.columbus.ns.mbx.hostmaster-dod-nic@mail.mil,"US, OH, Whitehall, DISA-Columbus, 300 North James Road, 43213",US,+1-844-347-2457
+2a07:5fae:8000::,2a07:5fae:bfff:ffff:ffff:ffff:ffff:ffff,2a07:5fae:8000::,RIPE NCC Operations,abuse@ripe.net,"Stationsplein 11, 1012 AB Amsterdam, The Netherlands",NL,+31 20 535 4444
+218.69.93.160,218.69.93.191,218.69.0.0,ABUSE CUCN,zhaoyz3@chinaunicom.cn,"No.21,Financial Street, Beijing,100033, P.R.China",CN,+000000000
+260b:164c::,260b:164c:3fff:ffff:ffff:ffff:ffff:ffff,260b:164c::,Registration Services Department,hostmaster@arin.net,"US, VA, Centreville, P.O. Box 232290, 20120",US,+1-703-227-0660
+2632:bf92:8000::,2632:bf92:bfff:ffff:ffff:ffff:ffff:ffff,2632:bf92:8000::,Registration Services Department,hostmaster@arin.net,"US, VA, Centreville, P.O. Box 232290, 20120",US,+1-703-227-0660
+2a05:7bfc:c000::,2a05:7bfc:ffff:ffff:ffff:ffff:ffff:ffff,2a05:7bfc:c000::,RIPE NCC Operations,abuse@ripe.net,"Stationsplein 11, 1012 AB Amsterdam, The Netherlands",NL,+31 20 535 4444
+81.139.50.144,81.139.50.151,81.139.0.0,Abuse-C Role,abuse@bt.com,BT Public Internet Service,GB,+442073723075
+2806:2d04::,2806:2d04:3fff:ffff:ffff:ffff:ffff:ffff,2806:2d04::,LACNIC Whois Info,abuse@lacnic.net,"UY, , Montevideo, Potosi 1517, 11500",UY,+598-2604-2222
+212.18.45.144,212.18.45.159,212.18.0.0,Abuse-C Role,abuse@a1.si,"A1 Slovenija d.d., Smartinska cesta 134b, SI-1000 Ljubljana, Slovenija",SI,+386 2 7490100
+2c06:f03::,2c06:f03:3fff:ffff:ffff:ffff:ffff:ffff,2c06:f03::,AfriNIC TEAM,sysadmin@afrinic.net,"Raffles Tower - 11th Floor, Cybercity, Mauritius",MU,tel:+230-403-5100
+2a11:8617:4000::,2a11:8617:7fff:ffff:ffff:ffff:ffff:ffff,2a11:8617:4000::,RIPE NCC Operations,abuse@ripe.net,"Stationsplein 11, 1012 AB Amsterdam, The Netherlands",NL,+31 20 535 4444
+2407:877:4000::,2407:877:7fff:ffff:ffff:ffff:ffff:ffff,2407:877:4000::,ABUSE APNICAP,helpdesk@apnic.net,"Brisbane, Australia",AU,+000000000
+218.201.49.85,218.201.49.86,218.201.0.0,China Mobile Communications Corporation - chongqing,abuse@cq.chinamobile.com,"NO.300, L building, 6th street, keyuan, high-tech, industrial zone, Chongqing,400041",CN,+86-13983247186
+2409:67ab::,2409:67ab:3fff:ffff:ffff:ffff:ffff:ffff,2409:67ab::,ABUSE CNNICCN,ipas@cnnic.cn,"Beijing, China",CN,+000000000
+80.154.67.16,80.154.67.23,80.154.0.0,Deutsche Telekom LIR Abuse Contact,auftrag@nic.telekom.de,Deutsche Telekom AG,DE,+4981424488168
+280f:5954::,280f:5954:3fff:ffff:ffff:ffff:ffff:ffff,280f:5954::,LACNIC Whois Info,abuse@lacnic.net,"UY, , Montevideo, Potosi 1517, 11500",UY,+598-2604-2222
+92.71.211.152,92.71.211.155,92.71.0.0,KPN Internet,abuse@kpn.com,"KPN, P.O. Box 30000, 2500 GA Den Haag, Netherlands",NL,+31683162764
+2a00:414d:4000::,2a00:414d:7fff:ffff:ffff:ffff:ffff:ffff,2a00:414d:4000::,RIPE NCC Operations,abuse@ripe.net,"Stationsplein 11, 1012 AB Amsterdam, The Netherlands",NL,+31 20 535 4444
+2a0f:62e4:4000::,2a0f:62e4:7fff:ffff:ffff:ffff:ffff:ffff,2a0f:62e4:4000::,RIPE NCC Operations,abuse@ripe.net,"Stationsplein 11, 1012 AB Amsterdam, The Netherlands",NL,+31 20 535 4444
+2600:a40b:8000::,2600:a40b:bfff:ffff:ffff:ffff:ffff:ffff,2600:a40b:8000::,Lee Brown,leebrown@pine-net.com,"US, OK, Broken Bow, PO Box 548, 74728",US,+1-580-584-3300
+2605:e2dc:4000::,2605:e2dc:7fff:ffff:ffff:ffff:ffff:ffff,2605:e2dc:4000::,Registration Services Department,hostmaster@arin.net,"US, VA, Centreville, P.O. Box 232290, 20120",US,+1-703-227-0660
+99.19.208.216,99.19.208.231,99.19.0.0,ATT Abuse,abuse@att.net,"US, NC, Durham, 4625 Creekstone Drive, 27703",US,+1-999-999-9999
+240d:acab:4000::,240d:acab:7fff:ffff:ffff:ffff:ffff:ffff,240d:acab:4000::,ABUSE APNICAP,helpdesk@apnic.net,"Brisbane, Australia",AU,+000000000
+2a16:79db:4000::,2a16:79db:7fff:ffff:ffff:ffff:ffff:ffff,2a16:79db:4000::,RIPE NCC Operations,abuse@ripe.net,"Stationsplein 11, 1012 AB Amsterdam, The Netherlands",NL,+31 20 535 4444
+2403:dbc0:4000::,2403:dbc0:7fff:ffff:ffff:ffff:ffff:ffff,2403:dbc0:4000::,ABUSE APNICAP,helpdesk@apnic.net,"Brisbane, Australia",AU,+000000000
+263a:8f7f:8000::,263a:8f7f:bfff:ffff:ffff:ffff:ffff:ffff,263a:8f7f:8000::,Registration Services Department,hostmaster@arin.net,"US, VA, Centreville, P.O. Box 232290, 20120",US,+1-703-227-0660
+263f:bd51:c000::,263f:bd51:ffff:ffff:ffff:ffff:ffff:ffff,263f:bd51:c000::,Registration Services Department,hostmaster@arin.net,"US, VA, Centreville, P.O. Box 232290, 20120",US,+1-703-227-0660
+2a13:4957::,2a13:4957:3fff:ffff:ffff:ffff:ffff:ffff,2a13:4957::,RIPE NCC Operations,abuse@ripe.net,"Stationsplein 11, 1012 AB Amsterdam, The Netherlands",NL,+31 20 535 4444
+263a:8af:8000::,263a:8af:bfff:ffff:ffff:ffff:ffff:ffff,263a:8af:8000::,Registration Services Department,hostmaster@arin.net,"US, VA, Centreville, P.O. Box 232290, 20120",US,+1-703-227-0660
+2609:85b1:c000::,2609:85b1:ffff:ffff:ffff:ffff:ffff:ffff,2609:85b1:c000::,Registration Services Department,hostmaster@arin.net,"US, VA, Centreville, P.O. Box 232290, 20120",US,+1-703-227-0660
+260c:1851:8000::,260c:1851:bfff:ffff:ffff:ffff:ffff:ffff,260c:1851:8000::,Registration Services Department,hostmaster@arin.net,"US, VA, Centreville, P.O. Box 232290, 20120",US,+1-703-227-0660
+2402:9c00::,2402:9c00:3fff:ffff:ffff:ffff:ffff:ffff,2402:9c00::,Chung-Pin Lin,don_lin@savecom.net.tw,"2F,No  3, Alley 8,Lane 45,Pao-Hsin Road,, Hsin Tien Taipei",TW,+886-2-2913-1234
+2409:1e31::,2409:1e31:3fff:ffff:ffff:ffff:ffff:ffff,2409:1e31::,ABUSE APNICAP,helpdesk@apnic.net,"Brisbane, Australia",AU,+000000000
+2403:4565:c000::,2403:4565:ffff:ffff:ffff:ffff:ffff:ffff,2403:4565:c000::,ABUSE APNICAP,helpdesk@apnic.net,"Brisbane, Australia",AU,+000000000
+2c03:39a0:c000::,2c03:39a0:ffff:ffff:ffff:ffff:ffff:ffff,2c03:39a0:c000::,AfriNIC TEAM,sysadmin@afrinic.net,"Raffles Tower - 11th Floor, Cybercity, Mauritius",MU,tel:+230-403-5100
+62.132.93.72,62.132.93.79,62.132.0.0,KPN Internet,abuse@kpn.com,"KPN, P.O. Box 30000, 2500 GA Den Haag, Netherlands",NL,+31 (0)161-231133
+263c:e47c:8000::,263c:e47c:bfff:ffff:ffff:ffff:ffff:ffff,263c:e47c:8000::,Registration Services Department,hostmaster@arin.net,"US, VA, Centreville, P.O. Box 232290, 20120",US,+1-703-227-0660
+218.106.150.7,218.106.150.9,218.106.0.0,FU ZHOU,jiangxw@wo.com.cn,"Fuzhou city, Fujian province, China",CN,+86-591-28363728
+2c0f:da8a:4000::,2c0f:da8a:7fff:ffff:ffff:ffff:ffff:ffff,2c0f:da8a:4000::,AfriNIC TEAM,sysadmin@afrinic.net,"Raffles Tower - 11th Floor, Cybercity, Mauritius",MU,tel:+230-403-5100
+2603:4d4e:c000::,2603:4d4e:ffff:ffff:ffff:ffff:ffff:ffff,2603:4d4e:c000::,Registration Services Department,hostmaster@arin.net,"US, VA, Centreville, P.O. Box 232290, 20120",US,+1-703-227-0660
+2a14:58fe::,2a14:58fe:3fff:ffff:ffff:ffff:ffff:ffff,2a14:58fe::,RIPE NCC Operations,abuse@ripe.net,"Stationsplein 11, 1012 AB Amsterdam, The Netherlands",NL,+31 20 535 4444
+185.37.134.128,185.37.134.255,185.37.0.0,Onnisys network operations,abuse@onnisys.fi,"Naulakatu 2, 33210 Tampere, Finland",FI,+35837771266
+2c06:e78d:c000::,2c06:e78d:ffff:ffff:ffff:ffff:ffff:ffff,2c06:e78d:c000::,AfriNIC TEAM,sysadmin@afrinic.net,"Raffles Tower - 11th Floor, Cybercity, Mauritius",MU,tel:+230-403-5100
