@@ -1,101 +1,101 @@
 start_ip,end_ip,country,country_name,continent,continent_name,asn,as_name,as_domain
-2a09:bac5:3cca:18fa::,2a09:bac5:3cca:18fa:ffff:ffff:ffff:ffff,DE,Germany,EU,Europe,AS13335,"Cloudflare, Inc.",cloudflare.com
-2a09:8280:63::,2a09:8280:63:ffff:ffff:ffff:ffff:ffff,US,United States,NA,North America,AS40509,"Fly.io, Inc.",fly.io
-2001:43f8:d60::,2001:43f8:d60:ffff:ffff:ffff:ffff:ffff,KE,Kenya,AF,Africa,AS328162,Icolo Ltd,icolo.io
-2c0f:f8f0:91d3::,2c0f:f8f0:91d3:ff:ffff:ffff:ffff:ffff,ZW,Zimbabwe,AF,Africa,AS37332,Zimbabwe Online,liquidtelecom.com
-2a09:bac1:27c0:7e0::,2a09:bac1:27c0:7e0:ffff:ffff:ffff:ffff,FR,France,EU,Europe,AS13335,"Cloudflare, Inc.",cloudflare.com
-2405:b500:5ae0:50::,2405:b500:5ae0:50:ffff:ffff:ffff:ffff,PH,Philippines,AS,Asia,AS13335,"Cloudflare, Inc.",cloudflare.com
-2a01:c23:7e00:e59::,2a01:c23:7e00:e59:ffff:ffff:ffff:ffff,HU,Hungary,EU,Europe,AS6805,Telefonica Germany GmbH & Co.OHG,telefonica.de
-172.253.51.60,172.253.51.61,IE,Ireland,EU,Europe,AS15169,Google LLC,google.com
-2003:e8:87ff:3a00::,2003:e8:87ff:3aff:ffff:ffff:ffff:ffff,GB,United Kingdom,EU,Europe,AS3320,Deutsche Telekom AG,telekom.com
-2405:b500:1e60:500::,2405:b500:1e60:500:ffff:ffff:ffff:ffff,DE,Germany,EU,Europe,AS13335,"Cloudflare, Inc.",cloudflare.com
-100.4.244.68,100.4.244.95,US,United States,NA,North America,AS701,Verizon Business,verizonbusiness.com
-2401:d800:d643:be00::,2401:d800:d643:bfff:ffff:ffff:ffff:ffff,SG,Singapore,AS,Asia,AS7552,Viettel Group,viettel.com.vn
-100.252.165.18,100.252.165.19,SA,Saudi Arabia,AS,Asia,AS21928,"T-Mobile USA, Inc.",t-mobile.com
-2001:4dd0:af0a:71f7::,2001:4dd0:af0a:71f7:ffff:ffff:ffff:ffff,HU,Hungary,EU,Europe,AS8422,NetCologne Gesellschaft fur Telekommunikation mbH,netcologne.de
-18.68.135.0,18.68.135.255,AU,Australia,OC,Oceania,AS16509,"Amazon.com, Inc.",amazon.com
-2a09:bac5:3f3c:c9::,2a09:bac5:3f3c:ff:ffff:ffff:ffff:ffff,GB,United Kingdom,EU,Europe,AS13335,"Cloudflare, Inc.",cloudflare.com
-2001:4dd0:af14:eb51::,2001:4dd0:af14:eb51:ffff:ffff:ffff:ffff,DE,Germany,EU,Europe,AS8422,NetCologne Gesellschaft fur Telekommunikation mbH,netcologne.de
-140.248.62.122,140.248.62.122,KW,Kuwait,AS,Asia,AS54113,"Fastly, Inc.",fastly.com
-145.233.20.0,145.233.20.255,SE,Sweden,EU,Europe,AS3549,"Level 3 Parent, LLC",lumen.com
-45.88.135.227,45.88.135.227,US,United States,NA,North America,AS30081,"CacheNetworks, Inc.",cachefly.com
-190.157.24.0,190.157.25.255,CO,Colombia,SA,South America,AS14080,Telmex Colombia S.A.,claro.com.co
-2a01:827:6fd:b00::,2a01:827:6fe:daff:ffff:ffff:ffff:ffff,ES,Spain,EU,Europe,AS30722,Vodafone Italia S.p.A.,vodafone.it
-2409:4066:281:3b00::,2409:4066:281:3cff:ffff:ffff:ffff:ffff,IN,India,AS,Asia,AS55836,Reliance Jio Infocomm Limited,jio.com
-212.119.48.0,212.119.51.255,ES,Spain,EU,Europe,AS200845,"AVATEL TELECOM, SA",avatel.es
-2a01:c22:7000:244a::,2a01:c22:7000:244a:ffff:ffff:ffff:ffff,HU,Hungary,EU,Europe,AS6805,Telefonica Germany GmbH & Co.OHG,telefonica.de
-100.226.20.144,100.226.22.15,SA,Saudi Arabia,AS,Asia,AS21928,"T-Mobile USA, Inc.",t-mobile.com
-2001:4dd0:af20:2eb3::,2001:4dd0:af20:2eb3:ffff:ffff:ffff:ffff,DE,Germany,EU,Europe,AS8422,NetCologne Gesellschaft fur Telekommunikation mbH,netcologne.de
-2a01:c22:d201:476f::,2a01:c22:d201:477a:ffff:ffff:ffff:ffff,DE,Germany,EU,Europe,AS6805,Telefonica Germany GmbH & Co.OHG,telefonica.de
-170.248.98.128,170.248.98.255,US,United States,NA,North America,AS21433,Accenture UK Limited,accenture.com
-187.143.160.0,187.150.255.255,MX,Mexico,NA,North America,AS8151,UNINET,telmex.com
-107.178.64.0,107.178.127.255,US,United States,NA,North America,AS53755,Input Output Flood LLC,ioflood.com
-2409:4088:be99:c400::,2409:4088:be99:c4ff:ffff:ffff:ffff:ffff,BD,Bangladesh,AS,Asia,AS55836,Reliance Jio Infocomm Limited,jio.com
-154.202.91.0,154.202.91.255,US,United States,NA,North America,AS35916,MULTACOM CORPORATION,multacom.com
-192.142.56.0,192.142.59.255,HK,Hong Kong,AS,Asia,AS210334,Synertech Network Inc.,synertechnet.com
-100.179.205.64,100.179.205.223,SA,Saudi Arabia,AS,Asia,AS21928,"T-Mobile USA, Inc.",t-mobile.com
-100.152.237.80,100.152.237.81,SA,Saudi Arabia,AS,Asia,AS21928,"T-Mobile USA, Inc.",t-mobile.com
-2405:205:b00a:300::,2405:205:b00a:4ff:ffff:ffff:ffff:ffff,IN,India,AS,Asia,AS55836,Reliance Jio Infocomm Limited,jio.com
-200.30.137.0,200.30.137.127,GT,Guatemala,NA,North America,AS23383,METRORED S.A. DE C.V.,metrored.hn
-2001:2035:0:4e3::,2001:2035:0:4e3:ffff:ffff:ffff:ffff,US,United States,NA,North America,AS1299,Arelion Sweden AB,arelion.com
-135.109.196.0,135.109.221.255,US,United States,NA,North America,AS7345,Nokia of America Corporation,nokia.com
-2a02:1210:4c49:c800::,2a02:1210:4c49:fbff:ffff:ffff:ffff:ffff,CH,Switzerland,EU,Europe,AS3303,Swisscom (Schweiz) AG,swisscom.ch
-2a02:a03f:686e:5c00::,2a02:a03f:686e:5cff:ffff:ffff:ffff:ffff,NL,Netherlands,EU,Europe,AS5432,Proximus NV,proximus.com
-2a02:a453:2144::,2a02:a453:2b1c:ff:ffff:ffff:ffff:ffff,NL,Netherlands,EU,Europe,AS1136,KPN B.V.,idstrategy.com.ua
-40.107.72.0,40.107.72.255,MY,Malaysia,AS,Asia,AS8075,Microsoft Corporation,microsoft.com
-74.125.51.114,74.125.51.115,IN,India,AS,Asia,AS15169,Google LLC,google.com
-178.253.6.56,178.253.6.57,DE,Germany,EU,Europe,AS202492,SILVERHILL GROUP HOLDING LTD,sgholding.org
-94.246.102.185,94.246.102.188,FI,Finland,EU,Europe,AS12552,GlobalConnect AB,globalconnect.se
-217.146.128.0,217.146.159.255,DE,Germany,EU,Europe,AS20676,Plusnet GmbH,plusnet.de
-195.182.32.0,195.182.32.255,RU,Russia,EU,Europe,AS211508,"Educational Fund ""Talent and success""",talantiuspeh.ru
-2a01:c23:be00:426d::,2a01:c23:be00:426e:ffff:ffff:ffff:ffff,HU,Hungary,EU,Europe,AS6805,Telefonica Germany GmbH & Co.OHG,telefonica.de
-2001:4dd0:af18:24e0::,2001:4dd0:af18:24e0:ffff:ffff:ffff:ffff,HU,Hungary,EU,Europe,AS8422,NetCologne Gesellschaft fur Telekommunikation mbH,netcologne.de
-104.212.67.190,104.212.67.190,SE,Sweden,EU,Europe,AS8075,Microsoft Corporation,microsoft.com
-62.202.152.0,62.202.152.3,CH,Switzerland,EU,Europe,AS29286,SKYLOGIC S.P.A.,eutelsat.com
-8.64.40.0,8.64.47.255,US,United States,NA,North America,AS3909,"CenturyLink Communications, LLC",centurylink.com
-2001:4dd0:af14:ac9d::,2001:4dd0:af14:ac9d:ffff:ffff:ffff:ffff,DE,Germany,EU,Europe,AS8422,NetCologne Gesellschaft fur Telekommunikation mbH,netcologne.de
-204.155.159.0,204.155.159.255,US,United States,NA,North America,AS40824,Webzilla Inc.,webzilla.com
-202.97.70.218,202.97.70.218,DE,Germany,EU,Europe,AS4134,CHINANET-BACKBONE,chinatelecom.com.cn
-240f:80:9f3d::,240f:80:9f3d:ffff:ffff:ffff:ffff:ffff,US,United States,NA,North America,AS2516,KDDI CORPORATION,kddi.com
-2405:4803:db87:c200::,2405:4803:db87:c3ff:ffff:ffff:ffff:ffff,HK,Hong Kong,AS,Asia,AS18403,FPT Telecom Company,fpt.vn
-2001:4968::,2001:4968:ffff:ffff:ffff:ffff:ffff:ffff,US,United States,NA,North America,AS30513,DYNAMIC INTERNET,dynamicinternet.com
-213.251.59.215,213.251.59.216,DE,Germany,EU,Europe,AS3257,GTT Communications Inc.,gtt.net
-2a02:26f7:c550:44c7::,2a02:26f7:c550:ffff:ffff:ffff:ffff:ffff,FR,France,EU,Europe,AS36183,"Akamai Technologies, Inc.",akamai.com
-37.143.162.0,37.143.167.255,RO,Romania,EU,Europe,AS52023,OPTICNET-SERV S.R.L.,opticnet.ro
-2409:4052:2018:ea00::,2409:4052:2019:3aff:ffff:ffff:ffff:ffff,IN,India,AS,Asia,AS55836,Reliance Jio Infocomm Limited,jio.com
-2a01:c22:ca01:b1e8::,2a01:c22:ca01:b1e8:ffff:ffff:ffff:ffff,HU,Hungary,EU,Europe,AS6805,Telefonica Germany GmbH & Co.OHG,telefonica.de
-105.236.3.128,105.236.4.127,ID,Indonesia,AS,Asia,AS16637,MTN SA,mtn.com
-2600:9000:24c6:4000::,2600:9000:24c6:ffff:ffff:ffff:ffff:ffff,GB,United Kingdom,EU,Europe,AS16509,"Amazon.com, Inc.",amazon.com
-67.199.140.34,67.199.140.63,TR,Turkey,AS,Asia,AS3257,GTT Communications Inc.,gtt.net
-2a10:9903:501::,2a10:9903:501:ffff:ffff:ffff:ffff:ffff,NL,Netherlands,EU,Europe,AS210930,Lennart Dreves trading as LennMedia,lennmedia.nl
-2a12:5940:1d0d::,2a12:5940:1d20:ffff:ffff:ffff:ffff:ffff,NL,Netherlands,EU,Europe,AS210644,AEZA INTERNATIONAL LTD,aeza.net
-161.49.11.146,161.49.11.146,PH,Philippines,AS,Asia,AS17639,Converge ICT Solutions Inc.,convergeict.com
-2401:d800:d503:9700::,2401:d800:d503:98ff:ffff:ffff:ffff:ffff,VN,Vietnam,AS,Asia,AS7552,Viettel Group,viettel.com.vn
-2a09:bac5:4fd6:1e00::,2a09:bac5:4fd6:ffff:ffff:ffff:ffff:ffff,US,United States,NA,North America,AS13335,"Cloudflare, Inc.",cloudflare.com
-45.93.84.0,45.93.84.255,NL,Netherlands,EU,Europe,AS15695,Expereo International BV,expereo.com
-2001:470:6d:cc7::,2001:470:6d:cc8:ffff:ffff:ffff:ffff,US,United States,NA,North America,AS6939,Hurricane Electric LLC,he.net
-2001:470:1:e52::,2001:470:1:e5e:ffff:ffff:ffff:ffff,US,United States,NA,North America,AS6939,Hurricane Electric LLC,he.net
-199.87.122.0,199.87.122.255,AU,Australia,OC,Oceania,AS6643,"Goto Group, Inc.",jive.com
-2620:0:1cff:dead:beef::9f8,2620:0:1cff:dead:beef::9f8,BR,Brazil,SA,South America,AS32934,"Facebook, Inc.",facebook.com
-2a01:827:2ac0:9800::,2a01:827:2ac1:14ff:ffff:ffff:ffff:ffff,ES,Spain,EU,Europe,AS30722,Vodafone Italia S.p.A.,vodafone.it
-100.18.173.228,100.18.173.229,US,United States,NA,North America,AS701,Verizon Business,verizonbusiness.com
-2a01:c23:8200:b06a::,2a01:c23:8200:b079:ffff:ffff:ffff:ffff,DE,Germany,EU,Europe,AS6805,Telefonica Germany GmbH & Co.OHG,telefonica.de
-23.89.225.0,23.89.231.255,US,United States,NA,North America,AS396982,Google LLC,google.com
-2001:1900:5:2:2:0:118:db,2001:1900:5:2:2:0:118:e8,DE,Germany,EU,Europe,AS3356,"Level 3 Parent, LLC",lumen.com
-2405:205:b08d:a600::,2405:205:b08d:a7ff:ffff:ffff:ffff:ffff,PK,Pakistan,AS,Asia,AS55836,Reliance Jio Infocomm Limited,jio.com
-2a09:ab80::,2a09:ab87:ffff:ffff:ffff:ffff:ffff:ffff,RS,Serbia,EU,Europe,AS60733,ZORAN PEROVIC trading as Agencija Perke.NET,perke.net
-2001:2000:3080:122e::,2001:2000:3080:122e:ffff:ffff:ffff:ffff,NL,Netherlands,EU,Europe,AS1299,Arelion Sweden AB,arelion.com
-2401:d800:f6cf:4100::,2401:d800:f6cf:41ff:ffff:ffff:ffff:ffff,US,United States,NA,North America,AS7552,Viettel Group,viettel.com.vn
-2a03:2880:f331::,2a03:2880:f331:ffff:ffff:ffff:ffff:ffff,IN,India,AS,Asia,AS32934,"Facebook, Inc.",facebook.com
-2a03:7500:7:527e::,2a03:7500:7:527e:ffff:ffff:ffff:ffff,HU,Hungary,EU,Europe,AS20810,Netcom Kassel Gesellschaft fuer Telekommunikation mbH,netcom-kassel.de
-2001:4dd0:af20:1433::,2001:4dd0:af20:1433:ffff:ffff:ffff:ffff,DE,Germany,EU,Europe,AS8422,NetCologne Gesellschaft fur Telekommunikation mbH,netcologne.de
-136.175.48.0,136.175.51.255,US,United States,NA,North America,AS36124,BizVox Communications Inc,bizvox.net
-2409:4054:210e:1a00::,2409:4054:210e:1aff:ffff:ffff:ffff:ffff,PK,Pakistan,AS,Asia,AS55836,Reliance Jio Infocomm Limited,jio.com
-2001:1308:27ca:b600::,2001:1308:27ca:b8ff:ffff:ffff:ffff:ffff,US,United States,NA,North America,AS6400,Compañía Dominicana de Teléfonos S. A.,claro.com.do
-2a09:bac5:3f0b:1c00::,2a09:bac5:3f0b:ffff:ffff:ffff:ffff:ffff,US,United States,NA,North America,AS13335,"Cloudflare, Inc.",cloudflare.com
-2a09:bac0:1001:152::,2a09:bac0:1001:153:ffff:ffff:ffff:ffff,US,United States,NA,North America,AS13335,"Cloudflare, Inc.",cloudflare.com
-2a01:c23:8a01:1b79::,2a01:c23:8a01:1b79:ffff:ffff:ffff:ffff,HU,Hungary,EU,Europe,AS6805,Telefonica Germany GmbH & Co.OHG,telefonica.de
-2401:4900:12b4:8700::,2401:4900:12b4:93ff:ffff:ffff:ffff:ffff,IN,India,AS,Asia,AS45609,Bharti Airtel Ltd. AS for GPRS Service,airtel.com
-193.101.144.0,193.101.147.255,DE,Germany,EU,Europe,AS2830,Verizon Nederland B.V.,verizonbusiness.com
-94.142.107.230,94.142.107.231,US,United States,NA,North America,AS12956,TELEFONICA GLOBAL SOLUTIONS SL,telxius.com
-2a01:c23:9601:1048::,2a01:c23:9601:1062:ffff:ffff:ffff:ffff,DE,Germany,EU,Europe,AS6805,Telefonica Germany GmbH & Co.OHG,telefonica.de
+100.231.194.224,100.231.194.227,US,United States,NA,North America,AS21928,"T-Mobile USA, Inc.",t-mobile.com
+2001:4dd0:af0b:e9ea::,2001:4dd0:af0b:e9ee:ffff:ffff:ffff:ffff,DE,Germany,EU,Europe,AS8422,NetCologne Gesellschaft fur Telekommunikation mbH,netcologne.de
+103.53.82.0,103.53.82.255,CA,Canada,NA,North America,AS203020,HostRoyale Technologies Pvt Ltd,hostroyale.com
+2001:1308:28a5:fc00::,2001:1308:28a5:feff:ffff:ffff:ffff:ffff,US,United States,NA,North America,AS6400,Compañía Dominicana de Teléfonos S. A.,claro.com.do
+2a01:190:1764:8003::,2a01:197:ffff:ffff:ffff:ffff:ffff:ffff,AT,Austria,EU,Europe,AS1764,Next Layer Telekommunikationsdienstleistungs- und Beratungs GmbH,nextlayer.at
+158.255.232.0,158.255.233.255,ES,Spain,EU,Europe,AS202636,Invermae Solutions SL,intermanaged.com
+2409:4061:6e91:4300::,2409:4061:6e91:43ff:ffff:ffff:ffff:ffff,IN,India,AS,Asia,AS55836,Reliance Jio Infocomm Limited,jio.com
+100.144.83.248,100.144.83.255,SA,Saudi Arabia,AS,Asia,AS21928,"T-Mobile USA, Inc.",t-mobile.com
+2409:4055:400:b700::,2409:4055:401:88ff:ffff:ffff:ffff:ffff,IN,India,AS,Asia,AS55836,Reliance Jio Infocomm Limited,jio.com
+103.246.0.194,103.246.0.194,SG,Singapore,AS,Asia,AS9422,PT SOLNET INDONESIA,solnet.net.id
+2001:1900:5:2:2::128d,2001:1900:5:2:2::128e,FR,France,EU,Europe,AS3356,"Level 3 Parent, LLC",lumen.com
+2001:4dd0:af14:6090::,2001:4dd0:af14:6090:ffff:ffff:ffff:ffff,DE,Germany,EU,Europe,AS8422,NetCologne Gesellschaft fur Telekommunikation mbH,netcologne.de
+2001:2035:0:18ef::,2001:2035:0:18ef:ffff:ffff:ffff:ffff,DE,Germany,EU,Europe,AS1299,Arelion Sweden AB,arelion.com
+45.60.74.100,45.60.74.101,SE,Sweden,EU,Europe,AS19551,Incapsula Inc,incapsula.com
+2a06:9f40:6dcf:a100::,2a06:9f40:6dcf:a1ff:ffff:ffff:ffff:ffff,US,United States,NA,North America,AS40676,Psychz Networks,psychz.net
+2001:4dd0:af1c:59d7::,2001:4dd0:af1c:59d7:ffff:ffff:ffff:ffff,HU,Hungary,EU,Europe,AS8422,NetCologne Gesellschaft fur Telekommunikation mbH,netcologne.de
+213.77.182.192,213.77.182.255,ES,Spain,EU,Europe,AS5617,Orange Polska Spolka Akcyjna,orange.pl
+129.250.9.245,129.250.9.247,US,United States,NA,North America,AS2914,"NTT America, Inc.",ntt.com
+103.68.122.0,103.68.123.255,NZ,New Zealand,OC,Oceania,AS45887,GPLHost LLC,gplhost.com
+116.92.8.0,116.92.9.255,HK,Hong Kong,AS,Asia,AS4637,Telstra Global,telstraglobal.com
+107.178.31.0,107.178.31.255,US,United States,NA,North America,AS63296,Amarillo Wireless,awbroadband.net
+2001:470:1f29:3e6::,2001:470:1f29:3e6:ffff:ffff:ffff:ffff,AE,United Arab Emirates,AS,Asia,AS6939,Hurricane Electric LLC,he.net
+139.60.205.0,139.60.205.255,ES,Spain,EU,Europe,AS396259,Teridion inc,teridion.com
+193.17.22.0,193.17.22.255,DE,Germany,EU,Europe,AS680,Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.,dfn.de
+192.109.97.0,192.109.97.255,RU,Russia,EU,Europe,AS212667,RECONN LLC,reconn.ru
+2409:4066:e03:a300::,2409:4066:e03:a3ff:ffff:ffff:ffff:ffff,BD,Bangladesh,AS,Asia,AS55836,Reliance Jio Infocomm Limited,jio.com
+2001:4dd0:af10:f11::,2001:4dd0:af10:f16:ffff:ffff:ffff:ffff,DE,Germany,EU,Europe,AS8422,NetCologne Gesellschaft fur Telekommunikation mbH,netcologne.de
+194.153.91.0,194.153.91.255,SE,Sweden,EU,Europe,AS38982,Sandvine Sweden AB,sandvine.com
+100.150.59.228,100.150.60.15,SA,Saudi Arabia,AS,Asia,AS21928,"T-Mobile USA, Inc.",t-mobile.com
+2a02:a03f:8cec:fe00::,2a02:a03f:8ced:2aff:ffff:ffff:ffff:ffff,BE,Belgium,EU,Europe,AS5432,Proximus NV,proximus.com
+2405:4802:a67e:9000::,2405:4802:a67e:9fff:ffff:ffff:ffff:ffff,HK,Hong Kong,AS,Asia,AS18403,FPT Telecom Company,fpt.vn
+216.239.216.221,216.239.216.221,GB,United Kingdom,EU,Europe,AS1273,Vodafone Group PLC,vodafone.com
+2001:983:fe4f::,2001:983:fe4f:ff:ffff:ffff:ffff:ffff,BE,Belgium,EU,Europe,AS3265,KPN B.V.,idstrategy.com.ua
+195.55.104.0,195.55.107.255,ES,Spain,EU,Europe,AS16371,"acens Technologies, S.L.",acens.com
+100.245.15.192,100.245.15.209,US,United States,NA,North America,AS21928,"T-Mobile USA, Inc.",t-mobile.com
+2001:4dd0:af07:5911::,2001:4dd0:af07:5946:ffff:ffff:ffff:ffff,DE,Germany,EU,Europe,AS8422,NetCologne Gesellschaft fur Telekommunikation mbH,netcologne.de
+193.221.121.0,193.221.121.255,DE,Germany,EU,Europe,AS12586,GHOSTnet GmbH,ghostnet.de
+2001:470:6d:d66::,2001:470:6d:d66:ffff:ffff:ffff:ffff,US,United States,NA,North America,AS6939,Hurricane Electric LLC,he.net
+2001:2000:3080:12ca::,2001:2000:3080:12ce:ffff:ffff:ffff:ffff,DE,Germany,EU,Europe,AS1299,Arelion Sweden AB,arelion.com
+100.244.115.8,100.244.115.15,US,United States,NA,North America,AS21928,"T-Mobile USA, Inc.",t-mobile.com
+2405:b500:1100:1b1::,2405:b500:1100:1b7:ffff:ffff:ffff:ffff,US,United States,NA,North America,AS13335,"Cloudflare, Inc.",cloudflare.com
+2001:1308:26ae:2d00::,2001:1308:26ae:2fff:ffff:ffff:ffff:ffff,US,United States,NA,North America,AS6400,Compañía Dominicana de Teléfonos S. A.,claro.com.do
+100.18.171.224,100.18.171.231,US,United States,NA,North America,AS701,Verizon Business,verizonbusiness.com
+2a01:c22:7000:32c7::,2a01:c22:7000:32c7:ffff:ffff:ffff:ffff,HU,Hungary,EU,Europe,AS6805,Telefonica Germany GmbH & Co.OHG,telefonica.de
+146.102.64.238,146.102.64.238,TN,Tunisia,AF,Africa,AS2852,CESNET z.s.p.o.,cesnet.cz
+2409:4066:e93:4600::,2409:4066:e93:4bff:ffff:ffff:ffff:ffff,IN,India,AS,Asia,AS55836,Reliance Jio Infocomm Limited,jio.com
+216.83.11.0,216.83.11.255,US,United States,NA,North America,AS397468,"Think On, Inc.",thinkon.com
+2a01:c22:8600:4d9f::,2a01:c22:8600:4d9f:ffff:ffff:ffff:ffff,HU,Hungary,EU,Europe,AS6805,Telefonica Germany GmbH & Co.OHG,telefonica.de
+2620:0:1cff:dead:bef1:100:11:23,2620:0:1cff:dead:bef1:100:11:23,EC,Ecuador,SA,South America,AS32934,"Facebook, Inc.",facebook.com
+2001:4dd0:af14:71a1::,2001:4dd0:af14:71a2:ffff:ffff:ffff:ffff,HU,Hungary,EU,Europe,AS8422,NetCologne Gesellschaft fur Telekommunikation mbH,netcologne.de
+2a01:c23:c600:6487::,2a01:c23:c600:6487:ffff:ffff:ffff:ffff,HU,Hungary,EU,Europe,AS6805,Telefonica Germany GmbH & Co.OHG,telefonica.de
+209.18.116.0,209.18.123.255,US,United States,NA,North America,AS14492,"DataPipe, Inc.",datapipe.com
+163.116.199.97,163.116.199.99,IN,India,AS,Asia,AS55256,Netskope Inc,netskope.com
+192.229.239.245,192.229.239.245,US,United States,NA,North America,AS15133,Edgecast Inc.,edg.io
+100.149.151.106,100.149.151.111,US,United States,NA,North America,AS21928,"T-Mobile USA, Inc.",t-mobile.com
+2a09:bac5:1f10::,2a09:bac5:1f10:27:ffff:ffff:ffff:ffff,JP,Japan,AS,Asia,AS13335,"Cloudflare, Inc.",cloudflare.com
+181.111.171.0,181.111.171.255,AR,Argentina,SA,South America,AS262229,COOP DE LUZ Y FUERZA DE LIB.GRAL.SAN MARTIN LTDA,cooprico.com.ar
+187.188.0.0,187.188.1.255,MX,Mexico,NA,North America,AS22884,TOTAL PLAY TELECOMUNICACIONES SA DE CV,totalplay.com.mx
+2001:4dd0:af16:6111::,2001:4dd0:af16:6111:ffff:ffff:ffff:ffff,HU,Hungary,EU,Europe,AS8422,NetCologne Gesellschaft fur Telekommunikation mbH,netcologne.de
+66.84.68.129,66.84.68.142,ES,Spain,EU,Europe,AS14537,Continent 8 LLC,continent8.com
+2a09:bac5:20ab:1246::,2a09:bac5:20ab:1246:ffff:ffff:ffff:ffff,US,United States,NA,North America,AS13335,"Cloudflare, Inc.",cloudflare.com
+2a01:c23:c600:be86::,2a01:c23:c600:be86:ffff:ffff:ffff:ffff,HU,Hungary,EU,Europe,AS6805,Telefonica Germany GmbH & Co.OHG,telefonica.de
+2a01:c22:3600:1d60::,2a01:c22:3600:1d60:ffff:ffff:ffff:ffff,HU,Hungary,EU,Europe,AS6805,Telefonica Germany GmbH & Co.OHG,telefonica.de
+152.124.113.128,152.124.113.255,RU,Russia,EU,Europe,AS29992,U.S. Department of Veterans Affairs,va.gov
+71.50.16.0,71.50.63.255,US,United States,NA,North America,AS19901,Brightspeed,brightspeed.com
+208.168.132.127,208.168.132.136,US,United States,NA,North America,AS3561,"CenturyLink Communications, LLC",lumen.com
+100.246.14.136,100.246.14.143,US,United States,NA,North America,AS21928,"T-Mobile USA, Inc.",t-mobile.com
+62.115.171.76,62.115.171.77,US,United States,NA,North America,AS1299,Arelion Sweden AB,arelion.com
+2620:154:a08::,2620:154:a08:ffff:ffff:ffff:ffff:ffff,US,United States,NA,North America,AS16733,NortonLifeLock Inc.,nortonlifelock.com
+107.154.134.241,107.154.134.241,US,United States,NA,North America,AS19551,Incapsula Inc,incapsula.com
+103.74.65.0,103.74.65.255,IN,India,AS,Asia,AS150093,BHAWANI TECHNOLOGIES,bhawanitech.com
+2409:4088:8719:1a00::,2409:4088:8719:1eff:ffff:ffff:ffff:ffff,IN,India,AS,Asia,AS55836,Reliance Jio Infocomm Limited,jio.com
+100.176.64.96,100.176.64.111,US,United States,NA,North America,AS21928,"T-Mobile USA, Inc.",t-mobile.com
+64.49.152.0,64.49.152.255,US,United States,NA,North America,AS11300,Globecomm Services Maryland LLC,globecomm.com
+240f:36:2a69::,240f:36:2b3f:ff:ffff:ffff:ffff:ffff,JP,Japan,AS,Asia,AS2516,KDDI CORPORATION,kddi.com
+2001:4dd0:af14:9547::,2001:4dd0:af14:9549:ffff:ffff:ffff:ffff,HU,Hungary,EU,Europe,AS8422,NetCologne Gesellschaft fur Telekommunikation mbH,netcologne.de
+42.28.148.236,42.28.148.239,TH,Thailand,AS,Asia,AS9644,SK Telecom,sktelecom.com
+195.10.59.234,195.10.59.234,FR,France,EU,Europe,AS1273,Vodafone Group PLC,vodafone.com
+156.240.99.0,156.240.99.255,FR,France,EU,Europe,AS20473,"The Constant Company, LLC",constant.com
+2a01:c23:c200:341e::,2a01:c23:c200:342e:ffff:ffff:ffff:ffff,DE,Germany,EU,Europe,AS6805,Telefonica Germany GmbH & Co.OHG,telefonica.de
+185.188.105.86,185.188.105.86,FR,France,EU,Europe,AS43211,Noavaran Fan Avazeh Co. PJS,digikala.com
+62.168.99.214,62.168.99.214,AT,Austria,EU,Europe,AS5578,"SWAN, a.s.",swan.sk
+2c0f:fe30:4bf8::,2c0f:fe30:4bf8:ff:ffff:ffff:ffff:ffff,RW,Rwanda,AF,Africa,AS37006,Liquid Telecommunication Rwanda Limited,liquid.tech
+100.213.40.32,100.213.40.79,US,United States,NA,North America,AS21928,"T-Mobile USA, Inc.",t-mobile.com
+204.13.212.0,204.13.214.255,US,United States,NA,North America,AS22395,"Tornado Computer Systems, Inc.",nysolutions.com
+38.75.133.0,38.75.133.255,US,United States,NA,North America,AS54583,American College of Surgeons,facs.org
+2409:4061:6e86:d400::,2409:4061:6e86:d5ff:ffff:ffff:ffff:ffff,BD,Bangladesh,AS,Asia,AS55836,Reliance Jio Infocomm Limited,jio.com
+128.65.91.128,128.65.94.127,DE,Germany,EU,Europe,AS44795,Hughes Network Systems GmbH,hugheseurope.com
+2a01:c22:3600:2988::,2a01:c22:3600:2988:ffff:ffff:ffff:ffff,DE,Germany,EU,Europe,AS6805,Telefonica Germany GmbH & Co.OHG,telefonica.de
+2804:121c::,2804:121c:ffff:ffff:ffff:ffff:ffff:ffff,BR,Brazil,SA,South America,AS263457,Alpinet Informatica Ltda,alpinet.com.br
+2001:4dd0:af04:d197::,2001:4dd0:af04:d19c:ffff:ffff:ffff:ffff,DE,Germany,EU,Europe,AS8422,NetCologne Gesellschaft fur Telekommunikation mbH,netcologne.de
+100.147.32.36,100.147.32.39,US,United States,NA,North America,AS21928,"T-Mobile USA, Inc.",t-mobile.com
+103.139.131.0,103.139.131.0,SG,Singapore,AS,Asia,AS6461,Zayo Bandwidth,zayo.com
+163.251.255.0,163.251.255.255,US,United States,NA,North America,AS5860,DoD Network Information Center,mail.mil
+2409:4066:e06:6600::,2409:4066:e06:67ff:ffff:ffff:ffff:ffff,IN,India,AS,Asia,AS55836,Reliance Jio Infocomm Limited,jio.com
+100.149.234.236,100.149.235.59,SA,Saudi Arabia,AS,Asia,AS21928,"T-Mobile USA, Inc.",t-mobile.com
+2001:470:1f21:e1::,2001:470:1f21:e1:ffff:ffff:ffff:ffff,ES,Spain,EU,Europe,AS6939,Hurricane Electric LLC,he.net
+2001:4dd0:af16:59a5::,2001:4dd0:af16:59a5:ffff:ffff:ffff:ffff,HU,Hungary,EU,Europe,AS8422,NetCologne Gesellschaft fur Telekommunikation mbH,netcologne.de
+212.192.7.0,212.192.7.255,ES,Spain,EU,Europe,AS44477,STARK INDUSTRIES SOLUTIONS LTD,stark-industries.solutions
+100.226.83.72,100.226.83.143,SA,Saudi Arabia,AS,Asia,AS21928,"T-Mobile USA, Inc.",t-mobile.com
