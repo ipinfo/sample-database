@@ -1,23 +1,32 @@
 # IP to Country
 
-## Get the country and continent where the IP address is located
+## Get the country and continent where the IP addresses are located
 
-This database is part of our [free IP data downloads offering](https://ipinfo.io/products/free-ip-database). The database is updated daily, provides full accuracy and includes both IPv4 and IPv6 information in one database download.
+The IP to Country database is part of our [free IP data downloads offering](https://ipinfo.io/products/free-ip-database). Features of the [IP to Country Database](https://ipinfo.io/developers/ip-to-country-database) includes:
+
+- Full accuracy with zero compromise. The dataset is updated daily to ensure the highest accuracy possible.
+- The dataset is a subset of our premium [IP to Geolocation Database](https://ipinfo.io/products/ip-geolocation-database).
+- The IP to Country dataset provides ranges, country, and continent information.
+- It includes both IPv4 and IPv6 data in a single dataset.
+- The data is tabular and unnested, making it extremely easy to use.
+- The IP to Country dataset aggregates ranges by country, making it ideal for country to range lookups and firewall lists.
+- Our free databases are licensed under CC-BY-SA 4.0.
+- Comes in MMDB, CSV, and JSON formats.
 
 # Database Schema & Description
 
-*[data updated as of February, 2023]*
+*[data updated as of May, 2024]*
 
 The following database schema represents the CSV database. We also provide JSON and MMDB format data.
 
-| Field Name | Example | Data Type | Description |
-| --- | --- | --- | --- |
-| `start_ip` | 217.220.0.0 | TEXT | Starting IP address of an IP address range |
-| `end_ip` | 217.223.255.255 | TEXT | Ending IP address of an IP address range |
-| `country` | IT | TEXT | ISO 3166 country code of the location |
-| `country_name` | Italy | TEXT | Name of the country |
-| `continent` | EU | TEXT | Continent code of the country |
-| `continent_name` | Europe | TEXT | Name of the continent |
+| Field Name       | Example         | Data Type | Description                                |
+|------------------|-----------------|-----------|--------------------------------------------|
+| `start_ip`       | 217.220.0.0     | TEXT      | Starting IP address of an IP address range |
+| `end_ip`         | 217.223.255.255 | TEXT      | Ending IP address of an IP address range   |
+| `country`        | IT              | TEXT      | ISO 3166 country code of the IP address    |
+| `country_name`   | Italy           | TEXT      | Name of the country                        |
+| `continent`      | EU              | TEXT      | Continent code of the country              |
+| `continent_name` | Europe          | TEXT      | Name of the continent                      |
 
 
 # Samples
@@ -25,6 +34,18 @@ The following database schema represents the CSV database. We also provide JSON 
 - [CSV Database] [IP to Country Database Sample](/IP%20to%20Country/ip_country_sample.csv)
 - [JSON Database] [IP to Country Database Sample](/IP%20to%20Country/ip_country_sample.json)
 - [MMDB Database] [IP to Database Sample](/IP%20to%20Country/ip_country_sample.mmdb)
+
+# Guides, Resources & Links
+
+## Links
+
+🔗 [IP to Country Database Documentation](https://ipinfo.io/developers/ip-to-country-database)
+
+If you have any questions about using our data, feel free to ask us about it in the [IPinfo Community](https://community.ipinfo.io/).
+
+## FAQs (Frequently Asked Questions)
+
+- [IPinfo Community posts on the IP to Country data](https://community.ipinfo.io/search?q=country)
 
 ---
 

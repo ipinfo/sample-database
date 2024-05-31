@@ -1,41 +1,61 @@
 # IP Geolocation Database
 
-## Geolocation data such as city, region, country, location, timezone etc. identified from IP address.
+## Get location data such as zipcode, city, region, country, location, timezone etc. of IP addresses.
+
+Our IP geolocation data is our primary data product and is considered one of the best in the industry. We operate a large scale network infrastructure consisting of hundreds of servers around the world through which we take active network measurements over the entire internet ecosystem. Through our active measurement, we produce reliable and accurate IP geolocation data. You can learn more about our network from this article:[Probe network - how we make sure our data is accurate](https://ipinfo.io/blog/probe-network-how-we-make-sure-our-data-is-accurate/).
 
 # Database Schema & Description
 
-*[data updated as of August, 2022]*
+*[data updated as of May, 2024]*
 
 The following database schema represents the CSV database. We also provide JSON and MMDB format data.
 
-| Field Name    | Example          | Data Type | Notes                                         |
-|---------------|------------------|-----------|-----------------------------------------------|
-| `start_ip`    | 1.253.242.0      | TEXT      | Starting IP address of an IP address range    |
-| `end_ip`      | 1.253.242.255    | TEXT      | Ending IP address of an IP address range      |
-| `join_key`    | 1.253.0.0        | TEXT      | Special variable to facilitate join operation |
-| `city`        | Yangsan          | TEXT      | City of the location                          |
-| `region`      | Gyeongsangnam-do | TEXT      | Region of the location                        |
-| `country`     | KR               | TEXT      | ISO 3166 country code                         |
-| `latitude`    | 35.34199         | FLOAT     | Latitude value of the location                |
-| `longitude`   | 129.03358        | FLOAT     | Longitude value of the location               |
-| `postal_code` | 50593            | TEXT      | Postal code of the location                   |
-| `timezone`    | Asia/Seoul       | TEXT      | Local time zone                               |
+| Field Name    | Example          | Data Type | Notes                                                    |
+|---------------|------------------|-----------|----------------------------------------------------------|
+| `start_ip`    | 1.253.242.0      | TEXT      | Starting IP address of an IP address range               |
+| `end_ip`      | 1.253.242.255    | TEXT      | Ending IP address of an IP address range                 |
+| `join_key`    | 1.253.0.0        | TEXT      | Special variable to facilitate database `join` operation |
+| `city`        | Yangsan          | TEXT      | City of the IP address                                   |
+| `region`      | Gyeongsangnam-do | TEXT      | Region of the IP address                                 |
+| `country`     | KR               | TEXT      | ISO 3166 country code of the IP address                  |
+| `latitude`    | 35.34199         | FLOAT     | Latitude value of the IP address                         |
+| `longitude`   | 129.03358        | FLOAT     | Longitude value of the IP address                        |
+| `postal_code` | 50593            | TEXT      | Postal code or zip code of the IP address                |
+| `timezone`    | Asia/Seoul       | TEXT      | Local timezone of the IP address                         |
 
 
-> `join_key` → This key represents the Class C network each IP address is part of, allowing you to filter the result set significantly before filtering to the exact IP address you want. [[*Source*](https://ipinfo.io/blog/ingesting-ipinfo-geolocation-data-with-postgresql-13/)]
+> `join_key` represents the Class C network each IP address is part of, allowing you to filter the result set significantly before `join`ing. Learn more about `join_key` [here](https://community.ipinfo.io/t/ipinfos-join-key-column-explained/5526).
 > 
-
-IP address data like `start_ip`, `end_ip` and `join_key` should be assigned `inet` data type if you are ingesting the data in PostgreSQL.
+> Please refer to "[How to choose the best file format for your IPinfo database?](https://ipinfo.io/blog/ipinfo-database-formats/)" article to select the best format possible for your use case.
+>
+> The usage of the IP data downloads relies on the software or application of the data. Check out our [documentation](https://ipinfo.io/developers/database-download), [community](https://community.ipinfo.io/c/docs/8), and our [integrations](https://ipinfo.io/integrations) pages to find the best path forward.
 
 # API Response
 
-As well as the database product, IPinfo also provides a robust API service. Please visit the [IPinfo Documentation](https://ipinfo.io/developers) portal to learn more.
+IPinfo also provides a robust IP to Geolocation API service. Please visit the [IPinfo Documentation](https://ipinfo.io/developers/data-types#geolocation-data) portal to learn more. IP to Geolocation is our IP data available from tier to enterprise tier API access.
+
+API Query:
 
 ```bash
-$ curl ipinfo.io/IP_ADDRESS?token=TOKEN
+$ curl ipinfo.io/$IP_ADDRESS?token=$TOKEN
 ```
 
-![IP Geolocation API (1).png](../assets/IP_Geolocation_API.png)
+Response:
+
+```json
+{
+    "ip": "77.224.89.172",
+    "hostname": "static-172-89-224-77.ipcom.comunitel.net",
+    "city": "Vigo",
+    "region": "Galicia",
+    "country": "ES",
+    "loc": "42.2328,-8.7226",
+    "postal": "36201",
+    "timezone": "Europe/Madrid"
+}
+```
+
+![IP Geolocation API.png](../assets/IP_Geolocation_API.png)
 
 # Samples
 
@@ -50,12 +70,17 @@ $ curl ipinfo.io/IP_ADDRESS?token=TOKEN
 
 🔗 [IP Geolocation Database Page](https://ipinfo.io/products/ip-geolocation-database)
 
+🔗 [IP Geolocation Data Downloads Documentation](https://ipinfo.io/developers/ip-to-geolocation-database)
+
 🔗 [IP Geolocation API Page](https://ipinfo.io/products/ip-geolocation-api)
 
 🔗 [IP Geolocation Data Type Documentation](https://ipinfo.io/developers/data-types#geolocation-data)
 
-## Articles & Guides (9)
+## Articles & Guides
 
+- [Probe network - how we make sure our data is accurate](https://ipinfo.io/blog/probe-network-how-we-make-sure-our-data-is-accurate/)
+- [Community posts on location data](https://community.ipinfo.io/search?q=location)
+- [IPinfo location data accuracy](https://ipinfo.io/accuracy)
 - [Top ways to use IP geolocation data](https://ipinfo.io/blog/top-ways-to-use-ip-geolocation-data/)
 - [How to develop a mobile app with a geolocation feature](https://ipinfo.io/blog/how-to-develop-a-mobile-application-software-with-a-geolocation-feature/)
 - [How to use IP address data for digital media and entertainment](https://ipinfo.io/blog/ip-address-data-for-digital-media-and-entertainment/)

@@ -8,27 +8,48 @@
 
 The following database schema represents the CSV database. We also provide JSON and MMDB format data.
 
-| Field Name | Example     | Data Type | Notes                                                                                                                       |
-|------------|-------------|-----------|-----------------------------------------------------------------------------------------------------------------------------|
-| `start_ip` | 115.9.76.79 | TEXT      | Starting IP address of an IP address range                                                                                  |
-| `end_ip`   | 115.9.76.79 | TEXT      | Ending IP address of an IP address range                                                                                    |
-| `join_key` | 115.9.0.0   | TEXT      | Special variable to facilitate join operation                                                                               |
-| `hosting`  |             | BOOLEAN   | Indicates a hosting IP address most of the time based on a datacenter. Indicative of bots, scrapers or malicious activities |
-| `proxy`    |             | BOOLEAN   | Similar to VPN mainly used by businesses                                                                                    |
-| `tor`      |             | BOOLEAN   | IP address originated from the Onion router                                                                                 |
-| `vpn`      | True        | BOOLEAN   | Virtual Private Network (VPN) service IP address                                                                            |
-| `relay`    |             | BOOLEAN   | Traffic relays often provided by CDN companies                                                                              |
-| `service`  |             | TEXT      | Name of the privacy service provider                                                                                        |
+| Field Name | Example     | Data Type | Notes                                                                |
+|------------|-------------|-----------|----------------------------------------------------------------------|
+| `start_ip` | 115.9.76.79 | TEXT      | Starting IP address of an IP address range                           |
+| `end_ip`   | 115.9.76.79 | TEXT      | Ending IP address of an IP address range                             |
+| `join_key` | 115.9.0.0   | TEXT      | Special variable to facilitate databas `join` operation              |
+| `hosting`  |             | BOOLEAN   | Indicates a hosting/cloud service/data center IP address             |
+| `proxy`    |             | BOOLEAN   | Indicates a open web proxy IP address                                |
+| `tor`      |             | BOOLEAN   | Indicates a TOR (The Onion Router) exit node IP address              |
+| `vpn`      | True        | BOOLEAN   | Indicates Virtual Private Network (VPN) service exit node IP address |
+| `relay`    |             | BOOLEAN   | Indicates location preserving anonymous relay service                |
+| `service`  |             | TEXT      | Name of the anonymous IP service provider                            |
 
 
-> `join_key` → This key represents the Class C network each IP address is part of, allowing you to filter the result set significantly before filtering to the exact IP address you want. [[*Source*](https://ipinfo.io/blog/ingesting-ipinfo-geolocation-data-with-postgresql-13/)]
+> `join_key` represents the Class C network each IP address is part of, allowing you to filter the result set significantly before `join`ing. Learn more about `join_key` [here](https://community.ipinfo.io/t/ipinfos-join-key-column-explained/5526).
 > 
-
-IP address data like `start_ip`, `end_ip` and `join_key` should be assigned `inet` data type if you are ingesting the data in PostgreSQL.
+> Please refer to "[How to choose the best file format for your IPinfo database?](https://ipinfo.io/blog/ipinfo-database-formats/)" article to select the best format possible for your use case.
+>
+> The usage of the IP data downloads relies on the software or application of the data. Check out our [documentation](https://ipinfo.io/developers/database-download), [community](https://community.ipinfo.io/c/docs/8), and our [integrations](https://ipinfo.io/integrations) pages to find the best path forward.
 
 # API Response
 
-As well as the database product, IPinfo also provides a robust API service. Please visit the [IPinfo Documentation](https://ipinfo.io/developers) portal to learn more.
+As well as the database product, IPinfo also provides a robust API service. Please visit the [IPinfo Documentation](https://ipinfo.io/developers/data-types#privacy-data) portal to learn more. The Privacy Detection API service is available as part of our [Standard Tier](https://ipinfo.io/developers/responses#standard-plan) plan.
+
+API Query:
+
+```bash
+$ curl ipinfo.io/$IP_ADDRESS/carrier?token=TOKEN
+```
+
+Reponse:
+
+```json
+{
+    "vpn": true,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": "NordVPN"
+}
+```
+
 
 🔗 [Privacy Data Documentation](https://ipinfo.io/developers/data-types#privacy-data)
 
@@ -47,23 +68,36 @@ As well as the database product, IPinfo also provides a robust API service. Plea
 
 🔗 [Privacy Detection Database Type](https://ipinfo.io/products/anonymous-ip-database)
 
+🔗 [Privacy Detection Data Downloads Documentation](https://ipinfo.io/developers/privacy-detection-database)
+
 🔗 [Privacy Detection API Page](https://ipinfo.io/products/proxy-vpn-detection-api)
 
 🔗 [Privacy Detection Data Type](https://ipinfo.io/developers/data-types#privacy-data)
 
-## Articles & Guides (4)
+## Articles & Guides
 
 - [Deep dive into privacy detection data and masked IPs](https://ipinfo.io/blog/deep-dive-into-privacy-detection-data-and-masked-ips/)
 - [How to privacy-proof your online targeting](https://ipinfo.io/blog/privacy-adtech-online-targeting/)
 - [5 businesses who use privacy detection data well](https://ipinfo.io/blog/using-privacy-detection-data/)
 - [What to expect from our Privacy Detection API](https://ipinfo.io/blog/what-to-expect-from-our-privacy-detection-api/)
 
-## FAQ (Frequently Asked Questions) (4)
+## FAQ (Frequently Asked Questions)
 
+- [IPinfo Community posts tagged as `ip-privacy-detection`](https://community.ipinfo.io/tag/ip-privacy-detection)
+- [Why the provider’s name is sometimes is missing from our IP to privacy detection data?](https://community.ipinfo.io/t/why-the-provider-s-name-is-sometimes-is-missing-from-our-ip-to-privacy-detection-data/1719)
+- [Do we provide a confidence score for our IP to Privacy data?](https://community.ipinfo.io/t/do-we-provide-a-confidence-score-for-our-ip-to-privacy-data/1723)
+- [How we classify IP addresses in the IP to Privacy Detection Dataset](https://community.ipinfo.io/t/how-we-classify-ip-addresses-in-the-ip-to-privacy-detection-dataset/5573)
+- [Preventing bot activity with IPinfo’s IP to Privacy Data](https://community.ipinfo.io/t/preventing-bot-activity-with-ipinfos-ip-to-privacy-data/1811)
+- [Difference between proxy and VPN according to our privacy detection](https://community.ipinfo.io/t/difference-between-proxy-and-vpn-according-to-our-privacy-detection/5604)
+- [Why are some IP addresses not always flagged in the privacy detection data?](https://community.ipinfo.io/t/why-are-some-ip-addresses-not-always-flagged-in-the-privacy-detection-data/5626)
+- [Getting IP data from anonymous IP addresses](https://community.ipinfo.io/t/getting-ip-data-from-anonymous-ip-addresses/1743)
+- [Preventing Ad Fraud using IPinfo’s data](https://community.ipinfo.io/t/preventing-ad-fraud-using-ipinfo-s-data/5591)
 - [Anonymous or masked IP address](https://ipinfo.io/faq/article/83-anonymous-or-masked-ip-address)
 - [What is Tor?](https://ipinfo.io/faq/article/81-what-is-tor)
 - [What is a proxy?](https://ipinfo.io/faq/article/82-what-is-proxy)
 - [What is a VPN?](https://ipinfo.io/faq/article/80-what-is-vpn)
+
+If you have any questions about using our data, feel free to ask us about it in the [IPinfo Community](https://community.ipinfo.io/).
 
 ---
 

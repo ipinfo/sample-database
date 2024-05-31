@@ -6,39 +6,48 @@
 
 # Database Schema & Description
 
-*[data updated as of August, 2022]*
+*[data updated as of May, 2024]*
 
 The following database schema represents the CSV database. We also provide JSON and MMDB format data.
 
-| Field Name | Example | Data Type | Notes |
-| --- | --- | --- | --- |
-| `ip` | 135.125.236.225 | TEXT | IP address for reverse IP lookup |
-| `total` | 3 | INTEGER | Number of domains registered to the IP Address |
-| `domains` | farmanaut.com,pharmanaut.be,farmanaut.be | TEXT | Name of the domain(s) under the IP address |
+| Field Name | Example                                  | Data Type | Notes                                          |
+|------------|------------------------------------------|-----------|------------------------------------------------|
+| `ip`       | 135.125.236.225                          | TEXT      | IP address for reverse IP lookup               |
+| `total`    | 3                                        | INTEGER   | Number of domains registered to the IP Address |
+| `domains`  | farmanaut.com,pharmanaut.be,farmanaut.be | TEXT      | Name of the domain(s) under the IP address     |
 
 Each domain in the `domains` column is separated by a `,` (comma).
 
+The Hosted Domains database contains domains that are hosted on a web server IP address, cached in a CDN server IP address, and the IP address that domain finally redirects to.
+
 # API Response
 
-As well as the database product, IPinfo also provides a robust API service. Please visit the [IPinfo Documentation](https://ipinfo.io/developers) portal to learn more.
+As well as the database product, IPinfo also provides a robust Hosted Domains API service. Please visit the [IPinfo Hosted Domains API Documentation](https://ipinfo.io/developers/hosted-domains) portal to learn about the API, it's API parameters and features.
 
-🔗 [Hosted Domains Documentation](https://ipinfo.io/developers/hosted-domains)
-
-Basic use case:
+API Query:
 
 ```bash
-$ curl "ipinfo.io/domains/IP_ADDRESS?token=TOKEN"
+$ curl "ipinfo.io/domains/$IP_ADDRESS?token=$TOKEN"
 ```
 
-This will return the full list of domains. So, if you are querying an IP address that hosts many domains, it is best to pipe the data to `less`
+Response:
 
-You can also limit the names of domains shown with the `limit` parameter.
-
-```bash
-curl "ipinfo.io/domains/IP_ADDRESS?token=TOKEN&limit=5"
+```json
+{
+    "ip": "34.168.30.71",
+    "total": 1994,
+    "domains": [
+        "3stadt.com",
+        "flytfrem.no",
+        "aptalis-pharma.ca",
+        "nftevening.xyz",
+        "sub.quest"
+        // ...
+    ]
+}
 ```
 
-![Hosted Domains  Reverse IP Lookup.png](../assets/Hosted_Domains__Reverse_IP_Lookup.png)
+![Hosted Domains Reverse IP Lookup.png](../assets/Hosted_Domains__Reverse_IP_Lookup.png)
 
 # Samples
 
@@ -53,18 +62,22 @@ curl "ipinfo.io/domains/IP_ADDRESS?token=TOKEN&limit=5"
 
 🔗 [Hosted Domains Database Page](https://ipinfo.io/products/hosted-domains-database)
 
+🔗 [Hosted Domains Data Downloads Documentation](https://ipinfo.io/developers/hosted-domains-database)
+
 🔗 [Hosted Domains API Page](https://ipinfo.io/products/reverse-ip-api)
 
 🔗 [Hosted Domains Documentation](https://ipinfo.io/developers/hosted-domains)
 
 🔗 [Hosted Domains Data Type Documentation](https://ipinfo.io/developers/data-types#hosted-domains-data)
 
-## Articles & Guides (1)
+## Articles & Guides
 
+- [Difference between rDNS and Hosted Domains](https://community.ipinfo.io/t/difference-between-rdns-and-hosted-domains/5601)
 - [Reverse IP lookups: powerful yet overlooked tool](https://ipinfo.io/blog/reverse-ip-lookup-what-is-it-how-it-works)
 
-## FAQs (Frequently Asked Questions) (1)
+## FAQs (Frequently Asked Questions)
 
+- [Difference between rDNS and Hosted Domains](https://community.ipinfo.io/t/difference-between-rdns-and-hosted-domains/5601)
 - [Do you provide domain data?](https://ipinfo.io/faq/article/51-domain-data)
 
 ---
