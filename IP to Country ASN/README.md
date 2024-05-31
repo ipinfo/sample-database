@@ -2,7 +2,15 @@
 
 ## Joined database of our free IP to Country and IP to ASN Database
 
-This database is part of our [free IP data downloads offering](https://ipinfo.io/products/free-ip-database). The database is updated daily, provides full accuracy, and includes both IPv4 and IPv6 information in one database download. This database is created by joining our IP to Country and IP to ASN database. The database join operation is optimized and standardized for IP queries.
+The IP to Country ASN database is part of our [free IP data downloads offering](https://ipinfo.io/products/free-ip-database). The IP to Country ASN database is our ultimate free IP database combining both country and ASN information in a single database. Features of the [IP to Country ASN database](https://ipinfo.io/developers/ip-to-country-asn-database) includes:
+
+- Full accuracy with zero compromise. The dataset is updated daily to ensure the highest accuracy possible.
+- The dataset is a merged subset of our premium [IP to Geolocation Database](https://ipinfo.io/products/ip-geolocation-database) and [ASN database](https://ipinfo.io/products/asn-database).
+- It includes both IPv4 and IPv6 data in a single dataset.
+- It includes both country and ASN information, which means that for each IP address query, you will receive both of these pieces of information.
+- The data is tabular and unnested, making it extremely easy to use.
+- Our free databases are licensed under CC-BY-SA 4.0.
+- Comes in MMDB, CSV, and JSON formats.
 
 # Database Schema & Description
 
@@ -11,12 +19,11 @@ This database is part of our [free IP data downloads offering](https://ipinfo.io
 The following database schema represents the CSV database. We also provide JSON and MMDB format data.
 
 
-
 | Field Name       | Example                      | Data Type | Description                                       |
 |------------------|------------------------------|-----------|---------------------------------------------------|
 | `start_ip`       | 1.0.16.0                     | TEXT      | Starting IP address of an IP address range        |
 | `end_ip`         | 1.0.31.255                   | TEXT      | Ending IP address of an IP address range          |
-| `country`        | JP                           | TEXT      | ISO 3166 country code of the location             |
+| `country`        | JP                           | TEXT      | ISO 3166 country code of the IP addresses         |
 | `country_name`   | Japan                        | TEXT      | Name of the country                               |
 | `continent`      | AS                           | TEXT      | Continent code of the country                     |
 | `continent_name` | Asia                         | TEXT      | Name of the continent                             |
@@ -31,6 +38,27 @@ The following database schema represents the CSV database. We also provide JSON 
 - [CSV Database] [IP to Country + ASN Database Sample](/IP%20to%20Country%20ASN/ip_country_asn_sample.csv)
 - [JSON Database] [IP to Country + ASN Database Sample](/IP%20to%20Country%20ASN/ip_country_asn_sample.json)
 - [MMDB Database] [IP to Database + ASN Sample](/IP%20to%20Country%20ASN/ip_country_asn_sample.mmdb)
+
+# Guides, Resources & Links
+
+## Links
+
+🔗 [IP to Country ASN Database Documentation](https://ipinfo.io/developers/ip-to-country-asn-database)
+
+🔗 [IP to Country ASN Database on Snowflake](https://app.snowflake.com/marketplace/listing/GZSTZSHKQ4QY/)
+
+🔗 [IP to Country ASN Database on Google Cloud Marketplace](https://console.cloud.google.com/marketplace/product/ipinfo-public/ipinfo-free-ip-to-country-and-asn-database)
+
+🔗 [IP to Country ASN Database on Kaggle](https://www.kaggle.com/datasets/ipinfo/ipinfo-country-asn)
+
+If you have any questions about using our data, feel free to ask us about it in the [IPinfo Community](https://community.ipinfo.io/).
+
+## FAQs (Frequently Asked Questions)
+
+- [IPinfo community post tagged as Country ASN](https://community.ipinfo.io/tag/ip-country-asn)
+- [Getting all the ASNs of a country using our free IP to Country ASN database](https://community.ipinfo.io/t/getting-all-the-asns-of-a-country-using-our-free-ip-to-country-asn-database/5623)
+- [Filter ASN database based on a single ASN](https://community.ipinfo.io/t/filter-asn-database-based-on-a-single-asn/393)
+- [Lookup IP geolocation and ASN with ClickHouse and IPinfo’s free database](https://community.ipinfo.io/t/lookup-ip-geolocation-and-asn-with-clickhouse-and-ipinfos-free-database/149)
 
 ---
 

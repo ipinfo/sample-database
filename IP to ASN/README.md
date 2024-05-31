@@ -1,12 +1,21 @@
 # IP to ASN
 
-## Get ASN information from an IP address range.
+## Get accurate ASN information of IP address range.
 
-This database is part of our [free IP data downloads offering](https://ipinfo.io/products/free-ip-database). The database is updated daily, provides full accuracy and includes both IPv4 and IPv6 information in one database download.
+The IP to ASN database is part of our [free IP data downloads offering](https://ipinfo.io/products/free-ip-database). Features of the [IP to ASN free database](https://ipinfo.io/developers/ip-to-asn-database) includes:
+
+- Full accuracy with zero compromise. The dataset is updated daily to ensure the highest accuracy possible.
+- The dataset is a subset of our premium [ASN database](https://ipinfo.io/products/asn-database).
+- The IP to ASN dataset provides ranges, ASN, AS name, and AS name domain.
+- It includes both IPv4 and IPv6 data in a single dataset.
+- The data is tabular and unnested, making it extremely easy to use.
+- The IP to ASN dataset aggregates ranges by ASN, making it ideal for ASN to range lookups.
+- Our free databases are licensed under CC-BY-SA 4.0.
+- Comes in MMDB, CSV, and JSON formats.
 
 # Database Schema & Description
 
-*[data updated as of February, 2023]*
+*[data updated as of May, 2024]*
 
 The following database schema represents the CSV database. We also provide JSON and MMDB format data.
 
@@ -18,13 +27,25 @@ The following database schema represents the CSV database. We also provide JSON 
 | `name`     | Cloudflare, Inc.   | TEXT      | Name of the AS (Autonomous System) organization   |
 | `domain`   | cloudflare.com     | TEXT      | Official domain or website of the AS organization |
 
-
 # Samples
 
 - [CSV Database] [IP to ASN Database Sample](/IP%20to%20ASN/ip_asn_sample.csv)
 - [JSON Database] [IP to ASN Database Sample](/IP%20to%20ASN/ip_asn_sample.json)
 - [MMDB Database] [IP to ASN Sample](/IP%20to%20ASN/ip_asn_sample.mmdb)
 
+# Guides, Resources & Links
+
+## Links
+
+🔗 [IP to ASN Database Documentation](https://ipinfo.io/developers/ip-to-asn-database)
+
+If you have any questions about using our data, feel free to ask us about it in the [IPinfo Community](https://community.ipinfo.io/).
+
+## FAQs (Frequently Asked Questions)
+
+- [IPinfo Community posts tagged as `ASN`](https://community.ipinfo.io/tag/asn)
+- [Choosing between the ASN, IP to ASN and IP to Company database](https://community.ipinfo.io/t/choosing-between-the-asn-ip-to-asn-and-ip-to-company-database/731)
+- [Differences in data for the ASN and the IP to Company database](https://community.ipinfo.io/t/differences-in-data-for-the-asn-and-the-ip-to-company-database/730)
 
 ---
 

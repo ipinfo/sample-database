@@ -35,6 +35,8 @@ The IP to rDNS dataset contain two datasets.
 - [JSON Database] [IP to rDNS - Hostnames Database Sample](/IP%20to%20rDNS/ip_rdns_hostnames_sample.json)
 - [MMDB Database] [IP to rDNS - Hostnames Database Sample](/IP%20to%20rDNS/ip_rdns_hostnames_sample.mmdb)
 
+If you have any questions about using our data, feel free to ask us about it in the [IPinfo Community](https://community.ipinfo.io/).
+
 ---
 
 # Interested in more?
