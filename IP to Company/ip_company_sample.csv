@@ -1,101 +1,101 @@
 start_ip,end_ip,join_key,name,domain,type,asn,as_name,as_domain,as_type,country
-85.41.225.28,85.41.225.31,85.41.0.0,ROCHE S.P.A.,roche.it,business,AS3269,Telecom Italia S.p.A.,telecomitalia.com,isp,IT
-2a02:cba4:c000::,2a02:cba4:ffff:ffff:ffff:ffff:ffff:ffff,2a02:cba4:c000::,RIPE NCC,ripe.net,isp,AS3269,Telecom Italia S.p.A.,telecomitalia.com,isp,IT
-51.79.186.8,51.79.186.23,51.79.0.0,OVH Singapore PTE. LTD,ovh.net,hosting,AS16276,OVH SAS,ovhcloud.com,hosting,SG
-240c:7aa7:c000::,240c:7aa7:ffff:ffff:ffff:ffff:ffff:ffff,240c:7aa7:c000::,Asia Pacific Network Information Centre,net.ru,isp,AS4134,CHINANET-BACKBONE,chinatelecom.com.cn,isp,AU
-2402:1531:4000::,2402:1531:7fff:ffff:ffff:ffff:ffff:ffff,2402:1531:4000::,Asia Pacific Network Information Centre,net.ru,isp,AS4134,CHINANET-BACKBONE,chinatelecom.com.cn,isp,AU
-203.21.38.0,203.21.38.255,203.21.0.0,Asia Pacific Network Information Centre,net.ru,isp,AS1221,Telstra Limited,telstra.com.au,isp,AU
-2a09:e67b:8000::,2a09:e67b:bfff:ffff:ffff:ffff:ffff:ffff,2a09:e67b:8000::,RIPE NCC,ripe.net,isp,AS3269,Telecom Italia S.p.A.,telecomitalia.com,isp,IT
-83.18.253.116,83.18.253.155,83.18.0.0,static IP,tpnet.pl,isp,AS5617,Orange Polska Spolka Akcyjna,orange.pl,isp,PL
-46.145.76.52,46.145.76.55,46.145.0.0,KPN B.V.,idstrategy.com.ua,isp,AS1136,KPN B.V.,idstrategy.com.ua,isp,NL
-2c03:e794:8000::,2c03:e794:bfff:ffff:ffff:ffff:ffff:ffff,2c03:e794:8000::,African Network Information Center - (AfriNIC) Ltd,afrinic.net,isp,AS5713,Telkom SA Ltd.,telkom.co.za,isp,MU
-240e:89f8::,240e:89f8:3fff:ffff:ffff:ffff:ffff:ffff,240e:89f8::,Asia Pacific Network Information Centre,net.ru,isp,AS4134,CHINANET-BACKBONE,chinatelecom.com.cn,isp,AU
-2400:1a1d:c000::,2400:1a1d:ffff:ffff:ffff:ffff:ffff:ffff,2400:1a1d:c000::,Asia Pacific Network Information Centre,net.ru,isp,AS4134,CHINANET-BACKBONE,chinatelecom.com.cn,isp,AU
-2c02:6031:8000::,2c02:6031:bfff:ffff:ffff:ffff:ffff:ffff,2c02:6031:8000::,African Network Information Center - (AfriNIC) Ltd,afrinic.net,isp,AS5713,Telkom SA Ltd.,telkom.co.za,isp,MU
-2a0d:d164:4000::,2a0d:d164:7fff:ffff:ffff:ffff:ffff:ffff,2a0d:d164:4000::,RIPE NCC,ripe.net,isp,AS3269,Telecom Italia S.p.A.,telecomitalia.com,isp,IT
-108.225.25.0,108.225.25.7,108.225.0.0,Emily Meyers07312012160612190,emilymeyers14.com,business,AS7018,"AT&T Services, Inc.",att.com,isp,US
-240b:15e7:4000::,240b:15e7:7fff:ffff:ffff:ffff:ffff:ffff,240b:15e7:4000::,Asia Pacific Network Information Centre,net.ru,isp,AS4134,CHINANET-BACKBONE,chinatelecom.com.cn,isp,AU
-2a1b:8728::,2a1b:8728:3fff:ffff:ffff:ffff:ffff:ffff,2a1b:8728::,RIPE NCC,ripe.net,isp,AS3269,Telecom Italia S.p.A.,telecomitalia.com,isp,IT
-2a11:affd::,2a11:affd:3fff:ffff:ffff:ffff:ffff:ffff,2a11:affd::,RIPE NCC,ripe.net,isp,AS3269,Telecom Italia S.p.A.,telecomitalia.com,isp,IT
-2406:9000::,2406:9000:3fff:ffff:ffff:ffff:ffff:ffff,2406:9000::,National Agency for Scientific and Technological Information,vista.gov.vn,hosting,AS24175,National Agency for Scientific and Technological Information,vista.gov.vn,hosting,VN
-2a12:5275::,2a12:5275:3fff:ffff:ffff:ffff:ffff:ffff,2a12:5275::,RIPE NCC,ripe.net,isp,AS3269,Telecom Italia S.p.A.,telecomitalia.com,isp,IT
-240e:cb9e:c000::,240e:cb9e:ffff:ffff:ffff:ffff:ffff:ffff,240e:cb9e:c000::,Asia Pacific Network Information Centre,net.ru,isp,AS4134,CHINANET-BACKBONE,chinatelecom.com.cn,isp,AU
-240f:fb02:c000::,240f:fb02:ffff:ffff:ffff:ffff:ffff:ffff,240f:fb02:c000::,Asia Pacific Network Information Centre,net.ru,isp,AS4134,CHINANET-BACKBONE,chinatelecom.com.cn,isp,AU
-99.13.72.72,99.13.72.87,99.13.0.0,AT&T Corp.,att.com,isp,AS7018,"AT&T Services, Inc.",att.com,isp,US
-2001:80e7::,2001:80e7:3fff:ffff:ffff:ffff:ffff:ffff,2001:80e7::,Telstra Limited,telstra.net,isp,AS1221,Telstra Limited,telstra.com.au,isp,AU
-2400:449d:c000::,2400:449d:ffff:ffff:ffff:ffff:ffff:ffff,2400:449d:c000::,Asia Pacific Network Information Centre,net.ru,isp,AS4134,CHINANET-BACKBONE,chinatelecom.com.cn,isp,AU
-2c0d:49f3:4000::,2c0d:49f3:7fff:ffff:ffff:ffff:ffff:ffff,2c0d:49f3:4000::,African Network Information Center - (AfriNIC) Ltd,afrinic.net,isp,AS5713,Telkom SA Ltd.,telkom.co.za,isp,MU
-83.90.197.248,83.90.197.255,83.90.0.0,TDC Holding A/S,tdc.net,isp,AS3292,TDC Holding A/S,tdcgroup.com,isp,DK
-2408:db50:8000::,2408:db50:bfff:ffff:ffff:ffff:ffff:ffff,2408:db50:8000::,Asia Pacific Network Information Centre,net.ru,isp,AS4134,CHINANET-BACKBONE,chinatelecom.com.cn,isp,AU
-2a09:e4d7::,2a09:e4d7:3fff:ffff:ffff:ffff:ffff:ffff,2a09:e4d7::,RIPE NCC,ripe.net,isp,AS3269,Telecom Italia S.p.A.,telecomitalia.com,isp,IT
-240c:2e2a::,240c:2e2a:3fff:ffff:ffff:ffff:ffff:ffff,240c:2e2a::,Asia Pacific Network Information Centre,net.ru,isp,AS4134,CHINANET-BACKBONE,chinatelecom.com.cn,isp,AU
-209.242.136.128,209.242.136.191,209.242.0.0,Raintree System,raintreeinc.com,business,AS22773,Cox Communications Inc.,cox.com,isp,US
-2c0c:4690:4000::,2c0c:4690:7fff:ffff:ffff:ffff:ffff:ffff,2c0c:4690:4000::,African Network Information Center - (AfriNIC) Ltd,afrinic.net,isp,AS5713,Telkom SA Ltd.,telkom.co.za,isp,MU
-240e:4ff3:8000::,240e:4ff3:bfff:ffff:ffff:ffff:ffff:ffff,240e:4ff3:8000::,Asia Pacific Network Information Centre,net.ru,isp,AS4134,CHINANET-BACKBONE,chinatelecom.com.cn,isp,AU
-96.56.181.104,96.56.181.111,96.56.0.0,Cablevision Systems Corp.,optimum.com,isp,AS6128,Cablevision Systems Corp.,cablevision.com,isp,US
-2a11:1220:c000::,2a11:1220:ffff:ffff:ffff:ffff:ffff:ffff,2a11:1220:c000::,RIPE NCC,ripe.net,isp,AS3269,Telecom Italia S.p.A.,telecomitalia.com,isp,IT
-2a1e:777e:8000::,2a1e:777e:bfff:ffff:ffff:ffff:ffff:ffff,2a1e:777e:8000::,RIPE NCC,ripe.net,isp,AS3269,Telecom Italia S.p.A.,telecomitalia.com,isp,IT
-2a1d:89de:4000::,2a1d:89de:7fff:ffff:ffff:ffff:ffff:ffff,2a1d:89de:4000::,RIPE NCC,ripe.net,isp,AS3269,Telecom Italia S.p.A.,telecomitalia.com,isp,IT
-2c06:6a45::,2c06:6a45:3fff:ffff:ffff:ffff:ffff:ffff,2c06:6a45::,African Network Information Center - (AfriNIC) Ltd,afrinic.net,isp,AS5713,Telkom SA Ltd.,telkom.co.za,isp,MU
-240b:4487::,240b:4487:3fff:ffff:ffff:ffff:ffff:ffff,240b:4487::,Asia Pacific Network Information Centre,net.ru,isp,AS4134,CHINANET-BACKBONE,chinatelecom.com.cn,isp,AU
-2a08:390c:8000::,2a08:390c:bfff:ffff:ffff:ffff:ffff:ffff,2a08:390c:8000::,RIPE NCC,ripe.net,isp,AS3269,Telecom Italia S.p.A.,telecomitalia.com,isp,IT
-2c06:2b61:c000::,2c06:2b61:ffff:ffff:ffff:ffff:ffff:ffff,2c06:2b61:c000::,African Network Information Center - (AfriNIC) Ltd,afrinic.net,isp,AS5713,Telkom SA Ltd.,telkom.co.za,isp,MU
-219.166.233.184,219.166.233.207,219.166.0.0,NTT COMMUNICATIONS CORPORATION,ntt.com,isp,AS4713,NTT Communications Corporation,ntt.com,isp,JP
-2c01:6d77:4000::,2c01:6d77:7fff:ffff:ffff:ffff:ffff:ffff,2c01:6d77:4000::,African Network Information Center - (AfriNIC) Ltd,afrinic.net,isp,AS5713,Telkom SA Ltd.,telkom.co.za,isp,MU
-2a00:2381:129e::,2a00:2381:129e:ffff:ffff:ffff:ffff:ffff,2a00:2381::,0000297282-Rob Jones T_A USP Content,bt.com,isp,AS2856,British Telecommunications PLC,bt.com,isp,GB
-2a04:dc6f:c000::,2a04:dc6f:ffff:ffff:ffff:ffff:ffff:ffff,2a04:dc6f:c000::,RIPE NCC,ripe.net,isp,AS3269,Telecom Italia S.p.A.,telecomitalia.com,isp,IT
-2c0f:e64a:4000::,2c0f:e64a:7fff:ffff:ffff:ffff:ffff:ffff,2c0f:e64a:4000::,African Network Information Center - (AfriNIC) Ltd,afrinic.net,isp,AS5713,Telkom SA Ltd.,telkom.co.za,isp,MU
-2c02:a237::,2c02:a237:3fff:ffff:ffff:ffff:ffff:ffff,2c02:a237::,African Network Information Center - (AfriNIC) Ltd,afrinic.net,isp,AS5713,Telkom SA Ltd.,telkom.co.za,isp,MU
-2a06:cbf1:4000::,2a06:cbf1:7fff:ffff:ffff:ffff:ffff:ffff,2a06:cbf1:4000::,RIPE NCC,ripe.net,isp,AS3269,Telecom Italia S.p.A.,telecomitalia.com,isp,IT
-2404:29b0::,2404:29b0:3fff:ffff:ffff:ffff:ffff:ffff,2404:29b0::,Asia Pacific Network Information Centre,net.ru,isp,AS4134,CHINANET-BACKBONE,chinatelecom.com.cn,isp,AU
-200.2.131.40,200.2.131.47,200.2.0.0,Concern_World_wide,accesshaiti.com,isp,AS27759,ACCESS HAITI S.A.,accesshaiti.net,isp,HT
-194.151.232.232,194.151.232.239,194.151.0.0,Syngenta Crop Protection,syngenta.com,business,AS1136,KPN B.V.,idstrategy.com.ua,isp,NL
-2a00:46f7::,2a00:46f7:3fff:ffff:ffff:ffff:ffff:ffff,2a00:46f7::,RIPE NCC,ripe.net,isp,AS3269,Telecom Italia S.p.A.,telecomitalia.com,isp,IT
-2a12:73c3:c000::,2a12:73c3:ffff:ffff:ffff:ffff:ffff:ffff,2a12:73c3:c000::,BlueRay LLC,blueray.io,hosting,AS400842,Tunbroker LLC,tunbroker.io,hosting,FR
-2a0a:b6cb:c000::,2a0a:b6cb:ffff:ffff:ffff:ffff:ffff:ffff,2a0a:b6cb:c000::,RIPE NCC,ripe.net,isp,AS3269,Telecom Italia S.p.A.,telecomitalia.com,isp,IT
-115.236.170.172,115.236.170.175,115.236.0.0,"Hangzhou series machinery co., LTD",189.cn,isp,AS4134,CHINANET-BACKBONE,chinatelecom.com.cn,isp,CN
-213.26.223.252,213.26.224.63,213.26.0.0,Telecom Italia S.p.A.,telecomitalia.com,isp,AS3269,Telecom Italia S.p.A.,telecomitalia.com,isp,IT
-2c09:fc2e:8000::,2c09:fc2e:bfff:ffff:ffff:ffff:ffff:ffff,2c09:fc2e:8000::,African Network Information Center - (AfriNIC) Ltd,afrinic.net,isp,AS5713,Telkom SA Ltd.,telkom.co.za,isp,MU
-2a1d:7515::,2a1d:7515:3fff:ffff:ffff:ffff:ffff:ffff,2a1d:7515::,RIPE NCC,ripe.net,isp,AS3269,Telecom Italia S.p.A.,telecomitalia.com,isp,IT
-2c02:564a:c000::,2c02:564a:ffff:ffff:ffff:ffff:ffff:ffff,2c02:564a:c000::,African Network Information Center - (AfriNIC) Ltd,afrinic.net,isp,AS5713,Telkom SA Ltd.,telkom.co.za,isp,MU
-240e:3d0a::,240e:3d0a:3fff:ffff:ffff:ffff:ffff:ffff,240e:3d0a::,Chinatelecom networks with tens of high-end routers and switches,chinatelecom.cn,isp,AS4134,CHINANET-BACKBONE,chinatelecom.com.cn,isp,CN
-193.164.127.96,193.164.127.127,193.164.0.0,Redcentric Solutions Ltd,redcentricplc.com,isp,AS5552,Redcentric Solutions Ltd,redcentricplc.com,isp,GB
-124.105.27.7,124.105.27.7,124.105.0.0,SMESIL2023070641455_ENTERPRISE CLIENT,pldt.com,isp,AS9299,Philippine Long Distance Telephone Company,pldt.com,isp,PH
-81.92.208.144,81.92.208.151,81.92.0.0,CUSTOMER-CONTACT-ID-0035800001JhlexAAB,m247.com,business,AS42973,M247 UK Ltd,m24seven.com,hosting,GB
-240e:387a::,240e:387a:3fff:ffff:ffff:ffff:ffff:ffff,240e:387a::,Chinatelecom networks with tens of high-end routers and switches,chinatelecom.cn,isp,AS4134,CHINANET-BACKBONE,chinatelecom.com.cn,isp,CN
-2a01:6233:4000::,2a01:6233:7fff:ffff:ffff:ffff:ffff:ffff,2a01:6233:4000::,RIPE NCC,ripe.net,isp,AS3269,Telecom Italia S.p.A.,telecomitalia.com,isp,IT
-2c05:e0cb:4000::,2c05:e0cb:7fff:ffff:ffff:ffff:ffff:ffff,2c05:e0cb:4000::,African Network Information Center - (AfriNIC) Ltd,afrinic.net,isp,AS5713,Telkom SA Ltd.,telkom.co.za,isp,MU
-2001:50a2:4000::,2001:50a2:7fff:ffff:ffff:ffff:ffff:ffff,2001:50a2:4000::,Vodafone Limited,vodafone.com,isp,AS1273,Vodafone Group PLC,vodafone.com,isp,EU
-60.29.162.208,60.29.162.215,60.29.0.0,"Tianjin Wenguang Group Co., Ltd.",wenguang.com,business,AS4837,CHINA UNICOM China169 Backbone,chinaunicom.cn,isp,CN
-209.60.41.196,209.60.41.199,209.60.0.0,Windstream Communications LLC,onecommunications.net,isp,AS7029,Windstream Communications LLC,windstream.com,isp,US
-2a14:98c0:c000::,2a14:98c0:ffff:ffff:ffff:ffff:ffff:ffff,2a14:98c0:c000::,RIPE NCC,ripe.net,isp,AS3269,Telecom Italia S.p.A.,telecomitalia.com,isp,IT
-240b:cc31:4000::,240b:cc31:7fff:ffff:ffff:ffff:ffff:ffff,240b:cc31:4000::,Asia Pacific Network Information Centre,net.ru,isp,AS4134,CHINANET-BACKBONE,chinatelecom.com.cn,isp,AU
-240a:7d96:8000::,240a:7d96:bfff:ffff:ffff:ffff:ffff:ffff,240a:7d96:8000::,Asia Pacific Network Information Centre,net.ru,isp,AS4134,CHINANET-BACKBONE,chinatelecom.com.cn,isp,AU
-2c04:2b30::,2c04:2b30:3fff:ffff:ffff:ffff:ffff:ffff,2c04:2b30::,African Network Information Center - (AfriNIC) Ltd,afrinic.net,isp,AS5713,Telkom SA Ltd.,telkom.co.za,isp,MU
-2a0f:8490:8000::,2a0f:8490:bfff:ffff:ffff:ffff:ffff:ffff,2a0f:8490:8000::,RIPE NCC,ripe.net,isp,AS3269,Telecom Italia S.p.A.,telecomitalia.com,isp,IT
-2a1a:4138:c000::,2a1a:4138:ffff:ffff:ffff:ffff:ffff:ffff,2a1a:4138:c000::,RIPE NCC,ripe.net,isp,AS3269,Telecom Italia S.p.A.,telecomitalia.com,isp,IT
-65.64.57.232,65.64.57.239,65.64.0.0,AT&T Corp.,att.com,isp,AS7018,"AT&T Services, Inc.",att.com,isp,US
-93.42.217.192,93.42.217.199,93.42.0.0,STUDIO ASSOCIATO NORDIO VIANELLO public subnet,mnvstudio.it,business,AS12874,Fastweb SpA,fastweb.it,isp,IT
-69.21.114.12,69.21.114.31,69.21.0.0,TDS TELECOM,tdstelecom.com,isp,AS4181,TDS TELECOM,tdstelecom.com,isp,US
-209.14.236.0,209.14.239.255,209.14.0.0,LGTEL61 Internet LTDA,persisinternet.com.br,isp,AS28305,PERSIS INTERNET LTDA,persisinternet.com.br,isp,BR
-2a02:560:80eb::,2a02:560:80eb:ffff:ffff:ffff:ffff:ffff,2a02:560:8000::,GETEC ENERGIE GmbH,getec-energie.de,business,AS13045,htp GmbH,htp.net,isp,DE
-2a15:1e89:8000::,2a15:1e89:bfff:ffff:ffff:ffff:ffff:ffff,2a15:1e89:8000::,RIPE NCC,ripe.net,isp,AS3269,Telecom Italia S.p.A.,telecomitalia.com,isp,IT
-2a1b:6c98:8000::,2a1b:6c98:bfff:ffff:ffff:ffff:ffff:ffff,2a1b:6c98:8000::,RIPE NCC,ripe.net,isp,AS3269,Telecom Italia S.p.A.,telecomitalia.com,isp,IT
-69.71.193.72,69.71.193.79,69.71.0.0,California Telecom Inc- For Quadra Use Only,quadranet.com,business,AS46446,California Telecom,californiatelecom.com,isp,US
-2a09:eedd:8000::,2a09:eedd:bfff:ffff:ffff:ffff:ffff:ffff,2a09:eedd:8000::,RIPE NCC,ripe.net,isp,AS3269,Telecom Italia S.p.A.,telecomitalia.com,isp,IT
-2403:b8e7:c000::,2403:b8e7:ffff:ffff:ffff:ffff:ffff:ffff,2403:b8e7:c000::,Asia Pacific Network Information Centre,net.ru,isp,AS4134,CHINANET-BACKBONE,chinatelecom.com.cn,isp,AU
-2400:3e6d::,2400:3e6d:3fff:ffff:ffff:ffff:ffff:ffff,2400:3e6d::,Asia Pacific Network Information Centre,net.ru,isp,AS4134,CHINANET-BACKBONE,chinatelecom.com.cn,isp,AU
-240a:6da6:8000::,240a:6da6:bfff:ffff:ffff:ffff:ffff:ffff,240a:6da6:8000::,Asia Pacific Network Information Centre,net.ru,isp,AS4134,CHINANET-BACKBONE,chinatelecom.com.cn,isp,AU
-221.246.76.112,221.246.76.127,221.246.0.0,ARTERIA Networks Corporation,vectant.ne.jp,isp,AS17506,ARTERIA Networks Corporation,arteria-net.com,isp,JP
-2a1d:56d1:c000::,2a1d:56d1:ffff:ffff:ffff:ffff:ffff:ffff,2a1d:56d1:c000::,RIPE NCC,ripe.net,isp,AS3269,Telecom Italia S.p.A.,telecomitalia.com,isp,IT
-2404:237:c000::,2404:237:ffff:ffff:ffff:ffff:ffff:ffff,2404:237:c000::,Asia Pacific Network Information Centre,net.ru,isp,AS4134,CHINANET-BACKBONE,chinatelecom.com.cn,isp,AU
-2a19:f336:c000::,2a19:f336:ffff:ffff:ffff:ffff:ffff:ffff,2a19:f336:c000::,RIPE NCC,ripe.net,isp,AS3269,Telecom Italia S.p.A.,telecomitalia.com,isp,IT
-122.192.228.0,122.192.231.255,122.192.0.0,"SANHUANDONG-BAS,XUZHOU,JIANGSU Province",chinaunicom.cn,isp,AS4837,CHINA UNICOM China169 Backbone,chinaunicom.cn,isp,CN
-2c03:26ad:8000::,2c03:26ad:bfff:ffff:ffff:ffff:ffff:ffff,2c03:26ad:8000::,African Network Information Center - (AfriNIC) Ltd,afrinic.net,isp,AS5713,Telkom SA Ltd.,telkom.co.za,isp,MU
-2a01:e776:8000::,2a01:e776:bfff:ffff:ffff:ffff:ffff:ffff,2a01:e776:8000::,RIPE NCC,ripe.net,isp,AS3269,Telecom Italia S.p.A.,telecomitalia.com,isp,IT
-2a08:6b5d::,2a08:6b5d:3fff:ffff:ffff:ffff:ffff:ffff,2a08:6b5d::,RIPE NCC,ripe.net,isp,AS3269,Telecom Italia S.p.A.,telecomitalia.com,isp,IT
-2a01:ab4b:4000::,2a01:ab4b:7fff:ffff:ffff:ffff:ffff:ffff,2a01:ab4b:4000::,RIPE NCC,ripe.net,isp,AS3269,Telecom Italia S.p.A.,telecomitalia.com,isp,IT
-90.83.230.39,90.83.230.40,90.83.0.0,OBS Customer,orange-business.com,isp,AS3215,Orange S.A.,orange.com,isp,FR
-2406:d143:4000::,2406:d143:7fff:ffff:ffff:ffff:ffff:ffff,2406:d143:4000::,Asia Pacific Network Information Centre,net.ru,isp,AS4134,CHINANET-BACKBONE,chinatelecom.com.cn,isp,AU
-12.108.200.160,12.108.200.215,12.108.0.0,"AT&T Services, Inc.",att.com,isp,AS7018,"AT&T Services, Inc.",att.com,isp,US
-2a19:6dd0:c000::,2a19:6dd0:ffff:ffff:ffff:ffff:ffff:ffff,2a19:6dd0:c000::,RIPE NCC,ripe.net,isp,AS3269,Telecom Italia S.p.A.,telecomitalia.com,isp,IT
+2a01:7b8:2000:101::,2a01:7b8:2000:105:ffff:ffff:ffff:ffff,2a01:7b8::,Tagadab Customer,simplyhosting.com,hosting,AS34920,Simply Transit Ltd,simplytransit.net,hosting,GB
+78.110.162.208,78.110.162.223,78.110.0.0,ELM00,ukservers.com,hosting,AS42831,UK Dedicated Servers Limited,ukservers.com,hosting,GB
+2a02:b7c5:4000::,2a02:b7c5:7fff:ffff:ffff:ffff:ffff:ffff,2a02:b7c5:4000::,RIPE NCC,ripe.net,isp,AS3269,Telecom Italia S.p.A.,telecomitalia.com,isp,IT
+204.98.97.168,204.98.97.175,204.98.0.0,AMAZON.COM.DEDC LLC-BFI6,amazon.com,business,AS209,"CenturyLink Communications, LLC",lumen.com,isp,US
+2a09:7aa5:4000::,2a09:7aa5:7fff:ffff:ffff:ffff:ffff:ffff,2a09:7aa5:4000::,RIPE NCC,ripe.net,isp,AS3269,Telecom Italia S.p.A.,telecomitalia.com,isp,IT
+2a04:911b:4000::,2a04:911b:7fff:ffff:ffff:ffff:ffff:ffff,2a04:911b:4000::,RIPE NCC,ripe.net,isp,AS3269,Telecom Italia S.p.A.,telecomitalia.com,isp,IT
+2c0c:bbd3:8000::,2c0c:bbd3:bfff:ffff:ffff:ffff:ffff:ffff,2c0c:bbd3:8000::,African Network Information Center - (AfriNIC) Ltd,afrinic.net,isp,AS5713,Telkom SA Ltd.,telkom.co.za,isp,MU
+2405:7aee:8000::,2405:7aee:bfff:ffff:ffff:ffff:ffff:ffff,2405:7aee:8000::,Asia Pacific Network Information Centre,net.ru,isp,AS4134,CHINANET-BACKBONE,chinatelecom.com.cn,isp,AU
+2a14:a215:8000::,2a14:a215:bfff:ffff:ffff:ffff:ffff:ffff,2a14:a215:8000::,RIPE NCC,ripe.net,isp,AS3269,Telecom Italia S.p.A.,telecomitalia.com,isp,IT
+5.175.28.86,5.175.28.87,5.175.0.0,Thomas Hoth,heg.com,business,AS20773,Host Europe GmbH,hosteurope.de,hosting,DE
+2a14:b82d::,2a14:b82d:3fff:ffff:ffff:ffff:ffff:ffff,2a14:b82d::,RIPE NCC,ripe.net,isp,AS3269,Telecom Italia S.p.A.,telecomitalia.com,isp,IT
+217.108.1.128,217.108.1.143,217.108.0.0,Orange Business Services,orange.com,isp,AS3215,Orange S.A.,orange.com,isp,FR
+104.218.0.0,104.218.7.255,104.218.0.0,"Monon Telephone Company, Inc.",monontelephone.com,isp,AS32703,Zayo Bandwidth,zayo.com,hosting,US
+2c03:4f4c::,2c03:4f4c:3fff:ffff:ffff:ffff:ffff:ffff,2c03:4f4c::,African Network Information Center - (AfriNIC) Ltd,afrinic.net,isp,AS5713,Telkom SA Ltd.,telkom.co.za,isp,MU
+2a0f:215a:4000::,2a0f:215a:7fff:ffff:ffff:ffff:ffff:ffff,2a0f:215a:4000::,RIPE NCC,ripe.net,isp,AS3269,Telecom Italia S.p.A.,telecomitalia.com,isp,IT
+2a1f:2f2:8000::,2a1f:2f2:bfff:ffff:ffff:ffff:ffff:ffff,2a1f:2f2:8000::,RIPE NCC,ripe.net,isp,AS3269,Telecom Italia S.p.A.,telecomitalia.com,isp,IT
+94.90.146.160,94.90.146.167,94.90.0.0,Telecom Italia S.p.A.,telecomitalia.com,isp,AS3269,Telecom Italia S.p.A.,telecomitalia.com,isp,IT
+2a01:5ff1:8000::,2a01:5ff1:bfff:ffff:ffff:ffff:ffff:ffff,2a01:5ff1:8000::,RIPE NCC,ripe.net,isp,AS3269,Telecom Italia S.p.A.,telecomitalia.com,isp,IT
+2a1b:468a::,2a1b:468a:3fff:ffff:ffff:ffff:ffff:ffff,2a1b:468a::,RIPE NCC,ripe.net,isp,AS3269,Telecom Italia S.p.A.,telecomitalia.com,isp,IT
+2c08:8b80::,2c08:8b80:3fff:ffff:ffff:ffff:ffff:ffff,2c08:8b80::,African Network Information Center - (AfriNIC) Ltd,afrinic.net,isp,AS5713,Telkom SA Ltd.,telkom.co.za,isp,MU
+2a1c:d584:c000::,2a1c:d584:ffff:ffff:ffff:ffff:ffff:ffff,2a1c:d584:c000::,RIPE NCC,ripe.net,isp,AS3269,Telecom Italia S.p.A.,telecomitalia.com,isp,IT
+185.104.251.0,185.104.251.255,185.104.0.0,FIRST SERVER LIMITED,first-server.net,hosting,AS205090,FIRST SERVER LIMITED,first-server.net,hosting,RU
+2402:c322:4000::,2402:c322:7fff:ffff:ffff:ffff:ffff:ffff,2402:c322:4000::,Asia Pacific Network Information Centre,net.ru,isp,AS4134,CHINANET-BACKBONE,chinatelecom.com.cn,isp,AU
+2a19:27a4:8000::,2a19:27a4:bfff:ffff:ffff:ffff:ffff:ffff,2a19:27a4:8000::,RIPE NCC,ripe.net,isp,AS3269,Telecom Italia S.p.A.,telecomitalia.com,isp,IT
+2408:8122:8000::,2408:8122:bfff:ffff:ffff:ffff:ffff:ffff,2408:8122:8000::,China Unicom,chinaunicom.cn,isp,AS4837,CHINA UNICOM China169 Backbone,chinaunicom.cn,isp,CN
+217.139.184.0,217.139.184.175,217.139.0.0,The Noor Group,noor.net,isp,AS20928,The Noor Group,noor.net,isp,EG
+2409:92d8:8000::,2409:92d8:bfff:ffff:ffff:ffff:ffff:ffff,2409:92d8:8000::,Asia Pacific Network Information Centre,net.ru,isp,AS4134,CHINANET-BACKBONE,chinatelecom.com.cn,isp,AU
+2404:1add:8000::,2404:1add:bfff:ffff:ffff:ffff:ffff:ffff,2404:1add:8000::,Asia Pacific Network Information Centre,net.ru,isp,AS4134,CHINANET-BACKBONE,chinatelecom.com.cn,isp,AU
+194.73.245.248,194.73.245.255,194.73.0.0,FTIP007868283 IP MASTER,bt.com,isp,AS2856,British Telecommunications PLC,bt.com,isp,GB
+2a17:7f3c:8000::,2a17:7f3c:bfff:ffff:ffff:ffff:ffff:ffff,2a17:7f3c:8000::,RIPE NCC,ripe.net,isp,AS3269,Telecom Italia S.p.A.,telecomitalia.com,isp,IT
+2a1a:1829:4000::,2a1a:1829:7fff:ffff:ffff:ffff:ffff:ffff,2a1a:1829:4000::,RIPE NCC,ripe.net,isp,AS3269,Telecom Italia S.p.A.,telecomitalia.com,isp,IT
+2c0f:2c0f:8000::,2c0f:2c0f:bfff:ffff:ffff:ffff:ffff:ffff,2c0f:2c0f:8000::,African Network Information Center - (AfriNIC) Ltd,afrinic.net,isp,AS5713,Telkom SA Ltd.,telkom.co.za,isp,MU
+119.92.90.72,119.92.90.79,119.92.0.0,IPG,pldt.com,isp,AS9299,Philippine Long Distance Telephone Company,pldt.com,isp,PH
+2a01:9869:4000::,2a01:9869:7fff:ffff:ffff:ffff:ffff:ffff,2a01:9869:4000::,RIPE NCC,ripe.net,isp,AS3269,Telecom Italia S.p.A.,telecomitalia.com,isp,IT
+2a19:fcbd:4000::,2a19:fcbd:7fff:ffff:ffff:ffff:ffff:ffff,2a19:fcbd:4000::,RIPE NCC,ripe.net,isp,AS3269,Telecom Italia S.p.A.,telecomitalia.com,isp,IT
+2a16:60b6:4000::,2a16:60b6:7fff:ffff:ffff:ffff:ffff:ffff,2a16:60b6:4000::,RIPE NCC,ripe.net,isp,AS3269,Telecom Italia S.p.A.,telecomitalia.com,isp,IT
+138.199.118.120,138.199.118.127,138.199.0.0,Simpatico Systems LLC,simpat.co,business,AS15164,Unite Private Networks LLC.,uniteprivatenetworks.com,isp,US
+212.170.153.232,212.170.153.239,212.170.0.0,GRUPO GARNICA PLYWOOD S.A.,garnica.one,business,AS3352,TELEFONICA DE ESPANA S.A.U.,movistar.es,isp,ES
+92.60.159.0,92.60.159.255,92.60.0.0,PBS,pbs.dk,hosting,AS199773,Nets Denmark A/S,nets.eu,hosting,DK
+209.201.80.200,209.201.80.207,209.201.0.0,HNN ASSOCIATES LLC,hnnwa.com,business,AS209,"CenturyLink Communications, LLC",lumen.com,isp,US
+79.134.217.160,79.134.217.167,79.134.0.0,"Obit, Ltd.",obit.ru,isp,AS8492,"""OBIT"" Ltd.",obit.ru,isp,RU
+92.37.203.128,92.37.206.255,92.37.0.0,"PPPoE xDSL links in Komsomolsk-at-Amur town, ATS-578 node",kht.ru,business,AS12389,PJSC Rostelecom,rt.ru,isp,RU
+2c05:2aef::,2c05:2aef:3fff:ffff:ffff:ffff:ffff:ffff,2c05:2aef::,African Network Information Center - (AfriNIC) Ltd,afrinic.net,isp,AS5713,Telkom SA Ltd.,telkom.co.za,isp,MU
+240c:bc5d:4000::,240c:bc5d:7fff:ffff:ffff:ffff:ffff:ffff,240c:bc5d:4000::,Asia Pacific Network Information Centre,net.ru,isp,AS4134,CHINANET-BACKBONE,chinatelecom.com.cn,isp,AU
+80.72.225.88,80.72.225.95,80.72.0.0,fiber optic backbone operator Deom Plus OOO.,bataysk.ru,business,AS20870,Joint Stock Company TransTeleCom,ttk.ru,isp,RU
+2a06:15c7:8000::,2a06:15c7:bfff:ffff:ffff:ffff:ffff:ffff,2a06:15c7:8000::,Foliateam Operateur SAS,foliateam.com,hosting,AS29513,Foliateam Operateur SAS,foliateam.com,hosting,FR
+2a02:8bf8::,2a02:8bf8:3fff:ffff:ffff:ffff:ffff:ffff,2a02:8bf8::,RIPE NCC,ripe.net,isp,AS3269,Telecom Italia S.p.A.,telecomitalia.com,isp,IT
+185.17.70.160,185.17.70.175,185.17.0.0,Parashift AG,parashift.io,hosting,AS198249,Ops One AG,opsone.ch,hosting,CH
+2c0d:1387:8000::,2c0d:1387:bfff:ffff:ffff:ffff:ffff:ffff,2c0d:1387:8000::,African Network Information Center - (AfriNIC) Ltd,afrinic.net,isp,AS5713,Telkom SA Ltd.,telkom.co.za,isp,MU
+2402:e37b:4000::,2402:e37b:7fff:ffff:ffff:ffff:ffff:ffff,2402:e37b:4000::,Asia Pacific Network Information Centre,net.ru,isp,AS4134,CHINANET-BACKBONE,chinatelecom.com.cn,isp,AU
+2a01:4f8:10a:3c12::,2a01:4f8:10a:3c12:ffff:ffff:ffff:ffff,2a01:4f8::,HOS-1170172,hetzner.com,hosting,AS24940,Hetzner Online GmbH,hetzner.de,hosting,DE
+2.226.37.0,2.226.37.255,2.226.0.0,PAT/NAT IP addresses POP 3101 for,fastweb.it,isp,AS12874,Fastweb SpA,fastweb.it,isp,IT
+2c04:69e5::,2c04:69e5:3fff:ffff:ffff:ffff:ffff:ffff,2c04:69e5::,African Network Information Center - (AfriNIC) Ltd,afrinic.net,isp,AS5713,Telkom SA Ltd.,telkom.co.za,isp,MU
+2a03:d9c1:c100::,2a03:d9c1:c6ff:ffff:ffff:ffff:ffff:ffff,2a03:d9c1:c000::,xTom,xtom.com,hosting,AS3214,xTom GmbH,xtom.com,hosting,NL
+2c0d:acd9:8000::,2c0d:acd9:bfff:ffff:ffff:ffff:ffff:ffff,2c0d:acd9:8000::,African Network Information Center - (AfriNIC) Ltd,afrinic.net,isp,AS5713,Telkom SA Ltd.,telkom.co.za,isp,MU
+2c0c:d449:8000::,2c0c:d449:bfff:ffff:ffff:ffff:ffff:ffff,2c0c:d449:8000::,African Network Information Center - (AfriNIC) Ltd,afrinic.net,isp,AS5713,Telkom SA Ltd.,telkom.co.za,isp,MU
+2a18:abbe::,2a18:abbe:3fff:ffff:ffff:ffff:ffff:ffff,2a18:abbe::,RIPE NCC,ripe.net,isp,AS3269,Telecom Italia S.p.A.,telecomitalia.com,isp,IT
+2a0a:c6f8:c000::,2a0a:c6f8:ffff:ffff:ffff:ffff:ffff:ffff,2a0a:c6f8:c000::,RIPE NCC,ripe.net,isp,AS3269,Telecom Italia S.p.A.,telecomitalia.com,isp,IT
+2a1f:29f4:4000::,2a1f:29f4:7fff:ffff:ffff:ffff:ffff:ffff,2a1f:29f4:4000::,RIPE NCC,ripe.net,isp,AS3269,Telecom Italia S.p.A.,telecomitalia.com,isp,IT
+185.196.37.108,185.196.37.109,185.196.0.0,Miss Hosting AB,misshosting.se,hosting,AS200719,Miss Hosting AB,misshosting.se,hosting,SE
+195.58.22.188,195.58.22.191,195.58.0.0,PJSC Vimpelcom,sovintel.ru,isp,AS3253,"PJSC ""Vimpelcom""",beeline.ru,isp,RU
+38.111.160.32,38.111.160.63,38.111.0.0,"GBQ Partners, LLC",gbq.com,business,AS174,Cogent Communications,cogentco.com,isp,US
+2a1e:278e:c000::,2a1e:278e:ffff:ffff:ffff:ffff:ffff:ffff,2a1e:278e:c000::,RIPE NCC,ripe.net,isp,AS3269,Telecom Italia S.p.A.,telecomitalia.com,isp,IT
+2c0d:745:c000::,2c0d:745:ffff:ffff:ffff:ffff:ffff:ffff,2c0d:745:c000::,African Network Information Center - (AfriNIC) Ltd,afrinic.net,isp,AS5713,Telkom SA Ltd.,telkom.co.za,isp,MU
+75.53.58.224,75.53.58.231,75.53.0.0,TRUSWAL SYSTEMS CORP-061211062133,truswal.com,business,AS7018,"AT&T Services, Inc.",att.com,isp,US
+63.203.32.160,63.203.32.191,63.203.0.0,"AT&T Services, Inc.",att.com,isp,AS7018,"AT&T Services, Inc.",att.com,isp,US
+2405:f29c:4000::,2405:f29c:7fff:ffff:ffff:ffff:ffff:ffff,2405:f29c:4000::,Asia Pacific Network Information Centre,net.ru,isp,AS4134,CHINANET-BACKBONE,chinatelecom.com.cn,isp,AU
+2a0e:7652:4000::,2a0e:7652:7fff:ffff:ffff:ffff:ffff:ffff,2a0e:7652:4000::,RIPE NCC,ripe.net,isp,AS3269,Telecom Italia S.p.A.,telecomitalia.com,isp,IT
+2a07:3a2d:8000::,2a07:3a2d:bfff:ffff:ffff:ffff:ffff:ffff,2a07:3a2d:8000::,RIPE NCC,ripe.net,isp,AS3269,Telecom Italia S.p.A.,telecomitalia.com,isp,IT
+2a1c:4f4b:c000::,2a1c:4f4b:ffff:ffff:ffff:ffff:ffff:ffff,2a1c:4f4b:c000::,RIPE NCC,ripe.net,isp,AS3269,Telecom Italia S.p.A.,telecomitalia.com,isp,IT
+2a16:1ed1:4000::,2a16:1ed1:7fff:ffff:ffff:ffff:ffff:ffff,2a16:1ed1:4000::,RIPE NCC,ripe.net,isp,AS3269,Telecom Italia S.p.A.,telecomitalia.com,isp,IT
+81.192.161.164,81.192.161.167,81.192.0.0,SGMB,menara.ma,business,AS6713,Office National des Postes et Telecommunications ONPT (Maroc Telecom) / IAM,iam.net.ma,isp,MA
+2a18:dcea:8000::,2a18:dcea:bfff:ffff:ffff:ffff:ffff:ffff,2a18:dcea:8000::,RIPE NCC,ripe.net,isp,AS3269,Telecom Italia S.p.A.,telecomitalia.com,isp,IT
+2c0d:d332:c000::,2c0d:d332:ffff:ffff:ffff:ffff:ffff:ffff,2c0d:d332:c000::,African Network Information Center - (AfriNIC) Ltd,afrinic.net,isp,AS5713,Telkom SA Ltd.,telkom.co.za,isp,MU
+2a18:727e:4000::,2a18:727e:7fff:ffff:ffff:ffff:ffff:ffff,2a18:727e:4000::,RIPE NCC,ripe.net,isp,AS3269,Telecom Italia S.p.A.,telecomitalia.com,isp,IT
+220.110.168.184,220.110.168.191,220.110.0.0,NTT COMMUNICATIONS CORPORATION,ntt.com,isp,AS4713,NTT Communications Corporation,ntt.com,isp,JP
+2404:4993:4000::,2404:4993:7fff:ffff:ffff:ffff:ffff:ffff,2404:4993:4000::,Asia Pacific Network Information Centre,net.ru,isp,AS4134,CHINANET-BACKBONE,chinatelecom.com.cn,isp,AU
+66.122.58.120,66.122.58.127,66.122.0.0,S R M Associates,srmassociates.com,business,AS7018,"AT&T Services, Inc.",att.com,isp,US
+195.6.82.28,195.6.82.31,195.6.0.0,Orange S.A.,orange.com,isp,AS3215,Orange S.A.,orange.com,isp,FR
+2a12:5a6e:c000::,2a12:5a6e:ffff:ffff:ffff:ffff:ffff:ffff,2a12:5a6e:c000::,RIPE NCC,ripe.net,isp,AS3269,Telecom Italia S.p.A.,telecomitalia.com,isp,IT
+2a18:6e3e::,2a18:6e3e:3fff:ffff:ffff:ffff:ffff:ffff,2a18:6e3e::,RIPE NCC,ripe.net,isp,AS3269,Telecom Italia S.p.A.,telecomitalia.com,isp,IT
+124.104.66.216,124.104.66.223,124.104.0.0,18-3245433_SIBS PUBLISHING HOUS,pldt.com,isp,AS9299,Philippine Long Distance Telephone Company,pldt.com,isp,PH
+99.128.121.16,99.128.121.23,99.128.0.0,ATT-080213164036,att.com,isp,AS7018,"AT&T Services, Inc.",att.com,isp,US
+2c00:bfd0::,2c00:bfd0:3fff:ffff:ffff:ffff:ffff:ffff,2c00:bfd0::,African Network Information Center - (AfriNIC) Ltd,afrinic.net,isp,AS5713,Telkom SA Ltd.,telkom.co.za,isp,MU
+2003:40:8022::,2003:40:8024:ffff:ffff:ffff:ffff:ffff,2003:40:8000::,Deutsche Telekom AG,telekom.de,isp,AS3320,Deutsche Telekom AG,telekom.de,isp,DE
+2a0b:753b:8000::,2a0b:753b:bfff:ffff:ffff:ffff:ffff:ffff,2a0b:753b:8000::,RIPE NCC,ripe.net,isp,AS3269,Telecom Italia S.p.A.,telecomitalia.com,isp,IT
+2404:90e6:c000::,2404:90e6:ffff:ffff:ffff:ffff:ffff:ffff,2404:90e6:c000::,Asia Pacific Network Information Centre,net.ru,isp,AS4134,CHINANET-BACKBONE,chinatelecom.com.cn,isp,AU
+190.68.105.152,190.68.105.159,190.68.0.0,GASECOL.LIMITADA,telecom.com.co,isp,AS3816,COLOMBIA TELECOMUNICACIONES S.A. ESP,telefonica.co,isp,CO
+2c01:f18e:c000::,2c01:f18e:ffff:ffff:ffff:ffff:ffff:ffff,2c01:f18e:c000::,African Network Information Center - (AfriNIC) Ltd,afrinic.net,isp,AS5713,Telkom SA Ltd.,telkom.co.za,isp,MU
+212.24.75.128,212.24.75.135,212.24.0.0,ANIMAL FRIENDS INSURANCE SERVICES LTD,animalfriends.co.uk,business,AS5089,Virgin Media Limited,virginmedia.com,isp,GB
+2c05:5bce::,2c05:5bce:3fff:ffff:ffff:ffff:ffff:ffff,2c05:5bce::,African Network Information Center - (AfriNIC) Ltd,afrinic.net,isp,AS5713,Telkom SA Ltd.,telkom.co.za,isp,MU
+2c0b:37bb:8000::,2c0b:37bb:bfff:ffff:ffff:ffff:ffff:ffff,2c0b:37bb:8000::,African Network Information Center - (AfriNIC) Ltd,afrinic.net,isp,AS5713,Telkom SA Ltd.,telkom.co.za,isp,MU
+2a08:a29f:8000::,2a08:a29f:bfff:ffff:ffff:ffff:ffff:ffff,2a08:a29f:8000::,RIPE NCC,ripe.net,isp,AS3269,Telecom Italia S.p.A.,telecomitalia.com,isp,IT
+64.24.119.111,64.24.119.111,64.24.0.0,PORTAGE,portageenv.com,business,AS7029,Windstream Communications LLC,windstream.com,isp,US
+69.220.90.112,69.220.90.127,69.220.0.0,Jim's Formal Wear-041012092527,jimsfw.com,business,AS7018,"AT&T Services, Inc.",att.com,isp,US
+240d:a469:4000::,240d:a469:7fff:ffff:ffff:ffff:ffff:ffff,240d:a469:4000::,Asia Pacific Network Information Centre,net.ru,isp,AS4134,CHINANET-BACKBONE,chinatelecom.com.cn,isp,AU
+67.67.157.80,67.67.157.87,67.67.0.0,AT&T Corp.,att.com,isp,AS7018,"AT&T Services, Inc.",att.com,isp,US
+2403:fcb5:4000::,2403:fcb5:7fff:ffff:ffff:ffff:ffff:ffff,2403:fcb5:4000::,Asia Pacific Network Information Centre,net.ru,isp,AS4134,CHINANET-BACKBONE,chinatelecom.com.cn,isp,AU
+2a05:71e4:8000::,2a05:71e4:bfff:ffff:ffff:ffff:ffff:ffff,2a05:71e4:8000::,RIPE NCC,ripe.net,isp,AS3269,Telecom Italia S.p.A.,telecomitalia.com,isp,IT
+240a:35fb:8000::,240a:35fb:bfff:ffff:ffff:ffff:ffff:ffff,240a:35fb:8000::,Asia Pacific Network Information Centre,net.ru,isp,AS4134,CHINANET-BACKBONE,chinatelecom.com.cn,isp,AU
