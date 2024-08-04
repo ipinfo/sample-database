@@ -10,35 +10,6 @@ The following database schema represents the CSV database. We also provide JSON 
 
 Expand each section to learn about each database.
 
-
-<details>
-<summary>
-<h2>R WHOIS</h2>
-</summary>
-
-Parsed and normalized data we have collected from different RIRs. We also provide additional  fields to provide context to the data.
-
-| Field Name  | Example                             | Data Type | Notes                               |
-|-------------|-------------------------------------|-----------|-------------------------------------|
-| `range`     | 50.28.18.195                        | TEXT      | IP Address range/netblock           |
-| `id`        | NETBLK-GRADOCEROPUB.50.28.18.195/32 | TEXT      | Raw netblock identifier from WHOIS  |
-| `name`      | Grado Cero Publicidad S.A. de C.V.  | TEXT      | Name of netblock                    |
-| `descr`     | GRADOCEROPUB-50.28.18.195           | TEXT      | Description                         |
-| `host`      | rwhois.liquidweb.com:4321           | TEXT      | Host information                    |
-| `country`   | MX                                  | TEXT      | ISO 3166 country code               |
-| `email`     | webmaster@gradocero.com             | TEXT      | Contact email information           |
-| `abuse`     | abuse@sourcedns.com                 | TEXT      | Abuse email information             |
-| `domain`    | gradocero.com                       | TEXT      | Domain associated with the netblock |
-| `country.1` | MX                                  | TEXT      | Secondary country information       |
-| `city`      | Naucalpan de Juarez                 | TEXT      | City information                    |
-| `street`    | Calle Andes #46                     | TEXT      | Street information                  |
-| `postal`    | 53125                               | TEXT      | Postal Code information             |
-| `updated`   | 2021-01-26 00:00:00                 | TEXT      | Update date in the WHOIS registry   |
-| `imported`  | 2021-01-27 04:44:47.206483          | TEXT      | Imported date in the WHOIS registry |
-
-
-</details>
-
 <details>
 <summary>
 <h2>RIR WHOIS</h2>
@@ -74,10 +45,40 @@ RIR WHOIS data is created by parsing IP WHOIS data from the regional Internet Re
 
 <details>
 <summary>
+<h2>RWHOIS</h2>
+</summary>
+
+The ARIN region (North America) is special in that it allows ISPs and LIRs to maintain their own database instead of reporting assignments to ARIN.
+This database is called [Referral WHOIS](https://www.arin.net/resources/registry/reassignments/rwhois/) or RWHOIS.
+To cover this case we fetch data from RWHOIS servers and normalize it in a standard set of fields.
+
+| Field Name  | Example                             | Data Type | Notes                               |
+|-------------|-------------------------------------|-----------|-------------------------------------|
+| `range`     | 50.28.18.195                        | TEXT      | IP Address range/netblock           |
+| `id`        | NETBLK-GRADOCEROPUB.50.28.18.195/32 | TEXT      | Raw netblock identifier from WHOIS  |
+| `name`      | Grado Cero Publicidad S.A. de C.V.  | TEXT      | Name of netblock                    |
+| `descr`     | GRADOCEROPUB-50.28.18.195           | TEXT      | Description                         |
+| `host`      | rwhois.liquidweb.com:4321           | TEXT      | Host information                    |
+| `country`   | MX                                  | TEXT      | ISO 3166 country code               |
+| `email`     | webmaster@gradocero.com             | TEXT      | Contact email information           |
+| `abuse`     | abuse@sourcedns.com                 | TEXT      | Abuse email information             |
+| `domain`    | gradocero.com                       | TEXT      | Domain associated with the netblock |
+| `country.1` | MX                                  | TEXT      | Secondary country information       |
+| `city`      | Naucalpan de Juarez                 | TEXT      | City information                    |
+| `street`    | Calle Andes #46                     | TEXT      | Street information                  |
+| `postal`    | 53125                               | TEXT      | Postal Code information             |
+| `updated`   | 2021-01-26 00:00:00                 | TEXT      | Update date in the WHOIS registry   |
+| `imported`  | 2021-01-27 04:44:47.206483          | TEXT      | Imported date in the WHOIS registry |
+
+
+</details>
+
+<details>
+<summary>
 <h2>WHOIS ASN (Autonomous System Numbers)</h2>
 </summary>
 
-ASN Data matched to WHOIS data for contextual data.
+ASN registration information (`aut-num` objects).
 
 | Field Name | Example                         | Data Type | Notes                              |
 |------------|---------------------------------|-----------|------------------------------------|
