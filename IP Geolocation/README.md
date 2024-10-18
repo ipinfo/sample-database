@@ -8,7 +8,7 @@ Our IP geolocation data is our primary data product and is considered one of the
 
 *[data updated as of May, 2024]*
 
-The following database schema represents the CSV database. We also provide JSON and MMDB format data.
+The following database schema represents the CSV and JSON database.
 
 | Field Name    | Example          | Data Type | Notes                                                    |
 |---------------|------------------|-----------|----------------------------------------------------------|
@@ -25,9 +25,25 @@ The following database schema represents the CSV database. We also provide JSON 
 
 
 > `join_key` represents the Class C network each IP address is part of, allowing you to filter the result set significantly before `join`ing. Learn more about `join_key` [here](https://community.ipinfo.io/t/ipinfos-join-key-column-explained/5526).
-> 
+
+The following database schema represents the schema of the MMDB Standard database (`ip_geolocation_standard_sample.mmdb`).
+
+| Field Name    | Example    | Data Type | Description                                          |
+|---------------|------------|-----------|------------------------------------------------------|
+| `city`        | Yokohama   | TEXT      | City of the IP address range                         |
+| `country`     | JP         | TEXT      | Country of the IP address range                      |
+| `geoname_id`  | 1848354    | INTEGER   | Geoname_id that corresponds to geonames.org database |
+| `lat`         | 35.5354    | FLOAT     | Latitude value of the location                       |
+| `lng`         | 139.5263   | FLOAT     | Longitude value of the location                      |
+| `postal_code` | 227-0052   | TEXT      | Postal code value of the location                    |
+| `region`      | Kanagawa   | TEXT      | Region of the IP address range                       |
+| `region_code` | 14         | TEXT      | Region code associated with geonames.org database    |
+| `timezone`    | Asia/Tokyo | TEXT      | Timezone of the location                             |
+
+> As not all IP addresses are available in the sample MMDB database, please refer to the `ip_geolocation_standard_sample_ips.txt` to get the ranges that have their data available in the MMDB file.
+
 > Please refer to "[How to choose the best file format for your IPinfo database?](https://ipinfo.io/blog/ipinfo-database-formats/)" article to select the best format possible for your use case.
->
+
 > The usage of the IP data downloads relies on the software or application of the data. Check out our [documentation](https://ipinfo.io/developers/database-download), [community](https://community.ipinfo.io/c/docs/8), and our [integrations](https://ipinfo.io/integrations) pages to find the best path forward.
 
 # API Response
@@ -62,6 +78,8 @@ Response:
 - [CSV Database] [IP Geolocation Database Sample](/IP%20Geolocation/ip_geolocation_sample.csv)
 - [JSON Database] [IP Geolocation Database Sample](/IP%20Geolocation/ip_geolocation_sample.json)
 - [MMDB Database] [IP Geolocation Database Sample](/IP%20Geolocation/ip_geolocation_sample.mmdb)
+- [MMDB Database (Standard)] [IP Geolocation Standard Database Sample](/IP%20Geolocation/ip_geolocation_standard_sample.mmdb)
+- [Sample IP Ranges for the MMDB Database (Standard)] [Sample IP ranges for IP Geolocation Standard Database MMDB sample dataset](/IP%20Geolocation/sample_ip_ranges_ip_geolocation_standard_mmdb.txt)
 - [API] [IP Geolocation API Response Sample](/IP%20Geolocation/ip_geolocation_api_sample.json)
 
 # Guides, Resources & Links
