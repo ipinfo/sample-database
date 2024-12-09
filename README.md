@@ -65,6 +65,7 @@ We offer a few detailed database that comes with additional columns that gives i
 |-------------------------------------------|----------------------------------------------------------------------------|---------------------------------------------------------------|
 | IP to Geolocation Extended Database       | [IP to Geolocation Extended Sample](/IP%20Geolocation%20Extended)          | IP to Geolocation database with accuracy radius               |
 | IP to Privacy Detection Extended Database | [IP to Privacy Detection Extended Sample](/Privacy%20Detection%20Extended) | IP to Privacy Detection database detection method information |
+| IP to Residential Proxy Database          | [IP to Residential Proxy Sample](/IP%20Residential%20Proxy)                | IP to residential proxy or ISP proxy detection data           |
 
 
 **All of these products are available as CSV, JSON and MMDB type.**
@@ -363,9 +364,25 @@ You can find the schema, database sample, API response sample, and other informa
 | `vpn_config`      | True          | True: if we've identified this IP in a VPN config file                                                                               |
 | `census_port`     | 500           | Port number we've identified VPN software running on                                                                                 |
 
-</details>
 
 <details id=13>
+<summary><h2>Residential Proxy Detection Database</h2></summary>
+
+**Identify residential proxy IPs, including mobile network proxies, from more than 100 services**
+
+You can find the schema, database sample, and other information in the **[Residential Proxy Detection folder](/IP%20Residential%20Proxy)**. The database includes the following fields:
+
+| Fields              | Example          | Description                                                                                                                                                      |
+|---------------------|------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| `ip`                | 38.222.31.85     | IP address associated with a residential proxy.                                                                                                                  |
+| `service`           | lightningproxies | Name of the residential proxy service. Carrier/mobile services are suffixed with `_mobile` (e.g., soax_mobile).                                                  |
+| `last_seen`         | 2024-09-07       | Last recorded active date of a residential proxy IP in ISO 8601 format (YYYY-MM-DD), with the timezone set to UTC.                                               |
+| `percent_days_seen` | 2                | Integer representing the percentage of days an IP was active over the past 90 days, indicating its activity level and frequency within a residential proxy pool. |
+
+
+</details>
+
+<details id=14>
 <summary><h2>WHOIS</h2></summary>
 
 
@@ -422,7 +439,7 @@ You can find the schema, database sample, API response sample, and other informa
 
 
 
-<details id=14>
+<details id=15>
 <summary><h3>Other WHOIS Databases</h3></summary>
 
 Other kinds of WHOIS Database IPinfo offers:
