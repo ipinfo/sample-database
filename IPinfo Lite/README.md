@@ -59,7 +59,7 @@ The `country_asn` data download is structured based on IP ranges (`start_ip` and
 - [JSON Database] [IP to Country + ASN Database Sample](/IP%20to%20Country%20ASN/ip_country_asn_sample.json)
 - [MMDB Database] [IP to Database + ASN Sample](/IP%20to%20Country%20ASN/ip_country_asn_sample.mmdb)
 
-<details>
+</details>
 
 ## Downloadable File Formats
 
