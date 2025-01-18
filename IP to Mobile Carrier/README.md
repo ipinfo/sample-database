@@ -7,12 +7,12 @@
 *[data updated as of January, 2025]*
 
 | Field Name  | Example          | Data Type | Description                                       |
-|-------------|------------------|-----------|---------------------------------------------------|
+| ----------- | ---------------- | --------- | ------------------------------------------------- |
 | **network** | `90.50.223.0/24` | TEXT      | CIDR or single IP address of the IP address block |
 | **name**    | `Orange`         | TEXT      | Name of the mobile carrier organization           |
 | **country** | `FR`             | TEXT      | ISO 3166 country code of the IP addresses         |
-| **mcc**     | `208`            | TEXT      | Mobile Country Code (MCC) of the carrier          |
-| **mnc**     | `01`             | TEXT      | Mobile Network Code (MNC) of the carrier          |
+| **mcc**     | `208`            | INTEGER   | Mobile Country Code (MCC) of the carrier          |
+| **mnc**     | `01`             | INTEGER   | Mobile Network Code (MNC) of the carrier          |
 
 
 ## Samples
@@ -28,14 +28,14 @@
 The `standard_carrier` data download is structured based on IP ranges (`start_ip` and `end_ip`) and includes the `join_key` column. Our default data downloads has been updated (January, 2025) to use the `network`-based schema which also does not include the `join_key` column. However, we will continue supporting the original IP range-based schema for existing customers, with no plans for deprecation. While the underlying data remains the same, the difference lies only in the schema.
 
 | Field Name   | Example                                    | Data Type | Description                                              |
-|--------------|--------------------------------------------|-----------|----------------------------------------------------------|
+| ------------ | ------------------------------------------ | --------- | -------------------------------------------------------- |
 | **start_ip** | `5.208.203.0`                              | TEXT      | Starting IP address of an IP address range               |
 | **end_ip**   | `5.208.203.255`                            | TEXT      | Ending IP address of an IP address range                 |
 | **join_key** | `5.208.0.0`                                | TEXT      | Special variable to facilitate database `join` operation |
 | **name**     | `Mobile Communication Company of Iran PLC` | TEXT      | Name of the mobile carrier                               |
 | **country**  | `IR`                                       | TEXT      | ISO 3166 country code of the IP addresses                |
-| **mcc**      | `432`                                      | TEXT      | Mobile Country Code (MCC) of the carrier                 |
-| **mnc**      | `11`                                       | TEXT      | Mobile Network Code (MNC) of the carrier                 |
+| **mcc**      | `432`                                      | INTEGER   | Mobile Country Code (MCC) of the carrier                 |
+| **mnc**      | `11`                                       | INTEGER   | Mobile Network Code (MNC) of the carrier                 |
 
 
 > Includes IP range columns (`start_ip` and `end_ip`) instead of a network or CIDR based column (`network`).
@@ -65,8 +65,8 @@ The `standard_carrier` data download is structured based on IP ranges (`start_ip
 
 ## Filename references:
 
-| File Format | Filename / Slug    | Terminal Command                                                                            |
-|-------------|--------------------|---------------------------------------------------------------------------------------------|
+| File Format | Filename / Slug        | Terminal Command                                                                                    |
+| ----------- | ---------------------- | --------------------------------------------------------------------------------------------------- |
 | CSV         | ipinfo_carrier.csv.gz  | `curl -L https://ipinfo.io/data/ipinfo_carrier.csv.gz?token=$YOUR_TOKEN -o ipinfo_carrier.csv.gz`   |
 | MMDB        | ipinfo_carrier.mmdb    | `curl -L https://ipinfo.io/data/ipinfo_carrier.mmdb?token=$YOUR_TOKEN -o ipinfo_carrier.mmdb`       |
 | JSON        | ipinfo_carrier.json.gz | `curl -L https://ipinfo.io/data/ipinfo_carrier.json.gz?token=$YOUR_TOKEN -o ipinfo_carrier.json.gz` |
