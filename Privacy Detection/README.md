@@ -8,13 +8,19 @@
 
 | Field Name  | Example             | Data Type | Descrption                                                           |
 |-------------|---------------------|-----------|----------------------------------------------------------------------|
-| **network** | `146.70.174.112/31` | TEXT      | CIDR or IP network of the IP address block                           |
+| **network** | `146.70.174.112/31` | TEXT      | CIDR or single IP address of the IP address block                    |
 | **hosting** | `true`              | BOOLEAN   | Indicates a hosting/cloud service/data center IP address             |
 | **proxy**   | `false`             | BOOLEAN   | Indicates a open web proxy IP address                                |
 | **tor**     | `false`             | BOOLEAN   | Indicates a TOR (The Onion Router) exit node IP address              |
 | **relay**   | `false`             | BOOLEAN   | Indicates Virtual Private Network (VPN) service exit node IP address |
 | **vpn**     | `true`              | BOOLEAN   | Indicates location preserving anonymous relay service                |
 | **service** | `ProtonVPN`         | TEXT      | Name of the anonymous IP service provider                            |
+
+## Samples
+
+- [CSV Database] [Privacy Detection Database Sample](/Privacy%20Detection/ipinfo_privacy_sample.csv)
+- [JSON Database] [Privacy Detection Database Sample](/Privacy%20Detection/ipinfo_privacy_sample.json)
+- [MMDB Database] [Privacy Detection Database Sample](/Privacy%20Detection/ipinfo_privacy_sample.mmdb)
 
 <details>
 
@@ -41,9 +47,9 @@ The `standard_privacy` data download is structured based on IP ranges (`start_ip
 
 #### Samples
 
-- [CSV Database] [ASN Database Sample](/ASN%20Database/asn_sample.csv)
-- [JSON Database] [ASN Database Sample](/ASN%20Database/asn_sample.json)
-- [MMDB Database] [ASN Database Sample](/ASN%20Database/asn_sample.mmdb)
+- [CSV Database] [Privacy Detection Database Sample](/Privacy%20Detection/privacy_detection_sample.csv)
+- [JSON Database] [Privacy Detection Database Sample](/Privacy%20Detection/privacy_detection_sample.json)
+- [MMDB Database] [Privacy Detection Database Sample](/Privacy%20Detection/privacy_detection_sample.mmdb)
 
 
 The schema for Boolean values is different between these two databases.
@@ -105,11 +111,7 @@ Reponse:
 
 ![privacy detection API response.png](../assets/privacy_detection_api_response.png)
 
-# Samples
-
-- [CSV Database] [Privacy Detection Database Sample](/Privacy%20Detection/privacy_detection_sample.csv)
-- [JSON Database] [Privacy Detection Database Sample](/Privacy%20Detection/privacy_detection_sample.json)
-- [MMDB Database] [Privacy Detection Database Sample](/Privacy%20Detection/privacy_detection_sample.mmdb)
+## API Samples
 - [API] [Privacy Detection API Response Sample](/Privacy%20Detection/privacy_detection_api_sample.json)
 
 # Guides, Resources & Links

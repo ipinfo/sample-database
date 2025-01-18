@@ -38,6 +38,14 @@ Confidence intervals defined:
 | **2**            | Direct observation of VPN software running on the range (census) + registrar information associated with VPNs or specific providers OR highly convincing device activity (large spread of devices on pingable networks that are not associated with carrier traffic and known to be associated with hosting providers) |
 | **1**            | Direct observation of VPN software running on the range (census) without known association to specific providers or VPNs in general OR device data that is suspicious but not associated with hosting ranges                                                                                                           |
 
+## Samples
+
+- [CSV Database] [Privacy Extended Detection Database Sample](/Privacy%20Detection/ipinfo_privacy_extended_sample.csv)
+- [JSON Database] [Privacy Extended Detection Database Sample](/Privacy%20Detection/ipinfo_privacy_extended_sample.json)
+- [MMDB Database] [Privacy Extended Detection Database Sample](/Privacy%20Detection/ipinfo_privacy_extended_sample.mmdb)
+- [CSV Database] [Privacy Extended Detection Database (Older Version) Sample](/Privacy%20Detection/privacy_detection_extended_sample.csv)
+- [JSON Database] [Privacy Extended Detection Database (Older Version) Sample](/Privacy%20Detection/privacy_detection_extended_sample.json)
+- [MMDB Database] [Privacy Extended Detection Database (Older Version) Sample](/Privacy%20Detection/privacy_detection_extended_sample.mmdb)
 
 ## Downloadable File Formats
 

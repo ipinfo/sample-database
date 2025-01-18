@@ -6,13 +6,20 @@
 
 *[data updated as of January, 2025]*
 
-| Field Name   | Example          | Data Type | Description                                |
-|--------------|------------------|-----------|--------------------------------------------|
-| **network**  | `90.50.223.0/24` | TEXT      | CIDR or IP network of the IP address block |
-| **name**     | `Orange`         | TEXT      | Name of the mobile carrier organization    |
-| **country**  | `FR`             | TEXT      | ISO 3166 country code of the IP addresses  |
-| **mcc**      | `208`            | TEXT      | Mobile Country Code (MCC) of the carrier   |
-| **mnc**      | `01`             | TEXT      | Mobile Network Code (MNC) of the carrier   |
+| Field Name  | Example          | Data Type | Description                                       |
+|-------------|------------------|-----------|---------------------------------------------------|
+| **network** | `90.50.223.0/24` | TEXT      | CIDR or single IP address of the IP address block |
+| **name**    | `Orange`         | TEXT      | Name of the mobile carrier organization           |
+| **country** | `FR`             | TEXT      | ISO 3166 country code of the IP addresses         |
+| **mcc**     | `208`            | TEXT      | Mobile Country Code (MCC) of the carrier          |
+| **mnc**     | `01`             | TEXT      | Mobile Network Code (MNC) of the carrier          |
+
+
+## Samples
+
+- [CSV Database] [IP to Mobile Carrier Database Sample](/IP%20to%20Mobile%20Carrier/ipinfo_carrier_sample.csv)
+- [JSON Database] [IP to Mobile Carrier Database Sample](/IP%20to%20Mobile%20Carrier/ipinfo_carrier_sample.json)
+- [MMDB Database] [IP to Mobile Carrier Database Sample](/IP%20to%20Mobile%20Carrier/ipinfo_carrier_sample.mmdb)
 
 <details>
 
