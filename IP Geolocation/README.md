@@ -8,20 +8,27 @@ Our IP geolocation data is our primary data product and is considered one of the
 
 *[data updated as of January, 2025]*
 
-| Field Name         | Example            | Data Type | Description                                  |
-|--------------------|--------------------|-----------|----------------------------------------------|
-| **network**        | `71.50.174.48/28`  | TEXT      | CIDR or IP network of the IP address block   |
-| **city**           | `Spring Lake`      | TEXT      | City of the IP address                       |
-| **region**         | `North Carolina`   | TEXT      | Region/State of the IP address               |
-| **region_code**    | `NC`               | TEXT      | Region code in two-letter format in ISO 3166 |
-| **country**        | `United States`    | TEXT      | Name of the country of the IP address        |
-| **country_code**   | `US`               | TEXT      | ISO 3166 country code of the IP address      |
-| **continent**      | `North America`    | TEXT      | Name of the continent                        |
-| **continent_code** | `NA`               | TEXT      | Continent name code in two-letter format     |
-| **latitude**       | `35.16794`         | FLOAT     | Latitude value of the IP address             |
-| **longitude**      | `-78.97281`        | FLOAT     | Longitude value of the IP address            |
-| **timezone**       | `America/New_York` | TEXT      | Local timezone of the IP address location    |
-| **postal_code**    | `28390`            | TEXT      | Postal code or zip code of the IP address    |
+| Field Name         | Example            | Data Type | Description                                    |
+|--------------------|--------------------|-----------|------------------------------------------------|
+| **network**        | `71.50.174.48/28`  | TEXT      | CIDR or single Address of the IP address block |
+| **city**           | `Spring Lake`      | TEXT      | City of the IP address                         |
+| **region**         | `North Carolina`   | TEXT      | Region/State of the IP address                 |
+| **region_code**    | `NC`               | TEXT      | Region code in two-letter format in ISO 3166   |
+| **country**        | `United States`    | TEXT      | Name of the country of the IP address          |
+| **country_code**   | `US`               | TEXT      | ISO 3166 country code of the IP address        |
+| **continent**      | `North America`    | TEXT      | Name of the continent                          |
+| **continent_code** | `NA`               | TEXT      | Continent name code in two-letter format       |
+| **latitude**       | `35.16794`         | FLOAT     | Latitude value of the IP address               |
+| **longitude**      | `-78.97281`        | FLOAT     | Longitude value of the IP address              |
+| **timezone**       | `America/New_York` | TEXT      | Local timezone of the IP address location      |
+| **postal_code**    | `28390`            | TEXT      | Postal code or zip code of the IP address      |
+
+
+## Samples
+
+- [CSV Database] [IP Location Database Sample](/IP%20Geolocation/ipinfo_location_sample.csv)
+- [JSON Database] [IP Location Database Sample](/IP%20Geolocation/ipinfo_location_sample.json)
+- [MMDB Database] [IP Location Database Sample](/IP%20Geolocation/ipinfo_location_sample.mmdb)
 
 <details>
 
@@ -53,7 +60,6 @@ Our default data downloads has been updated (January, 2025) to use the `network`
 - [CSV Database] [IP Geolocation Database Sample](/IP%20Geolocation/ip_geolocation_sample.csv)
 - [JSON Database] [IP Geolocation Database Sample](/IP%20Geolocation/ip_geolocation_sample.json)
 - [MMDB Database] [IP Geolocation Database Sample](/IP%20Geolocation/ip_geolocation_sample.mmdb)
-- [MMDB Database (Standard)] [IP Geolocation Standard Database Sample](/IP%20Geolocation/ip_geolocation_standard_sample.mmdb)
 
 </details>
 
@@ -135,15 +141,6 @@ Response:
 ```
 
 ![IP Geolocation API.png](../assets/IP_Geolocation_API.png)
-
-# Samples
-
-- [CSV Database] [IP Geolocation Database Sample](/IP%20Geolocation/ip_geolocation_sample.csv)
-- [JSON Database] [IP Geolocation Database Sample](/IP%20Geolocation/ip_geolocation_sample.json)
-- [MMDB Database] [IP Geolocation Database Sample](/IP%20Geolocation/ip_geolocation_sample.mmdb)
-- [MMDB Database (Standard)] [IP Geolocation Standard Database Sample](/IP%20Geolocation/ip_geolocation_standard_sample.mmdb)
-- [Sample IP Ranges for the MMDB Database (Standard)] [Sample IP ranges for IP Geolocation Standard Database MMDB sample dataset](/IP%20Geolocation/sample_ip_ranges_ip_geolocation_standard_mmdb.txt)
-- [API] [IP Geolocation API Response Sample](/IP%20Geolocation/ip_geolocation_api_sample.json)
 
 # Guides, Resources & Links
 

@@ -10,13 +10,18 @@
 
 | Field Name  | Example          | Data Type | Description                                                               |
 |-------------|------------------|-----------|---------------------------------------------------------------------------|
-| **network** | `115.76.56.0/23` | TEXT      | CIDR or IP network of the ASN IP address block                            |
+| **network** | `115.76.56.0/23` | TEXT      | CIDR or single IP address of the IP address block                         |
 | **asn**     | `AS7552`         | TEXT      | Autonomous System Number (ASN)                                            |
 | **domain**  | `viettel.com.vn` | TEXT      | Organization domain name of the ASN                                       |
 | **name**    | `Viettel Group`  | TEXT      | Name of the ASN organization                                              |
 | **type**    | `isp`            | TEXT      | ASN Type: ISP, Hosting, Education, Government or Business                 |
 | **country** | `VN`             | TEXT      | ISO 3166 two letter country code of the ASN declared in the WHOIS records |
 
+## Samples
+
+- [CSV Database] [ASN Database Sample](/ASN%20Database/ipinfo_asn_sample.csv)
+- [JSON Database] [ASN Database Sample](/ASN%20Database/ipinfo_asn_sample.json)
+- [MMDB Database] [ASN Database Sample](/ASN%20Database/ipinfo_asn_sample.mmdb)
 
 <details>
 
@@ -174,11 +179,8 @@ Response:
 
 ![ASN Data API (1).png](../assets/ASN_Data_API.png)
 
-# Samples
+## API Sample
 
-- [CSV Database] [ASN Database Sample](/ASN%20Database/asn_sample.csv)
-- [JSON Database] [ASN Database Sample](/ASN%20Database/asn_sample.json)
-- [MMDB Database] [ASN Database Sample](/ASN%20Database/asn_sample.mmdb)
 - [API] [ASN Lookup API Response Sample](/ASN%20Database/asn_lookup_api_sample.json)
 - [API][IP Address to ASN API Response Sample](/ASN%20Database/ip_address_to_asn_api_sample.json)
 
