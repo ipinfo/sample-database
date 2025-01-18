@@ -29,9 +29,9 @@ The IPinfo Lite database is part of our [free IP data downloads offering](https:
 
 ## Samples
 
-- [CSV Database] [IPinfo Lite Sample](/Privacy%20Detection/ipinfo_lite_sample.csv)
-- [JSON Database] [IPinfo Lite Sample](/Privacy%20Detection/ipinfo_lite_sample.json)
-- [MMDB Database] [IPinfo Lite Sample](/Privacy%20Detection/ipinfo_lite_sample.mmdb)
+- [CSV Database] [IPinfo Lite Sample](/IPinfo%20Lite/ipinfo_lite_sample.csv)
+- [JSON Database] [IPinfo Lite Sample](/IPinfo%20Lite/ipinfo_lite_sample.json)
+- [MMDB Database] [IPinfo Lite Sample](/IPinfo%20Lite/ipinfo_lite_sample.mmdb)
 
 <details>
 

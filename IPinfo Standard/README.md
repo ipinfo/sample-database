@@ -1,5 +1,3 @@
-CIDR/IP range or single IP address
-
 # IPinfo Standard Database
 
 ## IPinfo's Standard is a robust IP database that combines our location, ASN, network flags data in a single database.
@@ -33,9 +31,9 @@ CIDR/IP range or single IP address
 
 ## Samples
 
-- [CSV Database] [IPinfo Standard Sample](/Privacy%20Detection/ipinfo_standard_sample.csv)
-- [JSON Database] [IPinfo Standard Sample](/Privacy%20Detection/ipinfo_standard_sample.json)
-- [MMDB Database] [IPinfo Standard Sample](/Privacy%20Detection/ipinfo_standard_sample.mmdb)
+- [CSV Database] [IPinfo Standard Sample](/IPinfo%20Standard/ipinfo_standard_sample.csv)
+- [JSON Database] [IPinfo Standard Sample](/IPinfo%20Standard/ipinfo_standard_sample.json)
+- [MMDB Database] [IPinfo Standard Sample](/IPinfo%20Standard/ipinfo_standard_sample.mmdb)
 
 ## Downloadable File Formats
 

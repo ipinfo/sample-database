@@ -1,5 +1,3 @@
-CIDR/IP range or single IP address
-
 # IPinfo Plus Database
 
 ## IPinfo's Plus is an enterprise-grade IP database that combines our location, insights, and confidence with ASN, privacy, carrier, and network flags in a single database.
@@ -52,9 +50,9 @@ CIDR/IP range or single IP address
 
 ## Samples
 
-- [CSV Database] [IPinfo Plus Sample](/Privacy%20Detection/ipinfo_plus_sample.csv)
-- [JSON Database] [IPinfo Plus Sample](/Privacy%20Detection/ipinfo_plus_sample.json)
-- [MMDB Database] [IPinfo Plus Sample](/Privacy%20Detection/ipinfo_plus_sample.mmdb)
+- [CSV Database] [IPinfo Plus Sample](/IPinfo%20Plus/ipinfo_plus_sample.csv)
+- [JSON Database] [IPinfo Plus Sample](/IPinfo%20Plus/ipinfo_plus_sample.json)
+- [MMDB Database] [IPinfo Plus Sample](/IPinfo%20Plus/ipinfo_plus_sample.mmdb)
 
 ## Downloadable File Formats
 

@@ -40,12 +40,12 @@ Confidence intervals defined:
 
 ## Samples
 
-- [CSV Database] [Privacy Extended Detection Database Sample](/Privacy%20Detection/ipinfo_privacy_extended_sample.csv)
-- [JSON Database] [Privacy Extended Detection Database Sample](/Privacy%20Detection/ipinfo_privacy_extended_sample.json)
-- [MMDB Database] [Privacy Extended Detection Database Sample](/Privacy%20Detection/ipinfo_privacy_extended_sample.mmdb)
-- [CSV Database] [Privacy Extended Detection Database (Older Version) Sample](/Privacy%20Detection/privacy_detection_extended_sample.csv)
-- [JSON Database] [Privacy Extended Detection Database (Older Version) Sample](/Privacy%20Detection/privacy_detection_extended_sample.json)
-- [MMDB Database] [Privacy Extended Detection Database (Older Version) Sample](/Privacy%20Detection/privacy_detection_extended_sample.mmdb)
+- [CSV Database] [Privacy Extended Detection Database Sample](/Privacy%20Detection%20Extended/ipinfo_privacy_extended_sample.csv)
+- [JSON Database] [Privacy Extended Detection Database Sample](/Privacy%20Detection%20Extended/ipinfo_privacy_extended_sample.json)
+- [MMDB Database] [Privacy Extended Detection Database Sample](/Privacy%20Detection%20Extended/ipinfo_privacy_extended_sample.mmdb)
+- [CSV Database] [Privacy Extended Detection Database (Older Version) Sample](/Privacy%20Detection%20Extended/privacy_detection_extended_sample.csv)
+- [JSON Database] [Privacy Extended Detection Database (Older Version) Sample](/Privacy%20Detection%20Extended/privacy_detection_extended_sample.json)
+- [MMDB Database] [Privacy Extended Detection Database (Older Version) Sample](/Privacy%20Detection%20Extended/privacy_detection_extended_sample.mmdb)
 
 ## Downloadable File Formats
 
