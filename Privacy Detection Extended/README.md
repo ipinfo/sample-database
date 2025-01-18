@@ -6,39 +6,59 @@ IPinfo's IP Address to Privacy Detection (Extended) database includes IP address
 
 # Database Schema & Description
 
-*[data updated as of May, 2023]*
+*[data updated as of January, 2025]*
 
-The following database schema represents the CSV database. We also provide JSON and MMDB format data.
+| Field Name          | Example         | Data Type | Descrption                                                                                                                                                                                                                                                                                                                            |
+|---------------------|-----------------|-----------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **network**         | `45.129.35.234` | TEXT      | CIDR/IP Range or single IP address block                                                                                                                                                                                                                                                                                        |
+| **hosting**         | `true`          | BOOLEAN   | Indicates a hosting/cloud service/data center IP address                                                                                                                                                                                                                                                                              |
+| **proxy**           | `false`         | BOOLEAN   | Indicates a open web proxy IP address                                                                                                                                                                                                                                                                                                 |
+| **relay**           | `false`         | BOOLEAN   | Indicates location preserving anonymous relay service                                                                                                                                                                                                                                                                                 |
+| **tor**             | `false`         | BOOLEAN   | Indicates a TOR (The Onion Router) exit node IP address                                                                                                                                                                                                                                                                               |
+| **vpn**             | `true`          | BOOLEAN   | Indicates Virtual Private Network (VPN) service exit node IP address                                                                                                                                                                                                                                                                  |
+| **service**         | `NordVPN`       | TEXT      | Name of the privacy service provider includes VPN, Proxy and Relay service providers names                                                                                                                                                                                                                                            |
+| **first_seen**      | `2024-10-31`    | DATE      | Date when the activity on an anonymous IP address was first observed: Date in YYYY-MM-DD format, ISO-8601. Within the 3-month lookback period.                                                                                                                                                                                        |
+| **last_seen**       | `2025-01-03`    | DATE      | Date when the activity on an anonymous IP address was last/recently observed: Date in YYYY-MM-DD format, ISO-8601.                                                                                                                                                                                                                    |
+| **confidence**      | `3`             | INTEGER   | The level (from 1 to 3) of confidence attributed to the best source associated with this range                                                                                                                                                                                                                                        |
+| **coverage**        | `1`             | INTEGER   | For inferred ranges (see `inferred` flag), represents the proportion of the range (in IP count) that we saw direct evidence of VPN activity on; the remaining percentage of the range (1 - coverage) is composed of IPs we did not directly observe. For IPs/ranges we've fully directly observed VPN evidence on, this value is 1.0. |
+| **census**          | `false`         | BOOLEAN   | Ranges where we've observed VPN software/ports on; we run scans on ports and protocols commonly associated with VPN software. Ranges with the census flag are those where these scans obtained positive results                                                                                                                       |
+| **census_ports**    | ``              | INTEGER   | The ports we've gotten positive results for when running our VPN detection census                                                                                                                                                                                                                                                     |
+| **device_activity** | `false`         | BOOLEAN   | Ranges on which we've observed device activity compatible with VPN usage (outside of known infrastructure area; simultaneous use around a large area; pingable and/or associated with hosting providers)                                                                                                                              |
+| **inferred**        | `false`         | BOOLEAN   | Whether the range associated with the record is the result of direct observation or inference based on neighboring IPs                                                                                                                                                                                                                |
+| **vpn_config**      | `true`          | BOOLEAN   | Ranges where we confirmed VPN activity by directly running VPN software from almost 200 different providers and collecting exit IPs                                                                                                                                                                                                   |
+| **whois**           | `false`         | BOOLEAN   | Ranges where we've observed VPN software/ports on AND have a WHOIS association with either VPNs in general or specific VPN providers. e.g. if our ipsec scan returned a positive result for an IP and its WHOIS record indicates that it is owned by a VPN provider, this flag will be true.                                          |
 
-| Fields            | Example       | Description                                                                                                                         |
-|-------------------|---------------|-------------------------------------------------------------------------------------------------------------------------------------|
-| `start_ip`        | 62.182.99.0   | First IP address of the range                                                                                                       |
-| `end_ip`          | 62.182.99.255 | Last IP address of the range                                                                                                        |
-| `hosting`         | False         | Indicates a hosting/cloud service/data center IP address                                                                            |
-| `proxy`           | False         | Indicates a open web proxy IP address                                                                                               |
-| `tor`             | False         | Indicates a TOR (The Onion Router) exit node IP address                                                                             |
-| `vpn`             | True          | Indicates Virtual Private Network (VPN) service exit node IP address                                                                |
-| `relay`           | False         | Indicates location preserving anonymous relay service                                                                               |
-| `vpn_name`        | NordVPN       | Name of the privacy service provider includes VPN, Proxy and Relay service providers names                                          |
-| `anycast`         | False         | True: if IP is identified as being any anycast IP, that could map to multiple physical servers in different locations               |
-| `census`          | True          | True: if we've identified VPN software running on this IP as part of our internet wide scan (successful openvpn or ipsec handshake) |
-| `device_activity` | True          | True: if we've seen VPN-like behavior (multiple devices, multiple locations etc)                                                    |
-| `whois`           | False         | True: if we've seen vpn provider attributes in the IP whois data (eg. provider name)                                                |
-| `vpn_config`      | True          | True: if we've identified this IP in a VPN config file                                                                              |
-| `census_port`     | 500           | Port number we've identified VPN software running on                                                                                |
+> Note that the `network` field can contain either CIDR-noted ranges or individual IP addresses.
+
+Confidence intervals defined:
+
+| Confidence Level | Description                                                                                                                                                                                                                                                                                                            |
+|------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **3**            | Direct observation of commercial use (vpn_config)                                                                                                                                                                                                                                                                      |
+| **2**            | Direct observation of VPN software running on the range (census) + registrar information associated with VPNs or specific providers OR highly convincing device activity (large spread of devices on pingable networks that are not associated with carrier traffic and known to be associated with hosting providers) |
+| **1**            | Direct observation of VPN software running on the range (census) without known association to specific providers or VPNs in general OR device data that is suspicious but not associated with hosting ranges                                                                                                           |
 
 
-> `join_key` represents the Class C network each IP address is part of, allowing you to filter the result set significantly before `join`ing. Learn more about `join_key` [here](https://community.ipinfo.io/t/ipinfos-join-key-column-explained/5526).
-> 
+## Downloadable File Formats
+
+- CSV: Plain text file format where data is organized into rows, with individual values separated by commas.
+- JSON: More specifically, NDJSON (Newline Delimited JSON), a text file format where each line is a separated in valid JSON object.
+- MMDB: Specialized binary database for efficient and fast IP lookups.
+- Parquet: A columnar storage file format optimized for efficient data querying.
+
 > Please refer to "[How to choose the best file format for your IPinfo database?](https://ipinfo.io/blog/ipinfo-database-formats/)" article to select the best format possible for your use case.
 >
 > The usage of the IP data downloads relies on the software or application of the data. Check out our [documentation](https://ipinfo.io/developers/database-download), [community](https://community.ipinfo.io/c/docs/8), and our [integrations](https://ipinfo.io/integrations) pages to find the best path forward.
 
-# Samples
+## Filename references:
 
-- [CSV Database] [Privacy Detection (Extended) Database Sample](/Privacy%20Detection%20Extended/privacy_detection_extended_sample.csv)
-- [JSON Database] [Privacy Detection (Extended) Database Sample](/Privacy%20Detection%20Extended/privacy_detection_extended_sample.json)
-- [MMDB Database] [Privacy Detection (Extended) Database Sample](/Privacy%20Detection%20Extended/privacy_detection_extended_sample.mmdb)
+
+| File Format | Filename / Slug                 | Terminal Command                                                                                                      |
+|-------------|---------------------------------|-----------------------------------------------------------------------------------------------------------------------|
+| CSV         | ipinfo_privacy_extended.csv.gz  | `curl -L https://ipinfo.io/data/ipinfo_privacy_extended.csv.gz?token=$YOUR_TOKEN -o ipinfo_privacy_extended.csv.gz`   |
+| MMDB        | ipinfo_privacy_extended.mmdb    | `curl -L https://ipinfo.io/data/ipinfo_privacy_extended.mmdb?token=$YOUR_TOKEN -o ipinfo_privacy_extended.mmdb`       |
+| JSON        | ipinfo_privacy_extended.json.gz | `curl -L https://ipinfo.io/data/ipinfo_privacy_extended.json.gz?token=$YOUR_TOKEN -o ipinfo_privacy_extended.json.gz` |
+| Parquet     | ipinfo_privacy_extended.parquet | `curl -L https://ipinfo.io/data/ipinfo_privacy_extended.parquet?token=$YOUR_TOKEN -o ipinfo_privacy_extended.parquet` |
 
 ## Links
 

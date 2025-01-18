@@ -6,9 +6,26 @@
 
 # Database Schema & Description
 
-*[data updated as of May, 2024]*
+*[data updated as of January, 2025]*
 
-| Field Name | Example             | Data Type | Notes                                                    |
+| Field Name  | Example          | Data Type | Description                                                               |
+|-------------|------------------|-----------|---------------------------------------------------------------------------|
+| **network** | `115.76.56.0/23` | TEXT      | CIDR or IP network of the ASN IP address block                            |
+| **asn**     | `AS7552`         | TEXT      | Autonomous System Number (ASN)                                            |
+| **domain**  | `viettel.com.vn` | TEXT      | Organization domain name of the ASN                                       |
+| **name**    | `Viettel Group`  | TEXT      | Name of the ASN organization                                              |
+| **type**    | `isp`            | TEXT      | ASN Type: ISP, Hosting, Education, Government or Business                 |
+| **country** | `VN`             | TEXT      | ISO 3166 two letter country code of the ASN declared in the WHOIS records |
+
+
+<details>
+
+<summary><h3>Alternate Database Schema: <code>standard_asn</code></h3></summary>
+
+The `standard_asn` data download is structured based on IP ranges (`start_ip` and `end_ip`) and includes the `join_key` column. Our default data downloads has been updated (January, 2025) to use the `network`-based schema which also does not include the `join_key` column. However, we will continue supporting the original IP range-based schema for existing customers, with no plans for deprecation. While the underlying data remains the same, the difference lies only in the schema.
+
+
+| Field Name | Example             | Data Type | Description                                              |
 |------------|---------------------|-----------|----------------------------------------------------------|
 | `start_ip` | 125.113.0.0         | TEXT      | Starting IP address of the ASN IP address block          |
 | `end_ip`   | 125.113.255.255     | TEXT      | Ending IP address of the ASN IP address block            |
@@ -16,15 +33,46 @@
 | `asn`      | AS4134              | TEXT      | Autonomous System Number (ASN)                           |
 | `domain`   | chinatelecom.com.cn | TEXT      | Domain name of the AS                                    |
 | `name`     | CHINANET-BACKBONE   | TEXT      | Name of the ASN                                          |
-| `type`     | isp                 | TEXT      | ASN Type: ISP, Hosting, Education or Business            |
+| `type`     | isp                 | TEXT      | ASN Type: ISP, Hosting, Education, Government or Business|
 | `country`  | CN                  | TEXT      | ISO 3166 country code of the ASN from the WHOIS records  |
 
 
+> Includes IP range columns (`start_ip` and `end_ip`) instead of a network or CIDR based column (`network`).
 > `join_key` represents the Class C network each IP address is part of, allowing you to filter the result set significantly before `join`ing. Learn more about `join_key` [here](https://community.ipinfo.io/t/ipinfos-join-key-column-explained/5526).
-> 
+
+#### Samples
+
+- [CSV Database] [ASN Database Sample](/ASN%20Database/asn_sample.csv)
+- [JSON Database] [ASN Database Sample](/ASN%20Database/asn_sample.json)
+- [MMDB Database] [ASN Database Sample](/ASN%20Database/asn_sample.mmdb)
+
+
+</details>
+
+
+## Downloadable File Formats
+
+- CSV: Plain text file format where data is organized into rows, with individual values separated by commas.
+- JSON: More specifically, NDJSON (Newline Delimited JSON), a text file format where each line is a separated in valid JSON object.
+- MMDB: Specialized binary database for efficient and fast IP lookups.
+- Parquet: A columnar storage file format optimized for efficient data querying.
+
 > Please refer to "[How to choose the best file format for your IPinfo database?](https://ipinfo.io/blog/ipinfo-database-formats/)" article to select the best format possible for your use case.
 >
 > The usage of the IP data downloads relies on the software or application of the data. Check out our [documentation](https://ipinfo.io/developers/database-download), [community](https://community.ipinfo.io/c/docs/8), and our [integrations](https://ipinfo.io/integrations) pages to find the best path forward.
+
+## Filename references:
+
+
+| File Format | Filename / Slug    | Terminal Command                                                                            |
+|-------------|--------------------|---------------------------------------------------------------------------------------------|
+| CSV         | ipinfo_asn.csv.gz  | `curl -L https://ipinfo.io/data/ipinfo_asn.csv.gz?token=$YOUR_TOKEN -o ipinfo_asn.csv.gz`   |
+| MMDB        | ipinfo_asn.mmdb    | `curl -L https://ipinfo.io/data/ipinfo_asn.mmdb?token=$YOUR_TOKEN -o ipinfo_asn.mmdb`       |
+| JSON        | ipinfo_asn.json.gz | `curl -L https://ipinfo.io/data/ipinfo_asn.json.gz?token=$YOUR_TOKEN -o ipinfo_asn.json.gz` |
+| Parquet     | ipinfo_asn.parquet | `curl -L https://ipinfo.io/data/ipinfo_asn.parquet?token=$YOUR_TOKEN -o ipinfo_asn.parquet` |
+
+
+## Difference among the ASN Database, the free IP to ASN Database and the free IP to Country ASN Database
 
 Compared to the [IP to ASN (Free) Database](https://ipinfo.io/developers/ip-to-asn-database) or the [free IP to Country ASN database](https://ipinfo.io/developers/ip-to-country-asn-database), the [ASN database (Premium)](https://ipinfo.io/products/asn-database) is different because of certain factors. The [free IP to ASN database](https://ipinfo.io/developers/ip-to-asn-database) is a subset of the [ASN database (Premium)](https://ipinfo.io/products/asn-database) and does not contain the following information.
 
