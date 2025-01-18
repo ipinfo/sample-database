@@ -1,100 +1,100 @@
-{"network": "182.33.128.0/18", "asn": "AS4134", "domain": "chinatelecom.com.cn", "name": "CHINANET-BACKBONE", "type": "isp", "country": "CN"}
-{"network": "205.235.213.0/24", "asn": "AS40391", "domain": "chsinc.com", "name": "CHS COOPERATIVES FOUNDATION", "type": "business", "country": "US"}
-{"network": "131.81.128.0/19", "asn": "AS721", "domain": "mail.mil", "name": "DoD Network Information Center", "type": "government", "country": "US"}
-{"network": "204.134.58.0/23", "asn": "AS209", "domain": "lumen.com", "name": "CenturyLink Communications, LLC", "type": "isp", "country": "US"}
-{"network": "205.164.121.0/24", "asn": "AS134143", "domain": "kinetix.net.au", "name": "Kinetix Networks", "type": "isp", "country": "AU"}
-{"network": "156.245.248.0/24", "asn": "AS62468", "domain": "hkcloudx.com", "name": "VpsQuan L.L.C.", "type": "hosting", "country": "US"}
-{"network": "2803:9800:a847::/48", "asn": "AS11664", "domain": "claro.com.ar", "name": "Techtel LMDS Comunicaciones Interactivas S.A.", "type": "isp", "country": "AR"}
-{"network": "2409:8054:3001::/48", "asn": "AS56040", "domain": "chinamobile.com", "name": "China Mobile communications corporation", "type": "isp", "country": "CN"}
+{"network": "85.113.80.0/24", "asn": "AS21233", "domain": "atlasbusiness.com", "name": "Atlas Business Group of Companies Ltd", "type": "hosting", "country": "GB"}
+{"network": "2401:ba80:a3d2::/48", "asn": "AS56167", "domain": "ufone.com", "name": "PTML-PK", "type": "isp", "country": "PK"}
+{"network": "2405:4802:7740::/44", "asn": "AS18403", "domain": "fpt.vn", "name": "FPT Telecom Company", "type": "isp", "country": "VN"}
+{"network": "185.130.16.0/22", "asn": "AS48797", "domain": "oiv.hr", "name": "Odasiljaci i veze d.o.o.", "type": "hosting", "country": "HR"}
+{"network": "31.44.54.0/23", "asn": "AS56420", "domain": "ertelecom.ru", "name": "JSC \"ER-Telecom Holding\"", "type": "isp", "country": "RU"}
+{"network": "190.221.207.0/24", "asn": "AS11664", "domain": "claro.com.ar", "name": "Techtel LMDS Comunicaciones Interactivas S.A.", "type": "isp", "country": "AR"}
+{"network": "185.26.124.0/22", "asn": "AS29169", "domain": "gandi.net", "name": "GANDI SAS", "type": "hosting", "country": "FR"}
+{"network": "185.7.123.0/24", "asn": "AS214920", "domain": "nedco.ps", "name": "Northern Electricity Distribution Company (NEDCO)", "type": "business", "country": "PS"}
+{"network": "131.72.231.0/24", "asn": "AS262913", "domain": "konecta.mx", "name": "Konecta de Mexico, S. de R.L. de C.V.", "type": "isp", "country": "MX"}
+{"network": "2a02:26f7:46::/48", "asn": "AS36183", "domain": "akamai.com", "name": "Akamai Technologies, Inc.", "type": "hosting", "country": "US"}
 {"network": "2409:804c:3200::/39", "asn": "AS9808", "domain": "10086.cn", "name": "China Mobile Communications Group Co., Ltd.", "type": "isp", "country": "CN"}
-{"network": "186.227.15.0/24", "asn": "AS262765", "domain": "velloznet.com.br", "name": "Net F\u00e1cil Sistemas Eletr\u00f4nicos Ltda ME", "type": "isp", "country": "BR"}
-{"network": "123.208.56.0/23", "asn": "AS135887", "domain": "belong.com.au", "name": "Belong (Telstra Limited)", "type": "isp", "country": "AU"}
-{"network": "68.16.160.0/21", "asn": "AS6389", "domain": "att.com", "name": "AT&T Enterprises, LLC", "type": "isp", "country": "US"}
-{"network": "24.133.212.0/22", "asn": "AS47524", "domain": "turksat.com.tr", "name": "Turksat Uydu Haberlesme ve Kablo TV Isletme A.S.", "type": "isp", "country": "TR"}
-{"network": "2804:5e7c:c080::/41", "asn": "AS269036", "domain": "atextelecom.com.br", "name": "ATEX NET TELECOMUNICACOES LTDA", "type": "isp", "country": "BR"}
-{"network": "50.225.38.0/23", "asn": "AS7922", "domain": "comcast.com", "name": "Comcast Cable Communications, LLC", "type": "isp", "country": "US"}
-{"network": "2001:4430:50a0::/44", "asn": "AS17853", "domain": "lguplus.co.kr", "name": "LGTELECOM", "type": "isp", "country": "KR"}
-{"network": "45.128.248.0/24", "asn": "AS204814", "domain": "annatel.net", "name": "LB Annatel LTD", "type": "isp", "country": "IL"}
-{"network": "140.14.46.0/24", "asn": "AS749", "domain": "mail.mil", "name": "DoD Network Information Center", "type": "government", "country": "US"}
-{"network": "2409:8a14:6c00::/39", "asn": "AS56044", "domain": "chinamobile.com", "name": "China Mobile communications corporation", "type": "isp", "country": "CN"}
-{"network": "2a02:2b60:1::/48", "asn": "AS42947", "domain": "telfy.com", "name": "Telfy Telecom S.L.", "type": "isp", "country": "ES"}
-{"network": "2804:4424::/32", "asn": "AS267605", "domain": "gmarx.com.br", "name": "GMARX TELECOM EIRELI - ME", "type": "isp", "country": "BR"}
-{"network": "170.253.214.0/24", "asn": "AS46687", "domain": "maxxsouth.com", "name": "BCI Mississippi Broadband,LLC", "type": "isp", "country": "US"}
-{"network": "2400:ae60:3000::/36", "asn": "AS134034", "domain": "budanta.com", "name": "BUDANTA NETWORKS PRIVATE LIMITED", "type": "isp", "country": "IN"}
-{"network": "2a09:9540::/48", "asn": "AS60328", "domain": "scomm.ru", "name": "Service-Communication LLC", "type": "isp", "country": "RU"}
-{"network": "64.112.104.0/24", "asn": "AS399411", "domain": "froedtertsouth.com", "name": "Froedtert South, Inc.", "type": "business", "country": "US"}
-{"network": "83.243.47.0/24", "asn": "AS34549", "domain": "meerfarbig.net", "name": "meerfarbig GmbH & Co. KG", "type": "hosting", "country": "DE"}
-{"network": "193.103.165.0/24", "asn": "AS3320", "domain": "telekom.de", "name": "Deutsche Telekom AG", "type": "isp", "country": "DE"}
-{"network": "193.58.180.0/24", "asn": "AS200930", "domain": "geo-com.pl", "name": "Andrzej Cezary Kossakowski trading as Geo-Com", "type": "business", "country": "PL"}
-{"network": "193.31.127.0/24", "asn": "AS26548", "domain": "purevoltage.com", "name": "PureVoltage Hosting Inc.", "type": "hosting", "country": "US"}
-{"network": "2a12:9080:1000::/36", "asn": "AS210429", "domain": "hizakura.nl", "name": "Hizakura B.V.", "type": "hosting", "country": "NL"}
-{"network": "199.241.28.0/22", "asn": "AS3842", "domain": "inmotionhosting.com", "name": "InMotion Hosting, Inc.", "type": "hosting", "country": "US"}
-{"network": "103.173.13.0/24", "asn": "AS147019", "domain": "jiii.cc", "name": "jiii", "type": "hosting", "country": "HK"}
-{"network": "2001:4408:4a00::/40", "asn": "AS4758", "domain": "www.nic.in", "name": "National Informatics Centre", "type": "hosting", "country": "IN"}
-{"network": "161.199.207.0/24", "asn": "AS396357", "domain": "digicelgroup.com", "name": "Digicel BVI Limited", "type": "isp", "country": "VG"}
-{"network": "103.159.145.0/24", "asn": "AS141315", "domain": "sparklinebroadband.com", "name": "Sparkline Internet Services Pvt. Ltd.", "type": "isp", "country": "IN"}
-{"network": "211.58.38.0/23", "asn": "AS9318", "domain": "skbroadband.com", "name": "SK Broadband Co Ltd", "type": "isp", "country": "KR"}
-{"network": "131.76.53.0/24", "asn": "AS721", "domain": "mail.mil", "name": "DoD Network Information Center", "type": "government", "country": "US"}
-{"network": "2001:df4:e40::/48", "asn": "AS152950", "domain": "interserver.com.vn", "name": "Interserver LLC", "type": "hosting", "country": "VN"}
-{"network": "208.180.150.0/23", "asn": "AS19108", "domain": "optimum.com", "name": "Optimum", "type": "isp", "country": "US"}
-{"network": "2604:a840:13::/48", "asn": "AS6233", "domain": "xtom.com", "name": "xTom", "type": "hosting", "country": "US"}
-{"network": "188.79.236.0/22", "asn": "AS12479", "domain": "orange.es", "name": "Orange Espagne SA", "type": "isp", "country": "ES"}
-{"network": "81.94.149.0/24", "asn": "AS8595", "domain": "westcall.ru", "name": "OOO WestCall Ltd.", "type": "isp", "country": "RU"}
-{"network": "220.126.64.0/18", "asn": "AS4766", "domain": "kt.com", "name": "Korea Telecom", "type": "isp", "country": "KR"}
-{"network": "115.110.148.0/22", "asn": "AS4755", "domain": "tatacommunications.com", "name": "TATA Communications formerly VSNL is Leading ISP", "type": "isp", "country": "IN"}
-{"network": "190.184.168.0/24", "asn": "AS22368", "domain": "telebucaramanga.net.co", "name": "TELEBUCARAMANGA S.A. E.S.P.", "type": "isp", "country": "CO"}
-{"network": "61.122.0.0/22", "asn": "AS7670", "domain": "enecom.co.jp", "name": "Enecom,Inc.", "type": "isp", "country": "JP"}
-{"network": "143.0.63.0/24", "asn": "AS264002", "domain": "mvatelecom.com.br", "name": "MVA TELECOM", "type": "isp", "country": "BR"}
-{"network": "2404:b300:11::/48", "asn": "AS131207", "domain": "sinet.com.kh", "name": "SINET, Cambodia's specialist Internet and Telecom Service Provider.", "type": "isp", "country": "KH"}
-{"network": "202.142.83.0/24", "asn": "AS132115", "domain": "indinet.co.in", "name": "INDINET SERVICE PRIVATE LIMITED", "type": "isp", "country": "IN"}
-{"network": "5.137.128.0/18", "asn": "AS12389", "domain": "rt.ru", "name": "PJSC Rostelecom", "type": "isp", "country": "RU"}
-{"network": "50.2.230.0/23", "asn": "AS62904", "domain": "serverhub.com", "name": "Eonix Corporation", "type": "hosting", "country": "US"}
-{"network": "88.255.88.0/21", "asn": "AS9121", "domain": "turktelekom.com.tr", "name": "Turk Telekomunikasyon Anonim Sirketi", "type": "isp", "country": "TR"}
-{"network": "181.118.152.0/24", "asn": "AS27951", "domain": "mc.net.co", "name": "Media Commerce Partners S.A", "type": "isp", "country": "CO"}
-{"network": "72.48.52.0/22", "asn": "AS7459", "domain": "mygrande.com", "name": "Grande Communications Networks, LLC", "type": "isp", "country": "US"}
-{"network": "201.98.160.0/19", "asn": "AS8151", "domain": "telmex.com", "name": "UNINET", "type": "isp", "country": "MX"}
-{"network": "201.114.88.0/23", "asn": "AS8151", "domain": "telmex.com", "name": "UNINET", "type": "isp", "country": "MX"}
-{"network": "2600:1410:3008::/45", "asn": "AS20940", "domain": "akamai.com", "name": "Akamai International B.V.", "type": "hosting", "country": "NL"}
-{"network": "46.184.130.0/24", "asn": "AS51375", "domain": "stc.com.bh", "name": "STC BAHRAIN B.S.C CLOSED", "type": "isp", "country": "BH"}
-{"network": "2603:c054:2010::/44", "asn": "AS54253", "domain": "oracle.com", "name": "Oracle Corporation", "type": "hosting", "country": "US"}
-{"network": "69.36.64.0/19", "asn": "AS27597", "domain": "siteserver.com", "name": "Siteserver, Inc.", "type": "isp", "country": "US"}
-{"network": "2a02:587:1c00::/38", "asn": "AS6799", "domain": "ote.gr", "name": "Ote SA (Hellenic Telecommunications Organisation)", "type": "isp", "country": "GR"}
-{"network": "188.132.242.0/24", "asn": "AS60446", "domain": "datacasa.com.tr", "name": "Datema Bilisim Ticaret Anonim Sirketi", "type": "hosting", "country": "TR"}
-{"network": "178.92.46.0/23", "asn": "AS6849", "domain": "ukrtelecom.ua", "name": "JSC \"Ukrtelecom\"", "type": "isp", "country": "UA"}
-{"network": "2600:6c3a:862::/48", "asn": "AS20115", "domain": "charter.com", "name": "Charter Communications", "type": "isp", "country": "US"}
-{"network": "130.176.217.0/24", "asn": "AS16509", "domain": "amazon.com", "name": "Amazon.com, Inc.", "type": "hosting", "country": "US"}
-{"network": "2001:16a2:c382::/48", "asn": "AS39891", "domain": "stc.com.sa", "name": "Saudi Telecom Company JSC", "type": "isp", "country": "SA"}
-{"network": "91.237.140.0/24", "asn": "AS3170", "domain": "veloxserv.co.uk", "name": "VeloxServ Communications Ltd", "type": "hosting", "country": "GB"}
-{"network": "212.57.40.0/23", "asn": "AS8400", "domain": "telekom.rs", "name": "TELEKOM SRBIJA a.d.", "type": "isp", "country": "RS"}
-{"network": "31.56.255.0/24", "asn": "AS9009", "domain": "m247.com", "name": "M247 Europe SRL", "type": "hosting", "country": "RO"}
-{"network": "137.220.142.0/24", "asn": "AS152194", "domain": "ctgserver.net", "name": "CTG Server Limited", "type": "hosting", "country": "HK"}
-{"network": "2a02:2e02:1660::/44", "asn": "AS12479", "domain": "orange.es", "name": "Orange Espagne SA", "type": "isp", "country": "ES"}
-{"network": "41.32.191.0/24", "asn": "AS8452", "domain": "te.eg", "name": "TE-AS", "type": "isp", "country": "EG"}
-{"network": "182.253.90.0/24", "asn": "AS17451", "domain": "biznetnetworks.com", "name": "BIZNET NETWORKS", "type": "hosting", "country": "ID"}
-{"network": "31.59.246.0/24", "asn": "AS9009", "domain": "m247.com", "name": "M247 Europe SRL", "type": "hosting", "country": "RO"}
-{"network": "66.128.168.0/23", "asn": "AS13576", "domain": "sdncommunications.com", "name": "SOUTH DAKOTA NETWORK", "type": "isp", "country": "US"}
-{"network": "45.146.131.0/24", "asn": "AS60781", "domain": "leaseweb.com", "name": "LeaseWeb Netherlands B.V.", "type": "hosting", "country": "NL"}
-{"network": "45.177.232.0/24", "asn": "AS269001", "domain": "atmtelecom.net.br", "name": "ATM TELECOM LTDA", "type": "isp", "country": "BR"}
-{"network": "39.39.168.0/21", "asn": "AS17557", "domain": "ptcl.com.pk", "name": "Pakistan Telecommunication Company Limited", "type": "isp", "country": "PK"}
-{"network": "61.59.160.0/19", "asn": "AS4780", "domain": "seed.net.tw", "name": "Digital United Inc.", "type": "isp", "country": "TW"}
-{"network": "204.58.15.0/24", "asn": "AS32586", "domain": "nwic.ca", "name": "Niagara Wireless Internet Co.", "type": "isp", "country": "CA"}
-{"network": "213.200.224.0/19", "asn": "AS3303", "domain": "swisscom.ch", "name": "Swisscom (Schweiz) AG", "type": "isp", "country": "CH"}
-{"network": "200.69.45.0/24", "asn": "AS10617", "domain": "sion.com", "name": "SION S.A", "type": "isp", "country": "AR"}
-{"network": "42.3.232.0/21", "asn": "AS4760", "domain": "netvigator.com", "name": "HKT Limited", "type": "isp", "country": "HK"}
-{"network": "52.95.244.0/24", "asn": "AS16509", "domain": "amazon.com", "name": "Amazon.com, Inc.", "type": "hosting", "country": "US"}
-{"network": "65.160.88.0/23", "asn": "AS174", "domain": "cogentco.com", "name": "Cogent Communications", "type": "isp", "country": "US"}
-{"network": "90.158.16.0/24", "asn": "AS9021", "domain": "isnet.net.tr", "name": "Is Net Elektonik Bilgi Uretim Dagitim Ticaret ve Iletisim Hizmetleri A.S.", "type": "hosting", "country": "TR"}
-{"network": "138.185.120.0/23", "asn": "AS263910", "domain": "gurinet.com.br", "name": "Gurisat Gurinet Ltda Me", "type": "isp", "country": "BR"}
-{"network": "66.112.245.0/24", "asn": "AS395461", "domain": "apogee.us", "name": "Apogee Telecom Inc.", "type": "isp", "country": "US"}
-{"network": "2a07:7200:ff80::/42", "asn": "AS34197", "domain": "shrd.fr", "name": "Three Fourteen SASU", "type": "hosting", "country": "FR"}
-{"network": "46.175.16.0/24", "asn": "AS34251", "domain": "imc.ua", "name": "LLC IMC", "type": "isp", "country": "UA"}
-{"network": "2401:d800:76d0::/48", "asn": "AS7552", "domain": "viettel.com.vn", "name": "Viettel Group", "type": "isp", "country": "VN"}
-{"network": "2620:171:38::/48", "asn": "AS42", "domain": "pch.net", "name": "WoodyNet, Inc.", "type": "hosting", "country": "US"}
-{"network": "120.209.249.0/24", "asn": "AS9808", "domain": "10086.cn", "name": "China Mobile Communications Group Co., Ltd.", "type": "isp", "country": "CN"}
-{"network": "2c0f:fc89:c9::/48", "asn": "AS36992", "domain": "etisalat.com.eg", "name": "ETISALAT MISR", "type": "isp", "country": "EG"}
-{"network": "2804:2e88:8000::/33", "asn": "AS265351", "domain": "infoartestelecom.com.br", "name": "INFOARTES TELECOM LTDA", "type": "isp", "country": "BR"}
-{"network": "5.140.228.0/23", "asn": "AS12389", "domain": "rt.ru", "name": "PJSC Rostelecom", "type": "isp", "country": "RU"}
-{"network": "2403:7100:18::/45", "asn": "AS132220", "domain": "jprdigital.in", "name": "JPR Digital Pvt. Ltd.", "type": "isp", "country": "IN"}
+{"network": "2804:3d28:8000::/33", "asn": "AS7063", "domain": "lestetelecom.com.br", "name": "LESTE FLU SERVI\u00c7OS DE TELECOM LTDA", "type": "isp", "country": "BR"}
+{"network": "193.27.128.0/19", "asn": "AS60997", "domain": "stadt-koeln.de", "name": "Stadt Koeln", "type": "business", "country": "DE"}
 {"network": "99.217.176.0/20", "asn": "AS15128", "domain": "comwave.net", "name": "Comwave Telecom Inc.", "type": "isp", "country": "CA"}
-{"network": "191.97.9.0/24", "asn": "AS262186", "domain": "aztecacomunicaciones.com", "name": "TV AZTECA SUCURSAL COLOMBIA", "type": "isp", "country": "CO"}
-{"network": "219.118.64.0/20", "asn": "AS2514", "domain": "nttpc.co.jp", "name": "NTT PC Communications, Inc.", "type": "isp", "country": "JP"}
+{"network": "192.149.210.0/24", "asn": "AS14618", "domain": "amazon.com", "name": "Amazon.com, Inc.", "type": "hosting", "country": "US"}
+{"network": "213.248.151.0/24", "asn": "AS8386", "domain": "vodafone.com.tr", "name": "Vodafone Net Iletisim Hizmetler AS", "type": "isp", "country": "TR"}
+{"network": "201.157.188.0/22", "asn": "AS28376", "domain": "gigacable.com.mx", "name": "Gigacable de Aguascalientes, S.A. de C.V.", "type": "isp", "country": "MX"}
+{"network": "142.190.56.0/23", "asn": "AS13760", "domain": "uniti.com", "name": "Uniti Fiber Holdings Inc.", "type": "isp", "country": "US"}
+{"network": "2804:e4c::/48", "asn": "AS53173", "domain": "sobralnet.com.br", "name": "SOBRALNET SERVICOS E TELECOMUNICACOES LTDA - ME", "type": "isp", "country": "BR"}
+{"network": "204.94.80.0/21", "asn": "AS19893", "domain": "ragingwire.com", "name": "NTT Global Data Centers Americas, INC.", "type": "hosting", "country": "US"}
+{"network": "164.250.160.0/21", "asn": "AS5972", "domain": "mail.mil", "name": "DoD Network Information Center", "type": "government", "country": "US"}
+{"network": "178.57.104.0/22", "asn": "AS61403", "domain": "severtm.ru", "name": "Sever Telecom JSC", "type": "isp", "country": "RU"}
+{"network": "122.187.156.0/23", "asn": "AS9498", "domain": "airtel.in", "name": "BHARTI Airtel Ltd.", "type": "isp", "country": "IN"}
+{"network": "203.199.32.0/24", "asn": "AS4755", "domain": "tatacommunications.com", "name": "TATA Communications formerly VSNL is Leading ISP", "type": "isp", "country": "IN"}
+{"network": "69.60.208.0/24", "asn": "AS11696", "domain": "fusionconnect.com", "name": "NBS", "type": "hosting", "country": "US"}
+{"network": "178.124.155.0/24", "asn": "AS6697", "domain": "beltelecom.by", "name": "Republican Unitary Telecommunication Enterprise Beltelecom", "type": "isp", "country": "BY"}
+{"network": "107.181.187.0/24", "asn": "AS46562", "domain": "performive.com", "name": "Performive LLC", "type": "hosting", "country": "US"}
+{"network": "198.232.249.0/24", "asn": "AS29906", "domain": "westat.com", "name": "Westat, Inc.", "type": "hosting", "country": "US"}
+{"network": "24.213.28.0/22", "asn": "AS20115", "domain": "charter.com", "name": "Charter Communications", "type": "isp", "country": "US"}
+{"network": "99.198.18.0/24", "asn": "AS7155", "domain": "viasat.com", "name": "ViaSat,Inc.", "type": "isp", "country": "US"}
+{"network": "205.235.213.0/24", "asn": "AS40391", "domain": "chsinc.com", "name": "CHS COOPERATIVES FOUNDATION", "type": "business", "country": "US"}
+{"network": "82.150.228.0/22", "asn": "AS12888", "domain": "amadeus.com", "name": "Amadeus Data Processing GmbH", "type": "business", "country": "DE"}
+{"network": "154.91.110.0/24", "asn": "AS399077", "domain": "tcloudnet.net", "name": "Tcloudnet", "type": "hosting", "country": "US"}
+{"network": "83.101.129.0/24", "asn": "AS29690", "domain": "atheer.net.sa", "name": "AI Jeraisy Electronic Services Company Ltd.", "type": "isp", "country": "SA"}
+{"network": "45.247.104.0/22", "asn": "AS24863", "domain": "orange.com", "name": "Link Egypt (Link.NET)", "type": "isp", "country": "EG"}
+{"network": "190.219.20.0/24", "asn": "AS18809", "domain": "cableonda.com", "name": "Cable Onda", "type": "isp", "country": "PA"}
+{"network": "117.0.28.0/22", "asn": "AS7552", "domain": "viettel.com.vn", "name": "Viettel Group", "type": "isp", "country": "VN"}
+{"network": "5.19.3.0/24", "asn": "AS41733", "domain": "interzet.ru", "name": "JSC \"ER-Telecom Holding\"", "type": "isp", "country": "RU"}
+{"network": "2806:36f:8::/45", "asn": "AS265619", "domain": "xknet.mx", "name": "XK NET S.A. DE C.V.", "type": "isp", "country": "MX"}
+{"network": "148.177.80.0/21", "asn": "AS22876", "domain": "jnj.com", "name": "JOHNSON & JOHNSON BR IND.COM.PR.SAUDE LT", "type": "hosting", "country": "BR"}
+{"network": "2001:df0:3d40::/48", "asn": "AS149186", "domain": "airspacebroadband.com", "name": "AIRSPACE BROADBAND PVT LTD", "type": "isp", "country": "IN"}
+{"network": "185.83.178.0/24", "asn": "AS202166", "domain": "netdocuments.com", "name": "NetDocuments Limited", "type": "business", "country": "GB"}
+{"network": "201.76.5.0/24", "asn": "AS28642", "domain": "contato.net", "name": "Contato Internet EIRELI", "type": "isp", "country": "BR"}
+{"network": "200.69.45.0/24", "asn": "AS10617", "domain": "sion.com", "name": "SION S.A", "type": "isp", "country": "AR"}
+{"network": "103.109.55.0/24", "asn": "AS134790", "domain": "uiu.ac.bd", "name": "United International University", "type": "education", "country": "BD"}
+{"network": "206.119.85.0/24", "asn": "AS140227", "domain": "udc.hk", "name": "Hong Kong Communications International Co., Limited", "type": "hosting", "country": "HK"}
+{"network": "45.177.232.0/24", "asn": "AS269001", "domain": "atmtelecom.net.br", "name": "ATM TELECOM LTDA", "type": "isp", "country": "BR"}
+{"network": "207.228.149.0/24", "asn": "AS3855", "domain": "onecomm.bm", "name": "Logic Communications Ltd", "type": "isp", "country": "BM"}
+{"network": "182.239.121.0/24", "asn": "AS9231", "domain": "chinamobile.com", "name": "China Mobile Hong Kong Company Limited", "type": "isp", "country": "HK"}
+{"network": "2a02:5620::/32", "asn": "AS202675", "domain": "keliweb.it", "name": "Keliweb S.R.L", "type": "hosting", "country": "IT"}
+{"network": "2a02:26f7:d54d::/48", "asn": "AS20940", "domain": "akamai.com", "name": "Akamai International B.V.", "type": "hosting", "country": "NL"}
+{"network": "202.200.240.0/21", "asn": "AS4538", "domain": "cernet.edu.cn", "name": "China Education and Research Network Center", "type": "education", "country": "CN"}
+{"network": "41.196.65.0/24", "asn": "AS24863", "domain": "orange.com", "name": "Link Egypt (Link.NET)", "type": "isp", "country": "EG"}
+{"network": "2607:fe68:ba00::/40", "asn": "AS15146", "domain": "cablebahamas.com", "name": "Cable Bahamas", "type": "isp", "country": "BS"}
+{"network": "111.125.243.0/24", "asn": "AS45769", "domain": "dvois.com", "name": "D-Vois Broadband Pvt Ltd", "type": "isp", "country": "IN"}
+{"network": "206.55.140.0/24", "asn": "AS16509", "domain": "amazon.com", "name": "Amazon.com, Inc.", "type": "hosting", "country": "US"}
+{"network": "67.213.201.0/24", "asn": "AS6528", "domain": "sat-co.net", "name": "SOUTH ARKANSAS TELEPHONE COMPANY", "type": "isp", "country": "US"}
+{"network": "211.244.212.0/22", "asn": "AS9318", "domain": "skbroadband.com", "name": "SK Broadband Co Ltd", "type": "isp", "country": "KR"}
+{"network": "2407:a6c0:31c::/46", "asn": "AS63790", "domain": "cyberagent.co.jp", "name": "CyberAgent, Inc.", "type": "isp", "country": "JP"}
+{"network": "37.154.192.0/21", "asn": "AS20978", "domain": "turktelekom.com.tr", "name": "TT Mobil Iletisim Hizmetleri A.S", "type": "isp", "country": "TR"}
+{"network": "2a0a:4e86::/34", "asn": "AS206150", "domain": "netutils.io", "name": "Internet Utilities Europe and Asia Limited", "type": "hosting", "country": "GB"}
+{"network": "186.211.68.0/22", "asn": "AS26615", "domain": "tim.com.br", "name": "TIM S/A", "type": "isp", "country": "BR"}
+{"network": "175.207.48.0/20", "asn": "AS4766", "domain": "kt.com", "name": "Korea Telecom", "type": "isp", "country": "KR"}
+{"network": "36.140.114.0/23", "asn": "AS9808", "domain": "10086.cn", "name": "China Mobile Communications Group Co., Ltd.", "type": "isp", "country": "CN"}
+{"network": "156.0.231.0/24", "asn": "AS328220", "domain": "arh.net.za", "name": "Altron Nexus (Pty) Ltd", "type": "business", "country": "ZA"}
+{"network": "190.184.168.0/24", "asn": "AS22368", "domain": "telebucaramanga.net.co", "name": "TELEBUCARAMANGA S.A. E.S.P.", "type": "isp", "country": "CO"}
+{"network": "2804:14d:aec0::/42", "asn": "AS28573", "domain": "claro.com.br", "name": "Claro NXT Telecomunicacoes Ltda", "type": "isp", "country": "BR"}
+{"network": "2001:559:c4f0::/48", "asn": "AS20214", "domain": "comcast.com", "name": "Comcast Cable Communications, LLC", "type": "isp", "country": "US"}
+{"network": "24.133.212.0/22", "asn": "AS47524", "domain": "turksat.com.tr", "name": "Turksat Uydu Haberlesme ve Kablo TV Isletme A.S.", "type": "isp", "country": "TR"}
+{"network": "128.201.106.0/23", "asn": "AS266625", "domain": "wca-ti.com.br", "name": "WCA TELECOM", "type": "business", "country": "BR"}
+{"network": "116.83.168.0/21", "asn": "AS2510", "domain": "web.ad.jp", "name": "FUJITSU LIMITED", "type": "business", "country": "JP"}
+{"network": "91.218.107.0/24", "asn": "AS48082", "domain": "odessa.tv", "name": "FOP Mikhailyuk Yuri Ivanovitch", "type": "isp", "country": "UA"}
+{"network": "2a0f:1e00:def9::/48", "asn": "AS30633", "domain": "leaseweb.com", "name": "Leaseweb USA, Inc.", "type": "hosting", "country": "US"}
+{"network": "2409:8c1e:5800::/39", "asn": "AS9808", "domain": "10086.cn", "name": "China Mobile Communications Group Co., Ltd.", "type": "isp", "country": "CN"}
+{"network": "192.215.32.0/20", "asn": "AS7018", "domain": "att.com", "name": "AT&T Services, Inc.", "type": "isp", "country": "US"}
+{"network": "179.56.218.0/23", "asn": "AS14117", "domain": "telsur.cl", "name": "Telefonica del Sur S.A.", "type": "isp", "country": "CL"}
+{"network": "45.128.248.0/24", "asn": "AS204814", "domain": "annatel.net", "name": "LB Annatel LTD", "type": "isp", "country": "IL"}
+{"network": "2409:870b:410::/48", "asn": "AS24547", "domain": "chinamobile.com", "name": "Hebei Mobile Communication Company Limited", "type": "isp", "country": "CN"}
+{"network": "2a07:7200:ff80::/42", "asn": "AS34197", "domain": "shrd.fr", "name": "Three Fourteen SASU", "type": "hosting", "country": "FR"}
+{"network": "181.50.72.0/24", "asn": "AS14080", "domain": "claro.com.co", "name": "Telmex Colombia S.A.", "type": "isp", "country": "CO"}
+{"network": "219.103.0.0/19", "asn": "AS18135", "domain": "btvm.ne.jp", "name": "BTV CO.,LTD.", "type": "isp", "country": "JP"}
+{"network": "2409:8907:2f00::/44", "asn": "AS24547", "domain": "chinamobile.com", "name": "Hebei Mobile Communication Company Limited", "type": "isp", "country": "CN"}
+{"network": "119.8.4.0/24", "asn": "AS136907", "domain": "huaweicloud.com", "name": "HUAWEI CLOUDS", "type": "hosting", "country": "HK"}
+{"network": "88.255.88.0/21", "asn": "AS9121", "domain": "turktelekom.com.tr", "name": "Turk Telekomunikasyon Anonim Sirketi", "type": "isp", "country": "TR"}
+{"network": "2804:574:20::/43", "asn": "AS53013", "domain": "wixnet.com.br", "name": "W I X NET DO BRASIL LTDA - ME", "type": "hosting", "country": "BR"}
+{"network": "2001:16a2:c382::/48", "asn": "AS39891", "domain": "stc.com.sa", "name": "Saudi Telecom Company JSC", "type": "isp", "country": "SA"}
+{"network": "2.56.0.0/22", "asn": "AS15830", "domain": "equinix.com", "name": "Equinix (EMEA) Acquisition Enterprises B.V.", "type": "hosting", "country": "NL"}
+{"network": "123.63.97.0/24", "asn": "AS55410", "domain": "vodafoneidea.com", "name": "Vodafone Idea Ltd", "type": "isp", "country": "IN"}
+{"network": "2606:4700:9b00::/46", "asn": "AS13335", "domain": "cloudflare.com", "name": "Cloudflare, Inc.", "type": "hosting", "country": "US"}
+{"network": "89.236.14.0/24", "asn": "AS15782", "domain": "perspektivbredband.se", "name": "Bredband2 AB", "type": "isp", "country": "SE"}
+{"network": "2409:8c3c:ffff::/48", "asn": "AS9808", "domain": "10086.cn", "name": "China Mobile Communications Group Co., Ltd.", "type": "isp", "country": "CN"}
+{"network": "82.103.90.0/24", "asn": "AS8717", "domain": "a1.bg", "name": "A1 Bulgaria EAD", "type": "isp", "country": "BG"}
+{"network": "66.36.200.0/24", "asn": "AS22351", "domain": "intelsat.com", "name": "INTELSAT GLOBAL SERVICE CORPORATION", "type": "isp", "country": "US"}
+{"network": "102.223.30.0/24", "asn": "AS37381", "domain": "vipnet.ci", "name": "Afrique Technologies & Services (VipNet)", "type": "isp", "country": "CI"}
+{"network": "92.60.74.0/24", "asn": "AS209242", "domain": "cloudflare.com", "name": "Cloudflare London, LLC", "type": "hosting", "country": "US"}
+{"network": "2a04:9dc0:30::/44", "asn": "AS9009", "domain": "m247.com", "name": "M247 Europe SRL", "type": "hosting", "country": "RO"}
+{"network": "194.164.114.0/24", "asn": "AS206509", "domain": "nasstar.com", "name": "KCOM GROUP LIMITED", "type": "isp", "country": "GB"}
+{"network": "205.246.13.0/24", "asn": "AS46536", "domain": "viasat.com", "name": "ViaSat, Inc.", "type": "isp", "country": "US"}
+{"network": "149.20.185.0/24", "asn": "AS21699", "domain": "ioinc.us", "name": "IO INC", "type": "hosting", "country": "US"}
+{"network": "184.155.100.0/22", "asn": "AS11492", "domain": "cableone.biz", "name": "CABLE ONE, INC.", "type": "isp", "country": "US"}

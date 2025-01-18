@@ -1,100 +1,100 @@
-{"start_ip": "157.20.100.0", "end_ip": "157.20.100.255", "asn": "AS152425", "name": "PT Muria Global Network", "domain": "muriaglobalnetwork.id"}
-{"start_ip": "140.205.1.0", "end_ip": "140.205.1.255", "asn": "AS45102", "name": "Alibaba (US) Technology Co., Ltd.", "domain": "alibabagroup.com"}
-{"start_ip": "2401:4900:1c06::", "end_ip": "2401:4900:1c0b:ffff:ffff:ffff:ffff:ffff", "asn": "AS24560", "name": "Bharti Airtel Ltd., Telemedia Services", "domain": "airtel.com"}
-{"start_ip": "2602:fd51::", "end_ip": "2602:fd51:fff:ffff:ffff:ffff:ffff:ffff", "asn": "AS13895", "name": "FiberConX", "domain": "fiberconx.com"}
-{"start_ip": "2804:299c::", "end_ip": "2804:299c:ffff:ffff:ffff:ffff:ffff:ffff", "asn": "AS264025", "name": "Arroba Banda Larga", "domain": "arrobabandalarga.com.br"}
-{"start_ip": "103.25.108.0", "end_ip": "103.25.108.255", "asn": "AS139949", "name": "PT. Bintang Kejora Teknologi", "domain": "kejora.net.id"}
-{"start_ip": "192.225.98.0", "end_ip": "192.225.98.255", "asn": "AS6143", "name": "American Regent, Inc", "domain": "americanregent.com"}
-{"start_ip": "212.39.64.0", "end_ip": "212.39.95.255", "asn": "AS8866", "name": "Vivacom Bulgaria EAD", "domain": "vivacom.bg"}
-{"start_ip": "193.57.205.0", "end_ip": "193.57.205.255", "asn": "AS12670", "name": "COMPLETEL SAS", "domain": "completel.fr"}
-{"start_ip": "109.207.130.0", "end_ip": "109.207.130.255", "asn": "AS50835", "name": "EANCENTER TELECOM LLC", "domain": "eancenter.com"}
-{"start_ip": "157.205.0.0", "end_ip": "157.205.255.255", "asn": "AS17514", "name": "Otsuka Corp.", "domain": "otsuka-shokai.co.jp"}
-{"start_ip": "170.70.92.0", "end_ip": "170.70.100.255", "asn": "AS10420", "name": "Banco de Mexico", "domain": "banxico.org.mx"}
-{"start_ip": "5.22.192.0", "end_ip": "5.22.199.255", "asn": "AS48289", "name": "Dadeh Pardazan Sabz Alborz Co.(P.J.S.)", "domain": "alborzlink.ir"}
-{"start_ip": "76.78.185.0", "end_ip": "76.78.185.255", "asn": "AS400485", "name": "Apogee Telecom Inc.", "domain": "apogee.us"}
-{"start_ip": "209.180.44.0", "end_ip": "209.180.44.255", "asn": "AS26955", "name": "ITA GROUP", "domain": "itagroup.com"}
-{"start_ip": "2001:df7:6100::", "end_ip": "2001:df7:6100:ffff:ffff:ffff:ffff:ffff", "asn": "AS138504", "name": "Universiti Pertahanan Nasional Malaysia", "domain": "upnm.edu.my"}
-{"start_ip": "2603:c012::", "end_ip": "2603:c012:fff:ffff:ffff:ffff:ffff:ffff", "asn": "AS31898", "name": "Oracle Corporation", "domain": "oracle.com"}
-{"start_ip": "103.6.165.0", "end_ip": "103.6.165.255", "asn": "AS132172", "name": "Fiscal Policy Office", "domain": "fpo.go.th"}
-{"start_ip": "216.131.105.0", "end_ip": "216.131.105.255", "asn": "AS62651", "name": "Strong Technology, LLC.", "domain": "strongtechnology.net"}
-{"start_ip": "185.209.48.0", "end_ip": "185.209.48.255", "asn": "AS203058", "name": "TIMS Systemes SAS", "domain": "tims.fr"}
-{"start_ip": "214.2.213.0", "end_ip": "214.2.216.255", "asn": "AS5972", "name": "DoD Network Information Center", "domain": "mail.mil"}
-{"start_ip": "2804:8a08::", "end_ip": "2804:8a08:ffff:ffff:ffff:ffff:ffff:ffff", "asn": "AS273644", "name": "Multi Connect Fibra LTDA", "domain": "multiconnectfibra.com.br"}
-{"start_ip": "2803:1fc0::", "end_ip": "2803:1fc0:ffff:ffff:ffff:ffff:ffff:ffff", "asn": "AS265781", "name": "PALA PABLO FEDERICO", "domain": "siglocero.com"}
-{"start_ip": "191.156.96.0", "end_ip": "191.156.119.255", "asn": "AS26611", "name": "COMUNICACI\u00d3N CELULAR S.A. COMCEL S.A.", "domain": "comcel.com.co"}
-{"start_ip": "2804:4e5c::", "end_ip": "2804:4e5c:ffff:ffff:ffff:ffff:ffff:ffff", "asn": "AS268256", "name": "SINCH BR S/A", "domain": "movile.com"}
-{"start_ip": "2001:7f8:49::", "end_ip": "2001:7f8:49:ffff:ffff:ffff:ffff:ffff", "asn": "AS20530", "name": "ANISP ROMANIA", "domain": "anisp.ro"}
-{"start_ip": "8.22.112.0", "end_ip": "8.22.123.255", "asn": "AS3356", "name": "Level 3 Parent, LLC", "domain": "lumen.com"}
-{"start_ip": "103.182.122.0", "end_ip": "103.182.123.255", "asn": "AS149522", "name": "OneCubit Co., Ltd.", "domain": "onecubit.net"}
-{"start_ip": "192.33.134.0", "end_ip": "192.33.134.255", "asn": "AS19", "name": "Leidos, Inc.", "domain": "leidos.com"}
-{"start_ip": "162.223.176.0", "end_ip": "162.223.176.255", "asn": "AS19755", "name": "Cruise LLC", "domain": "getcruise.com"}
-{"start_ip": "176.97.194.0", "end_ip": "176.97.194.255", "asn": "AS48610", "name": "Bykov Roman Andreevich", "domain": "oforo.ru"}
-{"start_ip": "64.41.122.0", "end_ip": "64.41.122.255", "asn": "AS18447", "name": "Ntirety, Inc.", "domain": "ntirety.com"}
-{"start_ip": "153.69.0.0", "end_ip": "153.69.3.255", "asn": "AS13806", "name": "NCR Corporation", "domain": "ncr.com"}
-{"start_ip": "194.39.192.0", "end_ip": "194.39.195.255", "asn": "AS8422", "name": "NetCologne Gesellschaft fur Telekommunikation mbH", "domain": "netcologne.de"}
-{"start_ip": "165.140.4.0", "end_ip": "165.140.7.255", "asn": "AS7029", "name": "Windstream Communications LLC", "domain": "windstream.com"}
-{"start_ip": "119.27.50.0", "end_ip": "119.27.61.255", "asn": "AS15830", "name": "Equinix (EMEA) Acquisition Enterprises B.V.", "domain": "equinix.com"}
-{"start_ip": "2406:f040:c8::", "end_ip": "2406:f040:c8:ffff:ffff:ffff:ffff:ffff", "asn": "AS131775", "name": "PT. Jupiter Jala Arta", "domain": "jalanet.co.id"}
-{"start_ip": "91.240.27.0", "end_ip": "91.240.27.255", "asn": "AS198876", "name": "STATE OIL COMPANY OF THE REPUBLIC OF AZERBAIJAN", "domain": "socar.ge"}
-{"start_ip": "94.143.160.0", "end_ip": "94.143.162.255", "asn": "AS200390", "name": "PETER-SERVICE Special Technologies, LLC", "domain": "ofd.ru"}
-{"start_ip": "2620:118:e000::", "end_ip": "2620:118:e00f:ffff:ffff:ffff:ffff:ffff", "asn": "AS27418", "name": "OUTOFWALL INC.", "domain": "outofwall.com"}
-{"start_ip": "85.90.64.0", "end_ip": "85.90.95.255", "asn": "AS1126", "name": "Vancis Advanced ICT Services", "domain": "vancis.nl"}
-{"start_ip": "103.69.116.0", "end_ip": "103.69.119.255", "asn": "AS132019", "name": "Earth network technology (Shanghai) Co., Ltd", "domain": "cnnic.cn"}
-{"start_ip": "185.90.56.0", "end_ip": "185.90.59.255", "asn": "AS9186", "name": "ONITELECOM - INFOCOMUNICACOES, S.A.", "domain": "oni.pt"}
-{"start_ip": "2001:67c:2de0::", "end_ip": "2001:67c:2de0:ffff:ffff:ffff:ffff:ffff", "asn": "AS212737", "name": "Alexander Detzen", "domain": "detzen.org"}
-{"start_ip": "203.96.234.0", "end_ip": "203.96.235.255", "asn": "AS131455", "name": "22 Stirling St", "domain": "onsitecomputers.com.au"}
-{"start_ip": "43.226.28.0", "end_ip": "43.226.31.255", "asn": "AS45775", "name": "WISH NET PRIVATE LIMITED", "domain": "wishnet.co.in"}
-{"start_ip": "185.158.208.0", "end_ip": "185.158.211.255", "asn": "AS59613", "name": "Ukrainian Backbone Networks LLC", "domain": "giganet.ua"}
-{"start_ip": "148.247.193.0", "end_ip": "148.247.198.255", "asn": "AS3548", "name": "Centro de Investigaci\u00f3n y de Estudios Avanzados del Instituto Polit\u00e9cnico Nacional", "domain": "cinvestav.mx"}
-{"start_ip": "206.222.225.0", "end_ip": "206.222.255.255", "asn": "AS10310", "name": "Oath Holdings Inc.", "domain": "yahooinc.com"}
-{"start_ip": "203.155.238.0", "end_ip": "203.155.238.255", "asn": "AS23644", "name": "Government Savings Bank", "domain": "gsb.or.th"}
-{"start_ip": "103.228.35.0", "end_ip": "103.228.35.255", "asn": "AS18229", "name": "CtrlS", "domain": "ctrls.in"}
-{"start_ip": "65.22.20.0", "end_ip": "65.22.22.255", "asn": "AS12041", "name": "Afilias, Inc.", "domain": "afilias.info"}
-{"start_ip": "91.226.99.0", "end_ip": "91.226.99.255", "asn": "AS48894", "name": "Optimus IT d.o.o.", "domain": "optimus.si"}
-{"start_ip": "160.242.29.0", "end_ip": "160.242.43.255", "asn": "AS33763", "name": "Paratus Telecommunications Limited", "domain": "paratus.africa"}
-{"start_ip": "70.168.227.0", "end_ip": "70.168.227.255", "asn": "AS14666", "name": "SpiritBank", "domain": "spiritbank.com"}
-{"start_ip": "72.29.56.0", "end_ip": "72.29.57.255", "asn": "AS398230", "name": "Roggen Enterprises BroadBand, LLC", "domain": "rtebb.net"}
-{"start_ip": "113.30.208.0", "end_ip": "113.30.209.255", "asn": "AS26380", "name": "MasterCard Technologies LLC", "domain": "mastercard.com"}
-{"start_ip": "122.8.52.0", "end_ip": "122.8.55.255", "asn": "AS34549", "name": "meerfarbig GmbH & Co. KG", "domain": "meerfarbig.net"}
-{"start_ip": "203.26.241.0", "end_ip": "203.26.241.255", "asn": "AS58655", "name": "SkyTel Communications Limited", "domain": "skytelbd.com"}
-{"start_ip": "222.229.64.0", "end_ip": "222.229.79.255", "asn": "AS55912", "name": "University of Kochi", "domain": "u-kochi.ac.jp"}
-{"start_ip": "198.167.0.0", "end_ip": "198.167.0.255", "asn": "AS55085", "name": "Fiserv Solutions, LLC", "domain": "fiserv.com"}
-{"start_ip": "94.184.88.0", "end_ip": "94.184.91.255", "asn": "AS58104", "name": "University of Isfahan", "domain": "aui.ac.ir"}
-{"start_ip": "151.237.60.0", "end_ip": "151.237.61.255", "asn": "AS47745", "name": "INTERLAN BG Ltd.", "domain": "abv.bg"}
-{"start_ip": "64.98.14.0", "end_ip": "64.98.15.255", "asn": "AS32636", "name": "Tucows.com Co.", "domain": "tucows.com"}
-{"start_ip": "110.34.32.0", "end_ip": "110.34.32.255", "asn": "AS23607", "name": "LeoNet Pvt. Ltd.", "domain": "leo.net.pk"}
-{"start_ip": "2001:559:234::", "end_ip": "2001:559:235:ffff:ffff:ffff:ffff:ffff", "asn": "AS7016", "name": "Comcast Cable Communications, LLC", "domain": "comcast.com"}
-{"start_ip": "185.158.232.0", "end_ip": "185.158.235.255", "asn": "AS207157", "name": "CAME S.P.A.", "domain": "came.com"}
-{"start_ip": "198.54.166.0", "end_ip": "198.54.167.255", "asn": "AS62663", "name": "Telecall", "domain": "telecall.com"}
-{"start_ip": "76.8.185.0", "end_ip": "76.8.186.255", "asn": "AS400633", "name": "Peoples Rural Telephone Cooperative Corporation, Inc.", "domain": "prtcnet.org"}
-{"start_ip": "103.118.19.0", "end_ip": "103.118.19.255", "asn": "AS150687", "name": "The Daily Star", "domain": "thedailystar.com"}
-{"start_ip": "103.123.128.0", "end_ip": "103.123.130.255", "asn": "AS131662", "name": "Denpa Ltd.", "domain": "denpa.io"}
-{"start_ip": "49.230.176.0", "end_ip": "49.230.181.255", "asn": "AS131445", "name": "Advance Wireless Network", "domain": "ais.co.th"}
-{"start_ip": "204.191.2.0", "end_ip": "204.191.2.255", "asn": "AS7861", "name": "TELUS Communications Inc.", "domain": "telus.com"}
-{"start_ip": "166.88.9.0", "end_ip": "166.88.9.255", "asn": "AS62240", "name": "Clouvider", "domain": "clouvider.com"}
-{"start_ip": "216.152.248.0", "end_ip": "216.152.255.255", "asn": "AS14237", "name": "Beamspeed LLC", "domain": "beamspeed.com"}
-{"start_ip": "62.138.211.0", "end_ip": "62.138.222.255", "asn": "AS61157", "name": "PlusServer GmbH", "domain": "plusserver.com"}
-{"start_ip": "168.194.248.0", "end_ip": "168.194.251.255", "asn": "AS269359", "name": "CANAA TELECOMUNICA\u00c7\u00d5ES LTDA - ME", "domain": "canaatelecom.com.br"}
-{"start_ip": "45.207.165.0", "end_ip": "45.207.165.255", "asn": "AS17561", "name": "LARUS Limited", "domain": "larus.net"}
-{"start_ip": "202.62.215.0", "end_ip": "202.62.222.255", "asn": "AS9906", "name": "ETNet Limited", "domain": "etnet.com.hk"}
-{"start_ip": "2600:c08:2016::", "end_ip": "2600:c08:ffff:ffff:ffff:ffff:ffff:ffff", "asn": "AS10913", "name": "Unitas Global", "domain": "unitasglobal.com"}
-{"start_ip": "91.199.140.0", "end_ip": "91.199.140.255", "asn": "AS44518", "name": "MTS SYSTEM Sylwia Truszkowska", "domain": "mtssystem.pl"}
-{"start_ip": "168.210.42.0", "end_ip": "168.210.79.255", "asn": "AS20011", "name": "Dimension Data", "domain": "global.ntt"}
-{"start_ip": "128.241.96.0", "end_ip": "128.241.216.255", "asn": "AS2914", "name": "NTT America, Inc.", "domain": "ntt.com"}
-{"start_ip": "81.28.16.0", "end_ip": "81.28.31.255", "asn": "AS702", "name": "Verizon Business", "domain": "verizonbusiness.com"}
-{"start_ip": "125.23.208.0", "end_ip": "125.23.215.255", "asn": "AS24560", "name": "Bharti Airtel Ltd., Telemedia Services", "domain": "airtel.com"}
-{"start_ip": "103.149.56.0", "end_ip": "103.149.57.255", "asn": "AS137067", "name": "Flashnet Enterprise", "domain": "flashnetbd.com"}
-{"start_ip": "8.27.24.0", "end_ip": "8.27.29.255", "asn": "AS23089", "name": "Hotwire Communications", "domain": "hotwirecommunication.com"}
-{"start_ip": "2606:6680:49::", "end_ip": "2606:6680:49:ffff:ffff:ffff:ffff:ffff", "asn": "AS398779", "name": "Ace Host, LLC", "domain": "acehost.com"}
-{"start_ip": "65.41.168.0", "end_ip": "65.41.168.255", "asn": "AS5778", "name": "CenturyLink Communications, LLC", "domain": "centurylink.com"}
-{"start_ip": "98.188.254.0", "end_ip": "98.188.254.255", "asn": "AS396530", "name": "DCX Goodyear 1, LLC", "domain": "dcx.us"}
-{"start_ip": "2600:1806:419::", "end_ip": "2600:1806:419:ffff:ffff:ffff:ffff:ffff", "asn": "AS16552", "name": "Tiggee LLC", "domain": "tiggee.com"}
-{"start_ip": "178.157.64.0", "end_ip": "178.157.67.255", "asn": "AS3561", "name": "CenturyLink Communications, LLC", "domain": "lumen.com"}
-{"start_ip": "145.69.42.0", "end_ip": "145.69.42.255", "asn": "AS203396", "name": "Ministerie van Economische Zaken", "domain": "rws.nl"}
-{"start_ip": "108.164.128.0", "end_ip": "108.164.255.255", "asn": "AS22282", "name": "The Cosmopolitan of Las Vegas", "domain": "cosmopolitanlasvegas.com"}
-{"start_ip": "155.20.175.0", "end_ip": "155.20.177.255", "asn": "AS749", "name": "DoD Network Information Center", "domain": "mail.mil"}
-{"start_ip": "36.38.168.0", "end_ip": "36.38.175.255", "asn": "AS38669", "name": "LG HelloVision Corp.", "domain": "lghellovision.net"}
-{"start_ip": "49.14.162.0", "end_ip": "49.14.187.255", "asn": "AS45271", "name": "Idea Cellular Limited", "domain": "adityabirla.com"}
-{"start_ip": "49.157.0.0", "end_ip": "49.157.13.255", "asn": "AS9658", "name": "Eastern Telecoms Phils., Inc.", "domain": "eastern.com.ph"}
-{"start_ip": "154.6.6.0", "end_ip": "154.6.6.255", "asn": "AS64286", "name": "LogicWeb Inc.", "domain": "logicweb.com"}
-{"start_ip": "82.163.16.0", "end_ip": "82.163.16.255", "asn": "AS61112", "name": "AKILE LTD", "domain": "akile.io"}
+{"start_ip": "12.5.124.0", "end_ip": "12.5.124.255", "asn": "AS30327", "name": "Alfa Mutual Insurance Company", "domain": "alfains.com"}
+{"start_ip": "193.32.141.0", "end_ip": "193.32.143.255", "asn": "AS52023", "name": "OPTICNET-SERV S.R.L.", "domain": "opticnet.ro"}
+{"start_ip": "68.70.195.0", "end_ip": "68.70.201.255", "asn": "AS44239", "name": "proinity GmbH", "domain": "proinity.com"}
+{"start_ip": "240e:3a0:4a0b::", "end_ip": "240e:3a0:4a18:ffff:ffff:ffff:ffff:ffff", "asn": "AS140292", "name": "CHINATELECOM Jiangsu province Suzhou 5G network", "domain": "chinatelecom.cn"}
+{"start_ip": "2620:104:1000::", "end_ip": "2620:104:100f:ffff:ffff:ffff:ffff:ffff", "asn": "AS20074", "name": "Point Loma Nazarene University", "domain": "pointloma.edu"}
+{"start_ip": "209.87.144.0", "end_ip": "209.87.159.255", "asn": "AS36444", "name": "Liquid Web, L.L.C", "domain": "nexcess.net"}
+{"start_ip": "104.161.232.0", "end_ip": "104.161.235.255", "asn": "AS394808", "name": "Salesforce.com, Inc.", "domain": "salesforce.com"}
+{"start_ip": "192.230.77.0", "end_ip": "192.230.78.255", "asn": "AS19551", "name": "Incapsula Inc", "domain": "incapsula.com"}
+{"start_ip": "119.13.0.0", "end_ip": "119.13.15.255", "asn": "AS9723", "name": "iseek Communications Pty Ltd", "domain": "iseek.com.au"}
+{"start_ip": "2001:559:810a::", "end_ip": "2001:559:810a:ffff:ffff:ffff:ffff:ffff", "asn": "AS33287", "name": "Comcast Cable Communications, LLC", "domain": "comcast.com"}
+{"start_ip": "117.18.105.0", "end_ip": "117.18.109.255", "asn": "AS7540", "name": "HongKong Commercial Internet Exchange", "domain": "hkcix.com"}
+{"start_ip": "2a0b:a540::", "end_ip": "2a0b:a547:ffff:ffff:ffff:ffff:ffff:ffff", "asn": "AS1267", "name": "WIND TRE S.P.A.", "domain": "windtre.it"}
+{"start_ip": "2a0e:5e46::", "end_ip": "2a0e:5e46:ffff:ffff:ffff:ffff:ffff:ffff", "asn": "AS207983", "name": "Codit Teknoloji Tic. Ltd. Sti.", "domain": "codit.com.tr"}
+{"start_ip": "2803:c840::", "end_ip": "2803:c840:ffff:ffff:ffff:ffff:ffff:ffff", "asn": "AS263763", "name": "REDES HIBRIDAS, S. A.", "domain": "megared.com.gt"}
+{"start_ip": "184.29.50.0", "end_ip": "184.29.53.255", "asn": "AS20940", "name": "Akamai International B.V.", "domain": "akamai.com"}
+{"start_ip": "180.103.210.0", "end_ip": "180.103.218.255", "asn": "AS4134", "name": "CHINANET-BACKBONE", "domain": "chinatelecom.com.cn"}
+{"start_ip": "198.160.34.0", "end_ip": "198.160.35.255", "asn": "AS21504", "name": "The Bessemer Group, Inc.", "domain": "bessemer.com"}
+{"start_ip": "190.90.185.0", "end_ip": "190.90.186.255", "asn": "AS26619", "name": "GTD COLOMBIA S.A.S", "domain": "gtdcolombia.com"}
+{"start_ip": "131.103.31.0", "end_ip": "131.103.137.255", "asn": "AS2914", "name": "NTT America, Inc.", "domain": "ntt.com"}
+{"start_ip": "66.45.79.0", "end_ip": "66.45.79.255", "asn": "AS1828", "name": "Unitas Global", "domain": "unitasglobal.com"}
+{"start_ip": "192.187.5.0", "end_ip": "192.187.7.255", "asn": "AS721", "name": "DoD Network Information Center", "domain": "mail.mil"}
+{"start_ip": "185.101.112.0", "end_ip": "185.101.115.255", "asn": "AS206597", "name": "Rational AG", "domain": "rational-online.com"}
+{"start_ip": "72.22.167.0", "end_ip": "72.22.191.255", "asn": "AS46887", "name": "Crown Castle Fiber LLC", "domain": "crowncastle.com"}
+{"start_ip": "102.165.28.0", "end_ip": "102.165.29.255", "asn": "AS212238", "name": "Datacamp Limited", "domain": "datacamp.co.uk"}
+{"start_ip": "150.241.130.0", "end_ip": "150.241.131.255", "asn": "AS211975", "name": "Sascha Wohlert", "domain": "imailpro.de"}
+{"start_ip": "91.210.252.0", "end_ip": "91.210.255.255", "asn": "AS12389", "name": "PJSC Rostelecom", "domain": "rt.ru"}
+{"start_ip": "162.247.132.0", "end_ip": "162.247.132.255", "asn": "AS33477", "name": "Knox College", "domain": "knox.edu"}
+{"start_ip": "39.136.144.0", "end_ip": "39.136.144.255", "asn": "AS9808", "name": "China Mobile Communications Group Co., Ltd.", "domain": "10086.cn"}
+{"start_ip": "85.254.31.0", "end_ip": "85.254.31.255", "asn": "AS202221", "name": "Lailio Solutions SIA", "domain": "lailio.com"}
+{"start_ip": "208.138.29.0", "end_ip": "208.138.29.255", "asn": "AS30689", "name": "FLOW", "domain": "discoverflow.co"}
+{"start_ip": "103.183.66.0", "end_ip": "103.183.66.255", "asn": "AS7609", "name": "Morgan Stanley Management Service (Shanghai) Limited", "domain": "morganstanley.com"}
+{"start_ip": "201.161.6.0", "end_ip": "201.161.8.255", "asn": "AS22566", "name": "IP Matrix, S.A. de C.V.", "domain": "maxcom.com.mx"}
+{"start_ip": "190.99.100.0", "end_ip": "190.99.102.255", "asn": "AS52241", "name": "Lunamen S.A.", "domain": "latechco.com"}
+{"start_ip": "185.146.72.0", "end_ip": "185.146.75.255", "asn": "AS41639", "name": "Limited Liability Company Incomsvyaz", "domain": "incomsv.ru"}
+{"start_ip": "2600:100c:9000::", "end_ip": "2600:100c:900f:ffff:ffff:ffff:ffff:ffff", "asn": "AS6167", "name": "Verizon Business", "domain": "verizonbusiness.com"}
+{"start_ip": "205.159.133.0", "end_ip": "205.159.133.255", "asn": "AS30333", "name": "ASCD", "domain": "ascd.org"}
+{"start_ip": "194.0.153.0", "end_ip": "194.0.153.255", "asn": "AS16347", "name": "ADISTA SAS", "domain": "adista.fr"}
+{"start_ip": "193.247.236.0", "end_ip": "193.247.237.255", "asn": "AS12494", "name": "OOO \"Post ltd\"", "domain": "kmv.ru"}
+{"start_ip": "214.15.137.0", "end_ip": "214.15.249.255", "asn": "AS721", "name": "DoD Network Information Center", "domain": "mail.mil"}
+{"start_ip": "154.38.8.0", "end_ip": "154.38.63.255", "asn": "AS174", "name": "Cogent Communications", "domain": "cogentco.com"}
+{"start_ip": "103.37.48.0", "end_ip": "103.37.51.255", "asn": "AS132905", "name": "AS number of Ateneo de Davao University", "domain": "addu.edu.ph"}
+{"start_ip": "187.190.12.0", "end_ip": "187.190.14.255", "asn": "AS22884", "name": "TOTAL PLAY TELECOMUNICACIONES SA DE CV", "domain": "totalplay.com.mx"}
+{"start_ip": "175.206.171.0", "end_ip": "175.206.171.255", "asn": "AS4766", "name": "Korea Telecom", "domain": "kt.com"}
+{"start_ip": "209.51.28.0", "end_ip": "209.51.28.255", "asn": "AS396940", "name": "HTH", "domain": "hth-inc.com"}
+{"start_ip": "2620:12c:b018::", "end_ip": "2620:12c:b018:ffff:ffff:ffff:ffff:ffff", "asn": "AS13448", "name": "Forcepoint, LLC", "domain": "forcepoint.com"}
+{"start_ip": "193.29.126.0", "end_ip": "193.29.126.255", "asn": "AS3320", "name": "Deutsche Telekom AG", "domain": "telekom.de"}
+{"start_ip": "168.187.54.0", "end_ip": "168.187.54.255", "asn": "AS42781", "name": "Zajil International Telecom Company KSCC", "domain": "zajil.com"}
+{"start_ip": "2603:c081::", "end_ip": "2603:c081:fff:ffff:ffff:ffff:ffff:ffff", "asn": "AS54253", "name": "Oracle Corporation", "domain": "oracle.com"}
+{"start_ip": "142.205.232.0", "end_ip": "142.205.233.255", "asn": "AS7734", "name": "Toronto Dominion Bank", "domain": "td.com"}
+{"start_ip": "179.106.176.0", "end_ip": "179.106.191.255", "asn": "AS52539", "name": "SBS-NET TELECOMUNICACOES LTDA ME", "domain": "paraisopolis.com.br"}
+{"start_ip": "2a07:55c0::", "end_ip": "2a07:55c7:ffff:ffff:ffff:ffff:ffff:ffff", "asn": "AS31263", "name": "MYNET S.R.L.", "domain": "mynet.it"}
+{"start_ip": "202.28.116.0", "end_ip": "202.28.119.255", "asn": "AS9546", "name": "Ministry of University Affairs", "domain": "uni.net.th"}
+{"start_ip": "129.233.200.0", "end_ip": "129.233.202.255", "asn": "AS200943", "name": "Fraunhofer-Gesellschaft zur Foerderung der angewandten Forschung e.V.", "domain": "fraunhofer.de"}
+{"start_ip": "136.220.127.0", "end_ip": "136.220.255.255", "asn": "AS721", "name": "DoD Network Information Center", "domain": "mail.mil"}
+{"start_ip": "140.19.209.0", "end_ip": "140.19.211.255", "asn": "AS5852", "name": "DoD Network Information Center", "domain": "mail.mil"}
+{"start_ip": "2a07:1980:e::", "end_ip": "2a07:1980:f:ffff:ffff:ffff:ffff:ffff", "asn": "AS48851", "name": "Radware Ltd", "domain": "radware.com"}
+{"start_ip": "172.84.179.0", "end_ip": "172.84.179.255", "asn": "AS28753", "name": "Leaseweb Deutschland GmbH", "domain": "leaseweb.com"}
+{"start_ip": "2a05:4140:b00::", "end_ip": "2a05:4140:bff:ffff:ffff:ffff:ffff:ffff", "asn": "AS212271", "name": "Cinzia Tocci trading as C1V", "domain": "c1vhosting.it"}
+{"start_ip": "24.129.128.0", "end_ip": "24.129.173.255", "asn": "AS33363", "name": "Charter Communications, Inc", "domain": "chartercom.com"}
+{"start_ip": "45.205.155.0", "end_ip": "45.205.155.255", "asn": "AS984", "name": "OCTOPUS WEB SOLUTION INC", "domain": "ows.us"}
+{"start_ip": "205.153.204.0", "end_ip": "205.153.205.255", "asn": "AS18772", "name": "Sky Lakes Medical Center, Inc.", "domain": "skylakes.org"}
+{"start_ip": "69.52.192.0", "end_ip": "69.52.193.255", "asn": "AS8075", "name": "Microsoft Corporation", "domain": "microsoft.com"}
+{"start_ip": "216.222.36.0", "end_ip": "216.222.63.255", "asn": "AS4997", "name": "Zayo Bandwidth", "domain": "zayo.com"}
+{"start_ip": "146.158.60.0", "end_ip": "146.158.63.255", "asn": "AS61390", "name": "Garant-G Ltd.", "domain": "garant.tv"}
+{"start_ip": "103.241.150.0", "end_ip": "103.241.151.255", "asn": "AS133114", "name": "ControlVM Sdn Bhd", "domain": "controlvm.com"}
+{"start_ip": "103.3.64.0", "end_ip": "103.3.64.255", "asn": "AS45430", "name": "SBN-IIG/AWN-IIG transit provider", "domain": "awn.co.th"}
+{"start_ip": "78.29.0.0", "end_ip": "78.29.29.255", "asn": "AS8369", "name": "Intersvyaz-2 JSC", "domain": "is74.ru"}
+{"start_ip": "23.28.0.0", "end_ip": "23.28.95.255", "asn": "AS6079", "name": "RCN", "domain": "astound.com"}
+{"start_ip": "209.202.75.0", "end_ip": "209.202.75.255", "asn": "AS11700", "name": "CW-E", "domain": "cw-e.ca"}
+{"start_ip": "195.128.246.0", "end_ip": "195.128.247.255", "asn": "AS200107", "name": "Kaspersky Lab Switzerland GmbH", "domain": "kaspersky.com"}
+{"start_ip": "77.81.123.0", "end_ip": "77.81.123.255", "asn": "AS33977", "name": "Banat Telecom Satelit S.R.L.", "domain": "netprotect.ro"}
+{"start_ip": "194.132.209.0", "end_ip": "194.132.209.255", "asn": "AS8473", "name": "Bahnhof AB", "domain": "bahnhof.se"}
+{"start_ip": "218.100.26.0", "end_ip": "218.100.26.255", "asn": "AS132040", "name": "Vital Data Ltd", "domain": "vital.co.nz"}
+{"start_ip": "2408:8957:c890::", "end_ip": "2408:8957:c8bf:ffff:ffff:ffff:ffff:ffff", "asn": "AS17816", "name": "China Unicom IP network China169 Guangdong province", "domain": "chinaunicom.cn"}
+{"start_ip": "203.162.70.0", "end_ip": "203.162.75.255", "asn": "AS45899", "name": "VNPT Corp", "domain": "vnpt.vn"}
+{"start_ip": "2401:4900:57a0::", "end_ip": "2401:4900:57ff:ffff:ffff:ffff:ffff:ffff", "asn": "AS45609", "name": "Bharti Airtel Ltd. AS for GPRS Service", "domain": "airtel.com"}
+{"start_ip": "64.53.63.0", "end_ip": "64.53.63.255", "asn": "AS22646", "name": "Hargray Communications Group, Inc.", "domain": "hargray.com"}
+{"start_ip": "2402:1500:8000::", "end_ip": "2402:1500:ffff:ffff:ffff:ffff:ffff:ffff", "asn": "AS25222", "name": "Inmarsat Solutions B.V.", "domain": "stratosglobal.com"}
+{"start_ip": "206.42.128.0", "end_ip": "206.42.255.255", "asn": "AS174", "name": "Cogent Communications", "domain": "cogentco.com"}
+{"start_ip": "89.42.86.0", "end_ip": "89.42.86.255", "asn": "AS7018", "name": "AT&T Services, Inc.", "domain": "att.com"}
+{"start_ip": "45.250.184.0", "end_ip": "45.250.187.255", "asn": "AS4816", "name": "China Telecom (Group)", "domain": "chinatelecom.com.cn"}
+{"start_ip": "185.142.252.0", "end_ip": "185.142.255.255", "asn": "AS201873", "name": "FMO Solutions", "domain": "fmo-solutions.nl"}
+{"start_ip": "201.182.196.0", "end_ip": "201.182.199.255", "asn": "AS267531", "name": "MBN-INFORMATICA LTDA ME", "domain": "barrapro.com.br"}
+{"start_ip": "169.4.0.0", "end_ip": "169.15.255.255", "asn": "AS7792", "name": "3M Company", "domain": "3M.com"}
+{"start_ip": "199.58.52.0", "end_ip": "199.58.52.255", "asn": "AS7782", "name": "Alaska Communications Systems Group, Inc.", "domain": "alsk.com"}
+{"start_ip": "154.6.123.0", "end_ip": "154.6.123.255", "asn": "AS212238", "name": "Datacamp Limited", "domain": "datacamp.co.uk"}
+{"start_ip": "45.56.196.0", "end_ip": "45.56.198.255", "asn": "AS32780", "name": "Hosting Services, Inc.", "domain": "westhost.com"}
+{"start_ip": "103.193.144.0", "end_ip": "103.193.145.255", "asn": "AS58821", "name": "PT Lintas Jaringan Nusantara", "domain": "lintas.net.id"}
+{"start_ip": "23.217.136.0", "end_ip": "23.217.140.255", "asn": "AS20940", "name": "Akamai International B.V.", "domain": "akamai.com"}
+{"start_ip": "185.71.116.0", "end_ip": "185.71.119.255", "asn": "AS7155", "name": "ViaSat,Inc.", "domain": "viasat.com"}
+{"start_ip": "192.5.154.0", "end_ip": "192.5.155.255", "asn": "AS36551", "name": "Compassion International, Inc.", "domain": "compassion.com"}
+{"start_ip": "135.109.223.0", "end_ip": "135.109.223.255", "asn": "AS7345", "name": "Nokia of America Corporation", "domain": "nokia.com"}
+{"start_ip": "64.69.144.0", "end_ip": "64.69.159.255", "asn": "AS18795", "name": "University of La Verne", "domain": "laverne.edu"}
+{"start_ip": "58.97.38.0", "end_ip": "58.97.59.255", "asn": "AS7470", "name": "TRUE INTERNET Co.,Ltd.", "domain": "trueinternet.co.th"}
+{"start_ip": "185.171.0.0", "end_ip": "185.171.3.255", "asn": "AS57878", "name": "Prager Connect GmbH", "domain": "prager-it.com"}
+{"start_ip": "209.87.138.0", "end_ip": "209.87.139.255", "asn": "AS22196", "name": "NeuLion, Inc.", "domain": "neulion.com"}
+{"start_ip": "69.71.192.0", "end_ip": "69.71.207.255", "asn": "AS46446", "name": "California Telecom", "domain": "californiatelecom.com"}
+{"start_ip": "138.157.217.0", "end_ip": "138.157.223.255", "asn": "AS721", "name": "DoD Network Information Center", "domain": "mail.mil"}
+{"start_ip": "103.168.72.0", "end_ip": "103.168.73.255", "asn": "AS135208", "name": "Megahertz Internet Network Pvt. Ltd.", "domain": "megahertzinternet.com"}
+{"start_ip": "203.18.240.0", "end_ip": "203.18.240.255", "asn": "AS4826", "name": "Vocus Connect International Backbone", "domain": "vocus.com.au"}

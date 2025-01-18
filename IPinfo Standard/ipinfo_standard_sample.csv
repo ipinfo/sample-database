@@ -1,101 +1,101 @@
 network,city,region,region_code,country,country_code,continent,continent_code,latitude,longitude,timezone,postal_code,asn,as_name,as_domain,as_type,is_anon,is_anycast,is_hosting,is_mobile,is_satellite
-2001:4dd0:af14:a890::/62,Cece,Fejér,FE,Hungary,HU,Europe,EU,46.77056,18.62826,Europe/Budapest,7013,AS8422,NetCologne Gesellschaft fur Telekommunikation mbH,netcologne.de,isp,false,false,false,false,false
-2a01:e942:2::/47,Genève,Geneva,GE,Switzerland,CH,Europe,EU,46.2107,6.1469,Europe/Zurich,1201,,,,,false,false,false,false,false
-194.218.219.206/31,Stockholm,Stockholm,AB,Sweden,SE,Europe,EU,59.2968,18.0313,Europe/Stockholm,124 59,AS3301,Telia Company AB,teliacompany.com,isp,false,false,false,false,false
-185.224.28.132/30,Don Álvaro,Extremadura,EX,Spain,ES,Europe,EU,38.84837,-6.27475,Europe/Madrid,06820,AS62236,Exsotel S.L.,fibrix.es,isp,false,false,false,false,false
-218.221.224.4/30,Sapporo,Hokkaido,01,Japan,JP,Asia,AS,43.06667,141.35,Asia/Tokyo,065-0010,AS2527,Sony Network Communications Inc.,sonynetwork.co.jp,isp,false,false,false,false,false
-195.23.226.232/30,Lisbon,Lisbon,11,Portugal,PT,Europe,EU,38.71667,-9.13333,Europe/Lisbon,1000-001,AS1897,"NOS COMUNICACOES, S.A.",nos.pt,isp,false,false,false,false,false
-240e:33d:6299:5800::/53,Shanghai,Shanghai,SH,China,CN,Asia,AS,31.22222,121.45806,Asia/Shanghai,200000,AS4134,CHINANET-BACKBONE,chinatelecom.com.cn,isp,false,false,false,false,false
-142.186.16.244/30,Toronto,Ontario,ON,Canada,CA,North America,NA,43.70643,-79.39864,America/Toronto,M5A,AS577,Bell Canada,bell.ca,isp,false,false,false,false,false
-191.242.217.240/28,Linhares,Espírito Santo,ES,Brazil,BR,South America,SA,-19.39111,-40.07222,America/Sao_Paulo,29900-000,AS263482,Megalink Servicos Ltda,megalink.net.br,isp,false,false,false,false,false
-91.126.57.112/28,Barcelona,Catalonia,CT,Spain,ES,Europe,EU,41.4,2.2,Europe/Madrid,17454,AS35699,Adamo Telecom Iberia S.A.,adamo.es,isp,false,false,false,false,false
-2401:4900:384c:4800::/56,Jamshedpur,Jharkhand,JH,India,IN,Asia,AS,22.80278,86.18545,Asia/Kolkata,831002,AS45609,Bharti Airtel Ltd. AS for GPRS Service,airtel.com,isp,false,false,false,false,false
-2001:464d:9c68::/45,Lillesand,Agder,42,Norway,NO,Europe,EU,58.24879,8.3778,Europe/Oslo,4790,AS2119,Telenor Norge AS,telenor.no,isp,false,false,false,false,false
-2a09:bac5:33d1:2464::/64,Frankfurt am Main,Hesse,HE,Germany,DE,Europe,EU,50.11552,8.68417,Europe/Berlin,60306,AS13335,"Cloudflare, Inc.",cloudflare.com,hosting,false,false,true,false,false
-138.201.73.48/28,Falkenstein,Saxony,SN,Germany,DE,Europe,EU,50.47788,12.37129,Europe/Berlin,08520,AS24940,Hetzner Online GmbH,hetzner.de,hosting,false,false,true,false,false
-23.215.36.122,Chicago,Illinois,IL,United States,US,North America,NA,41.85003,-87.65005,America/Chicago,60666,AS20940,Akamai International B.V.,akamai.com,hosting,true,false,true,false,false
-23.244.85.92/31,Columbus,Ohio,OH,United States,US,North America,NA,39.96118,-82.99879,America/New_York,43215,AS11776,Breezeline,breezeline.com,isp,false,false,false,false,false
-211.59.193.151,Koesan,North Chungcheong,43,South Korea,KR,Asia,AS,36.81083,127.79472,Asia/Seoul,28024,AS9318,SK Broadband Co Ltd,skbroadband.com,isp,false,false,false,false,false
-58.136.202.0/29,Bangkok,Bangkok,10,Thailand,TH,Asia,AS,13.75398,100.50144,Asia/Bangkok,10200,AS133481,AIS Fibre,ais.co.th,isp,false,false,false,false,false
-2409:8a02:784b:a500::/56,Zhangjiakou,Hebei,HE,China,CN,Asia,AS,40.78341,114.87139,Asia/Shanghai,075000,AS38019,tianjin Mobile Communication Company Limited,chinamobile.com,isp,false,false,false,false,false
-99.251.120.128/26,Kitchener,Ontario,ON,Canada,CA,North America,NA,43.42537,-80.5112,America/Toronto,N2E,AS812,Rogers Communications Canada Inc.,rogers.com,isp,false,false,false,false,false
-2409:4053:2e0d:6c00::/56,Sahāranpur,Uttar Pradesh,UP,India,IN,Asia,AS,29.9679,77.54522,Asia/Kolkata,247001,AS55836,Reliance Jio Infocomm Limited,jio.com,isp,false,false,false,false,false
-2a02:a03f:ad79:f508::/61,Liège,Wallonia,WAL,Belgium,BE,Europe,EU,50.63373,5.56749,Europe/Brussels,4000,AS5432,Proximus NV,proximus.com,isp,false,false,false,false,false
-61.61.135.240/31,Taipei,Taiwan,04,Taiwan,TW,Asia,AS,25.05306,121.52639,Asia/Taipei,,AS9919,"New Century InfoComm Tech Co., Ltd.",seed.net.tw,isp,false,false,false,false,false
-109.194.22.140/30,Irkutsk,Irkutsk Oblast,IRK,Russia,RU,Europe,EU,52.29778,104.29639,Asia/Irkutsk,664000,AS51645,"JSC ""ER-Telecom Holding""",ertelecom.ru,isp,false,false,false,false,false
-71.92.238.199,Anderson,California,CA,United States,US,North America,NA,40.44821,-122.29778,America/Los_Angeles,96007,AS20115,Charter Communications,charter.com,isp,false,false,false,false,false
-191.137.171.208,Uberaba,Minas Gerais,MG,Brazil,BR,South America,SA,-19.74833,-47.93194,America/Sao_Paulo,38000-000,AS26615,TIM S/A,tim.com.br,isp,false,false,false,true,false
-2804:2e78:1b99:2800::/53,Osasco,São Paulo,SP,Brazil,BR,South America,SA,-23.5325,-46.79167,America/Sao_Paulo,06000-000,AS28213,LCI Equipamentos de Informatica LTDA - LCI Telecom,lcitelecom.com.br,isp,false,false,false,false,false
-88.117.190.202,Vienna,Vienna,9,Austria,AT,Europe,EU,48.20849,16.37208,Europe/Vienna,1010,AS8447,A1 Telekom Austria AG,a1.net,isp,true,false,false,false,false
-2804:299c:1401:b000::/53,São Paulo,São Paulo,SP,Brazil,BR,South America,SA,-23.5475,-46.63611,America/Sao_Paulo,01000-000,AS264025,Arroba Banda Larga,arrobabandalarga.com.br,isp,false,false,false,false,false
-2003:cf:872a:6800::/54,Norderstedt,Schleswig-Holstein,SH,Germany,DE,Europe,EU,53.6859,9.98041,Europe/Berlin,22848,AS3320,Deutsche Telekom AG,telekom.de,isp,false,false,false,false,false
-75.117.121.223,Syracuse,New York,NY,United States,US,North America,NA,43.04812,-76.14742,America/New_York,13201,AS7029,Windstream Communications LLC,windstream.com,isp,false,false,false,false,false
-92.206.3.72/29,Chemnitz,Saxony,SN,Germany,DE,Europe,EU,50.8357,12.92922,Europe/Berlin,09111,AS16202,Tele Columbus AG,telecolumbus.com,isp,false,false,false,false,false
-73.102.223.208/31,Richmond,Indiana,IN,United States,US,North America,NA,39.82894,-84.89024,America/Indiana/Indianapolis,47374,AS7922,"Comcast Cable Communications, LLC",comcast.com,isp,false,false,false,false,false
-221.241.89.200/30,Asagaya-minami,Tokyo,13,Japan,JP,Asia,AS,35.70206,139.63745,Asia/Tokyo,166-0000,AS17506,ARTERIA Networks Corporation,arteria-net.com,isp,false,false,false,false,false
-46.23.51.60/30,Klatovy,Plzeň Region,32,Czechia,CZ,Europe,EU,49.39552,13.29505,Europe/Prague,339 01,AS197296,United Networks SE,unitednetworks.cz,isp,false,false,false,false,false
-2001:4490:4cbc:8e80::/57,Doddaballapura,Karnataka,KA,India,IN,Asia,AS,13.2257,77.575,Asia/Kolkata,560008,,,,,false,false,false,false,false
-123.53.244.164/31,Shanghai,Shanghai,SH,China,CN,Asia,AS,31.22222,121.45806,Asia/Shanghai,200000,AS4134,CHINANET-BACKBONE,chinatelecom.com.cn,isp,false,false,false,false,false
-96.88.252.240,Savage,Maryland,MD,United States,US,North America,NA,39.13789,-76.82386,America/New_York,20763,AS7922,"Comcast Cable Communications, LLC",comcast.com,isp,false,false,false,false,false
-240a:6b:b60:e800::/53,Nagoya,Aichi,23,Japan,JP,Asia,AS,35.18147,136.90641,Asia/Tokyo,460-0002,AS9605,"NTT DOCOMO, INC.",nttdocomo.com,isp,false,false,false,true,false
-176.236.2.49,İzmir,İzmir Province,35,Turkey,TR,Asia,AS,38.41273,27.13838,Europe/Istanbul,35210,AS34984,Superonline Iletisim Hizmetleri A.S.,superonline.net,isp,false,false,false,false,false
-2a02:121f:3854:20::/59,Lausanne,Vaud,VD,Switzerland,CH,Europe,EU,46.516,6.63282,Europe/Zurich,1001,AS3303,Swisscom (Schweiz) AG,swisscom.ch,isp,false,false,false,false,false
-14.106.5.216/30,Chongqing,Chongqing,CQ,China,CN,Asia,AS,29.56026,106.55771,Asia/Shanghai,401100,AS4134,CHINANET-BACKBONE,chinatelecom.com.cn,isp,false,false,false,false,false
-2a02:3100:2248:ac00::/55,Munich,Bavaria,BY,Germany,DE,Europe,EU,48.1776,11.5169,Europe/Berlin,80992,AS6805,Telefonica Germany GmbH & Co.OHG,telefonica.de,isp,false,false,false,false,false
-240e:370:1c01:5000::/54,Shanghai,Shanghai,SH,China,CN,Asia,AS,31.22222,121.45806,Asia/Shanghai,200000,AS4134,CHINANET-BACKBONE,chinatelecom.com.cn,isp,false,false,false,false,false
-193.119.78.226/31,Sydney,New South Wales,NSW,Australia,AU,Oceania,OC,-33.86785,151.20732,Australia/Sydney,1001,AS7545,TPG Telecom Limited,tpgtelecom.com.au,isp,false,false,false,false,false
-156.221.0.192/27,Tanta,Gharbia,GH,Egypt,EG,Africa,AF,30.78847,31.00192,Africa/Cairo,,AS8452,TE-AS,te.eg,isp,false,false,false,false,false
-91.201.117.18,Pskov,Pskov Oblast,PSK,Russia,RU,Europe,EU,57.81404,28.34493,Europe/Moscow,180000,AS15673,Teleseti Plus Ltd.,teleseti.com,isp,true,false,false,false,false
-2607:f098:20fe:0:200:7153:bbda:10/126,Orlando,Florida,FL,United States,US,North America,NA,28.53834,-81.37924,America/New_York,32801,AS33363,"Charter Communications, Inc",chartercom.com,isp,false,false,false,false,false
-88.196.132.112/29,Tallinn,Harjumaa,01,Estonia,EE,Europe,EU,59.43696,24.75353,Europe/Tallinn,10111,AS3249,Telia Eesti AS,telia.ee,isp,false,false,false,false,false
-104.34.246.88/30,Torrance,California,CA,United States,US,North America,NA,33.8268,-118.3118,America/Los_Angeles,90501,AS20001,Charter Communications Inc,charter.com,isp,false,false,false,false,false
-94.109.243.216/29,Beringen,Flanders,VLG,Belgium,BE,Europe,EU,51.04954,5.22606,Europe/Brussels,3580,AS47377,Orange Belgium SA,orange.be,isp,false,false,false,true,false
-2409:4081:807:6b00::/56,Wāshīm,Maharashtra,MH,India,IN,Asia,AS,20.11128,77.133,Asia/Kolkata,444505,AS55836,Reliance Jio Infocomm Limited,jio.com,isp,false,false,false,false,false
-240e:47e:7c40:4000::/50,Shanghai,Shanghai,SH,China,CN,Asia,AS,31.22222,121.45806,Asia/Shanghai,200000,AS4134,CHINANET-BACKBONE,chinatelecom.com.cn,isp,false,false,false,false,false
-2a02:560:42b7:1d00::/56,Lehrte,Lower Saxony,NI,Germany,DE,Europe,EU,52.37193,9.97919,Europe/Berlin,31275,AS13045,htp GmbH,htp.net,isp,false,false,false,false,false
-77.229.129.0/24,Madrid,Madrid,MD,Spain,ES,Europe,EU,40.4165,-3.70256,Europe/Madrid,28004,AS12430,VODAFONE ESPANA S.A.U.,vodafone.es,isp,false,false,false,false,false
-188.61.184.128/26,Aarau,Aargau,AG,Switzerland,CH,Europe,EU,47.39254,8.04422,Europe/Zurich,5000,AS3303,Swisscom (Schweiz) AG,swisscom.ch,isp,false,false,false,false,false
-101.187.135.120/30,Brisbane,Queensland,QLD,Australia,AU,Oceania,OC,-27.46794,153.02809,Australia/Brisbane,4000,AS1221,Telstra Limited,telstra.com.au,isp,false,false,false,false,false
-103.230.58.32/27,Klang,Selangor,10,Malaysia,MY,Asia,AS,3.03667,101.44333,Asia/Kuala_Lumpur,41250,AS140344,Takizo Solutions Sdn Bhd,takizo.com,hosting,false,false,true,false,false
-2804:f04:918f::/49,Lajeado,Rio Grande do Sul,RS,Brazil,BR,South America,SA,-29.46694,-51.96139,America/Sao_Paulo,95900-000,AS262591,CONECTION SERVICOS DE VALOR ADICIONADO LTDA,fbnet.com.br,isp,false,false,false,false,false
-240e:384:d21:fb02::/63,Guangzhou,Guangdong,GD,China,CN,Asia,AS,23.11667,113.25,Asia/Shanghai,510000,AS4134,CHINANET-BACKBONE,chinatelecom.com.cn,isp,false,false,false,false,false
-76.76.37.124/30,Hicksville,Ohio,OH,United States,US,North America,NA,41.29311,-84.7619,America/New_York,43526,AS13638,"Metalink Technologies, Inc.",metalink.net,isp,false,false,false,false,false
+183.76.1.86/31,Okayama,Okayama,33,Japan,JP,Asia,AS,34.65,133.93333,Asia/Tokyo,700-0831,AS4685,Asahi Net,asahi-net.jp,isp,false,false,false,false,false
+2408:845d:1310:400::/55,Shanghai,Shanghai,SH,China,CN,Asia,AS,31.22222,121.45806,Asia/Shanghai,200000,AS4837,CHINA UNICOM China169 Backbone,chinaunicom.cn,isp,false,false,false,false,false
+84.68.109.162/31,Bletchley,England,ENG,United Kingdom,GB,Europe,EU,51.99334,-0.73471,Europe/London,MK3,AS5378,Vodafone Limited,vodafone.co.uk,isp,false,false,false,true,false
+124.16.104.0/21,Beijing,Beijing,BJ,China,CN,Asia,AS,39.9075,116.39723,Asia/Shanghai,100000,AS7497,Computer Network Information Center of Chinese Academy of Sciences (CNIC-CAS),cnic.cn,education,false,false,false,false,false
+31.223.111.68/30,Istanbul,Istanbul,34,Turkey,TR,Asia,AS,41.01384,28.94966,Europe/Istanbul,34096,AS12735,TurkNet Iletisim Hizmetleri A.S.,turk.net,isp,false,false,true,false,false
+2408:8215:8201:5a32::/64,Shanghai,Shanghai,SH,China,CN,Asia,AS,31.22222,121.45806,Asia/Shanghai,200000,AS4837,CHINA UNICOM China169 Backbone,chinaunicom.cn,isp,false,false,false,false,false
+77.46.129.52/30,Novi Beograd,Central Serbia,SE,Serbia,RS,Europe,EU,44.80556,20.42417,Europe/Belgrade,11031,AS8400,TELEKOM SRBIJA a.d.,telekom.rs,isp,false,false,false,false,false
+118.77.149.202/31,Shanghai,Shanghai,SH,China,CN,Asia,AS,31.22222,121.45806,Asia/Shanghai,200000,AS4837,CHINA UNICOM China169 Backbone,chinaunicom.cn,isp,false,false,false,false,false
+114.137.98.93,Taoyuan City,Taiwan,04,Taiwan,TW,Asia,AS,24.99368,121.29696,Asia/Taipei,,AS17421,Mobile Business Group,twnic.net.tw,business,false,false,false,true,false
+84.228.56.175,Tel Aviv,Tel Aviv,TA,Israel,IL,Asia,AS,32.08088,34.78057,Asia/Jerusalem,,AS12400,Partner Communications Ltd.,orange.co.il,isp,true,false,false,false,false
+80.72.125.160/30,Ryazan’,Ryazan Oblast,RYA,Russia,RU,Europe,EU,54.6269,39.6916,Europe/Moscow,390505,AS34467,"JSC Telephone Company ""Sotcom""",sotcom.ru,isp,false,false,false,false,false
+2a02:a03f:a2e5:1f00::/56,Saint-Vith,Wallonia,WAL,Belgium,BE,Europe,EU,50.28146,6.12724,Europe/Brussels,4780,AS5432,Proximus NV,proximus.com,isp,false,false,false,false,false
+177.242.151.238,Santiago de Querétaro,Querétaro,QUE,Mexico,MX,North America,NA,20.58806,-100.38806,America/Mexico_City,76120,AS13999,"Mega Cable, S.A. de C.V.",megacable.com.mx,isp,true,false,false,false,false
+2409:4065:e9c:5b00::/56,Tinsukia,Assam,AS,India,IN,Asia,AS,27.48905,95.35992,Asia/Kolkata,786170,AS55836,Reliance Jio Infocomm Limited,jio.com,isp,false,false,false,true,false
+134.24.64.25,Miami,Florida,FL,United States,US,North America,NA,25.77427,-80.19366,America/New_York,33101,AS16959,"AT&T Enterprises, LLC",att.com,isp,false,false,false,false,false
+2.69.176.240/28,Stockholm,Stockholm,AB,Sweden,SE,Europe,EU,59.32938,18.06871,Europe/Stockholm,195 87,AS44034,Hi3G Access AB,tre.se,isp,false,false,false,false,false
+122.109.30.68/30,Sydney,New South Wales,NSW,Australia,AU,Oceania,OC,-33.79318,151.12816,Australia/Sydney,2113,AS4804,Microplex PTY LTD,optus.com.au,isp,false,false,false,false,false
+88.78.96.128/26,Gelsenkirchen,North Rhine-Westphalia,NW,Germany,DE,Europe,EU,51.50508,7.09654,Europe/Berlin,45879,AS3209,Vodafone GmbH,vodafone.de,isp,false,false,false,false,false
+2a01:e00:9:2200::/55,Lyon,Auvergne-Rhône-Alpes,ARA,France,FR,Europe,EU,45.74846,4.84671,Europe/Paris,69000,AS12322,Free SAS,free.fr,isp,false,false,false,false,false
+195.68.234.152/30,Stará Ľubovňa,Prešov Region,PV,Slovakia,SK,Europe,EU,49.29859,20.6862,Europe/Bratislava,064 01,AS35328,"DSI DATA, a. s.",dsidata.sk,isp,false,false,false,false,false
+126.213.87.118/31,Kyoto,Kyoto,26,Japan,JP,Asia,AS,35.02107,135.75385,Asia/Tokyo,602-0054,AS17676,SoftBank Corp.,softbank.jp,isp,false,false,false,true,false
+87.122.87.242/31,Leipzig,Saxony,SN,Germany,DE,Europe,EU,51.33962,12.37129,Europe/Berlin,04103,AS8881,1&1 Versatel Deutschland GmbH,1und1.net,isp,false,false,false,false,false
 2600:1005:b020:2700::/56,Brunswick,Georgia,GA,United States,US,North America,NA,31.14995,-81.49149,America/New_York,31521,AS6167,Verizon Business,verizonbusiness.com,isp,false,false,false,true,false
-58.65.141.16/28,Islamabad,Islamabad,IS,Pakistan,PK,Asia,AS,33.72148,73.04329,Asia/Karachi,44000,AS23674,Nayatel (Pvt) Ltd,nayatel.com,isp,false,false,false,false,false
-2804:7ed8:e000::/36,Aracati,Ceará,CE,Brazil,BR,South America,SA,-4.56167,-37.76972,America/Fortaleza,62800-000,AS28232,BIT INFORMATICA LTDA,bitwave.com.br,isp,false,false,false,false,false
-223.227.56.39,Cherthala,Kerala,KL,India,IN,Asia,AS,9.68444,76.33558,Asia/Kolkata,688536,AS45609,Bharti Airtel Ltd. AS for GPRS Service,airtel.com,isp,false,false,false,false,false
-2604:b000:a0a0:301::/64,Milwaukee,Wisconsin,WI,United States,US,North America,NA,43.0389,-87.90647,America/Chicago,53201,AS14638,Liberty Communications of Puerto Rico LLC,libertyglobal.com,isp,false,false,false,false,false
-2a02:a475:e4b3:400::/54,Amsterdam,North Holland,NH,Netherlands,NL,Europe,EU,52.37403,4.88969,Europe/Amsterdam,1012,AS1136,KPN B.V.,kpn.com,isp,false,false,false,false,false
-178.38.44.26/31,Avenches,Vaud,VD,Switzerland,CH,Europe,EU,46.88004,7.04071,Europe/Zurich,1580,AS6730,Sunrise GmbH,sunrise.ch,isp,false,false,false,false,false
-68.177.208.89,Atlanta,Georgia,GA,United States,US,North America,NA,33.749,-84.38798,America/New_York,30302,AS209,"CenturyLink Communications, LLC",lumen.com,isp,false,false,false,false,false
-114.233.2.74,Shanghai,Shanghai,SH,China,CN,Asia,AS,31.22222,121.45806,Asia/Shanghai,200000,AS4134,CHINANET-BACKBONE,chinatelecom.com.cn,isp,false,false,false,false,false
+2800:304::/30,Montevideo,Montevideo Department,MO,Uruguay,UY,South America,SA,-34.90328,-56.18816,America/Montevideo,11100,,,,,false,false,false,false,false
+240e:384:d21:fb02::/63,Guangzhou,Guangdong,GD,China,CN,Asia,AS,23.11667,113.25,Asia/Shanghai,510000,AS4134,CHINANET-BACKBONE,chinatelecom.com.cn,isp,false,false,false,false,false
+2001:6f0:2a00::/44,Kista,Stockholm,AB,Sweden,SE,Europe,EU,59.4032,17.9448,Europe/Stockholm,164 40,AS1257,Tele2 Sverige AB,tele2.se,isp,false,false,false,false,false
+93.172.230.110/31,Or Akiva,Haifa,HA,Israel,IL,Asia,AS,32.5064,34.92087,Asia/Jerusalem,,AS1680,Cellcom Fixed Line Communication L.P,cellcom.co.il,isp,false,false,false,true,false
+2409:4070:220c:b800::/56,Gudivāda,Andhra Pradesh,AP,India,IN,Asia,AS,16.43547,80.99555,Asia/Kolkata,522307,AS55836,Reliance Jio Infocomm Limited,jio.com,isp,false,false,false,true,false
+14.102.116.36/31,Delhi,Delhi,DL,India,IN,Asia,AS,28.65195,77.23149,Asia/Kolkata,110001,AS18002,AS Number for Interdomain Routing,worldphone.in,isp,false,false,false,false,false
+66.130.141.72/29,Beaupré,Quebec,QC,Canada,CA,North America,NA,47.04428,-70.89529,America/Toronto,G5V,AS5769,Videotron Ltee,videotron.com,isp,false,false,false,false,false
+174.30.3.152/31,Richland,Missouri,MO,United States,US,North America,NA,37.85698,-92.40434,America/Chicago,65556,AS209,"CenturyLink Communications, LLC",lumen.com,isp,false,false,false,false,false
+177.212.208.221,Santa Luzia,Minas Gerais,MG,Brazil,BR,South America,SA,-19.76972,-43.85139,America/Sao_Paulo,33000-000,AS26599,TELEFÔNICA BRASIL S.A,telefonica.com.br,isp,false,false,false,true,false
+177.8.133.23,Cubatão,São Paulo,SP,Brazil,BR,South America,SA,-23.895,-46.42528,America/Sao_Paulo,11500-000,AS270581,JET NETWORK TELECOMUNICAÇÃO LTDA,jetnetwork.com.br,isp,true,false,false,false,false
+36.226.81.164/30,Taipei,Taiwan,04,Taiwan,TW,Asia,AS,25.05306,121.52639,Asia/Taipei,,AS3462,Data Communication Business Group,hinet.net,isp,false,false,false,false,false
+20.75.243.216/29,Sterling,Virginia,VA,United States,US,North America,NA,39.00622,-77.4286,America/New_York,20163,AS8075,Microsoft Corporation,microsoft.com,hosting,false,false,true,false,false
+172.98.153.211,Toronto,Ontario,ON,Canada,CA,North America,NA,43.70643,-79.39864,America/Toronto,M5A,AS54614,CIK Telecom INC,ciktel.com,isp,false,false,false,false,false
+198.233.134.36,Auburn,Washington,WA,United States,US,North America,NA,47.30732,-122.22845,America/Los_Angeles,98071,AS209,"CenturyLink Communications, LLC",lumen.com,isp,true,false,false,false,false
+82.199.36.15,Logroño,La Rioja,LO,Spain,ES,Europe,EU,42.46667,-2.45,Europe/Madrid,26001,AS16039,"Knet Comunicaciones, S.L.",knet.es,isp,true,false,false,false,false
+75.174.212.70/31,Idaho Falls,Idaho,ID,United States,US,North America,NA,43.46658,-112.03414,America/Boise,83403,AS209,"CenturyLink Communications, LLC",lumen.com,isp,false,false,false,false,false
+218.106.128.240/28,Shenzhen,Guangdong,GD,China,CN,Asia,AS,22.54554,114.0683,Asia/Shanghai,518000,AS17816,China Unicom IP network China169 Guangdong province,chinaunicom.cn,isp,false,false,false,false,false
+2408:8214:201:954b::/64,Beijing,Beijing,BJ,China,CN,Asia,AS,39.9075,116.39723,Asia/Shanghai,100000,AS4837,CHINA UNICOM China169 Backbone,chinaunicom.cn,isp,false,false,false,false,false
+73.160.127.232/30,Toms River,New Jersey,NJ,United States,US,North America,NA,39.95373,-74.19792,America/New_York,08753,AS7922,"Comcast Cable Communications, LLC",comcast.com,isp,false,false,false,false,false
+240e:368:9401:4800::/55,Wuhan,Hubei,HB,China,CN,Asia,AS,30.58333,114.26667,Asia/Shanghai,430000,AS4134,CHINANET-BACKBONE,chinatelecom.com.cn,isp,false,false,false,false,false
+206.160.209.0/25,Washington,District of Columbia,DC,United States,US,North America,NA,38.9014,-77.0504,America/New_York,20037,AS174,Cogent Communications,cogentco.com,isp,false,false,false,false,false
+81.218.164.208/30,Ramat Gan,Tel Aviv,TA,Israel,IL,Asia,AS,32.08227,34.81065,Asia/Jerusalem,,AS8551,Bezeq International Ltd.,bezeqint.net,isp,false,false,false,false,false
+2600:1011:b00c:8800::/54,Lake Havasu City,Arizona,AZ,United States,US,North America,NA,34.4839,-114.32245,America/Phoenix,86405,AS6167,Verizon Business,verizonbusiness.com,isp,false,false,false,true,false
+2409:4052:89e:4300::/56,Kota,Rajasthan,RJ,India,IN,Asia,AS,25.18254,75.83907,Asia/Kolkata,322243,AS55836,Reliance Jio Infocomm Limited,jio.com,isp,false,false,false,true,false
+2001:558:80:5:100::/72,San Jose,California,CA,United States,US,North America,NA,37.33939,-121.89496,America/Los_Angeles,95103,AS7922,"Comcast Cable Communications, LLC",comcast.com,isp,false,false,false,false,false
+2806:20d:32ff:8000::/49,El Paso,Texas,TX,United States,US,North America,NA,31.75872,-106.48693,America/Denver,79901,AS32098,Transtelco Inc,transtelco.net,isp,false,false,false,false,false
+2a02:a443:b35c:8::/61,Amsterdam,North Holland,NH,Netherlands,NL,Europe,EU,52.37403,4.88969,Europe/Amsterdam,1012,AS1136,KPN B.V.,kpn.com,isp,false,false,false,false,false
+2001:4430:50d4:c400::/56,Paripark,Seoul,11,South Korea,KR,Asia,AS,37.53497,126.87661,Asia/Seoul,07960,AS17853,LGTELECOM,lguplus.co.kr,isp,false,false,false,true,false
+2409:4072:e96:1600::/56,Āttayyāmpatti,Tamil Nadu,TN,India,IN,Asia,AS,11.53272,78.05363,Asia/Kolkata,637501,AS55836,Reliance Jio Infocomm Limited,jio.com,isp,false,false,false,true,false
+76.50.7.96/27,Los Angeles,California,CA,United States,US,North America,NA,34.003,-118.2863,America/Los_Angeles,90037,AS20001,Charter Communications Inc,charter.com,isp,false,false,false,false,false
+189.182.7.0/29,Compostela,Nayarit,NAY,Mexico,MX,North America,NA,21.23777,-104.9001,America/Mazatlan,63705,AS8151,UNINET,telmex.com,isp,false,false,false,false,false
+2409:4066:d07:9200::/56,Agartala,Tripura,TR,India,IN,Asia,AS,23.83605,91.27939,Asia/Kolkata,799035,AS55836,Reliance Jio Infocomm Limited,jio.com,isp,false,false,false,false,false
+82.81.9.116/31,Tel Aviv,Tel Aviv,TA,Israel,IL,Asia,AS,32.08088,34.78057,Asia/Jerusalem,,AS8551,Bezeq International Ltd.,bezeqint.net,isp,false,false,false,false,false
+179.189.97.3,Itabirito,Minas Gerais,MG,Brazil,BR,South America,SA,-20.25333,-43.80139,America/Sao_Paulo,35450-000,AS28201,Companhia Itabirana Telecomunicações Ltda,valenet.com.br,isp,false,false,false,false,false
+68.86.146.72,Pittsburgh,Pennsylvania,PA,United States,US,North America,NA,40.44062,-79.99589,America/New_York,15212,AS7922,"Comcast Cable Communications, LLC",comcast.com,isp,false,false,false,false,false
+2a01:e0a:b88:9300::/59,Amiens,Hauts-de-France,HDF,France,FR,Europe,EU,49.9,2.3,Europe/Paris,80000,AS12322,Free SAS,free.fr,isp,false,false,false,false,false
+2001:16a2:6b0f:3c00::/54,Buraydah,Al-Qassim Region,05,Saudi Arabia,SA,Asia,AS,26.32599,43.97497,Asia/Riyadh,,AS25019,Saudi Telecom Company JSC,stc.com.sa,isp,false,false,true,false,false
+90.254.84.238/31,West Bromwich,England,ENG,United Kingdom,GB,Europe,EU,52.51868,-1.9945,Europe/London,B70,AS5378,Vodafone Limited,vodafone.co.uk,isp,false,false,false,true,false
+240e:368:a16a:fc00::/54,Shanghai,Shanghai,SH,China,CN,Asia,AS,31.22222,121.45806,Asia/Shanghai,200000,AS4134,CHINANET-BACKBONE,chinatelecom.com.cn,isp,false,false,false,false,false
 240e:381:a4ed:2000::/52,Shanghai,Shanghai,SH,China,CN,Asia,AS,31.22222,121.45806,Asia/Shanghai,200000,AS4134,CHINANET-BACKBONE,chinatelecom.com.cn,isp,false,false,false,false,false
-2.69.206.90/31,Stockholm,Stockholm,AB,Sweden,SE,Europe,EU,59.32938,18.06871,Europe/Stockholm,195 87,AS44034,Hi3G Access AB,tre.se,isp,false,false,false,false,false
-75.164.159.96/29,Salem,Oregon,OR,United States,US,North America,NA,44.9429,-123.0351,America/Los_Angeles,97308,AS209,"CenturyLink Communications, LLC",lumen.com,isp,false,false,false,false,false
-82.192.50.0/27,Domžale,Domžale,023,Slovenia,SI,Europe,EU,46.13774,14.59371,Europe/Ljubljana,1230,AS3212,Telemach Slovenija d.o.o.,telemach.si,isp,false,false,false,false,false
-60.130.213.80/28,Nagoya,Aichi,23,Japan,JP,Asia,AS,35.18147,136.90641,Asia/Tokyo,460-0002,AS17676,SoftBank Corp.,softbank.jp,isp,false,false,false,false,false
-208.104.100.60/30,Charlotte,North Carolina,NC,United States,US,North America,NA,35.22709,-80.84313,America/New_York,28202,AS14615,"Comporium, Inc",comporium.com,isp,false,false,false,false,false
-2a02:a03f:a69d:9f01::/64,Brussels,Brussels Capital,BRU,Belgium,BE,Europe,EU,50.85045,4.34878,Europe/Brussels,1000,AS5432,Proximus NV,proximus.com,isp,false,false,false,false,false
-91.230.9.186,Warsaw,Mazovia,14,Poland,PL,Europe,EU,52.22977,21.01178,Europe/Warsaw,00-002,AS47790,Mariusz Chmielewski trading as Netfala,netfala.pl,isp,true,false,false,false,false
-2a02:26f7:b602:4800::/53,Quezon City,Metro Manila,00,Philippines,PH,Asia,AS,14.6488,121.0509,Asia/Manila,1100,AS20940,Akamai International B.V.,akamai.com,hosting,false,false,true,false,false
-76.74.108.240/30,Miami,Florida,FL,United States,US,North America,NA,25.77427,-80.19366,America/New_York,33101,AS3257,GTT Communications Inc.,gtt.net,isp,false,false,false,false,false
-2804:2b38:5800:1200::/56,Canela,Rio Grande do Sul,RS,Brazil,BR,South America,SA,-29.35622,-50.81357,America/Sao_Paulo,95680-000,AS265141,RBT Internet,rbt.psi.br,isp,false,false,false,false,false
-2804:af4:1015:4000::/50,São Paulo,São Paulo,SP,Brazil,BR,South America,SA,-23.5475,-46.63611,America/Sao_Paulo,01000-000,AS52930,Turbosp Internet Provider,turbosp.com.br,isp,false,false,false,false,false
-133.243.0.0/20,Koganei,Tokyo,13,Japan,JP,Asia,AS,35.70014,139.51109,Asia/Tokyo,329-0414,AS9355,National Institute of Information and Communications Technology,nict.go.jp,education,false,false,false,false,false
-86.111.163.81,Sheffield,England,ENG,United Kingdom,GB,Europe,EU,53.38297,-1.4659,Europe/London,S1,AS57356,Highland Network Ltd,highnet.com,isp,true,false,false,false,false
-35.200.219.108/31,Mumbai,Maharashtra,MH,India,IN,Asia,AS,19.07283,72.88261,Asia/Kolkata,400017,AS396982,Google LLC,google.com,hosting,false,false,true,false,false
+176.25.48.102,Petworth,England,ENG,United Kingdom,GB,Europe,EU,50.98669,-0.61,Europe/London,GU28,AS5607,Sky UK Limited,sky.com,isp,false,false,false,false,false
+2804:4600:224:2880::/57,Osasco,São Paulo,SP,Brazil,BR,South America,SA,-23.5325,-46.79167,America/Sao_Paulo,06000-000,AS266961,Arias Telecomunicações Ltda,ariastelecom.com.br,isp,false,false,false,false,false
+2600:1010:b148:9b00::/56,Sacramento,California,CA,United States,US,North America,NA,38.58157,-121.4944,America/Los_Angeles,94203,AS6167,Verizon Business,verizonbusiness.com,isp,false,false,false,true,false
+2409:4071:2117:5a00::/56,Mysore,Karnataka,KA,India,IN,Asia,AS,12.29791,76.63925,Asia/Kolkata,570028,AS55836,Reliance Jio Infocomm Limited,jio.com,isp,false,false,false,true,false
+240e:370:1c01:5000::/54,Shanghai,Shanghai,SH,China,CN,Asia,AS,31.22222,121.45806,Asia/Shanghai,200000,AS4134,CHINANET-BACKBONE,chinatelecom.com.cn,isp,false,false,false,false,false
+240e:370:9d1a:6b00::/56,Foshan,Guangdong,GD,China,CN,Asia,AS,23.02677,113.13148,Asia/Shanghai,528000,AS4134,CHINANET-BACKBONE,chinatelecom.com.cn,isp,false,false,false,false,false
+136.41.161.20,Nashville,Tennessee,TN,United States,US,North America,NA,36.16589,-86.78444,America/Chicago,37201,AS16591,Google Fiber Inc.,gfiber.com,isp,true,false,false,false,false
 50.240.135.52/30,Palatine,Illinois,IL,United States,US,North America,NA,42.1103,-88.03424,America/Chicago,60067,AS7922,"Comcast Cable Communications, LLC",comcast.com,isp,false,false,false,false,false
-90.248.222.224/30,Stratford-upon-Avon,England,ENG,United Kingdom,GB,Europe,EU,52.19166,-1.70734,Europe/London,CV37,AS5378,Vodafone Limited,vodafone.co.uk,isp,false,false,false,false,false
-2409:4060:2d3b:7b00::/56,Baruipur,West Bengal,WB,India,IN,Asia,AS,22.36544,88.4325,Asia/Kolkata,743399,AS55836,Reliance Jio Infocomm Limited,jio.com,isp,false,false,false,false,false
-95.64.135.32/28,Moscow,Moscow,MOW,Russia,RU,Europe,EU,55.75222,37.61556,Europe/Moscow,101000,AS8359,MTS PJSC,mts.ru,isp,false,false,false,false,false
-2405:4803:1ac:ea90::/64,Shenzhen,Guangdong,GD,China,CN,Asia,AS,22.54554,114.0683,Asia/Shanghai,518000,AS18403,FPT Telecom Company,fpt.vn,isp,false,false,false,false,false
-79.78.160.152,Derby,England,ENG,United Kingdom,GB,Europe,EU,52.92277,-1.47663,Europe/London,DE1,AS9105,TalkTalk Communications Limited,talktalkplc.com,isp,true,false,false,false,false
-5.100.32.169,Redwitz an der Rodach,Bavaria,BY,Germany,DE,Europe,EU,50.17323,11.20833,Europe/Berlin,96257,AS28876,suec // dacor GmbH,dacor.de,isp,false,false,false,false,false
-67.173.126.54,Antioch,Illinois,IL,United States,US,North America,NA,42.47724,-88.09564,America/Chicago,60002,AS7922,"Comcast Cable Communications, LLC",comcast.com,isp,false,false,false,false,false
-65.118.108.192/28,Jefferson City,Missouri,MO,United States,US,North America,NA,38.5767,-92.17352,America/Chicago,65102,AS209,"CenturyLink Communications, LLC",lumen.com,isp,false,false,false,false,false
-240f:57:b429::/48,Sendai,Miyagi,04,Japan,JP,Asia,AS,38.26667,140.86667,Asia/Tokyo,980-0014,AS2516,KDDI CORPORATION,kddi.com,isp,false,false,false,false,false
-2a0c:b381:557:9f00::/56,Manchester,England,ENG,United Kingdom,GB,Europe,EU,53.48095,-2.23743,Europe/London,M1,AS204731,Persimmon Homes Ltd.,fibrenest.com,isp,false,false,false,false,false
-179.226.181.175,São Paulo,São Paulo,SP,Brazil,BR,South America,SA,-23.5475,-46.63611,America/Sao_Paulo,01000-000,AS26599,TELEFÔNICA BRASIL S.A,telefonica.com.br,isp,false,false,false,true,false
-174.167.110.248/29,Voorhees,New Jersey,NJ,United States,US,North America,NA,39.84499,-74.95495,America/New_York,08043,AS7922,"Comcast Cable Communications, LLC",comcast.com,isp,false,false,false,false,false
-2a01:c23:b801:3100::/56,Karlsfeld,Bavaria,BY,Germany,DE,Europe,EU,48.22697,11.47573,Europe/Berlin,85757,AS6805,Telefonica Germany GmbH & Co.OHG,telefonica.de,isp,false,false,false,false,false
-2.48.207.28/31,Dubai,Dubai,DU,United Arab Emirates,AE,Asia,AS,25.07725,55.30927,Asia/Dubai,28506 74783,AS5384,EMIRATES TELECOMMUNICATIONS GROUP COMPANY (ETISALAT GROUP) PJSC,emirates.net.ae,isp,false,false,false,true,false
+177.174.134.38/31,São Paulo,São Paulo,SP,Brazil,BR,South America,SA,-23.5475,-46.63611,America/Sao_Paulo,01000-000,AS26599,TELEFÔNICA BRASIL S.A,telefonica.com.br,isp,false,false,false,true,false
+96.223.58.199,Ashburn,Virginia,VA,United States,US,North America,NA,39.04372,-77.48749,America/New_York,20147,AS7922,"Comcast Cable Communications, LLC",comcast.com,isp,false,false,false,false,false
+2405:2000:ff10:100::2000:0/99,Chennai,Tamil Nadu,TN,India,IN,Asia,AS,13.08784,80.27847,Asia/Kolkata,600001,AS6453,TATA COMMUNICATIONS (AMERICA) INC,tatacommunications.com,isp,false,false,false,false,false
+97.146.134.128/27,New York City,New York,NY,United States,US,North America,NA,40.71427,-74.00597,America/New_York,10001,AS6167,Verizon Business,verizonbusiness.com,isp,false,false,false,false,false
+204.112.110.40/30,Dauphin,Manitoba,MB,Canada,CA,North America,NA,51.14941,-100.05023,America/Winnipeg,R7N,AS7122,Bell Canada,bell.ca,isp,false,false,false,false,false
+65.206.126.164,Washington,District of Columbia,DC,United States,US,North America,NA,38.89511,-77.03637,America/New_York,20004,AS701,Verizon Business,verizonbusiness.com,isp,false,false,false,false,false
+79.78.79.74/31,Sheffield,England,ENG,United Kingdom,GB,Europe,EU,53.38297,-1.4659,Europe/London,S1,AS9105,TalkTalk Communications Limited,talktalkplc.com,isp,false,false,false,false,false
+69.174.155.69,Bloomington,Illinois,IL,United States,US,North America,NA,40.4842,-88.99369,America/Chicago,61701,AS30600,Metronet,metronet.com,isp,true,false,false,false,false
+186.216.26.102/31,Itaboraí,Rio de Janeiro,RJ,Brazil,BR,South America,SA,-22.74444,-42.85944,America/Sao_Paulo,24800-000,AS262663,METROFLEX TELECOMUNICACOES LTDA,metroflex.com.br,isp,false,false,false,false,false
+2409:8a55:b404:47d4::/63,Shanghai,Shanghai,SH,China,CN,Asia,AS,31.22222,121.45806,Asia/Shanghai,200000,AS9808,"China Mobile Communications Group Co., Ltd.",10086.cn,isp,false,false,false,false,false
+2409:4061:2c1a:ce00::/56,Kolkata,West Bengal,WB,India,IN,Asia,AS,22.56263,88.36304,Asia/Kolkata,700001,AS55836,Reliance Jio Infocomm Limited,jio.com,isp,false,false,false,true,false
+82.64.87.120/29,Amiens,Hauts-de-France,HDF,France,FR,Europe,EU,49.9,2.3,Europe/Paris,80000,AS12322,Free SAS,free.fr,isp,false,false,false,false,false
+240e:430:90c1:4000::/50,Shanghai,Shanghai,SH,China,CN,Asia,AS,31.22222,121.45806,Asia/Shanghai,200000,AS4134,CHINANET-BACKBONE,chinatelecom.com.cn,isp,false,false,false,false,false
+151.82.121.186/31,Milan,Lombardy,25,Italy,IT,Europe,EU,45.46427,9.18951,Europe/Rome,20121,AS1267,WIND TRE S.P.A.,windtre.it,isp,false,false,false,true,false
+2001:464a:f09d:400::/54,Bodø,Nordland,18,Norway,NO,Europe,EU,67.28267,14.37513,Europe/Oslo,8001,AS2119,Telenor Norge AS,telenor.no,isp,false,false,false,false,false
+111.88.55.208/30,Lodhran,Punjab,PB,Pakistan,PK,Asia,AS,29.5339,71.63244,Asia/Karachi,59320,AS132165,Connect Communications,connect.net.pk,isp,false,false,false,false,false
+203.158.35.138/31,Sydney,New South Wales,NSW,Australia,AU,Oceania,OC,-33.86785,151.20732,Australia/Sydney,1001,AS7545,TPG Telecom Limited,tpgtelecom.com.au,isp,false,false,false,false,false
+210.183.151.0/26,Byeonggok,Gyeongsangnam-do,48,South Korea,KR,Asia,AS,35.53064,127.68155,Asia/Seoul,50027,AS4766,Korea Telecom,kt.com,isp,false,false,false,false,false
+2409:8a02:784b:a500::/56,Zhangjiakou,Hebei,HE,China,CN,Asia,AS,40.78341,114.87139,Asia/Shanghai,075000,AS38019,tianjin Mobile Communication Company Limited,chinamobile.com,isp,false,false,false,false,false
+2409:4064:39e:e900::/56,Jamshedpur,Jharkhand,JH,India,IN,Asia,AS,22.80278,86.18545,Asia/Kolkata,831002,AS55836,Reliance Jio Infocomm Limited,jio.com,isp,false,false,false,false,false
+97.105.101.127,Garfield,Texas,TX,United States,US,North America,NA,30.18744,-97.55778,America/Chicago,78617,AS11427,Charter Communications Inc,charter.com,isp,false,false,false,false,false
+205.169.90.248/29,Palestine,Texas,TX,United States,US,North America,NA,31.76212,-95.63079,America/Chicago,75801,AS209,"CenturyLink Communications, LLC",lumen.com,isp,false,false,false,false,false
+125.126.218.4/31,Ningbo,Zhejiang,ZJ,China,CN,Asia,AS,29.87819,121.54945,Asia/Shanghai,315000,AS4134,CHINANET-BACKBONE,chinatelecom.com.cn,isp,false,false,false,false,false
+86.85.214.208/28,Oss,North Brabant,NB,Netherlands,NL,Europe,EU,51.765,5.51806,Europe/Amsterdam,5341,AS1136,KPN B.V.,kpn.com,isp,false,false,false,false,false
+93.148.237.16,Bergamo,Lombardy,25,Italy,IT,Europe,EU,45.69601,9.66721,Europe/Rome,24100,AS30722,Vodafone Italia S.p.A.,vodafone.it,isp,false,false,false,false,false
+195.144.55.163,Lausanne,Vaud,VD,Switzerland,CH,Europe,EU,46.516,6.63282,Europe/Zurich,1001,AS3303,Swisscom (Schweiz) AG,swisscom.ch,isp,false,false,false,false,false
+212.114.26.148,Cagnes-sur-Mer,Provence-Alpes-Côte d'Azur,PAC,France,FR,Europe,EU,43.66352,7.1479,Europe/Paris,06800,AS199636,Free Pro SAS,freepro.com,hosting,true,false,true,false,false
+213.135.22.50,Breisach am Rhein,Baden-Wurttemberg,BW,Germany,DE,Europe,EU,48.03279,7.58294,Europe/Berlin,79206,AS12941,intersaar GmbH,intersaar.de,hosting,true,false,true,false,false
+2409:8950:5efb:8000::/54,Shanghai,Shanghai,SH,China,CN,Asia,AS,31.22222,121.45806,Asia/Shanghai,200000,AS56047,China Mobile communications corporation,chinamobile.com,isp,false,false,false,false,false
