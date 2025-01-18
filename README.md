@@ -450,7 +450,7 @@ You can find the schema, database sample, and other information in the **[IPinfo
 </details>
 
 <details id=16>
-<summary><h2>Residential Proxy Detection Database</h2></summary>
+<summary><h2>IPinfo Plus Database</h2></summary>
 
 **IPinfo's Plus is an enterprise-grade IP database that includes location, insights, confidence, ASN, privacy, carrier, and network flags all in one.**
 
