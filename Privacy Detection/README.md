@@ -4,28 +4,78 @@
 
 # Database Schema & Description
 
-*[data updated as of August, 2022]*
+*[data updated as of January, 2025]*
 
-The following database schema represents the CSV database. We also provide JSON and MMDB format data.
+| Field Name  | Example             | Data Type | Descrption                                                           |
+|-------------|---------------------|-----------|----------------------------------------------------------------------|
+| **network** | `146.70.174.112/31` | TEXT      | CIDR or IP network of the IP address block                           |
+| **hosting** | `true`              | BOOLEAN   | Indicates a hosting/cloud service/data center IP address             |
+| **proxy**   | `false`             | BOOLEAN   | Indicates a open web proxy IP address                                |
+| **tor**     | `false`             | BOOLEAN   | Indicates a TOR (The Onion Router) exit node IP address              |
+| **relay**   | `false`             | BOOLEAN   | Indicates Virtual Private Network (VPN) service exit node IP address |
+| **vpn**     | `true`              | BOOLEAN   | Indicates location preserving anonymous relay service                |
+| **service** | `ProtonVPN`         | TEXT      | Name of the anonymous IP service provider                            |
 
-| Field Name | Example     | Data Type | Notes                                                                |
-|------------|-------------|-----------|----------------------------------------------------------------------|
-| `start_ip` | 115.9.76.79 | TEXT      | Starting IP address of an IP address range                           |
-| `end_ip`   | 115.9.76.79 | TEXT      | Ending IP address of an IP address range                             |
-| `join_key` | 115.9.0.0   | TEXT      | Special variable to facilitate databas `join` operation              |
-| `hosting`  |             | BOOLEAN   | Indicates a hosting/cloud service/data center IP address             |
-| `proxy`    |             | BOOLEAN   | Indicates a open web proxy IP address                                |
-| `tor`      |             | BOOLEAN   | Indicates a TOR (The Onion Router) exit node IP address              |
-| `vpn`      | True        | BOOLEAN   | Indicates Virtual Private Network (VPN) service exit node IP address |
-| `relay`    |             | BOOLEAN   | Indicates location preserving anonymous relay service                |
-| `service`  |             | TEXT      | Name of the anonymous IP service provider                            |
+<details>
+
+<summary><h3>Alternate Database Schema: <code>standard_privacy</code></h3></summary>
+
+The `standard_privacy` data download is structured based on IP ranges (`start_ip` and `end_ip`) and includes the `join_key` column. Our default data downloads has been updated (January, 2025) to use the `network`-based schema which also does not include the `join_key` column. However, we will continue supporting the original IP range-based schema for existing customers, with no plans for deprecation. While the underlying data remains the same, the difference lies only in the schema.
 
 
+| Field Name   | Example          | Data Type | Description                                                          |
+|--------------|------------------|-----------|----------------------------------------------------------------------|
+| **start_ip** | `89.187.171.147` | TEXT      | Starting IP address of an IP address range                           |
+| **end_ip**   | `89.187.171.147` | TEXT      | Ending IP address of an IP address range                             |
+| **join_key** | `89.187.0.0`     | TEXT      | Special variable to facilitate databas `join` operation              |
+| **hosting**  | `true`           | BOOLEAN   | Indicates a hosting/cloud service/data center IP address             |
+| **proxy**    |                  | BOOLEAN   | Indicates a open web proxy IP address                                |
+| **tor**      |                  | BOOLEAN   | Indicates a TOR (The Onion Router) exit node IP address              |
+| **vpn**      | `true`           | BOOLEAN   | Indicates Virtual Private Network (VPN) service exit node IP address |
+| **relay**    |                  | BOOLEAN   | Indicates location preserving anonymous relay service                |
+| **service**  | `CyberGhost`     | TEXT      | Name of the anonymous IP service provider                            |
+
+
+> Includes IP range columns (`start_ip` and `end_ip`) instead of a network or CIDR based column (`network`).
 > `join_key` represents the Class C network each IP address is part of, allowing you to filter the result set significantly before `join`ing. Learn more about `join_key` [here](https://community.ipinfo.io/t/ipinfos-join-key-column-explained/5526).
-> 
+
+#### Samples
+
+- [CSV Database] [ASN Database Sample](/ASN%20Database/asn_sample.csv)
+- [JSON Database] [ASN Database Sample](/ASN%20Database/asn_sample.json)
+- [MMDB Database] [ASN Database Sample](/ASN%20Database/asn_sample.mmdb)
+
+
+The schema for Boolean values is different between these two databases.
+
+| Boolean Value | standard_privacy | ipinfo_privacy |
+|---------------|------------------|----------------|
+| **TRUE**      | `true`           | `true`         |
+| **FALSE**     |                  | `false`        |
+
+
+</details>
+
+## Downloadable File Formats
+
+- CSV: Plain text file format where data is organized into rows, with individual values separated by commas.
+- JSON: More specifically, NDJSON (Newline Delimited JSON), a text file format where each line is a separated in valid JSON object.
+- MMDB: Specialized binary database for efficient and fast IP lookups.
+- Parquet: A columnar storage file format optimized for efficient data querying.
+
 > Please refer to "[How to choose the best file format for your IPinfo database?](https://ipinfo.io/blog/ipinfo-database-formats/)" article to select the best format possible for your use case.
 >
 > The usage of the IP data downloads relies on the software or application of the data. Check out our [documentation](https://ipinfo.io/developers/database-download), [community](https://community.ipinfo.io/c/docs/8), and our [integrations](https://ipinfo.io/integrations) pages to find the best path forward.
+
+## Filename references:
+
+| File Format | Filename / Slug        | Terminal Command                                                                                    |
+|-------------|------------------------|-----------------------------------------------------------------------------------------------------|
+| CSV         | ipinfo_privacy.csv.gz  | `curl -L https://ipinfo.io/data/ipinfo_privacy.csv.gz?token=$YOUR_TOKEN -o ipinfo_privacy.csv.gz`   |
+| MMDB        | ipinfo_privacy.mmdb    | `curl -L https://ipinfo.io/data/ipinfo_privacy.mmdb?token=$YOUR_TOKEN -o ipinfo_privacy.mmdb`       |
+| JSON        | ipinfo_privacy.json.gz | `curl -L https://ipinfo.io/data/ipinfo_privacy.json.gz?token=$YOUR_TOKEN -o ipinfo_privacy.json.gz` |
+| Parquet     | ipinfo_privacy.parquet | `curl -L https://ipinfo.io/data/ipinfo_privacy.parquet?token=$YOUR_TOKEN -o ipinfo_privacy.parquet` |
+
 
 # API Response
 

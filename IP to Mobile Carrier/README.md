@@ -4,25 +4,66 @@
 
 # Database Schema & Description
 
-*[data updated as of May, 2024]*
+*[data updated as of January, 2025]*
 
-The following database schema represents the CSV database. We also provide JSON and MMDB format data.
+| Field Name   | Example          | Data Type | Description                                |
+|--------------|------------------|-----------|--------------------------------------------|
+| **network**  | `90.50.223.0/24` | TEXT      | CIDR or IP network of the IP address block |
+| **name**     | `Orange`         | TEXT      | Name of the mobile carrier organization    |
+| **country**  | `FR`             | TEXT      | ISO 3166 country code of the IP addresses  |
+| **mcc**      | `208`            | TEXT      | Mobile Country Code (MCC) of the carrier   |
+| **mnc**      | `01`             | TEXT      | Mobile Network Code (MNC) of the carrier   |
 
-| Field Name | Example                                  | Data Type | Notes                                                    |
-|------------|------------------------------------------|-----------|----------------------------------------------------------|
-| `start_ip` | 5.208.203.0                              | TEXT      | Starting IP address of an IP address range               |
-| `end_ip`   | 5.208.203.255                            | TEXT      | Ending IP address of an IP address range                 |
-| `join_key` | 5.208.0.0                                | TEXT      | Special variable to facilitate database `join` operation |
-| `name`     | Mobile Communication Company of Iran PLC | TEXT      | Name of the mobile carrier                               |
-| `country`  | IR                                       | TEXT      | ISO 3166 country code of the IP addresses                |
-| `mcc`      | 432                                      | TEXT      | Mobile Country Code (MCC) of the carrier                 |
-| `mnc`      | 11                                       | TEXT      | Mobile Network Code (MNC) of the carrier                 |
+<details>
 
+<summary><h3>Alternate Database Schema: <code>standard_carrier</code></h3></summary>
+
+The `standard_carrier` data download is structured based on IP ranges (`start_ip` and `end_ip`) and includes the `join_key` column. Our default data downloads has been updated (January, 2025) to use the `network`-based schema which also does not include the `join_key` column. However, we will continue supporting the original IP range-based schema for existing customers, with no plans for deprecation. While the underlying data remains the same, the difference lies only in the schema.
+
+| Field Name   | Example                                    | Data Type | Description                                              |
+|--------------|--------------------------------------------|-----------|----------------------------------------------------------|
+| **start_ip** | `5.208.203.0`                              | TEXT      | Starting IP address of an IP address range               |
+| **end_ip**   | `5.208.203.255`                            | TEXT      | Ending IP address of an IP address range                 |
+| **join_key** | `5.208.0.0`                                | TEXT      | Special variable to facilitate database `join` operation |
+| **name**     | `Mobile Communication Company of Iran PLC` | TEXT      | Name of the mobile carrier                               |
+| **country**  | `IR`                                       | TEXT      | ISO 3166 country code of the IP addresses                |
+| **mcc**      | `432`                                      | TEXT      | Mobile Country Code (MCC) of the carrier                 |
+| **mnc**      | `11`                                       | TEXT      | Mobile Network Code (MNC) of the carrier                 |
+
+
+> Includes IP range columns (`start_ip` and `end_ip`) instead of a network or CIDR based column (`network`).
 > `join_key` represents the Class C network each IP address is part of, allowing you to filter the result set significantly before `join`ing. Learn more about `join_key` [here](https://community.ipinfo.io/t/ipinfos-join-key-column-explained/5526).
+
+#### Samples
+
+- [CSV Database] [IP to Mobile Carrier Database Sample](/IP%20to%20Mobile%20Carrier/ip_carrier_sample.csv)
+- [JSON Database] [IP to Mobile Carrier Database Sample](/IP%20to%20Mobile%20Carrier/ip_carrier_sample.json)
+- [MMDB Database] [IP to Mobile Carrier Database Sample](/IP%20to%20Mobile%20Carrier/ip_carrier_sample.mmdb)
+- [API] [IP to Mobile Carrier API Response Sample](/IP%20to%20Mobile%20Carrier/ip_carrier_api_sample.json)
+
+</details>
+
+## Downloadable File Formats
+
+- CSV: Plain text file format where data is organized into rows, with individual values separated by commas.
+- JSON: More specifically, NDJSON (Newline Delimited JSON), a text file format where each line is a separated in valid JSON object.
+- MMDB: Specialized binary database for efficient and fast IP lookups.
+- Parquet: A columnar storage file format optimized for efficient data querying.
+
 > 
 > Please refer to "[How to choose the best file format for your IPinfo database?](https://ipinfo.io/blog/ipinfo-database-formats/)" article to select the best format possible for your use case.
 >
 > The usage of the IP data downloads relies on the software or application of the data. Check out our [documentation](https://ipinfo.io/developers/database-download), [community](https://community.ipinfo.io/c/docs/8), and our [integrations](https://ipinfo.io/integrations) pages to find the best path forward.
+
+
+## Filename references:
+
+| File Format | Filename / Slug    | Terminal Command                                                                            |
+|-------------|--------------------|---------------------------------------------------------------------------------------------|
+| CSV         | ipinfo_carrier.csv.gz  | `curl -L https://ipinfo.io/data/ipinfo_carrier.csv.gz?token=$YOUR_TOKEN -o ipinfo_carrier.csv.gz`   |
+| MMDB        | ipinfo_carrier.mmdb    | `curl -L https://ipinfo.io/data/ipinfo_carrier.mmdb?token=$YOUR_TOKEN -o ipinfo_carrier.mmdb`       |
+| JSON        | ipinfo_carrier.json.gz | `curl -L https://ipinfo.io/data/ipinfo_carrier.json.gz?token=$YOUR_TOKEN -o ipinfo_carrier.json.gz` |
+| Parquet     | ipinfo_carrier.parquet | `curl -L https://ipinfo.io/data/ipinfo_carrier.parquet?token=$YOUR_TOKEN -o ipinfo_carrier.parquet` |
 
 # API Response
 
@@ -45,13 +86,6 @@ Reponse:
 ```
 
 ![mobile carrier API response.png](../assets/mobile_carrier_api_response.png)
-
-# Samples
-
-- [CSV Database] [IP to Mobile Carrier Database Sample](/IP%20to%20Mobile%20Carrier/ip_carrier_sample.csv)
-- [JSON Database] [IP to Mobile Carrier Database Sample](/IP%20to%20Mobile%20Carrier/ip_carrier_sample.json)
-- [MMDB Database] [IP to Mobile Carrier Database Sample](/IP%20to%20Mobile%20Carrier/ip_carrier_sample.mmdb)
-- [API] [IP to Mobile Carrier API Response Sample](/IP%20to%20Mobile%20Carrier/ip_carrier_api_sample.json)
 
 # Guides, Resources & Links
 

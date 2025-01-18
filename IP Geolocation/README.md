@@ -6,45 +6,108 @@ Our IP geolocation data is our primary data product and is considered one of the
 
 # Database Schema & Description
 
-*[data updated as of May, 2024]*
+*[data updated as of January, 2025]*
 
-The following database schema represents the CSV and JSON database.
+| Field Name         | Example            | Data Type | Description                                  |
+|--------------------|--------------------|-----------|----------------------------------------------|
+| **network**        | `71.50.174.48/28`  | TEXT      | CIDR or IP network of the IP address block   |
+| **city**           | `Spring Lake`      | TEXT      | City of the IP address                       |
+| **region**         | `North Carolina`   | TEXT      | Region/State of the IP address               |
+| **region_code**    | `NC`               | TEXT      | Region code in two-letter format in ISO 3166 |
+| **country**        | `United States`    | TEXT      | Name of the country of the IP address        |
+| **country_code**   | `US`               | TEXT      | ISO 3166 country code of the IP address      |
+| **continent**      | `North America`    | TEXT      | Name of the continent                        |
+| **continent_code** | `NA`               | TEXT      | Continent name code in two-letter format     |
+| **latitude**       | `35.16794`         | FLOAT     | Latitude value of the IP address             |
+| **longitude**      | `-78.97281`        | FLOAT     | Longitude value of the IP address            |
+| **timezone**       | `America/New_York` | TEXT      | Local timezone of the IP address location    |
+| **postal_code**    | `28390`            | TEXT      | Postal code or zip code of the IP address    |
 
-| Field Name    | Example          | Data Type | Notes                                                    |
-|---------------|------------------|-----------|----------------------------------------------------------|
-| `start_ip`    | 1.253.242.0      | TEXT      | Starting IP address of an IP address range               |
-| `end_ip`      | 1.253.242.255    | TEXT      | Ending IP address of an IP address range                 |
-| `join_key`    | 1.253.0.0        | TEXT      | Special variable to facilitate database `join` operation |
-| `city`        | Yangsan          | TEXT      | City of the IP address                                   |
-| `region`      | Gyeongsangnam-do | TEXT      | Region of the IP address                                 |
-| `country`     | KR               | TEXT      | ISO 3166 country code of the IP address                  |
-| `latitude`    | 35.34199         | FLOAT     | Latitude value of the IP address                         |
-| `longitude`   | 129.03358        | FLOAT     | Longitude value of the IP address                        |
-| `postal_code` | 50593            | TEXT      | Postal code or zip code of the IP address                |
-| `timezone`    | Asia/Seoul       | TEXT      | Local timezone of the IP address                         |
+<details>
 
+<summary><h3>Alternate Database Schema: <code>standard_location</code></h3></summary>
 
+The `standard_location` data download is structured based on IP ranges (`start_ip` and `end_ip`). It includes the `join_key` column but does not include the columns `region_code` and `country_code` (as the country code is contained in the `country` column and it does not provide the name of the country). Additionally, it does not include the columns `continent` and `continent_name`.
+
+Our default data downloads has been updated (January, 2025) to use the `network`-based schema which also does not include the `join_key` column. However, we will continue supporting the original IP range-based schema for existing customers, with no plans for deprecation. While the underlying data remains the same, the difference lies only in the schema.
+
+| Field Name      | Example            | Data Type | Description                                              |
+|-----------------|--------------------|-----------|----------------------------------------------------------|
+| **start_ip**    | `1.253.242.0`      | TEXT      | Starting IP address of an IP address range               |
+| **end_ip**      | `1.253.242.255`    | TEXT      | Ending IP address of an IP address range                 |
+| **join_key**    | `1.253.0.0`        | TEXT      | Special variable to facilitate database `join` operation |
+| **city**        | `Yangsan`          | TEXT      | City of the IP address                                   |
+| **region**      | `Gyeongsangnam-do` | TEXT      | Region of the IP address                                 |
+| **country**     | `KR`               | TEXT      | ISO 3166 country code of the IP address                  |
+| **latitude**    | `35.34199`         | FLOAT     | Latitude value of the IP address                         |
+| **longitude**   | `129.03358`        | FLOAT     | Longitude value of the IP address                        |
+| **postal_code** | `50593`            | TEXT      | Postal code or zip code of the IP address                |
+| **timezone**    | `Asia/Seoul`       | TEXT      | Local timezone of the IP address                         |
+
+> Includes IP range columns (`start_ip` and `end_ip`) instead of a network or CIDR based column (`network`).
 > `join_key` represents the Class C network each IP address is part of, allowing you to filter the result set significantly before `join`ing. Learn more about `join_key` [here](https://community.ipinfo.io/t/ipinfos-join-key-column-explained/5526).
 
-The following database schema represents the schema of the MMDB Standard database (`ip_geolocation_standard_sample.mmdb`).
 
-| Field Name    | Example    | Data Type | Description                                          |
-|---------------|------------|-----------|------------------------------------------------------|
-| `city`        | Yokohama   | TEXT      | City of the IP address range                         |
-| `country`     | JP         | TEXT      | Country of the IP address range                      |
-| `geoname_id`  | 1848354    | INTEGER   | Geoname_id that corresponds to geonames.org database |
-| `lat`         | 35.5354    | FLOAT     | Latitude value of the location                       |
-| `lng`         | 139.5263   | FLOAT     | Longitude value of the location                      |
-| `postal_code` | 227-0052   | TEXT      | Postal code value of the location                    |
-| `region`      | Kanagawa   | TEXT      | Region of the IP address range                       |
-| `region_code` | 14         | TEXT      | Region code associated with geonames.org database    |
-| `timezone`    | Asia/Tokyo | TEXT      | Timezone of the location                             |
+#### Samples
 
-> As not all IP addresses are available in the sample MMDB database, please refer to the `ip_geolocation_standard_sample_ips.txt` to get the ranges that have their data available in the MMDB file.
+- [CSV Database] [IP Geolocation Database Sample](/IP%20Geolocation/ip_geolocation_sample.csv)
+- [JSON Database] [IP Geolocation Database Sample](/IP%20Geolocation/ip_geolocation_sample.json)
+- [MMDB Database] [IP Geolocation Database Sample](/IP%20Geolocation/ip_geolocation_sample.mmdb)
+- [MMDB Database (Standard)] [IP Geolocation Standard Database Sample](/IP%20Geolocation/ip_geolocation_standard_sample.mmdb)
+
+</details>
+
+<details>
+
+<summary><h3>Alternate Database Schema: <code>standard_location_mmcompat</code></h3></summary>
+
+The `standard_location_mmcompat` database schema is a custom database that provides easier migration from alternative providers by offering the `geonames_id` field and other location data. Even though the migration process will not be plug and play from an alternative provider, we provide all the necessary information for users to account for only the schema.
+
+| Field Name         | Example           | Data Type | Descrption                                           |
+|--------------------|-------------------|-----------|------------------------------------------------------|
+| **Network**        | `50.62.0.0/15`    | TEXT      | CIDR or IP network of the IP address block           |
+| **City**           | `Tempe`           | TEXT      | City of the IP address                               |
+| **Continent**      | `NA`              | TEXT      | Continent name code in two-letter format             |
+| **Country**        | `US`              | TEXT      | ISO 3166 country code of the IP address              |
+| **Country_name**   | `United States`   | TEXT      | Name of the country of the IP address                |
+| **Geoname_id**     | `5317058`         | TEXT      | Geoname_id that corresponds to geonames.org database |
+| **Lat**            | `33.41477`        | FLOAT     | Latitude value of the location                       |
+| **Lng**            | `-111.90931`      | FLOAT     | Longitude value of the location                      |
+| **Postal**         | `85285`           | TEXT      | Postal code or zip code of the IP address            |
+| **Region**         | `AZ`              | TEXT      | Region code in two-letter format in ISO 3166         |
+| **Region_name**    | `Arizona`         | TEXT      | Region of the IP address                             |
+| **Subregion**      | `013`             | INTEGER   | Subregion code                                       |
+| **Subregion_name** | `Maricopa County` | TEXT      | Subregion name                                       |
+| **Timezone**       | `America/Phoenix` | TEXT      | Local timezone of the IP address location            |
+
+
+#### Samples
+
+- [MMDB Database (Standard)] [IP Geolocation Standard Database Sample](/IP%20Geolocation/ip_geolocation_standard_sample.mmdb)
+
+</details>
+
+## Downloadable File Formats
+
+- CSV: Plain text file format where data is organized into rows, with individual values separated by commas.
+- JSON: More specifically, NDJSON (Newline Delimited JSON), a text file format where each line is a separated in valid JSON object.
+- MMDB: Specialized binary database for efficient and fast IP lookups.
+- Parquet: A columnar storage file format optimized for efficient data querying.
 
 > Please refer to "[How to choose the best file format for your IPinfo database?](https://ipinfo.io/blog/ipinfo-database-formats/)" article to select the best format possible for your use case.
-
+>
 > The usage of the IP data downloads relies on the software or application of the data. Check out our [documentation](https://ipinfo.io/developers/database-download), [community](https://community.ipinfo.io/c/docs/8), and our [integrations](https://ipinfo.io/integrations) pages to find the best path forward.
+
+## Filename references:
+
+
+| File Format | Filename / Slug         | Terminal Command                                                                                      |
+|-------------|-------------------------|-------------------------------------------------------------------------------------------------------|
+| CSV         | ipinfo_location.csv.gz  | `curl -L https://ipinfo.io/data/ipinfo_location.csv.gz?token=$YOUR_TOKEN -o ipinfo_location.csv.gz`   |
+| MMDB        | ipinfo_location.mmdb    | `curl -L https://ipinfo.io/data/ipinfo_location.mmdb?token=$YOUR_TOKEN -o ipinfo_location.mmdb`       |
+| JSON        | ipinfo_location.json.gz | `curl -L https://ipinfo.io/data/ipinfo_location.json.gz?token=$YOUR_TOKEN -o ipinfo_location.json.gz` |
+| Parquet     | ipinfo_location.parquet | `curl -L https://ipinfo.io/data/ipinfo_location.parquet?token=$YOUR_TOKEN -o ipinfo_location.parquet` |
+
 
 # API Response
 
