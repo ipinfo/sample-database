@@ -394,6 +394,7 @@ You can find the schema, database sample, and other information in the **[Reside
 | `last_seen`         | 2024-09-07       | Last recorded active date of a residential proxy IP in ISO 8601 format (YYYY-MM-DD), with the timezone set to UTC.                                               |
 | `percent_days_seen` | 2                | Integer representing the percentage of days an IP was active over the past 90 days, indicating its activity level and frequency within a residential proxy pool. |
 
+</details>
 
 <details id=14>
 <summary><h2>IPinfo Lite Database</h2></summary>
@@ -413,6 +414,7 @@ You can find the schema, database sample, and other information in the **[IPinfo
 | **as_name**        | `Cogent Communications` | Name of the AS (Autonomous System Number) organization                 |
 | **as_domain**      | `cogentco.com`          | Official domain or website of the ASN organization                     |
 
+</details>
 
 <details id=15>
 <summary><h2>IPinfo Standard Database</h2></summary>
@@ -445,7 +447,7 @@ You can find the schema, database sample, and other information in the **[IPinfo
 | is_mobile      | false                         | Indicates whether the IP address belongs to a mobile network                |
 | is_satellite   | false                         | Indicates whether the IP address is part of a satellite internet connection |
 
-
+</details>
 
 <details id=16>
 <summary><h2>Residential Proxy Detection Database</h2></summary>
