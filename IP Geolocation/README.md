@@ -106,7 +106,6 @@ The `standard_location_mmcompat` database schema is a custom database that provi
 
 ## Filename references:
 
-
 | File Format | Filename / Slug         | Terminal Command                                                                                      |
 |-------------|-------------------------|-------------------------------------------------------------------------------------------------------|
 | CSV         | ipinfo_location.csv.gz  | `curl -L https://ipinfo.io/data/ipinfo_location.csv.gz?token=$YOUR_TOKEN -o ipinfo_location.csv.gz`   |

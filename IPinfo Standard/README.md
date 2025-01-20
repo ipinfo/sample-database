@@ -4,29 +4,30 @@
 
 # Database Schema & Description
 
-| Field Name     | Example                       | Data Type | Descrption                                                                  |
-|----------------|-------------------------------|-----------|-----------------------------------------------------------------------------|
-| network        | 66.202.64.131                 | TEXT      | CIDR/IP range or single IP address                                          |
-| city           | Chicago                       | TEXT      | City of the IP address                                                      |
-| region         | Illinois                      | TEXT      | Region/State of the IP address                                              |
-| region_code    | IL                            | TEXT      | Region code in two-letter format in ISO 3166                                |
-| country        | United States                 | TEXT      | Name of the country of the IP address                                       |
-| country_code   | US                            | TEXT      | ISO 3166 country code of the IP address                                     |
-| continent      | North America                 | TEXT      | Name of the continent                                                       |
-| continent_code | NA                            | TEXT      | Continent name code in two-letter format                                    |
-| latitude       | 41.85003                      | FLOAT     | Latitude value of the IP address                                            |
-| longitude      | -87.65005                     | FLOAT     | Longitude value of the IP address                                           |
-| timezone       | America/Chicago               | TEXT      | Local timezone of the IP address location                                   |
-| postal_code    | 60666                         | TEXT      | Postal code or zip code of the IP address                                   |
-| asn            | AS7029                        | TEXT      | Autonomous System Number (ASN)                                              |
-| as_name        | Windstream Communications LLC | TEXT      | Organization domain name of the ASN                                         |
-| as_domain      | windstream.com                | TEXT      | Name of the ASN organization                                                |
-| as_type        | isp                           | TEXT      | ASN Type: ISP, Hosting, Education, Government or Business                   |
-| is_anon        | false                         | BOOLEAN   | Indicates whether the IP address is anonymous.                              |
-| is_anycast     | false                         | BOOLEAN   | dicates whether the IP address is an internet service hosting IP address    |
-| is_hosting     | false                         | BOOLEAN   | Indicates whether the IP address is an hosting/cloud/data center IP address |
-| is_mobile      | false                         | BOOLEAN   | Indicates whether the IP address belongs to a mobile network                |
-| is_satellite   | false                         | BOOLEAN   | Indicates whether the IP address is part of a satellite internet connection |
+| Field Name         | Example                         | Data Type | Descrption                                                                  |
+|--------------------|---------------------------------|-----------|-----------------------------------------------------------------------------|
+| **network**        | `66.202.64.131`                 | TEXT      | CIDR/IP range or single IP address                                          |
+| **city**           | `Chicago`                       | TEXT      | City of the IP address                                                      |
+| **region**         | `Illinois`                      | TEXT      | Region/State of the IP address                                              |
+| **region_code**    | `IL`                            | TEXT      | Region code in two-letter format in ISO 3166                                |
+| **country**        | `United States`                 | TEXT      | Name of the country of the IP address                                       |
+| **country_code**   | `US`                            | TEXT      | ISO 3166 country code of the IP address                                     |
+| **continent**      | `North America`                 | TEXT      | Name of the continent                                                       |
+| **continent_code** | `NA`                            | TEXT      | Continent name code in two-letter format                                    |
+| **latitude**       | `41.85003`                      | FLOAT     | Latitude value of the IP address                                            |
+| **longitude**      | `-87.65005`                     | FLOAT     | Longitude value of the IP address                                           |
+| **timezone**       | `America/Chicago`               | TEXT      | Local timezone of the IP address location                                   |
+| **postal_code**    | `60666`                         | TEXT      | Postal code or zip code of the IP address                                   |
+| **asn**            | `AS7029`                        | TEXT      | Autonomous System Number (ASN)                                              |
+| **as_name**        | `Windstream Communications LLC` | TEXT      | Organization domain name of the ASN                                         |
+| **as_domain**      | `windstream.com`                | TEXT      | Name of the ASN organization                                                |
+| **as_type**        | `isp`                           | TEXT      | ASN Type: ISP, Hosting, Education, Government or Business                   |
+| **is_anon**        | `false`                         | BOOLEAN   | Indicates whether the IP address is anonymous.                              |
+| **is_anycast**     | `false`                         | BOOLEAN   | dicates whether the IP address is an internet service hosting IP address    |
+| **is_hosting**     | `false`                         | BOOLEAN   | Indicates whether the IP address is an hosting/cloud/data center IP address |
+| **is_mobile**      | `false`                         | BOOLEAN   | Indicates whether the IP address belongs to a mobile network                |
+| **is_satellite**   | `false`                         | BOOLEAN   | Indicates whether the IP address is part of a satellite internet connection |
+
 
 
 ## Samples
