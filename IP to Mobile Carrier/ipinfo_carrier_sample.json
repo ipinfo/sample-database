@@ -1,100 +1,100 @@
-{"network": "2401:4900:5850::/47", "name": "Airtel", "country": "IN", "mcc": "404", "mnc": "02"}
-{"network": "179.72.152.0/21", "name": "TIM", "country": "BR", "mcc": "724", "mnc": "02"}
-{"network": "166.159.15.0/24", "name": "Verizon", "country": "US", "mcc": "310", "mnc": "012"}
-{"network": "42.76.64.0/21", "name": "Chunghwa", "country": "TW", "mcc": "466", "mnc": "92"}
-{"network": "188.153.230.0/24", "name": "Vodafone", "country": "IT", "mcc": "222", "mnc": "10"}
-{"network": "2607:fb91:19bb::/48", "name": "T-Mobile", "country": "US", "mcc": "310", "mnc": "260"}
-{"network": "149.140.128.0/19", "name": "Vodafone", "country": "TR", "mcc": "286", "mnc": "02"}
-{"network": "2401:4900:85ec::/48", "name": "Airtel", "country": "IN", "mcc": "404", "mnc": "02"}
-{"network": "188.66.180.0/22", "name": "Ooredoo", "country": "OM", "mcc": "422", "mnc": "03"}
-{"network": "37.174.246.0/24", "name": "Free", "country": "FR", "mcc": "208", "mnc": "15"}
-{"network": "104.189.76.0/24", "name": "AT&T", "country": "US", "mcc": "310", "mnc": "410"}
-{"network": "126.189.164.0/22", "name": "SoftBank", "country": "JP", "mcc": "440", "mnc": "20"}
-{"network": "2409:4042:61e::/48", "name": "Jio", "country": "IN", "mcc": "405", "mnc": "840"}
-{"network": "113.197.196.0/24", "name": "NTT docomo", "country": "JP", "mcc": "440", "mnc": "10"}
-{"network": "104.177.120.0/24", "name": "AT&T", "country": "US", "mcc": "310", "mnc": "410"}
-{"network": "176.75.16.0/20", "name": "Telenor", "country": "NO", "mcc": "242", "mnc": "01"}
-{"network": "2003:c4:772b::/48", "name": "Telekom", "country": "DE", "mcc": "262", "mnc": "01"}
-{"network": "105.180.130.0/23", "name": "Orange", "country": "EG", "mcc": "602", "mnc": "01"}
-{"network": "190.125.204.0/24", "name": "Claro", "country": "CO", "mcc": "732", "mnc": "101"}
-{"network": "2607:fb91:8e2d::/48", "name": "T-Mobile", "country": "US", "mcc": "310", "mnc": "260"}
-{"network": "2806:370:7349::/48", "name": "Telcel", "country": "MX", "mcc": "334", "mnc": "020"}
-{"network": "90.50.223.0/24", "name": "Orange", "country": "FR", "mcc": "208", "mnc": "01"}
-{"network": "49.224.193.0/24", "name": "Vodafone", "country": "NZ", "mcc": "530", "mnc": "01"}
-{"network": "2.47.236.0/22", "name": "Vodafone", "country": "IT", "mcc": "222", "mnc": "10"}
-{"network": "2409:4061:2106::/48", "name": "Jio", "country": "IN", "mcc": "405", "mnc": "840"}
-{"network": "42.19.82.0/23", "name": "SKTelecom", "country": "KR", "mcc": "450", "mnc": "05"}
-{"network": "2402:800:6348::/48", "name": "Vinaphone", "country": "VN", "mcc": "452", "mnc": "02"}
-{"network": "179.175.32.0/24", "name": "Vivo", "country": "BR", "mcc": "724", "mnc": "06"}
-{"network": "179.240.224.0/22", "name": "Claro", "country": "BR", "mcc": "724", "mnc": "05"}
-{"network": "78.80.116.0/23", "name": "T-Mobile", "country": "CZ", "mcc": "230", "mnc": "01"}
-{"network": "223.191.4.0/24", "name": "Airtel", "country": "IN", "mcc": "404", "mnc": "02"}
-{"network": "126.38.21.0/24", "name": "SoftBank", "country": "JP", "mcc": "440", "mnc": "20"}
-{"network": "179.226.127.0/24", "name": "Vivo", "country": "BR", "mcc": "724", "mnc": "06"}
-{"network": "2409:4061:300::/48", "name": "Jio", "country": "IN", "mcc": "405", "mnc": "840"}
-{"network": "2.90.168.0/23", "name": "Al Jawal (STC)", "country": "SA", "mcc": "420", "mnc": "01"}
-{"network": "2600:1700:37f1::/48", "name": "AT&T", "country": "US", "mcc": "310", "mnc": "410"}
-{"network": "2401:4900:45b2::/48", "name": "Airtel", "country": "IN", "mcc": "404", "mnc": "02"}
-{"network": "14.195.200.0/21", "name": "Airtel", "country": "IN", "mcc": "404", "mnc": "92"}
-{"network": "2409:4061:79a::/48", "name": "Jio", "country": "IN", "mcc": "405", "mnc": "840"}
-{"network": "179.82.20.0/22", "name": "Vivo", "country": "BR", "mcc": "724", "mnc": "06"}
-{"network": "2a02:4e0:540::/43", "name": "Turkcell", "country": "TR", "mcc": "286", "mnc": "01"}
-{"network": "77.153.254.0/24", "name": "SFR", "country": "FR", "mcc": "208", "mnc": "09"}
-{"network": "111.97.83.0/24", "name": "au", "country": "JP", "mcc": "440", "mnc": "50"}
-{"network": "223.38.107.0/24", "name": "SKTelecom", "country": "KR", "mcc": "450", "mnc": "05"}
-{"network": "203.81.240.0/22", "name": "Jio", "country": "IN", "mcc": "405", "mnc": "840"}
-{"network": "198.224.80.0/24", "name": "AT&T", "country": "US", "mcc": "310", "mnc": "410"}
-{"network": "90.9.221.0/24", "name": "Orange", "country": "FR", "mcc": "208", "mnc": "01"}
-{"network": "109.161.209.0/24", "name": "zain BH", "country": "BH", "mcc": "426", "mnc": "02"}
-{"network": "219.89.199.0/24", "name": "Spark", "country": "NZ", "mcc": "530", "mnc": "05"}
-{"network": "202.4.200.0/23", "name": "PCCW Mobile (2G)", "country": "HK", "mcc": "454", "mnc": "16"}
-{"network": "2001:16a2:c16a::/48", "name": "Al Jawal (STC)", "country": "SA", "mcc": "420", "mnc": "01"}
-{"network": "223.33.40.0/24", "name": "SKTelecom", "country": "KR", "mcc": "450", "mnc": "05"}
-{"network": "174.250.130.0/24", "name": "Verizon", "country": "US", "mcc": "310", "mnc": "012"}
-{"network": "166.251.105.0/24", "name": "Verizon", "country": "US", "mcc": "310", "mnc": "012"}
-{"network": "2607:fb90:9a84::/47", "name": "T-Mobile", "country": "US", "mcc": "310", "mnc": "260"}
-{"network": "210.172.95.0/24", "name": "au", "country": "JP", "mcc": "440", "mnc": "50"}
-{"network": "2409:4070:4689::/48", "name": "Jio", "country": "IN", "mcc": "405", "mnc": "840"}
-{"network": "114.136.117.0/24", "name": "Chunghwa", "country": "TW", "mcc": "466", "mnc": "92"}
-{"network": "105.129.243.0/24", "name": "IAM", "country": "MA", "mcc": "604", "mnc": "01"}
-{"network": "1.38.32.0/21", "name": "Vi India", "country": "IN", "mcc": "404", "mnc": "22"}
-{"network": "90.54.126.0/24", "name": "Orange", "country": "FR", "mcc": "208", "mnc": "01"}
-{"network": "109.8.132.0/24", "name": "SFR", "country": "FR", "mcc": "208", "mnc": "09"}
-{"network": "152.173.44.0/22", "name": "Movistar", "country": "CL", "mcc": "730", "mnc": "02"}
-{"network": "188.135.95.0/24", "name": "Ooredoo", "country": "OM", "mcc": "422", "mnc": "03"}
-{"network": "188.29.52.0/24", "name": "3", "country": "GB", "mcc": "234", "mnc": "20"}
-{"network": "2a01:cb1a:5c::/47", "name": "Orange", "country": "FR", "mcc": "208", "mnc": "01"}
-{"network": "39.7.20.0/22", "name": "Olleh", "country": "KR", "mcc": "450", "mnc": "08"}
-{"network": "157.112.0.0/21", "name": "NTT docomo", "country": "JP", "mcc": "440", "mnc": "10"}
-{"network": "2804:c90:f2d3::/48", "name": "Vivo", "country": "BR", "mcc": "724", "mnc": "23"}
-{"network": "46.178.252.0/24", "name": "Proximus", "country": "BE", "mcc": "206", "mnc": "01"}
-{"network": "2804:38a:a014::/47", "name": "Claro", "country": "BR", "mcc": "724", "mnc": "05"}
-{"network": "223.184.138.0/23", "name": "Airtel", "country": "IN", "mcc": "404", "mnc": "10"}
-{"network": "2600:380:c4d2::/48", "name": "AT&T", "country": "US", "mcc": "310", "mnc": "410"}
-{"network": "101.136.56.0/23", "name": "Gt", "country": "TW", "mcc": "466", "mnc": "05"}
-{"network": "191.192.89.0/24", "name": "Vivo", "country": "BR", "mcc": "724", "mnc": "06"}
-{"network": "5.110.135.0/24", "name": "Mobily", "country": "SA", "mcc": "420", "mnc": "03"}
-{"network": "191.200.140.0/22", "name": "Vivo", "country": "BR", "mcc": "724", "mnc": "06"}
-{"network": "88.142.193.0/24", "name": "SFR", "country": "FR", "mcc": "208", "mnc": "09"}
-{"network": "106.131.32.0/21", "name": "au", "country": "JP", "mcc": "440", "mnc": "50"}
-{"network": "5.216.228.0/24", "name": "IR-TCI (Hamrah-e-Avval)", "country": "IR", "mcc": "432", "mnc": "11"}
-{"network": "191.9.82.0/23", "name": "Vivo", "country": "BR", "mcc": "724", "mnc": "06"}
-{"network": "2401:4900:3220::/44", "name": "Airtel", "country": "IN", "mcc": "404", "mnc": "10"}
-{"network": "83.202.214.0/24", "name": "Orange", "country": "FR", "mcc": "208", "mnc": "01"}
-{"network": "181.244.40.0/21", "name": "Claro", "country": "CO", "mcc": "732", "mnc": "101"}
-{"network": "108.244.20.0/24", "name": "AT&T", "country": "US", "mcc": "310", "mnc": "410"}
-{"network": "107.255.240.16/28", "name": "AT&T", "country": "US", "mcc": "310", "mnc": "410"}
-{"network": "2401:4900:51da::/48", "name": "Airtel", "country": "IN", "mcc": "404", "mnc": "02"}
-{"network": "205.253.178.0/24", "name": "Jio", "country": "IN", "mcc": "405", "mnc": "840"}
-{"network": "2409:4060:2dcc::/48", "name": "Jio", "country": "IN", "mcc": "405", "mnc": "840"}
-{"network": "2409:4043:4d0f::/48", "name": "Jio", "country": "IN", "mcc": "405", "mnc": "840"}
-{"network": "90.6.164.0/24", "name": "Orange", "country": "FR", "mcc": "208", "mnc": "01"}
-{"network": "105.145.220.0/24", "name": "IAM", "country": "MA", "mcc": "604", "mnc": "01"}
-{"network": "114.18.210.0/24", "name": "au", "country": "JP", "mcc": "440", "mnc": "50"}
-{"network": "2600:380:bc68::/48", "name": "AT&T", "country": "US", "mcc": "310", "mnc": "410"}
-{"network": "2600:1002:b034::/48", "name": "Verizon", "country": "US", "mcc": "310", "mnc": "012"}
-{"network": "75.244.194.0/23", "name": "Verizon", "country": "US", "mcc": "310", "mnc": "012"}
-{"network": "62.198.142.0/24", "name": "Telia", "country": "DK", "mcc": "238", "mnc": "20"}
-{"network": "179.113.88.0/23", "name": "Vivo", "country": "BR", "mcc": "724", "mnc": "06"}
-{"network": "5.124.52.0/23", "name": "MTN Irancell", "country": "IR", "mcc": "432", "mnc": "35"}
-{"network": "81.249.137.0/24", "name": "Orange", "country": "FR", "mcc": "208", "mnc": "01"}
+{"network": "2400:2200:2e7::/48", "name": "SoftBank", "country": "JP", "mcc": "440", "mnc": "20"}
+{"network": "5.146.62.0/24", "name": "Vodafone", "country": "DE", "mcc": "262", "mnc": "02"}
+{"network": "2a00:1fa2:292::/47", "name": "MTS", "country": "RU", "mcc": "250", "mnc": "01"}
+{"network": "166.137.88.56/29", "name": "AT&T", "country": "US", "mcc": "310", "mnc": "410"}
+{"network": "151.70.12.0/24", "name": "WINDTRE", "country": "IT", "mcc": "222", "mnc": "88"}
+{"network": "2a02:c7f:b24f::/48", "name": "O2 (UK)", "country": "GB", "mcc": "234", "mnc": "02"}
+{"network": "190.58.13.0/24", "name": "bmobile", "country": "TT", "mcc": "374", "mnc": "12"}
+{"network": "2a00:f41:1c72::/48", "name": "Orange", "country": "PL", "mcc": "260", "mnc": "03"}
+{"network": "41.81.154.0/24", "name": "Safaricom", "country": "KE", "mcc": "639", "mnc": "02"}
+{"network": "179.204.33.0/24", "name": "TIM", "country": "BR", "mcc": "724", "mnc": "02"}
+{"network": "70.26.25.0/24", "name": "Bell Mobility", "country": "CA", "mcc": "302", "mnc": "610"}
+{"network": "77.167.157.0/24", "name": "KPN", "country": "NL", "mcc": "204", "mnc": "08"}
+{"network": "186.122.128.0/19", "name": "Claro", "country": "AR", "mcc": "722", "mnc": "320"}
+{"network": "211.194.157.0/24", "name": "Olleh", "country": "KR", "mcc": "450", "mnc": "08"}
+{"network": "107.254.69.0/24", "name": "AT&T", "country": "US", "mcc": "310", "mnc": "410"}
+{"network": "186.154.199.0/24", "name": "eTb", "country": "CO", "mcc": "732", "mnc": "187"}
+{"network": "2600:380:191a::/47", "name": "AT&T", "country": "US", "mcc": "310", "mnc": "410"}
+{"network": "49.105.128.0/22", "name": "NTT docomo", "country": "JP", "mcc": "440", "mnc": "10"}
+{"network": "223.63.200.0/23", "name": "SKTelecom", "country": "KR", "mcc": "450", "mnc": "05"}
+{"network": "49.195.12.0/22", "name": "Optus", "country": "AU/CC/CX", "mcc": "505", "mnc": "90"}
+{"network": "2a00:1fa2:42ad::/48", "name": "MTS", "country": "RU", "mcc": "250", "mnc": "01"}
+{"network": "191.155.140.0/24", "name": "Claro", "country": "CO", "mcc": "732", "mnc": "101"}
+{"network": "2.73.180.0/22", "name": "Kcell", "country": "KZ", "mcc": "401", "mnc": "02"}
+{"network": "181.36.160.0/20", "name": "Altice", "country": "DO", "mcc": "370", "mnc": "01"}
+{"network": "179.174.254.0/24", "name": "Vivo", "country": "BR", "mcc": "724", "mnc": "06"}
+{"network": "2a00:f41:2c38::/47", "name": "Orange", "country": "PL", "mcc": "260", "mnc": "03"}
+{"network": "42.72.160.0/24", "name": "Chunghwa", "country": "TW", "mcc": "466", "mnc": "92"}
+{"network": "2607:fb90:a242::/48", "name": "T-Mobile", "country": "US", "mcc": "310", "mnc": "260"}
+{"network": "213.87.242.0/24", "name": "MTS", "country": "RU", "mcc": "250", "mnc": "01"}
+{"network": "2600:1008:b0d0::/44", "name": "Verizon", "country": "US", "mcc": "310", "mnc": "012"}
+{"network": "2a04:cec0:f06e::/48", "name": "Bouygues", "country": "FR", "mcc": "208", "mnc": "20"}
+{"network": "86.188.244.0/24", "name": "EE", "country": "GB", "mcc": "234", "mnc": "30"}
+{"network": "2600:1012:b1a8::/48", "name": "Verizon", "country": "US", "mcc": "310", "mnc": "012"}
+{"network": "105.38.19.0/24", "name": "Orange", "country": "EG", "mcc": "602", "mnc": "01"}
+{"network": "2401:4900:599f::/48", "name": "Airtel", "country": "IN", "mcc": "404", "mnc": "02"}
+{"network": "2409:4070:2c9c::/48", "name": "Jio", "country": "IN", "mcc": "405", "mnc": "840"}
+{"network": "2a00:23c4:cd2c::/48", "name": "EE", "country": "GB", "mcc": "234", "mnc": "30"}
+{"network": "2a00:23ee:2258::/48", "name": "EE", "country": "GB", "mcc": "234", "mnc": "30"}
+{"network": "2a0c:5a80:3d12::/48", "name": "DIGI mobil", "country": "ES", "mcc": "214", "mnc": "22"}
+{"network": "2a00:f41:c8d::/48", "name": "Orange", "country": "PL", "mcc": "260", "mnc": "03"}
+{"network": "76.70.250.0/23", "name": "Bell Mobility", "country": "CA", "mcc": "302", "mnc": "610"}
+{"network": "191.112.185.0/24", "name": "Movistar", "country": "CL", "mcc": "730", "mnc": "02"}
+{"network": "107.194.190.0/23", "name": "AT&T", "country": "US", "mcc": "310", "mnc": "410"}
+{"network": "191.66.76.0/22", "name": "Claro", "country": "CO", "mcc": "732", "mnc": "101"}
+{"network": "111.188.0.0/19", "name": "SoftBank", "country": "JP", "mcc": "440", "mnc": "20"}
+{"network": "2408:846c:b20::/48", "name": "China Unicom", "country": "CN", "mcc": "460", "mnc": "01"}
+{"network": "77.6.152.0/24", "name": "O2", "country": "DE", "mcc": "262", "mnc": "03"}
+{"network": "41.13.189.0/24", "name": "Vodacom", "country": "ZA", "mcc": "655", "mnc": "01"}
+{"network": "104.10.222.0/24", "name": "AT&T", "country": "US", "mcc": "310", "mnc": "410"}
+{"network": "2001:16a4:211::/48", "name": "Al Jawal (STC)", "country": "SA", "mcc": "420", "mnc": "01"}
+{"network": "174.226.99.0/24", "name": "Verizon", "country": "US", "mcc": "310", "mnc": "012"}
+{"network": "181.124.179.0/24", "name": "Tigo", "country": "PY", "mcc": "744", "mnc": "04"}
+{"network": "197.127.18.0/24", "name": "Etisalat", "country": "EG", "mcc": "602", "mnc": "03"}
+{"network": "2600:1700:b391::/48", "name": "AT&T", "country": "US", "mcc": "310", "mnc": "410"}
+{"network": "189.96.45.0/24", "name": "Vivo", "country": "BR", "mcc": "724", "mnc": "06"}
+{"network": "198.254.227.0/24", "name": "Xplore", "country": "CA", "mcc": "302", "mnc": "130"}
+{"network": "86.233.212.0/23", "name": "Orange", "country": "FR", "mcc": "208", "mnc": "01"}
+{"network": "78.118.253.0/24", "name": "SFR", "country": "FR", "mcc": "208", "mnc": "09"}
+{"network": "2.196.27.0/24", "name": "TIM", "country": "IT", "mcc": "222", "mnc": "01"}
+{"network": "166.216.149.48/28", "name": "AT&T", "country": "US", "mcc": "310", "mnc": "410"}
+{"network": "2001:4bc9:900::/48", "name": "Magenta", "country": "AT", "mcc": "232", "mnc": "03"}
+{"network": "90.34.48.0/24", "name": "Orange", "country": "FR", "mcc": "208", "mnc": "01"}
+{"network": "2803:c800:4138::/47", "name": "Tigo", "country": "GT", "mcc": "704", "mnc": "02"}
+{"network": "75.208.219.0/24", "name": "Verizon", "country": "US", "mcc": "310", "mnc": "012"}
+{"network": "86.239.92.0/24", "name": "Orange", "country": "FR", "mcc": "208", "mnc": "01"}
+{"network": "75.229.136.0/22", "name": "Verizon", "country": "US", "mcc": "310", "mnc": "012"}
+{"network": "80.155.179.0/24", "name": "Telekom", "country": "DE", "mcc": "262", "mnc": "01"}
+{"network": "37.112.16.0/24", "name": "MTS", "country": "RU", "mcc": "250", "mnc": "01"}
+{"network": "80.26.37.0/24", "name": "Movistar", "country": "ES", "mcc": "214", "mnc": "07"}
+{"network": "37.35.193.0/24", "name": "Orange", "country": "ES", "mcc": "214", "mnc": "03"}
+{"network": "181.155.158.0/24", "name": "Claro", "country": "CO", "mcc": "732", "mnc": "101"}
+{"network": "191.60.0.0/16", "name": "Claro", "country": "BR", "mcc": "724", "mnc": "05"}
+{"network": "125.235.126.0/23", "name": "Viettel Mobile", "country": "VN", "mcc": "452", "mnc": "04"}
+{"network": "186.113.35.0/24", "name": "Movistar", "country": "CO", "mcc": "732", "mnc": "123"}
+{"network": "223.140.152.0/21", "name": "Chunghwa", "country": "TW", "mcc": "466", "mnc": "92"}
+{"network": "46.96.166.0/24", "name": "lifecell", "country": "UA", "mcc": "255", "mnc": "06"}
+{"network": "166.147.72.184/29", "name": "AT&T", "country": "US", "mcc": "310", "mnc": "410"}
+{"network": "2409:4043:2d80::/47", "name": "Jio", "country": "IN", "mcc": "405", "mnc": "840"}
+{"network": "176.3.160.0/20", "name": "O2", "country": "DE", "mcc": "262", "mnc": "03"}
+{"network": "91.170.172.0/24", "name": "Free", "country": "FR", "mcc": "208", "mnc": "15"}
+{"network": "152.207.112.0/22", "name": "CUBACEL", "country": "CU", "mcc": "368", "mnc": "01"}
+{"network": "37.219.96.0/19", "name": "DNA", "country": "FI", "mcc": "244", "mnc": "12"}
+{"network": "213.97.178.0/24", "name": "Movistar", "country": "ES", "mcc": "214", "mnc": "07"}
+{"network": "107.255.8.64/26", "name": "AT&T", "country": "US", "mcc": "310", "mnc": "410"}
+{"network": "181.128.224.0/24", "name": "Tigo", "country": "CO", "mcc": "732", "mnc": "020"}
+{"network": "222.10.99.0/24", "name": "au", "country": "JP", "mcc": "440", "mnc": "50"}
+{"network": "2a02:2378:119c::/48", "name": "Kyivstar", "country": "UA", "mcc": "255", "mnc": "03"}
+{"network": "89.214.128.0/23", "name": "MEO", "country": "PT", "mcc": "268", "mnc": "06"}
+{"network": "193.207.224.0/22", "name": "TIM", "country": "IT", "mcc": "222", "mnc": "01"}
+{"network": "105.1.146.0/24", "name": "Cell C", "country": "ZA", "mcc": "655", "mnc": "07"}
+{"network": "2401:4900:a132::/47", "name": "Airtel", "country": "IN", "mcc": "404", "mnc": "02"}
+{"network": "81.32.96.0/24", "name": "Movistar", "country": "ES", "mcc": "214", "mnc": "07"}
+{"network": "2400:2652:7902::/48", "name": "SoftBank", "country": "JP", "mcc": "440", "mnc": "20"}
+{"network": "68.240.156.0/23", "name": "T-Mobile", "country": "US", "mcc": "310", "mnc": "260"}
+{"network": "186.79.88.0/21", "name": "Movistar", "country": "CL", "mcc": "730", "mnc": "02"}
+{"network": "2a02:2378:128b::/48", "name": "Kyivstar", "country": "UA", "mcc": "255", "mnc": "03"}
+{"network": "91.129.106.0/24", "name": "Tele2", "country": "EE", "mcc": "248", "mnc": "03"}
+{"network": "106.147.88.0/24", "name": "au", "country": "JP", "mcc": "440", "mnc": "50"}
+{"network": "2402:8100:26ca::/48", "name": "Vi India", "country": "IN", "mcc": "404", "mnc": "11"}
+{"network": "2a02:810a:953f::/48", "name": "Vodafone", "country": "DE", "mcc": "262", "mnc": "02"}
