@@ -17,8 +17,8 @@ The IPinfo Lite database is part of our [free IP data downloads offering](https:
 *[data updated as of January, 2025]*
 
 | Field Name         | Example                 | Data Type | Descrption                                                             |
-|--------------------|-------------------------|-----------|------------------------------------------------------------------------|
-| **network**        | `154.24.39.204/30`      | TEXT      | CIDR/IP range or single IP address                                              |
+| ------------------ | ----------------------- | --------- | ---------------------------------------------------------------------- |
+| **network**        | `154.24.39.204/30`      | TEXT      | CIDR/IP range or single IP address                                     |
 | **country**        | `Canada`                | TEXT      | Country name                                                           |
 | **country_code**   | `CA`                    | TEXT      | Two-letter ISO 3166 country code of the IP addresses                   |
 | **continent**      | `North America`         | TEXT      | Continent name of the IP location                                      |
@@ -40,7 +40,7 @@ The IPinfo Lite database is part of our [free IP data downloads offering](https:
 The `country_asn` data download is structured based on IP ranges (`start_ip` and `end_ip`). Our default data downloads has been updated (January, 2025) to use the `network`-based schema and also changes the name of the columns. However, we will continue supporting the original IP range-based schema for existing customers, with no plans for deprecation. While the underlying data remains the same, the difference lies only in the schema.
 
 | Field Name       | Example                      | Data Type | Description                                       |
-|------------------|------------------------------|-----------|---------------------------------------------------|
+| ---------------- | ---------------------------- | --------- | ------------------------------------------------- |
 | `start_ip`       | 1.0.16.0                     | TEXT      | Starting IP address of an IP address range        |
 | `end_ip`         | 1.0.31.255                   | TEXT      | Ending IP address of an IP address range          |
 | `country`        | JP                           | TEXT      | ISO 3166 country code of the IP addresses         |
@@ -74,8 +74,8 @@ The `country_asn` data download is structured based on IP ranges (`start_ip` and
 
 ## Filename references:
 
-| File Format | Filename / Slug        | Terminal Command                                                                                    |
-|-------------|------------------------|-----------------------------------------------------------------------------------------------------|
+| File Format | Filename / Slug     | Terminal Command                                                                              |
+| ----------- | ------------------- | --------------------------------------------------------------------------------------------- |
 | CSV         | ipinfo_lite.csv.gz  | `curl -L https://ipinfo.io/data/ipinfo_lite.csv.gz?token=$YOUR_TOKEN -o ipinfo_lite.csv.gz`   |
 | MMDB        | ipinfo_lite.mmdb    | `curl -L https://ipinfo.io/data/ipinfo_lite.mmdb?token=$YOUR_TOKEN -o ipinfo_lite.mmdb`       |
 | JSON        | ipinfo_lite.json.gz | `curl -L https://ipinfo.io/data/ipinfo_lite.json.gz?token=$YOUR_TOKEN -o ipinfo_lite.json.gz` |
