@@ -22,7 +22,7 @@
 | **as_name**        | `Windstream Communications LLC` | TEXT      | Organization domain name of the ASN                                         |
 | **as_domain**      | `windstream.com`                | TEXT      | Name of the ASN organization                                                |
 | **as_type**        | `isp`                           | TEXT      | ASN Type: ISP, Hosting, Education, Government or Business                   |
-| **is_anon**        | `false`                         | BOOLEAN   | Indicates whether the IP address is anonymous.                              |
+| **is_anonymous**        | `false`                         | BOOLEAN   | Indicates whether the IP address is anonymous.                              |
 | **is_anycast**     | `false`                         | BOOLEAN   | dicates whether the IP address is an internet service hosting IP address    |
 | **is_hosting**     | `false`                         | BOOLEAN   | Indicates whether the IP address is an hosting/cloud/data center IP address |
 | **is_mobile**      | `false`                         | BOOLEAN   | Indicates whether the IP address belongs to a mobile network                |
