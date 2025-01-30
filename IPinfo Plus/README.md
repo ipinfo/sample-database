@@ -35,7 +35,7 @@
 | **geo_changed**        | `2024-11-10`                     | DATE      | Date when the IP address's location last changed: Date in YYYY-MM-DD format, ISO-8601                      |
 | **as_stability**       | `1.0`                            | FLOAT     | The stability/change of ASN data for the IP address within a recent period of time. 1.0 means very stable. |
 | **geo_stability**      | `1.0`                            | FLOAT     | The stability/change of locaion for the IP address within a recent period of time. 1.0 means very stable.  |
-| **is_anon**            | `false`                          | BOOLEAN   | Indicates whether the IP address is anonymous.                                                             |
+| **is_anonymous**            | `false`                          | BOOLEAN   | Indicates whether the IP address is anonymous.                                                             |
 | **is_anycast**         | `false`                          | BOOLEAN   | dicates whether the IP address is an internet service hosting IP address                                   |
 | **is_hosting**         | `false`                          | BOOLEAN   | Indicates whether the IP address is an hosting/cloud/data center IP address                                |
 | **is_mobile**          | `false`                          | BOOLEAN   | Indicates whether the IP address belongs to a mobile network                                               |

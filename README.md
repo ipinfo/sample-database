@@ -441,7 +441,7 @@ You can find the schema, database sample, and other information in the **[IPinfo
 | as_name        | Windstream Communications LLC | Organization domain name of the ASN                                         |
 | as_domain      | windstream.com                | Name of the ASN organization                                                |
 | as_type        | isp                           | ASN Type: ISP, Hosting, Education, Government or Business                   |
-| is_anon        | false                         | Indicates whether the IP address is anonymous.                              |
+| is_anonymous        | false                         | Indicates whether the IP address is anonymous.                              |
 | is_anycast     | false                         | dicates whether the IP address is an internet service hosting IP address    |
 | is_hosting     | false                         | Indicates whether the IP address is an hosting/cloud/data center IP address |
 | is_mobile      | false                         | Indicates whether the IP address belongs to a mobile network                |
@@ -487,7 +487,7 @@ You can find the schema, database sample, and other information in the **[IPinfo
 | geo_changed        | 2024-11-10                     | Date when the IP address's location last changed: Date in YYYY-MM-DD format, ISO-8601                      |
 | as_stability       | 1.0                            | The stability/change of ASN data for the IP address within a recent period of time. 1.0 means very stable. |
 | geo_stability      | 1.0                            | The stability/change of locaion for the IP address within a recent period of time. 1.0 means very stable.  |
-| is_anon            | false                          | Indicates whether the IP address is anonymous.                                                             |
+| is_anonymous            | false                          | Indicates whether the IP address is anonymous.                                                             |
 | is_anycast         | false                          | dicates whether the IP address is an internet service hosting IP address                                   |
 | is_hosting         | false                          | Indicates whether the IP address is an hosting/cloud/data center IP address                                |
 | is_mobile          | false                          | Indicates whether the IP address belongs to a mobile network                                               |
