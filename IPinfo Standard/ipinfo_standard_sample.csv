@@ -1,101 +1,101 @@
-network,city,region,region_code,country,country_code,continent,continent_code,latitude,longitude,timezone,postal_code,asn,as_name,as_domain,as_type,is_anon,is_anycast,is_hosting,is_mobile,is_satellite
-90.218.39.232/29,Sunderland,England,ENG,United Kingdom,GB,Europe,EU,54.90465,-1.38222,Europe/London,SR1,AS5607,Sky UK Limited,sky.com,isp,false,false,false,false,false
-213.139.194.59,Lelystad,Flevoland,FL,Netherlands,NL,Europe,EU,52.50833,5.475,Europe/Amsterdam,8224,AS202656,XServer Europe,xserver.cloud,hosting,false,false,true,false,false
-203.173.160.218/31,Auckland,Auckland,AUK,New Zealand,NZ,Oceania,OC,-36.84853,174.76349,Pacific/Auckland,1010,AS9500,One New Zealand Group Limited,one.nz,isp,false,false,false,false,false
-72.129.3.28/31,Calabasas,California,CA,United States,US,North America,NA,34.2583,-118.5914,America/Los_Angeles,91311,AS20001,Charter Communications Inc,charter.com,isp,false,false,false,false,false
-223.138.133.96/29,Taichung,Taiwan,04,Taiwan,TW,Asia,AS,24.1469,120.6839,Asia/Taipei,,AS17421,Mobile Business Group,twnic.net.tw,business,false,false,false,true,false
-69.34.148.156/30,Coronaca,South Carolina,SC,United States,US,North America,NA,34.25985,-82.09429,America/New_York,29649,AS209,"CenturyLink Communications, LLC",lumen.com,isp,false,false,false,false,false
-74.75.153.224/27,Brewer,Maine,ME,United States,US,North America,NA,44.79674,-68.76142,America/New_York,04412,AS11351,Charter Communications Inc,charter.com,isp,false,false,false,false,false
-173.160.106.114/31,Minneapolis,Minnesota,MN,United States,US,North America,NA,44.97997,-93.26384,America/Chicago,55401,AS7922,"Comcast Cable Communications, LLC",comcast.com,isp,false,false,false,false,false
-2409:4043:2585:9a00::/56,Chirmiri,Chhattisgarh,CT,India,IN,Asia,AS,23.19073,82.35314,Asia/Kolkata,497446,AS55836,Reliance Jio Infocomm Limited,jio.com,isp,false,false,false,false,false
-102.214.129.64/27,Nouakchott,,,Mauritania,MR,Africa,AF,18.08581,-15.9785,Africa/Nouakchott,,AS328997,RIMATEL-SA,rimatel.mr,isp,false,false,false,false,false
-126.159.214.156/30,Nagoya,Aichi,23,Japan,JP,Asia,AS,35.18147,136.90641,Asia/Tokyo,460-0002,AS17676,SoftBank Corp.,softbank.jp,isp,false,false,false,true,false
-64.241.164.224/27,Sunnyvale,California,CA,United States,US,North America,NA,37.36883,-122.03635,America/Los_Angeles,94088,AS3561,"CenturyLink Communications, LLC",lumen.com,isp,false,false,false,false,false
-50.248.161.42/31,Flemington,New Jersey,NJ,United States,US,North America,NA,40.51233,-74.85933,America/New_York,08822,AS7922,"Comcast Cable Communications, LLC",comcast.com,isp,false,false,false,false,false
-86.132.184.248/30,Alsager,England,ENG,United Kingdom,GB,Europe,EU,53.09617,-2.30649,Europe/London,ST7,AS2856,British Telecommunications PLC,bt.com,isp,false,false,false,false,false
-2a07:a880:3101:1011:2d3::/80,Amsterdam,North Holland,NH,Netherlands,NL,Europe,EU,52.4032,4.7585,Europe/Amsterdam,1047,AS42675,Obehosting AB,obe.net,hosting,false,false,true,false,false
-217.171.34.194,Milan,Lombardy,25,Italy,IT,Europe,EU,45.46427,9.18951,Europe/Rome,20121,AS20836,CDLAN SpA,cdlan.it,hosting,true,false,true,false,false
-126.146.3.128/30,Osaka,Osaka,27,Japan,JP,Asia,AS,34.69379,135.50107,Asia/Tokyo,543-0062,AS17676,SoftBank Corp.,softbank.jp,isp,false,false,false,true,false
-121.2.94.192/29,Iwaki,Fukushima,07,Japan,JP,Asia,AS,37.05,140.88333,Asia/Tokyo,970-8001,AS2527,Sony Network Communications Inc.,sonynetwork.co.jp,isp,false,false,false,false,false
-240e:390:2a8d:a900::/56,Shanghai,Shanghai,SH,China,CN,Asia,AS,31.22222,121.45806,Asia/Shanghai,200000,AS4134,CHINANET-BACKBONE,chinatelecom.com.cn,isp,false,false,false,false,false
-114.245.170.242,Beijing,Beijing,BJ,China,CN,Asia,AS,39.9075,116.39723,Asia/Shanghai,100000,AS4808,China Unicom Beijing Province Network,chinaunicom.cn,isp,true,false,false,false,false
-2600:1017:1001:f900::/56,Clarkson,New York,NY,United States,US,North America,NA,43.23312,-77.92751,America/New_York,14430,AS22394,Verizon Business,verizonbusiness.com,isp,false,false,false,true,false
-65.125.225.184,Monroe,Louisiana,LA,United States,US,North America,NA,32.553,-92.0422,America/Chicago,71203,AS209,"CenturyLink Communications, LLC",lumen.com,isp,false,false,false,false,false
-61.196.95.221,Tokyo,Tokyo,13,Japan,JP,Asia,AS,35.6895,139.69171,Asia/Tokyo,101-8656,AS4725,SoftBank Corp.,softbank.jp,isp,false,false,false,false,false
-82.140.252.212/30,Tver,Tver Oblast,TVE,Russia,RU,Europe,EU,56.85836,35.90057,Europe/Moscow,170000,AS12389,PJSC Rostelecom,rt.ru,isp,false,false,false,false,false
-2409:40c0:22:ac00::/55,Mumbai,Maharashtra,MH,India,IN,Asia,AS,19.07283,72.88261,Asia/Kolkata,400017,AS55836,Reliance Jio Infocomm Limited,jio.com,isp,false,false,false,true,false
-176.84.5.5,Cornellà de Llobregat,Catalonia,CT,Spain,ES,Europe,EU,41.35,2.08333,Europe/Madrid,08940,AS3352,TELEFONICA DE ESPANA S.A.U.,movistar.es,isp,false,false,false,false,false
-217.235.130.214,Lohmar,North Rhine-Westphalia,NW,Germany,DE,Europe,EU,50.83868,7.21399,Europe/Berlin,53797,AS3320,Deutsche Telekom AG,telekom.de,isp,false,false,false,false,false
-121.169.174.32/28,Seoul,Seoul,11,South Korea,KR,Asia,AS,37.566,126.9784,Asia/Seoul,03141,AS4766,Korea Telecom,kt.com,isp,false,false,false,false,false
-118.47.236.48/28,Gwanin,Gyeonggi-do,41,South Korea,KR,Asia,AS,38.15921,127.24935,Asia/Seoul,11101,AS4766,Korea Telecom,kt.com,isp,false,false,false,false,false
-80.76.184.192/28,Orël,Oryol oblast,ORL,Russia,RU,Europe,EU,52.95932,36.07805,Europe/Moscow,302000,AS34629,"""Resurs-Svyaz"" Ltd",orn.ru,isp,false,false,false,false,false
-2a07:a880:4601:1288:7ab0::/77,Stockholm,Stockholm,AB,Sweden,SE,Europe,EU,59.32938,18.06871,Europe/Stockholm,195 87,AS42675,Obehosting AB,obe.net,hosting,false,false,true,false,false
-178.72.246.244/31,Bílovec,Moravskoslezský,80,Czechia,CZ,Europe,EU,49.75639,18.01581,Europe/Prague,743 01,AS41046,"O2 Czech Republic, a.s.",o2.cz,isp,false,false,false,false,false
-2a07:a880:4603:1068:5ec6:ed53:20d8:8800/117,Göteborg,Västra Götaland,O,Sweden,SE,Europe,EU,57.70716,11.96679,Europe/Stockholm,400 10,AS42675,Obehosting AB,obe.net,hosting,false,false,true,false,false
-2a07:a880:4601:10e1:6bab:f000::/87,Stockholm,Stockholm,AB,Sweden,SE,Europe,EU,59.32938,18.06871,Europe/Stockholm,195 87,AS42675,Obehosting AB,obe.net,hosting,false,false,true,false,false
-2001:448a:4087:48e8::/61,Pekalongan,Central Java,JT,Indonesia,ID,Asia,AS,-6.8886,109.6753,Asia/Jakarta,,AS7713,PT Telekomunikasi Indonesia,telin.net,isp,false,false,false,false,false
-24.156.160.192/27,Richmond Hill,Ontario,ON,Canada,CA,North America,NA,43.87111,-79.43725,America/Toronto,L4C,AS54614,CIK Telecom INC,ciktel.com,isp,false,false,false,false,false
-2a07:a880:4601:1202:8caf:5eac:9000:0/100,Stockholm,Stockholm,AB,Sweden,SE,Europe,EU,59.32938,18.06871,Europe/Stockholm,195 87,AS42675,Obehosting AB,obe.net,hosting,false,false,true,false,false
-2001:ac8:9a:60:1018:ab52::/96,Dallas,Texas,TX,United States,US,North America,NA,32.78306,-96.80667,America/Chicago,75201,AS9009,M247 Europe SRL,m247.com,hosting,false,false,true,false,false
-2001:8f8:1d3c:eb00::/56,Abu Dhabi,Abu Dhabi,AZ,United Arab Emirates,AE,Asia,AS,24.45118,54.39696,Asia/Dubai,,AS8966,EMIRATES TELECOMMUNICATIONS GROUP COMPANY (ETISALAT GROUP) PJSC,etisalat.ae,isp,false,false,false,true,false
-81.132.27.208/28,London,England,ENG,United Kingdom,GB,Europe,EU,51.50853,-0.12574,Europe/London,E1W,AS2856,British Telecommunications PLC,bt.com,isp,false,false,false,false,false
-186.224.130.0/30,Pedreira,São Paulo,SP,Brazil,BR,South America,SA,-22.74194,-46.90139,America/Sao_Paulo,13920-000,AS28580,Cilnet Comunicação e Informática S.A.,fasternet.com.br,isp,false,false,false,false,false
-2804:3f4:110:9000::/52,São Paulo,São Paulo,SP,Brazil,BR,South America,SA,-23.5475,-46.63611,America/Sao_Paulo,01000-000,AS262407,RAPIDANET TELECOM LTDA,rapidanet.com,isp,false,false,false,false,false
-34.175.8.170,Madrid,Madrid,MD,Spain,ES,Europe,EU,40.4165,-3.70256,Europe/Madrid,28004,AS396982,Google LLC,google.com,hosting,true,false,true,false,false
-64.178.214.0/23,San Juan,San Juan,127,Puerto Rico,PR,North America,NA,18.4663,-66.1057,America/Puerto_Rico,00926,AS14920,Evertec,evertecinc.com,business,false,false,false,false,false
-111.241.18.24/31,Taoyuan City,Taiwan,04,Taiwan,TW,Asia,AS,24.99368,121.29696,Asia/Taipei,,AS3462,Data Communication Business Group,hinet.net,isp,false,false,false,false,false
-95.131.123.102,Frankfurt am Main,Hesse,HE,Germany,DE,Europe,EU,50.11552,8.68417,Europe/Berlin,60306,AS49024,TechniData TCC Products GmbH,tcc-products.de,hosting,false,false,true,false,false
-73.89.149.188/30,Merrimack,New Hampshire,NH,United States,US,North America,NA,42.86509,-71.4934,America/New_York,03054,AS7922,"Comcast Cable Communications, LLC",comcast.com,isp,false,false,false,false,false
-2408:8256:347b:be1e::/63,Shanghai,Shanghai,SH,China,CN,Asia,AS,31.22222,121.45806,Asia/Shanghai,200000,AS17816,China Unicom IP network China169 Guangdong province,chinaunicom.cn,isp,false,false,false,false,false
-77.73.132.80/29,Amsterdam,North Holland,NH,Netherlands,NL,Europe,EU,52.37403,4.88969,Europe/Amsterdam,1012,AS9123,TimeWeb Ltd.,timeweb.ru,hosting,false,false,true,false,false
-180.28.59.235,Hatsudai,Tokyo,13,Japan,JP,Asia,AS,35.67729,139.68588,Asia/Tokyo,151-0061,AS4713,NTT Communications Corporation,ntt.com,isp,false,false,false,false,false
-183.221.154.3,Chengdu,Sichuan,SC,China,CN,Asia,AS,30.66667,104.06667,Asia/Shanghai,610000,AS9808,"China Mobile Communications Group Co., Ltd.",10086.cn,isp,false,false,false,false,false
-2a01:e0a:92:1121::/64,Bordeaux,Nouvelle-Aquitaine,NAQ,France,FR,Europe,EU,44.84044,-0.5805,Europe/Paris,33000,AS12322,Free SAS,free.fr,isp,false,false,false,false,false
-72.140.185.53,Etobicoke,Ontario,ON,Canada,CA,North America,NA,43.64415,-79.56985,America/Toronto,M9C,AS812,Rogers Communications Canada Inc.,rogers.com,isp,false,false,false,true,false
-2001:e60:a01c:7a00::/56,Gwangju,Gwangju,29,South Korea,KR,Asia,AS,35.15472,126.91556,Asia/Seoul,61240,AS3559,Korea Telecom,kt.com,isp,false,false,false,true,false
-95.150.115.56/30,Sheffield,England,ENG,United Kingdom,GB,Europe,EU,53.38297,-1.4659,Europe/London,S1,AS12576,EE Limited,ee.co.uk,isp,false,false,false,false,false
-159.0.38.112/28,Jeddah,Mecca Region,02,Saudi Arabia,SA,Asia,AS,21.49012,39.18624,Asia/Riyadh,,AS25019,Saudi Telecom Company JSC,stc.com.sa,isp,false,false,false,false,false
-65.130.61.84/31,South Jordan,Utah,UT,United States,US,North America,NA,40.56217,-111.92966,America/Denver,84009,AS209,"CenturyLink Communications, LLC",lumen.com,isp,false,false,false,false,false
-2a07:a880:4601:1171:4211:f2c0::/91,Södertälje,Stockholm,AB,Sweden,SE,Europe,EU,59.19554,17.62525,Europe/Stockholm,151 00,AS42675,Obehosting AB,obe.net,hosting,false,false,true,false,false
-182.116.248.201,Shanghai,Shanghai,SH,China,CN,Asia,AS,31.22222,121.45806,Asia/Shanghai,200000,AS4837,CHINA UNICOM China169 Backbone,chinaunicom.cn,isp,false,false,false,false,false
-2400:406b:c46::/47,Nagano,Nagano,20,Japan,JP,Asia,AS,36.65,138.18333,Asia/Tokyo,399-5503,AS4713,NTT Communications Corporation,ntt.com,isp,false,false,false,false,false
-2a02:121f:3b9e:800::/53,Zürich,Zurich,ZH,Switzerland,CH,Europe,EU,47.36667,8.55,Europe/Zurich,8000,AS3303,Swisscom (Schweiz) AG,swisscom.ch,isp,false,false,false,false,false
-153.197.231.36/30,Matsuyama,Ehime,38,Japan,JP,Asia,AS,33.83916,132.76574,Asia/Tokyo,790-0005,AS4713,NTT Communications Corporation,ntt.com,isp,false,false,false,false,false
-2409:4081:139e:9400::/56,Nagpur,Maharashtra,MH,India,IN,Asia,AS,21.14631,79.08491,Asia/Kolkata,440003,AS55836,Reliance Jio Infocomm Limited,jio.com,isp,false,false,false,false,false
-70.49.110.71,Brampton,Ontario,ON,Canada,CA,North America,NA,43.68341,-79.76633,America/Toronto,L6V,AS577,Bell Canada,bell.ca,isp,false,false,false,false,false
-2a09:bac1:6a20:100::/56,San Francisco,California,CA,United States,US,North America,NA,37.7621,-122.3971,America/Los_Angeles,94107,AS13335,"Cloudflare, Inc.",cloudflare.com,hosting,false,false,true,false,false
-2001:16a2:c141:a500::/56,Sulţānah,Medina Region,03,Saudi Arabia,SA,Asia,AS,24.49258,39.58572,Asia/Riyadh,,AS39891,Saudi Telecom Company JSC,stc.com.sa,isp,false,false,true,false,false
-104.28.49.54,Scottsdale,Arizona,AZ,United States,US,North America,NA,33.50921,-111.89903,America/Phoenix,85261,AS13335,"Cloudflare, Inc.",cloudflare.com,hosting,true,false,true,false,false
-2001:1900:2100:31::2f65,Denver,Colorado,CO,United States,US,North America,NA,39.73915,-104.9847,America/Denver,80203,AS3356,"Level 3 Parent, LLC",lumen.com,isp,false,false,false,false,false
-2a02:c7c:824b:9404::/62,Hereford,England,ENG,United Kingdom,GB,Europe,EU,52.05684,-2.71482,Europe/London,HR1,AS5607,Sky UK Limited,sky.com,isp,false,false,false,false,false
-62.245.213.12/30,Munich,Bavaria,BY,Germany,DE,Europe,EU,48.13743,11.57549,Europe/Berlin,80097,AS8767,M-net Telekommunikations GmbH,m-net.de,isp,false,false,false,false,false
-2001:b400:e3a3:3600::/55,Taoyuan City,Taiwan,04,Taiwan,TW,Asia,AS,24.99368,121.29696,Asia/Taipei,,AS17421,Mobile Business Group,twnic.net.tw,business,false,false,false,false,false
-87.244.148.128/26,Kremenchuk,Poltava,53,Ukraine,UA,Europe,EU,49.06253,33.40484,Europe/Kyiv,39600,AS21310,Satellite Ltd,satel.net.ua,isp,false,false,false,false,false
-2402:3a80:1337:6800::/56,Coimbatore,Tamil Nadu,TN,India,IN,Asia,AS,11.00555,76.96612,Asia/Kolkata,641001,AS38266,Vodafone Idea Ltd,vodafoneidea.com,isp,false,false,false,true,false
-109.52.16.118/31,Naples,Campania,72,Italy,IT,Europe,EU,40.85216,14.26811,Europe/Rome,80100,AS16232,Telecom Italia S.p.A.,telecomitalia.com,isp,false,false,false,true,false
-43.154.47.128/26,Hong Kong,,,Hong Kong,HK,Asia,AS,22.27832,114.17469,Asia/Hong_Kong,999077,AS132203,"Tencent Building, Kejizhongyi Avenue",tencent.com,hosting,false,false,true,false,false
-58.160.171.0/24,Perth,Western Australia,WA,Australia,AU,Oceania,OC,-31.95224,115.8614,Australia/Perth,6000,AS1221,Telstra Limited,telstra.com.au,isp,false,false,false,false,false
-2001:16a2:f45d:9000::/53,Jeddah,Mecca Region,02,Saudi Arabia,SA,Asia,AS,21.49012,39.18624,Asia/Riyadh,,AS25019,Saudi Telecom Company JSC,stc.com.sa,isp,false,false,true,false,false
-2804:4f34:1410:a080::/57,Osasco,São Paulo,SP,Brazil,BR,South America,SA,-23.5325,-46.79167,America/Sao_Paulo,06000-000,AS268311,Dconnect Telecom,dconnect.com.br,isp,false,false,false,false,false
-199.96.148.51,Chicago,Illinois,IL,United States,US,North America,NA,41.85003,-87.65005,America/Chicago,60666,AS54015,Chicago International Produce Market Condominium association,xevcom.com,business,false,false,false,false,false
-2003:d9:474a:8000::/52,Burkardroth,Bavaria,BY,Germany,DE,Europe,EU,50.27125,9.99162,Europe/Berlin,97705,AS3320,Deutsche Telekom AG,telekom.de,isp,false,false,false,false,false
-64.75.222.32/27,Honolulu,Hawaii,HI,United States,US,North America,NA,21.30694,-157.85833,Pacific/Honolulu,96802,AS36149,"Hawaiian Telcom Services Company, Inc.",hawaiiantel.com,isp,false,false,false,false,false
-2409:4089:a08e:4200::/56,Shohratgarh,Uttar Pradesh,UP,India,IN,Asia,AS,27.40187,82.95962,Asia/Kolkata,272129,AS55836,Reliance Jio Infocomm Limited,jio.com,isp,false,false,false,false,false
-2804:6048:8000:d00::/56,Paulista,Pernambuco,PE,Brazil,BR,South America,SA,-7.94083,-34.87306,America/Recife,53400-000,AS269157,JOSE R G DA SILVA,netkom.com.br,isp,false,false,false,false,false
-199.38.189.2/31,Lockhart,Texas,TX,United States,US,North America,NA,29.88494,-97.67,America/Chicago,78644,AS54006,VTX Communications LLC,vtx1.net,isp,false,false,false,false,false
-2a00:1fa1:c623:8a0::/59,Kazan,Tatarstan Republic,TA,Russia,RU,Europe,EU,55.78874,49.12214,Europe/Moscow,422525,AS8359,MTS PJSC,mts.ru,isp,false,false,false,true,false
-74.86.155.128/25,Dallas,Texas,TX,United States,US,North America,NA,32.78306,-96.80667,America/Chicago,75201,AS36351,SoftLayer Technologies Inc.,softlayer.com,hosting,false,false,true,false,false
-115.204.236.67,Shanghai,Shanghai,SH,China,CN,Asia,AS,31.22222,121.45806,Asia/Shanghai,200000,AS4134,CHINANET-BACKBONE,chinatelecom.com.cn,isp,false,false,false,false,false
-49.179.190.0/26,Coffs Harbour,New South Wales,NSW,Australia,AU,Oceania,OC,-30.29626,153.11351,Australia/Sydney,2450,AS4804,Microplex PTY LTD,optus.com.au,isp,false,false,false,false,false
-173.86.11.64/28,Wilkes-Barre,Pennsylvania,PA,United States,US,North America,NA,41.24591,-75.88131,America/New_York,18701,AS5650,"Frontier Communications of America, Inc.",frontier.com,isp,false,false,false,false,false
-2a07:a880:4601:1111:b7d0::/76,Södertälje,Stockholm,AB,Sweden,SE,Europe,EU,59.19554,17.62525,Europe/Stockholm,151 00,AS42675,Obehosting AB,obe.net,hosting,false,false,true,false,false
-189.47.75.216/31,Valinhos,São Paulo,SP,Brazil,BR,South America,SA,-22.97056,-46.99583,America/Sao_Paulo,13270-000,AS27699,TELEFÔNICA BRASIL S.A,telefonica.com.br,isp,false,false,false,false,false
-42.58.164.84,Shanghai,Shanghai,SH,China,CN,Asia,AS,31.22222,121.45806,Asia/Shanghai,200000,AS4837,CHINA UNICOM China169 Backbone,chinaunicom.cn,isp,true,false,false,false,false
-74.56.12.248/29,Repentigny,Quebec,QC,Canada,CA,North America,NA,45.74222,-73.45008,America/Toronto,J6A,AS5769,Videotron Ltee,videotron.com,isp,false,false,false,false,false
-184.161.183.20/31,Blainville,Quebec,QC,Canada,CA,North America,NA,45.66678,-73.88249,America/Toronto,J7C,AS5769,Videotron Ltee,videotron.com,isp,false,false,false,false,false
-49.186.36.116,Dungog,New South Wales,NSW,Australia,AU,Oceania,OC,-32.40431,151.75192,Australia/Sydney,2420,AS4804,Microplex PTY LTD,optus.com.au,isp,false,false,false,false,false
-1.52.193.201,Hanoi,Hanoi,HN,Vietnam,VN,Asia,AS,21.0245,105.84117,Asia/Bangkok,10000,AS18403,FPT Telecom Company,fpt.vn,isp,true,false,false,false,false
-72.53.226.40,Toronto,Ontario,ON,Canada,CA,North America,NA,43.70643,-79.39864,America/Toronto,M5A,AS395965,Carrytel,carrytel.ca,isp,false,false,false,false,false
-27.36.253.71,Shanghai,Shanghai,SH,China,CN,Asia,AS,31.22222,121.45806,Asia/Shanghai,200000,AS17816,China Unicom IP network China169 Guangdong province,chinaunicom.cn,isp,true,false,false,false,false
-2001:16a2:42dc:9800::/55,Tabuk,Tabuk Region,07,Saudi Arabia,SA,Asia,AS,28.3998,36.57151,Asia/Riyadh,,AS25019,Saudi Telecom Company JSC,stc.com.sa,isp,false,false,true,false,false
-61.168.178.164/31,Shanghai,Shanghai,SH,China,CN,Asia,AS,31.22222,121.45806,Asia/Shanghai,200000,AS4837,CHINA UNICOM China169 Backbone,chinaunicom.cn,isp,false,false,false,false,false
+network,city,region,region_code,country,country_code,continent,continent_code,latitude,longitude,timezone,postal_code,asn,as_name,as_domain,as_type,is_anonymous,is_anycast,is_hosting,is_mobile,is_satellite
+1.179.247.56/30,Bangkok,Bangkok,10,Thailand,TH,Asia,AS,13.75398,100.50144,Asia/Bangkok,10200,AS134166,Internet Data Center Service,tot.co.th,isp,false,false,false,false,false
+1.115.89.81,Kawasaki,Kanagawa,14,Japan,JP,Asia,AS,35.52056,139.71722,Asia/Tokyo,205-0021,AS17676,SoftBank Corp.,softbank.jp,isp,false,false,false,true,false
+1.0.242.193,Nakhon Si Thammarat,Nakhon Si Thammarat,80,Thailand,TH,Asia,AS,8.43333,99.96667,Asia/Bangkok,80140,AS23969,TOT Public Company Limited,ntplc.co.th,isp,false,false,false,false,false
+1.112.79.112/30,Yokohama,Kanagawa,14,Japan,JP,Asia,AS,35.43333,139.65,Asia/Tokyo,220-8588,AS17676,SoftBank Corp.,softbank.jp,isp,false,false,false,true,false
+1.112.98.88/29,Gifu,Gifu,21,Japan,JP,Asia,AS,35.42291,136.76039,Asia/Tokyo,500-8043,AS17676,SoftBank Corp.,softbank.jp,isp,false,false,false,true,false
+1.0.145.222/31,Nakhon Si Thammarat,Nakhon Si Thammarat,80,Thailand,TH,Asia,AS,8.43333,99.96667,Asia/Bangkok,80140,AS23969,TOT Public Company Limited,ntplc.co.th,isp,false,false,false,false,false
+1.0.225.176/29,Phra Yuen,Khon Kaen,40,Thailand,TH,Asia,AS,16.3293,102.65182,Asia/Bangkok,40320,AS23969,TOT Public Company Limited,ntplc.co.th,isp,false,false,false,false,false
+1.194.210.30/31,Zhengzhou,Henan,HA,China,CN,Asia,AS,34.75778,113.64861,Asia/Shanghai,450000,AS139587,China Telecom Henan Zhengzhou Shujugang IDC network,chinatelecom.cn,isp,false,false,false,false,false
+1.140.69.176/28,Melbourne,Victoria,VIC,Australia,AU,Oceania,OC,-37.814,144.96332,Australia/Melbourne,3000,AS1221,Telstra Limited,telstra.com.au,isp,false,false,false,false,false
+1.157.134.128/26,Sydney,New South Wales,NSW,Australia,AU,Oceania,OC,-33.86785,151.20732,Australia/Sydney,1001,AS1221,Telstra Limited,telstra.com.au,isp,false,false,false,false,false
+1.156.242.0/26,Brisbane,Queensland,QLD,Australia,AU,Oceania,OC,-27.46794,153.02809,Australia/Brisbane,4000,AS1221,Telstra Limited,telstra.com.au,isp,false,false,false,false,false
+1.0.97.45,Kurayoshi,Tottori,31,Japan,JP,Asia,AS,35.43333,133.81667,Asia/Tokyo,682-0401,AS18144,"Enecom,Inc.",enecom.co.jp,business,false,false,false,false,false
+1.112.227.36/31,Osaka,Osaka,27,Japan,JP,Asia,AS,34.69379,135.50107,Asia/Tokyo,543-0062,AS17676,SoftBank Corp.,softbank.jp,isp,false,false,false,true,false
+1.1.227.64/28,Mueang Yang,Nakhon Ratchasima,30,Thailand,TH,Asia,AS,15.4206,102.89282,Asia/Bangkok,31120,AS23969,TOT Public Company Limited,ntplc.co.th,isp,false,false,false,false,false
+1.141.243.0/26,Sydney,New South Wales,NSW,Australia,AU,Oceania,OC,-33.86785,151.20732,Australia/Sydney,1001,AS1221,Telstra Limited,telstra.com.au,isp,false,false,false,false,false
+1.112.185.248/31,Kobe,Hyōgo,28,Japan,JP,Asia,AS,34.6913,135.183,Asia/Tokyo,761-4146,AS17676,SoftBank Corp.,softbank.jp,isp,false,false,false,true,false
+1.113.60.32/31,Sayama,Kyoto,26,Japan,JP,Asia,AS,34.87532,135.75021,Asia/Tokyo,613-0034,AS17676,SoftBank Corp.,softbank.jp,isp,false,false,false,true,false
+1.112.126.149,Amagasaki,Hyōgo,28,Japan,JP,Asia,AS,34.71667,135.41667,Asia/Tokyo,660-0823,AS17676,SoftBank Corp.,softbank.jp,isp,false,false,false,true,false
+1.0.246.111,Nakhon Si Thammarat,Nakhon Si Thammarat,80,Thailand,TH,Asia,AS,8.43333,99.96667,Asia/Bangkok,80140,AS23969,TOT Public Company Limited,ntplc.co.th,isp,false,false,false,false,false
+1.0.101.244/30,Tottori-shi,Tottori,31,Japan,JP,Asia,AS,35.5,134.23333,Asia/Tokyo,680-0013,AS18144,"Enecom,Inc.",enecom.co.jp,business,false,false,false,false,false
+1.115.188.120/29,Tokyo,Tokyo,13,Japan,JP,Asia,AS,35.6895,139.69171,Asia/Tokyo,101-8656,AS17676,SoftBank Corp.,softbank.jp,isp,false,false,false,true,false
+1.176.202.0/25,Seoul,Seoul,11,South Korea,KR,Asia,AS,37.566,126.9784,Asia/Seoul,03141,AS10066,LG HelloVision Corp.,lghellovision.net,isp,false,false,false,false,false
+1.0.243.151,Nakhon Si Thammarat,Nakhon Si Thammarat,80,Thailand,TH,Asia,AS,8.43333,99.96667,Asia/Bangkok,80140,AS23969,TOT Public Company Limited,ntplc.co.th,isp,false,false,false,false,false
+1.158.212.136/29,Adelaide,South Australia,SA,Australia,AU,Oceania,OC,-34.92866,138.59863,Australia/Adelaide,5000,AS1221,Telstra Limited,telstra.com.au,isp,false,false,false,false,false
+1.158.218.0/24,Adelaide,South Australia,SA,Australia,AU,Oceania,OC,-34.92866,138.59863,Australia/Adelaide,5000,AS1221,Telstra Limited,telstra.com.au,isp,false,false,false,false,false
+1.0.146.198,Nakhon Si Thammarat,Nakhon Si Thammarat,80,Thailand,TH,Asia,AS,8.43333,99.96667,Asia/Bangkok,80140,AS23969,TOT Public Company Limited,ntplc.co.th,isp,false,false,false,false,false
+1.179.240.154/31,Bangkok,Bangkok,10,Thailand,TH,Asia,AS,13.75398,100.50144,Asia/Bangkok,10200,AS23969,TOT Public Company Limited,ntplc.co.th,isp,false,false,false,false,false
+1.192.203.6/31,Zhengzhou,Henan,HA,China,CN,Asia,AS,34.75778,113.64861,Asia/Shanghai,450000,AS137687,"Luoyang, Henan Province, P.R.China.",chinatelecom.cn,isp,false,false,false,false,false
+1.122.35.176/29,Quinns Rocks,Western Australia,WA,Australia,AU,Oceania,OC,-31.67379,115.70372,Australia/Perth,6030,AS1221,Telstra Limited,telstra.com.au,isp,false,false,false,false,false
+1.112.228.136/30,Osaka,Osaka,27,Japan,JP,Asia,AS,34.69379,135.50107,Asia/Tokyo,543-0062,AS17676,SoftBank Corp.,softbank.jp,isp,false,false,false,true,false
+1.121.126.112/28,Adelaide,South Australia,SA,Australia,AU,Oceania,OC,-34.92866,138.59863,Australia/Adelaide,5000,AS1221,Telstra Limited,telstra.com.au,isp,false,false,false,false,false
+1.122.144.222/31,Gold Coast,Queensland,QLD,Australia,AU,Oceania,OC,-28.00029,153.43088,Australia/Brisbane,4217,AS1221,Telstra Limited,telstra.com.au,isp,false,false,false,false,false
+1.115.40.118,Tokyo,Tokyo,13,Japan,JP,Asia,AS,35.6895,139.69171,Asia/Tokyo,101-8656,AS17676,SoftBank Corp.,softbank.jp,isp,false,false,false,true,false
+1.1.225.88/29,Nakhon Ratchasima,Nakhon Ratchasima,30,Thailand,TH,Asia,AS,14.97066,102.10196,Asia/Bangkok,30280,AS23969,TOT Public Company Limited,ntplc.co.th,isp,false,false,false,false,false
+1.156.183.0/24,Brisbane,Queensland,QLD,Australia,AU,Oceania,OC,-27.46794,153.02809,Australia/Brisbane,4000,AS1221,Telstra Limited,telstra.com.au,isp,false,false,false,false,false
+1.0.128.86/31,Chiang Rai,Chiang Rai,57,Thailand,TH,Asia,AS,19.90858,99.8325,Asia/Bangkok,57000,AS23969,TOT Public Company Limited,ntplc.co.th,isp,false,false,false,false,false
+1.192.202.8/29,Zhengzhou,Henan,HA,China,CN,Asia,AS,34.75778,113.64861,Asia/Shanghai,450000,AS137687,"Luoyang, Henan Province, P.R.China.",chinatelecom.cn,isp,false,false,false,false,false
+1.159.232.138,Perth,Western Australia,WA,Australia,AU,Oceania,OC,-31.95224,115.8614,Australia/Perth,6000,AS1221,Telstra Limited,telstra.com.au,isp,true,false,false,false,false
+1.158.80.208/29,Sydney,New South Wales,NSW,Australia,AU,Oceania,OC,-33.86785,151.20732,Australia/Sydney,1001,AS1221,Telstra Limited,telstra.com.au,isp,false,false,false,false,false
+1.122.43.168/29,Townsville,Queensland,QLD,Australia,AU,Oceania,OC,-19.26639,146.80569,Australia/Brisbane,4810,AS1221,Telstra Limited,telstra.com.au,isp,false,false,false,false,false
+1.113.79.236/30,Kawaguchi,Saitama,11,Japan,JP,Asia,AS,35.80521,139.71072,Asia/Tokyo,332-0015,AS17676,SoftBank Corp.,softbank.jp,isp,false,false,false,true,false
+1.179.217.249,Bangkok,Bangkok,10,Thailand,TH,Asia,AS,13.75398,100.50144,Asia/Bangkok,10200,AS131293,TOT Public Company Limited,tot.co.th,isp,false,false,false,false,false
+1.113.61.8/30,Osaka,Osaka,27,Japan,JP,Asia,AS,34.69379,135.50107,Asia/Tokyo,543-0062,AS17676,SoftBank Corp.,softbank.jp,isp,false,false,false,true,false
+1.176.220.0/25,Yangsan,Gyeongsangnam-do,48,South Korea,KR,Asia,AS,35.34199,129.03358,Asia/Seoul,50593,AS10066,LG HelloVision Corp.,lghellovision.net,isp,false,false,false,false,false
+1.10.232.46,Nakhon Pathom,Nakhon Pathom,73,Thailand,TH,Asia,AS,13.8196,100.04427,Asia/Bangkok,73000,AS23969,TOT Public Company Limited,ntplc.co.th,isp,true,false,false,false,false
+1.122.102.64/27,Townsville,Queensland,QLD,Australia,AU,Oceania,OC,-19.26639,146.80569,Australia/Brisbane,4810,AS1221,Telstra Limited,telstra.com.au,isp,false,false,false,false,false
+1.141.0.0/26,Gold Coast,Queensland,QLD,Australia,AU,Oceania,OC,-28.00029,153.43088,Australia/Brisbane,4217,AS1221,Telstra Limited,telstra.com.au,isp,false,false,false,false,false
+1.112.59.45,Osaka,Osaka,27,Japan,JP,Asia,AS,34.69379,135.50107,Asia/Tokyo,543-0062,AS17676,SoftBank Corp.,softbank.jp,isp,false,false,false,true,false
+1.0.106.232/30,Tottori-shi,Tottori,31,Japan,JP,Asia,AS,35.5,134.23333,Asia/Tokyo,680-0013,AS18144,"Enecom,Inc.",enecom.co.jp,business,false,false,false,false,false
+1.141.100.192/27,Mango Hill,Queensland,QLD,Australia,AU,Oceania,OC,-27.24349,153.02384,Australia/Brisbane,4509,AS1221,Telstra Limited,telstra.com.au,isp,false,false,false,false,false
+1.0.249.240/30,Hat Yai,Songkhla,90,Thailand,TH,Asia,AS,7.00836,100.47668,Asia/Bangkok,90110,AS23969,TOT Public Company Limited,ntplc.co.th,isp,false,false,false,false,false
+1.158.179.128/29,Adelaide,South Australia,SA,Australia,AU,Oceania,OC,-34.92866,138.59863,Australia/Adelaide,5000,AS1221,Telstra Limited,telstra.com.au,isp,false,false,false,false,false
+1.194.236.112,Zhengzhou,Henan,HA,China,CN,Asia,AS,34.75778,113.64861,Asia/Shanghai,450000,AS137687,"Luoyang, Henan Province, P.R.China.",chinatelecom.cn,isp,false,false,false,false,false
+1.157.228.192/27,Sydney,New South Wales,NSW,Australia,AU,Oceania,OC,-33.86785,151.20732,Australia/Sydney,1001,AS1221,Telstra Limited,telstra.com.au,isp,false,false,false,false,false
+1.179.173.184,Bangkok,Bangkok,10,Thailand,TH,Asia,AS,13.75398,100.50144,Asia/Bangkok,10200,AS131293,TOT Public Company Limited,tot.co.th,isp,false,false,false,false,false
+1.122.180.34,Gold Coast,Queensland,QLD,Australia,AU,Oceania,OC,-28.00029,153.43088,Australia/Brisbane,4217,AS1221,Telstra Limited,telstra.com.au,isp,false,false,false,false,false
+1.120.144.0/27,Hobart,Tasmania,TAS,Australia,AU,Oceania,OC,-42.87936,147.32941,Australia/Hobart,7000,AS1221,Telstra Limited,telstra.com.au,isp,false,false,false,false,false
+1.158.216.152/29,Adelaide,South Australia,SA,Australia,AU,Oceania,OC,-34.92866,138.59863,Australia/Adelaide,5000,AS1221,Telstra Limited,telstra.com.au,isp,false,false,false,false,false
+1.0.225.210/31,Phra Yuen,Khon Kaen,40,Thailand,TH,Asia,AS,16.3293,102.65182,Asia/Bangkok,40320,AS23969,TOT Public Company Limited,ntplc.co.th,isp,false,false,false,false,false
+1.1.192.188/31,That Phanom,Nakhon Phanom,48,Thailand,TH,Asia,AS,16.93636,104.71039,Asia/Bangkok,48110,AS23969,TOT Public Company Limited,ntplc.co.th,isp,false,false,false,false,false
+1.0.125.168/29,Shimonoseki,Yamaguchi,35,Japan,JP,Asia,AS,33.95548,130.93713,Asia/Tokyo,750-0000,AS18144,"Enecom,Inc.",enecom.co.jp,business,false,false,false,false,false
+1.113.20.249,Kobe,Hyōgo,28,Japan,JP,Asia,AS,34.6913,135.183,Asia/Tokyo,761-4146,AS17676,SoftBank Corp.,softbank.jp,isp,false,false,false,true,false
+1.122.212.32/28,Perth,Western Australia,WA,Australia,AU,Oceania,OC,-31.95224,115.8614,Australia/Perth,6000,AS1221,Telstra Limited,telstra.com.au,isp,false,false,false,false,false
+1.1.186.196/30,Nong Khai,Nong Khai,43,Thailand,TH,Asia,AS,17.87847,102.742,Asia/Bangkok,43120,AS23969,TOT Public Company Limited,ntplc.co.th,isp,false,false,false,false,false
+1.112.57.210/31,Kōriyama,Fukushima,07,Japan,JP,Asia,AS,37.4,140.38333,Asia/Tokyo,963-8001,AS17676,SoftBank Corp.,softbank.jp,isp,false,false,false,true,false
+1.113.18.66,Kawaguchi,Saitama,11,Japan,JP,Asia,AS,35.80521,139.71072,Asia/Tokyo,332-0015,AS17676,SoftBank Corp.,softbank.jp,isp,false,false,false,true,false
+1.122.46.24/30,Perth,Western Australia,WA,Australia,AU,Oceania,OC,-31.95224,115.8614,Australia/Perth,6000,AS1221,Telstra Limited,telstra.com.au,isp,false,false,false,false,false
+1.158.21.240/28,Sydney,New South Wales,NSW,Australia,AU,Oceania,OC,-33.86785,151.20732,Australia/Sydney,1001,AS1221,Telstra Limited,telstra.com.au,isp,false,false,false,false,false
+1.122.115.96/29,Townsville,Queensland,QLD,Australia,AU,Oceania,OC,-19.26639,146.80569,Australia/Brisbane,4810,AS1221,Telstra Limited,telstra.com.au,isp,false,false,false,false,false
+1.123.236.176/28,Melbourne,Victoria,VIC,Australia,AU,Oceania,OC,-37.814,144.96332,Australia/Melbourne,3000,AS1221,Telstra Limited,telstra.com.au,isp,false,false,false,false,false
+1.1.212.48/29,Dan Sai,Loei,42,Thailand,TH,Asia,AS,17.28011,101.14686,Asia/Bangkok,42120,AS23969,TOT Public Company Limited,ntplc.co.th,isp,false,false,false,false,false
+1.176.183.40/29,Kimhae,Gyeongsangnam-do,48,South Korea,KR,Asia,AS,35.23417,128.88111,Asia/Seoul,50842,AS10066,LG HelloVision Corp.,lghellovision.net,isp,false,false,false,false,false
+1.0.164.79,Nakhon Si Thammarat,Nakhon Si Thammarat,80,Thailand,TH,Asia,AS,8.43333,99.96667,Asia/Bangkok,80140,AS23969,TOT Public Company Limited,ntplc.co.th,isp,true,false,false,false,false
+1.112.60.157,Osaka,Osaka,27,Japan,JP,Asia,AS,34.69379,135.50107,Asia/Tokyo,543-0062,AS17676,SoftBank Corp.,softbank.jp,isp,false,false,false,true,false
+1.10.228.240/29,Nakhon Pathom,Nakhon Pathom,73,Thailand,TH,Asia,AS,13.8196,100.04427,Asia/Bangkok,73000,AS23969,TOT Public Company Limited,ntplc.co.th,isp,false,false,false,false,false
+1.194.239.209,Zhengzhou,Henan,HA,China,CN,Asia,AS,34.75778,113.64861,Asia/Shanghai,450000,AS137687,"Luoyang, Henan Province, P.R.China.",chinatelecom.cn,isp,false,false,false,false,false
+1.1.196.124/30,Nakhon Phanom,Nakhon Phanom,48,Thailand,TH,Asia,AS,17.41081,104.77856,Asia/Bangkok,48000,AS23969,TOT Public Company Limited,ntplc.co.th,isp,false,false,false,false,false
+1.156.131.200/29,Brisbane,Queensland,QLD,Australia,AU,Oceania,OC,-27.46794,153.02809,Australia/Brisbane,4000,AS1221,Telstra Limited,telstra.com.au,isp,false,false,false,false,false
+1.121.211.192/26,Adelaide,South Australia,SA,Australia,AU,Oceania,OC,-34.92866,138.59863,Australia/Adelaide,5000,AS1221,Telstra Limited,telstra.com.au,isp,false,false,false,false,false
+1.1.128.24/30,Loei,Loei,42,Thailand,TH,Asia,AS,17.49052,101.72749,Asia/Bangkok,42000,AS23969,TOT Public Company Limited,ntplc.co.th,isp,false,false,false,false,false
+1.140.20.128/27,Melbourne,Victoria,VIC,Australia,AU,Oceania,OC,-37.814,144.96332,Australia/Melbourne,3000,AS1221,Telstra Limited,telstra.com.au,isp,false,false,false,false,false
+1.1.180.176/28,Bangkok,Bangkok,10,Thailand,TH,Asia,AS,13.75398,100.50144,Asia/Bangkok,10200,AS23969,TOT Public Company Limited,ntplc.co.th,isp,false,false,false,false,false
+1.157.83.160/29,Canberra,Australian Capital Territory,ACT,Australia,AU,Oceania,OC,-35.28346,149.12807,Australia/Sydney,2600,AS1221,Telstra Limited,telstra.com.au,isp,false,false,false,false,false
+1.141.60.0/24,Gold Coast,Queensland,QLD,Australia,AU,Oceania,OC,-28.00029,153.43088,Australia/Brisbane,4217,AS1221,Telstra Limited,telstra.com.au,isp,false,false,false,false,false
+1.0.105.208/29,Yamaguchi,Yamaguchi,35,Japan,JP,Asia,AS,34.18333,131.46667,Asia/Tokyo,800-0336,AS18144,"Enecom,Inc.",enecom.co.jp,business,false,false,false,false,false
+1.112.42.36/30,Kyoto,Kyoto,26,Japan,JP,Asia,AS,35.02107,135.75385,Asia/Tokyo,602-0054,AS17676,SoftBank Corp.,softbank.jp,isp,false,false,false,true,false
+1.0.146.228/31,Phuket,Phuket,83,Thailand,TH,Asia,AS,7.89059,98.3981,Asia/Bangkok,83120,AS23969,TOT Public Company Limited,ntplc.co.th,isp,false,false,false,false,false
+1.10.159.56/30,Bangkok,Bangkok,10,Thailand,TH,Asia,AS,13.75398,100.50144,Asia/Bangkok,10200,AS23969,TOT Public Company Limited,ntplc.co.th,isp,false,false,false,false,false
+1.0.107.0/29,Hiroshima,Hiroshima,34,Japan,JP,Asia,AS,34.4,132.45,Asia/Tokyo,730-0011,AS18144,"Enecom,Inc.",enecom.co.jp,business,false,false,false,false,false
+1.122.145.212/31,Gold Coast,Queensland,QLD,Australia,AU,Oceania,OC,-28.00029,153.43088,Australia/Brisbane,4217,AS1221,Telstra Limited,telstra.com.au,isp,false,false,false,false,false
+1.1.195.37,Na Kae,Nakhon Phanom,48,Thailand,TH,Asia,AS,16.94645,104.50081,Asia/Bangkok,48130,AS23969,TOT Public Company Limited,ntplc.co.th,isp,false,false,false,false,false
+1.1.194.44/30,Nakhon Phanom,Nakhon Phanom,48,Thailand,TH,Asia,AS,17.41081,104.77856,Asia/Bangkok,48000,AS23969,TOT Public Company Limited,ntplc.co.th,isp,false,false,false,false,false
+1.140.102.176/28,Sydney,New South Wales,NSW,Australia,AU,Oceania,OC,-33.86785,151.20732,Australia/Sydney,1001,AS1221,Telstra Limited,telstra.com.au,isp,false,false,false,false,false
+1.121.132.182,Adelaide,South Australia,SA,Australia,AU,Oceania,OC,-34.92866,138.59863,Australia/Adelaide,5000,AS1221,Telstra Limited,telstra.com.au,isp,false,false,false,false,false
+1.179.202.17,Ban Khlong Bang Sao Thong,Samut Prakan,11,Thailand,TH,Asia,AS,13.64172,100.83272,Asia/Bangkok,10560,AS131293,TOT Public Company Limited,tot.co.th,isp,false,false,false,false,false
+1.179.192.176,Bangkok,Bangkok,10,Thailand,TH,Asia,AS,13.75398,100.50144,Asia/Bangkok,10200,AS131293,TOT Public Company Limited,tot.co.th,isp,false,false,false,false,false
+1.112.38.151,Kyoto,Kyoto,26,Japan,JP,Asia,AS,35.02107,135.75385,Asia/Tokyo,602-0054,AS17676,SoftBank Corp.,softbank.jp,isp,false,false,false,true,false
+1.0.237.210/31,Udon Thani,Udon Thani,41,Thailand,TH,Asia,AS,17.41567,102.78589,Asia/Bangkok,41000,AS23969,TOT Public Company Limited,ntplc.co.th,isp,false,false,false,false,false
+1.194.218.128/26,Zhengzhou,Henan,HA,China,CN,Asia,AS,34.75778,113.64861,Asia/Shanghai,450000,AS139587,China Telecom Henan Zhengzhou Shujugang IDC network,chinatelecom.cn,isp,false,false,false,false,false
+1.122.254.232/29,Gold Coast,Queensland,QLD,Australia,AU,Oceania,OC,-28.00029,153.43088,Australia/Brisbane,4217,AS1221,Telstra Limited,telstra.com.au,isp,false,false,false,false,false
