@@ -1,101 +1,101 @@
 network,city,region,region_code,country,country_code,continent,continent_code,latitude,longitude,timezone,postal_code,asn,as_name,as_domain,as_type,is_anonymous,is_anycast,is_hosting,is_mobile,is_satellite
-1.175.84.244/30,Kaohsiung,Takao,KHH,Taiwan,TW,Asia,AS,22.61626,120.31333,Asia/Taipei,,AS3462,Data Communication Business Group,hinet.net,isp,false,false,false,false,false
-1.0.215.42,Lahan Sai,Buriram,31,Thailand,TH,Asia,AS,14.41142,102.85936,Asia/Bangkok,31170,AS23969,TOT Public Company Limited,ntplc.co.th,isp,false,false,false,false,false
-1.10.160.208/30,Na Pho,Buriram,31,Thailand,TH,Asia,AS,15.64113,102.95462,Asia/Bangkok,31230,AS23969,TOT Public Company Limited,ntplc.co.th,isp,false,false,false,false,false
-1.10.166.137,Ko Samui,Surat Thani,84,Thailand,TH,Asia,AS,9.53567,99.93567,Asia/Bangkok,84140,AS23969,TOT Public Company Limited,ntplc.co.th,isp,false,false,false,false,false
-1.179.240.128/27,Bangkok,Bangkok,10,Thailand,TH,Asia,AS,13.75398,100.50144,Asia/Bangkok,10200,AS23969,TOT Public Company Limited,ntplc.co.th,isp,true,false,false,false,false
-1.183.139.112/30,Beijing,Beijing,BJ,China,CN,Asia,AS,39.9075,116.39723,Asia/Shanghai,100000,AS4134,CHINANET-BACKBONE,chinatelecom.com.cn,isp,false,false,false,false,false
-1.156.142.0/27,Brisbane,Queensland,QLD,Australia,AU,Oceania,OC,-27.46794,153.02809,Australia/Brisbane,4000,AS1221,Telstra Limited,telstra.com.au,isp,false,false,false,false,false
-1.0.172.79,Lamae,Chumphon,86,Thailand,TH,Asia,AS,9.76789,99.09256,Asia/Bangkok,86170,AS23969,TOT Public Company Limited,ntplc.co.th,isp,false,false,false,false,false
-1.113.97.0/31,Osaka,Osaka,27,Japan,JP,Asia,AS,34.69379,135.50107,Asia/Tokyo,543-0062,AS17676,SoftBank Corp.,softbank.jp,isp,false,false,false,true,false
-1.1.195.71,Na Kae,Nakhon Phanom,48,Thailand,TH,Asia,AS,16.94645,104.50081,Asia/Bangkok,48130,AS23969,TOT Public Company Limited,ntplc.co.th,isp,false,false,false,false,false
-1.122.230.128/28,Gold Coast,Queensland,QLD,Australia,AU,Oceania,OC,-28.00029,153.43088,Australia/Brisbane,4217,AS1221,Telstra Limited,telstra.com.au,isp,false,false,false,false,false
-1.112.254.128/29,Osaka,Osaka,27,Japan,JP,Asia,AS,34.69379,135.50107,Asia/Tokyo,543-0062,AS17676,SoftBank Corp.,softbank.jp,isp,false,false,false,true,false
-1.0.158.51,Nakhon Si Thammarat,Nakhon Si Thammarat,80,Thailand,TH,Asia,AS,8.43333,99.96667,Asia/Bangkok,80140,AS23969,TOT Public Company Limited,ntplc.co.th,isp,false,false,false,false,false
-1.115.85.128/27,Tokyo,Tokyo,13,Japan,JP,Asia,AS,35.6895,139.69171,Asia/Tokyo,101-8656,AS17676,SoftBank Corp.,softbank.jp,isp,false,false,false,true,false
-1.112.127.144/28,Osaka,Osaka,27,Japan,JP,Asia,AS,34.69379,135.50107,Asia/Tokyo,543-0062,AS17676,SoftBank Corp.,softbank.jp,isp,false,false,false,true,false
-1.0.125.250,Tottori-shi,Tottori,31,Japan,JP,Asia,AS,35.5,134.23333,Asia/Tokyo,680-0013,AS18144,"Enecom,Inc.",enecom.co.jp,business,false,false,false,false,false
-1.157.97.170/31,Canberra,Australian Capital Territory,ACT,Australia,AU,Oceania,OC,-35.28346,149.12807,Australia/Sydney,2600,AS1221,Telstra Limited,telstra.com.au,isp,false,false,false,false,false
-1.157.222.64/27,Sydney,New South Wales,NSW,Australia,AU,Oceania,OC,-33.86785,151.20732,Australia/Sydney,1001,AS1221,Telstra Limited,telstra.com.au,isp,false,false,false,false,false
-1.0.157.23,Nakhon Si Thammarat,Nakhon Si Thammarat,80,Thailand,TH,Asia,AS,8.43333,99.96667,Asia/Bangkok,80140,AS23969,TOT Public Company Limited,ntplc.co.th,isp,false,false,false,false,false
-1.179.208.182/31,Bangkok,Bangkok,10,Thailand,TH,Asia,AS,13.75398,100.50144,Asia/Bangkok,10200,AS131293,TOT Public Company Limited,tot.co.th,isp,false,false,false,false,false
-1.179.164.82/31,Bang Lamung,Chon Buri,20,Thailand,TH,Asia,AS,13.04704,100.92891,Asia/Bangkok,20150,AS131293,TOT Public Company Limited,tot.co.th,isp,false,false,false,false,false
-1.157.15.43,Canberra,Australian Capital Territory,ACT,Australia,AU,Oceania,OC,-35.28346,149.12807,Australia/Sydney,2600,AS1221,Telstra Limited,telstra.com.au,isp,false,false,false,false,false
-1.1.175.112,Nan,Nan,55,Thailand,TH,Asia,AS,18.78378,100.77899,Asia/Bangkok,55000,AS23969,TOT Public Company Limited,ntplc.co.th,isp,false,false,false,false,false
-1.156.157.124,Brisbane,Queensland,QLD,Australia,AU,Oceania,OC,-27.46794,153.02809,Australia/Brisbane,4000,AS1221,Telstra Limited,telstra.com.au,isp,true,false,false,false,false
-1.123.29.87,Brisbane,Queensland,QLD,Australia,AU,Oceania,OC,-27.46794,153.02809,Australia/Brisbane,4000,AS1221,Telstra Limited,telstra.com.au,isp,true,false,false,false,false
-1.179.183.220,Bangkok,Bangkok,10,Thailand,TH,Asia,AS,13.75398,100.50144,Asia/Bangkok,10200,AS131293,TOT Public Company Limited,tot.co.th,isp,false,false,false,false,false
-1.10.179.115,Phra Nakhon Si Ayutthaya,Phra Nakhon Si Ayutthaya,14,Thailand,TH,Asia,AS,14.35167,100.57739,Asia/Bangkok,13000,AS23969,TOT Public Company Limited,ntplc.co.th,isp,true,false,false,false,false
-1.156.229.183,Brisbane,Queensland,QLD,Australia,AU,Oceania,OC,-27.46794,153.02809,Australia/Brisbane,4000,AS1221,Telstra Limited,telstra.com.au,isp,true,false,false,false,false
-1.171.13.182,Hsinchu,Taiwan,04,Taiwan,TW,Asia,AS,24.80361,120.96861,Asia/Taipei,,AS3462,Data Communication Business Group,hinet.net,isp,false,false,false,false,false
-1.10.139.133,Koh Tao,Surat Thani,84,Thailand,TH,Asia,AS,10.09808,99.83809,Asia/Bangkok,86220,AS23969,TOT Public Company Limited,ntplc.co.th,isp,false,false,false,false,false
-1.174.74.160,Kaohsiung,Takao,KHH,Taiwan,TW,Asia,AS,22.61626,120.31333,Asia/Taipei,,AS3462,Data Communication Business Group,hinet.net,isp,false,false,false,false,false
-1.169.65.48/30,Keelung,Taiwan,04,Taiwan,TW,Asia,AS,25.13089,121.74094,Asia/Taipei,,AS3462,Data Communication Business Group,hinet.net,isp,false,false,false,false,false
-1.112.44.12/30,Osaka,Osaka,27,Japan,JP,Asia,AS,34.69379,135.50107,Asia/Tokyo,543-0062,AS17676,SoftBank Corp.,softbank.jp,isp,false,false,false,true,false
-1.0.162.178/31,Koh Tao,Surat Thani,84,Thailand,TH,Asia,AS,10.09808,99.83809,Asia/Bangkok,86220,AS23969,TOT Public Company Limited,ntplc.co.th,isp,false,false,false,false,false
-1.112.63.10,Kitakyushu,Fukuoka,40,Japan,JP,Asia,AS,33.85181,130.85034,Asia/Tokyo,803-0865,AS17676,SoftBank Corp.,softbank.jp,isp,false,false,false,true,false
-1.1.149.204/31,Raman,Yala,95,Thailand,TH,Asia,AS,6.47862,101.42414,Asia/Bangkok,95140,AS23969,TOT Public Company Limited,ntplc.co.th,isp,false,false,false,false,false
-1.122.154.50/31,Gold Coast,Queensland,QLD,Australia,AU,Oceania,OC,-28.00029,153.43088,Australia/Brisbane,4217,AS1221,Telstra Limited,telstra.com.au,isp,false,false,false,false,false
-1.192.0.44/31,Zhengzhou,Henan,HA,China,CN,Asia,AS,34.75778,113.64861,Asia/Shanghai,450000,AS4134,CHINANET-BACKBONE,chinatelecom.com.cn,isp,false,false,false,false,false
-1.194.166.16/30,Zhengzhou,Henan,HA,China,CN,Asia,AS,34.75778,113.64861,Asia/Shanghai,450000,AS139587,China Telecom Henan Zhengzhou Shujugang IDC network,chinatelecom.cn,isp,false,false,false,false,false
-1.0.159.141,Nakhon Si Thammarat,Nakhon Si Thammarat,80,Thailand,TH,Asia,AS,8.43333,99.96667,Asia/Bangkok,80140,AS23969,TOT Public Company Limited,ntplc.co.th,isp,true,false,false,false,false
-1.115.68.149,Yokohama,Kanagawa,14,Japan,JP,Asia,AS,35.43333,139.65,Asia/Tokyo,220-8588,AS17676,SoftBank Corp.,softbank.jp,isp,false,false,false,true,false
-1.115.88.144/28,Tokyo,Tokyo,13,Japan,JP,Asia,AS,35.6895,139.69171,Asia/Tokyo,101-8656,AS17676,SoftBank Corp.,softbank.jp,isp,false,false,false,true,false
-1.157.174.176/28,Sydney,New South Wales,NSW,Australia,AU,Oceania,OC,-33.86785,151.20732,Australia/Sydney,1001,AS1221,Telstra Limited,telstra.com.au,isp,false,false,false,false,false
-1.112.105.62/31,Osaka,Osaka,27,Japan,JP,Asia,AS,34.69379,135.50107,Asia/Tokyo,543-0062,AS17676,SoftBank Corp.,softbank.jp,isp,false,false,false,true,false
-1.121.235.32/30,Adelaide,South Australia,SA,Australia,AU,Oceania,OC,-34.92866,138.59863,Australia/Adelaide,5000,AS1221,Telstra Limited,telstra.com.au,isp,false,false,false,false,false
-1.194.239.78/31,Zhengzhou,Henan,HA,China,CN,Asia,AS,34.75778,113.64861,Asia/Shanghai,450000,AS137687,"Luoyang, Henan Province, P.R.China.",chinatelecom.cn,isp,false,false,false,false,false
-1.10.133.29,Ranong,Ranong province,85,Thailand,TH,Asia,AS,9.96583,98.63476,Asia/Bangkok,85000,AS23969,TOT Public Company Limited,ntplc.co.th,isp,false,false,false,false,false
-1.10.230.224/30,Nakhon Pathom,Nakhon Pathom,73,Thailand,TH,Asia,AS,13.8196,100.04427,Asia/Bangkok,73000,AS23969,TOT Public Company Limited,ntplc.co.th,isp,false,false,false,false,false
-1.179.240.166,Bangkok,Bangkok,10,Thailand,TH,Asia,AS,13.75398,100.50144,Asia/Bangkok,10200,AS23969,TOT Public Company Limited,ntplc.co.th,isp,true,false,false,false,false
-1.112.227.25,Tochigi,Tochigi,09,Japan,JP,Asia,AS,36.38333,139.73333,Asia/Tokyo,328-0000,AS17676,SoftBank Corp.,softbank.jp,isp,false,false,false,true,false
-1.1.232.84,Nakhon Phanom,Nakhon Phanom,48,Thailand,TH,Asia,AS,17.41081,104.77856,Asia/Bangkok,48000,AS23969,TOT Public Company Limited,ntplc.co.th,isp,false,false,false,false,false
-1.158.61.184/30,Sydney,New South Wales,NSW,Australia,AU,Oceania,OC,-33.86785,151.20732,Australia/Sydney,1001,AS1221,Telstra Limited,telstra.com.au,isp,false,false,false,false,false
-1.1.2.40/30,Singapore,,01,Singapore,SG,Asia,AS,1.28967,103.85007,Asia/Singapore,018989,,,,,false,false,false,false,false
-1.10.157.194,Khlong Luang,Pathum Thani,13,Thailand,TH,Asia,AS,14.06467,100.64578,Asia/Bangkok,12120,AS23969,TOT Public Company Limited,ntplc.co.th,isp,true,false,false,false,false
-1.179.201.248,Ban Khlong Bang Sao Thong,Samut Prakan,11,Thailand,TH,Asia,AS,13.64172,100.83272,Asia/Bangkok,10560,AS131293,TOT Public Company Limited,tot.co.th,isp,false,false,false,false,false
-1.10.146.164/30,Sawi,Chumphon,86,Thailand,TH,Asia,AS,10.23668,99.10938,Asia/Bangkok,86130,AS23969,TOT Public Company Limited,ntplc.co.th,isp,false,false,false,false,false
-1.10.173.227,Nikhom Kham Soi,Mukdahan,49,Thailand,TH,Asia,AS,16.37167,104.55147,Asia/Bangkok,49130,AS23969,TOT Public Company Limited,ntplc.co.th,isp,false,false,false,false,false
-1.157.230.20,Sydney,New South Wales,NSW,Australia,AU,Oceania,OC,-33.86785,151.20732,Australia/Sydney,1001,AS1221,Telstra Limited,telstra.com.au,isp,true,false,false,false,false
-1.0.101.110,Tottori-shi,Tottori,31,Japan,JP,Asia,AS,35.5,134.23333,Asia/Tokyo,680-0013,AS18144,"Enecom,Inc.",enecom.co.jp,business,false,false,false,false,false
-1.112.235.70,Yugawara,Kanagawa,14,Japan,JP,Asia,AS,35.15,139.06667,Asia/Tokyo,259-0304,AS17676,SoftBank Corp.,softbank.jp,isp,false,false,false,true,false
-1.113.42.128,Tokyo,Tokyo,13,Japan,JP,Asia,AS,35.6895,139.69171,Asia/Tokyo,101-8656,AS17676,SoftBank Corp.,softbank.jp,isp,false,false,false,true,false
-1.1.192.224/29,Nakhon Phanom,Nakhon Phanom,48,Thailand,TH,Asia,AS,17.41081,104.77856,Asia/Bangkok,48000,AS23969,TOT Public Company Limited,ntplc.co.th,isp,false,false,false,false,false
-1.0.98.48,Matsue,Shimane,32,Japan,JP,Asia,AS,35.48333,133.05,Asia/Tokyo,690-0801,AS18144,"Enecom,Inc.",enecom.co.jp,business,false,false,false,false,false
-1.112.38.194/31,Fussa,Tokyo,13,Japan,JP,Asia,AS,35.73667,139.32361,Asia/Tokyo,197-0011,AS17676,SoftBank Corp.,softbank.jp,isp,false,false,false,true,false
-1.10.164.5,Phra Samut Chedi,Samut Prakan,11,Thailand,TH,Asia,AS,13.60222,100.5721,Asia/Bangkok,10290,AS23969,TOT Public Company Limited,ntplc.co.th,isp,true,false,false,false,false
-1.113.12.62,Chōfu,Tokyo,13,Japan,JP,Asia,AS,35.65924,139.54837,Asia/Tokyo,182-0000,AS17676,SoftBank Corp.,softbank.jp,isp,false,false,false,true,false
-1.158.35.96/27,Sydney,New South Wales,NSW,Australia,AU,Oceania,OC,-33.86785,151.20732,Australia/Sydney,1001,AS1221,Telstra Limited,telstra.com.au,isp,false,false,false,false,false
-1.112.72.0/26,Tokyo,Tokyo,13,Japan,JP,Asia,AS,35.6895,139.69171,Asia/Tokyo,101-8656,AS17676,SoftBank Corp.,softbank.jp,isp,false,false,false,true,false
-1.1.184.0/29,Khon Kaen,Khon Kaen,40,Thailand,TH,Asia,AS,16.44671,102.833,Asia/Bangkok,40140,AS23969,TOT Public Company Limited,ntplc.co.th,isp,false,false,false,false,false
-1.115.96.184/29,Azabu-jūban,Tokyo,13,Japan,JP,Asia,AS,35.65,139.7333,Asia/Tokyo,105-0022,AS17676,SoftBank Corp.,softbank.jp,isp,false,false,false,true,false
-1.0.167.170/31,Ko Samui,Surat Thani,84,Thailand,TH,Asia,AS,9.53567,99.93567,Asia/Bangkok,84140,AS23969,TOT Public Company Limited,ntplc.co.th,isp,false,false,false,false,false
-1.121.124.0/30,Adelaide,South Australia,SA,Australia,AU,Oceania,OC,-34.92866,138.59863,Australia/Adelaide,5000,AS1221,Telstra Limited,telstra.com.au,isp,false,false,false,false,false
-1.141.161.0/24,Sydney,New South Wales,NSW,Australia,AU,Oceania,OC,-33.86785,151.20732,Australia/Sydney,1001,AS1221,Telstra Limited,telstra.com.au,isp,false,false,false,false,false
 1.112.250.75,Shizuoka,Shizuoka,22,Japan,JP,Asia,AS,34.98333,138.38333,Asia/Tokyo,420-0002,AS17676,SoftBank Corp.,softbank.jp,isp,false,false,false,true,false
-1.112.199.64/30,Izumiōtsu,Osaka,27,Japan,JP,Asia,AS,34.5,135.4,Asia/Tokyo,595-0025,AS17676,SoftBank Corp.,softbank.jp,isp,false,false,false,true,false
-1.122.167.148/30,Gold Coast,Queensland,QLD,Australia,AU,Oceania,OC,-28.00029,153.43088,Australia/Brisbane,4217,AS1221,Telstra Limited,telstra.com.au,isp,false,false,false,false,false
-1.1.109.119,Tokyo,Tokyo,13,Japan,JP,Asia,AS,35.6895,139.69171,Asia/Tokyo,101-8656,AS2519,ARTERIA Networks Corporation,arteria-net.com,isp,true,false,false,false,false
-1.0.200.32/28,Phanom,Surat Thani,84,Thailand,TH,Asia,AS,8.85475,98.81267,Asia/Bangkok,84250,AS23969,TOT Public Company Limited,ntplc.co.th,isp,false,false,false,false,false
-1.0.96.100/31,Matsue,Shimane,32,Japan,JP,Asia,AS,35.48333,133.05,Asia/Tokyo,690-0801,AS18144,"Enecom,Inc.",enecom.co.jp,business,false,false,false,false,false
-1.112.107.132/31,Kawasaki,Miyagi,04,Japan,JP,Asia,AS,38.17278,140.63694,Asia/Tokyo,999-3192,AS17676,SoftBank Corp.,softbank.jp,isp,false,false,false,true,false
-1.10.173.126/31,Nong Sung,Mukdahan,49,Thailand,TH,Asia,AS,16.48299,104.34712,Asia/Bangkok,49160,AS23969,TOT Public Company Limited,ntplc.co.th,isp,false,false,false,false,false
-1.112.59.52,Osaka,Osaka,27,Japan,JP,Asia,AS,34.69379,135.50107,Asia/Tokyo,543-0062,AS17676,SoftBank Corp.,softbank.jp,isp,false,false,false,true,false
-1.196.204.188/30,Shanghai,Shanghai,SH,China,CN,Asia,AS,31.22222,121.45806,Asia/Shanghai,200000,AS4134,CHINANET-BACKBONE,chinatelecom.com.cn,isp,true,false,false,false,false
-1.1.187.57,Somdet,Kalasin,46,Thailand,TH,Asia,AS,16.70462,103.74935,Asia/Bangkok,46150,AS23969,TOT Public Company Limited,ntplc.co.th,isp,false,false,false,false,false
-1.113.38.217,Hiratsuka,Kanagawa,14,Japan,JP,Asia,AS,35.32785,139.33735,Asia/Tokyo,254-0052,AS17676,SoftBank Corp.,softbank.jp,isp,false,false,false,true,false
-1.1.235.14,Nakhon Phanom,Nakhon Phanom,48,Thailand,TH,Asia,AS,17.41081,104.77856,Asia/Bangkok,48000,AS23969,TOT Public Company Limited,ntplc.co.th,isp,true,false,false,false,false
-1.112.35.13,Maebashi,Gunma,10,Japan,JP,Asia,AS,36.4,139.08333,Asia/Tokyo,371-0011,AS17676,SoftBank Corp.,softbank.jp,isp,false,false,false,true,false
+1.115.68.149,Yokohama,Kanagawa,14,Japan,JP,Asia,AS,35.43333,139.65,Asia/Tokyo,220-8588,AS17676,SoftBank Corp.,softbank.jp,isp,false,false,false,true,false
+1.112.227.25,Tochigi,Tochigi,09,Japan,JP,Asia,AS,36.38333,139.73333,Asia/Tokyo,328-0000,AS17676,SoftBank Corp.,softbank.jp,isp,false,false,false,true,false
+1.156.229.183,Brisbane,Queensland,QLD,Australia,AU,Oceania,OC,-27.46794,153.02809,Australia/Brisbane,4000,AS1221,Telstra Limited,telstra.com.au,isp,true,false,false,false,false
+1.157.15.43,Canberra,Australian Capital Territory,ACT,Australia,AU,Oceania,OC,-35.28346,149.12807,Australia/Sydney,2600,AS1221,Telstra Limited,telstra.com.au,isp,false,false,false,false,false
+1.10.160.208/30,Na Pho,Buriram,31,Thailand,TH,Asia,AS,15.64113,102.95462,Asia/Bangkok,31230,AS23969,TOT Public Company Limited,ntplc.co.th,isp,false,false,false,false,false
+1.157.174.176/28,Sydney,New South Wales,NSW,Australia,AU,Oceania,OC,-33.86785,151.20732,Australia/Sydney,1001,AS1221,Telstra Limited,telstra.com.au,isp,false,false,false,false,false
+1.10.230.224/30,Nakhon Pathom,Nakhon Pathom,73,Thailand,TH,Asia,AS,13.8196,100.04427,Asia/Bangkok,73000,AS23969,TOT Public Company Limited,ntplc.co.th,isp,false,false,false,false,false
 1.158.99.192/28,Sydney,New South Wales,NSW,Australia,AU,Oceania,OC,-33.86785,151.20732,Australia/Sydney,1001,AS1221,Telstra Limited,telstra.com.au,isp,false,false,false,false,false
-1.0.169.8/31,Samut Songkhram,Samut Songkhram,75,Thailand,TH,Asia,AS,13.41456,100.00264,Asia/Bangkok,75000,AS23969,TOT Public Company Limited,ntplc.co.th,isp,false,false,false,false,false
-1.192.188.28/30,Zhengzhou,Henan,HA,China,CN,Asia,AS,34.75778,113.64861,Asia/Shanghai,450000,AS137687,"Luoyang, Henan Province, P.R.China.",chinatelecom.cn,isp,false,false,false,false,false
-1.122.179.64/26,Gold Coast,Queensland,QLD,Australia,AU,Oceania,OC,-28.00029,153.43088,Australia/Brisbane,4217,AS1221,Telstra Limited,telstra.com.au,isp,false,false,false,false,false
+1.112.72.0/26,Tokyo,Tokyo,13,Japan,JP,Asia,AS,35.6895,139.69171,Asia/Tokyo,101-8656,AS17676,SoftBank Corp.,softbank.jp,isp,false,false,false,true,false
+1.1.192.224/29,Nakhon Phanom,Nakhon Phanom,48,Thailand,TH,Asia,AS,17.41081,104.77856,Asia/Bangkok,48000,AS23969,TOT Public Company Limited,ntplc.co.th,isp,false,false,false,false,false
+1.179.240.166,Bangkok,Bangkok,10,Thailand,TH,Asia,AS,13.75398,100.50144,Asia/Bangkok,10200,AS23969,TOT Public Company Limited,ntplc.co.th,isp,true,false,false,false,false
+1.158.61.184/30,Sydney,New South Wales,NSW,Australia,AU,Oceania,OC,-33.86785,151.20732,Australia/Sydney,1001,AS1221,Telstra Limited,telstra.com.au,isp,false,false,false,false,false
+1.1.175.112,Nan,Nan,55,Thailand,TH,Asia,AS,18.78378,100.77899,Asia/Bangkok,55000,AS23969,TOT Public Company Limited,ntplc.co.th,isp,false,false,false,false,false
+1.10.157.194,Khlong Luang,Pathum Thani,13,Thailand,TH,Asia,AS,14.06467,100.64578,Asia/Bangkok,12120,AS23969,TOT Public Company Limited,ntplc.co.th,isp,true,false,false,false,false
+1.112.199.64/30,Izumiōtsu,Osaka,27,Japan,JP,Asia,AS,34.5,135.4,Asia/Tokyo,595-0025,AS17676,SoftBank Corp.,softbank.jp,isp,false,false,false,true,false
 1.141.59.42/31,Gold Coast,Queensland,QLD,Australia,AU,Oceania,OC,-28.00029,153.43088,Australia/Brisbane,4217,AS1221,Telstra Limited,telstra.com.au,isp,false,false,false,false,false
-1.122.147.118/31,Gold Coast,Queensland,QLD,Australia,AU,Oceania,OC,-28.00029,153.43088,Australia/Brisbane,4217,AS1221,Telstra Limited,telstra.com.au,isp,false,false,false,false,false
-1.1.109.58,Tokyo,Tokyo,13,Japan,JP,Asia,AS,35.6895,139.69171,Asia/Tokyo,101-8656,AS2519,ARTERIA Networks Corporation,arteria-net.com,isp,false,false,false,false,false
-1.0.224.172/30,That Phanom,Nakhon Phanom,48,Thailand,TH,Asia,AS,16.93636,104.71039,Asia/Bangkok,48110,AS23969,TOT Public Company Limited,ntplc.co.th,isp,false,false,false,false,false
-1.122.242.48/28,Gold Coast,Queensland,QLD,Australia,AU,Oceania,OC,-28.00029,153.43088,Australia/Brisbane,4217,AS1221,Telstra Limited,telstra.com.au,isp,false,false,false,false,false
-1.123.234.0/25,Melbourne,Victoria,VIC,Australia,AU,Oceania,OC,-37.814,144.96332,Australia/Melbourne,3000,AS1221,Telstra Limited,telstra.com.au,isp,false,false,false,false,false
-1.158.8.58/31,Sydney,New South Wales,NSW,Australia,AU,Oceania,OC,-33.86785,151.20732,Australia/Sydney,1001,AS1221,Telstra Limited,telstra.com.au,isp,false,false,false,false,false
+1.122.167.148/30,Gold Coast,Queensland,QLD,Australia,AU,Oceania,OC,-28.00029,153.43088,Australia/Brisbane,4217,AS1221,Telstra Limited,telstra.com.au,isp,false,false,false,false,false
+1.113.42.128,Tokyo,Tokyo,13,Japan,JP,Asia,AS,35.6895,139.69171,Asia/Tokyo,101-8656,AS17676,SoftBank Corp.,softbank.jp,isp,false,false,false,true,false
+1.1.195.71,Na Kae,Nakhon Phanom,48,Thailand,TH,Asia,AS,16.94645,104.50081,Asia/Bangkok,48130,AS23969,TOT Public Company Limited,ntplc.co.th,isp,false,false,false,false,false
+1.112.59.52,Osaka,Osaka,27,Japan,JP,Asia,AS,34.69379,135.50107,Asia/Tokyo,543-0062,AS17676,SoftBank Corp.,softbank.jp,isp,false,false,false,true,false
+1.175.84.244/30,Kaohsiung,Takao,KHH,Taiwan,TW,Asia,AS,22.61626,120.31333,Asia/Taipei,,AS3462,Data Communication Business Group,hinet.net,isp,false,false,false,false,false
+1.174.74.160,Kaohsiung,Takao,KHH,Taiwan,TW,Asia,AS,22.61626,120.31333,Asia/Taipei,,AS3462,Data Communication Business Group,hinet.net,isp,false,false,false,false,false
+1.123.136.192/29,Sydney,New South Wales,NSW,Australia,AU,Oceania,OC,-33.86785,151.20732,Australia/Sydney,1001,AS1221,Telstra Limited,telstra.com.au,isp,false,false,false,false,false
+1.0.96.100/31,Matsue,Shimane,32,Japan,JP,Asia,AS,35.48333,133.05,Asia/Tokyo,690-0801,AS18144,"Enecom,Inc.",enecom.co.jp,business,false,false,false,false,false
+1.121.235.32/30,Adelaide,South Australia,SA,Australia,AU,Oceania,OC,-34.92866,138.59863,Australia/Adelaide,5000,AS1221,Telstra Limited,telstra.com.au,isp,false,false,false,false,false
+1.10.166.137,Ko Samui,Surat Thani,84,Thailand,TH,Asia,AS,9.53567,99.93567,Asia/Bangkok,84140,AS23969,TOT Public Company Limited,ntplc.co.th,isp,false,false,false,false,false
 1.157.1.64/26,Canberra,Australian Capital Territory,ACT,Australia,AU,Oceania,OC,-35.28346,149.12807,Australia/Sydney,2600,AS1221,Telstra Limited,telstra.com.au,isp,false,false,false,false,false
+1.115.96.184/29,Azabu-jūban,Tokyo,13,Japan,JP,Asia,AS,35.65,139.7333,Asia/Tokyo,105-0022,AS17676,SoftBank Corp.,softbank.jp,isp,false,false,false,true,false
+1.112.127.144/28,Osaka,Osaka,27,Japan,JP,Asia,AS,34.69379,135.50107,Asia/Tokyo,543-0062,AS17676,SoftBank Corp.,softbank.jp,isp,false,false,false,true,false
+1.10.173.227,Nikhom Kham Soi,Mukdahan,49,Thailand,TH,Asia,AS,16.37167,104.55147,Asia/Bangkok,49130,AS23969,TOT Public Company Limited,ntplc.co.th,isp,false,false,false,false,false
+1.0.157.23,Nakhon Si Thammarat,Nakhon Si Thammarat,80,Thailand,TH,Asia,AS,8.43333,99.96667,Asia/Bangkok,80140,AS23969,TOT Public Company Limited,ntplc.co.th,isp,false,false,false,false,false
+1.113.97.0/31,Osaka,Osaka,27,Japan,JP,Asia,AS,34.69379,135.50107,Asia/Tokyo,543-0062,AS17676,SoftBank Corp.,softbank.jp,isp,false,false,false,true,false
+1.0.169.8/31,Samut Songkhram,Samut Songkhram,75,Thailand,TH,Asia,AS,13.41456,100.00264,Asia/Bangkok,75000,AS23969,TOT Public Company Limited,ntplc.co.th,isp,false,false,false,false,false
+1.10.179.115,Phra Nakhon Si Ayutthaya,Phra Nakhon Si Ayutthaya,14,Thailand,TH,Asia,AS,14.35167,100.57739,Asia/Bangkok,13000,AS23969,TOT Public Company Limited,ntplc.co.th,isp,true,false,false,false,false
+1.10.173.126/31,Nong Sung,Mukdahan,49,Thailand,TH,Asia,AS,16.48299,104.34712,Asia/Bangkok,49160,AS23969,TOT Public Company Limited,ntplc.co.th,isp,false,false,false,false,false
+1.0.101.110,Tottori-shi,Tottori,31,Japan,JP,Asia,AS,35.5,134.23333,Asia/Tokyo,680-0013,AS18144,"Enecom,Inc.",enecom.co.jp,business,false,false,false,false,false
+1.123.29.87,Brisbane,Queensland,QLD,Australia,AU,Oceania,OC,-27.46794,153.02809,Australia/Brisbane,4000,AS1221,Telstra Limited,telstra.com.au,isp,true,false,false,false,false
+1.113.38.217,Hiratsuka,Kanagawa,14,Japan,JP,Asia,AS,35.32785,139.33735,Asia/Tokyo,254-0052,AS17676,SoftBank Corp.,softbank.jp,isp,false,false,false,true,false
+1.1.184.0/29,Khon Kaen,Khon Kaen,40,Thailand,TH,Asia,AS,16.44671,102.833,Asia/Bangkok,40140,AS23969,TOT Public Company Limited,ntplc.co.th,isp,false,false,false,false,false
+1.156.157.124,Brisbane,Queensland,QLD,Australia,AU,Oceania,OC,-27.46794,153.02809,Australia/Brisbane,4000,AS1221,Telstra Limited,telstra.com.au,isp,true,false,false,false,false
+1.1.187.57,Somdet,Kalasin,46,Thailand,TH,Asia,AS,16.70462,103.74935,Asia/Bangkok,46150,AS23969,TOT Public Company Limited,ntplc.co.th,isp,false,false,false,false,false
+1.112.38.194/31,Fussa,Tokyo,13,Japan,JP,Asia,AS,35.73667,139.32361,Asia/Tokyo,197-0011,AS17676,SoftBank Corp.,softbank.jp,isp,false,false,false,true,false
+1.183.139.112/30,Beijing,Beijing,BJ,China,CN,Asia,AS,39.9075,116.39723,Asia/Shanghai,100000,AS4134,CHINANET-BACKBONE,chinatelecom.com.cn,isp,false,false,false,false,false
+1.141.161.0/24,Sydney,New South Wales,NSW,Australia,AU,Oceania,OC,-33.86785,151.20732,Australia/Sydney,1001,AS1221,Telstra Limited,telstra.com.au,isp,false,false,false,false,false
+1.0.159.141,Nakhon Si Thammarat,Nakhon Si Thammarat,80,Thailand,TH,Asia,AS,8.43333,99.96667,Asia/Bangkok,80140,AS23969,TOT Public Company Limited,ntplc.co.th,isp,true,false,false,false,false
+1.179.201.248,Ban Khlong Bang Sao Thong,Samut Prakan,11,Thailand,TH,Asia,AS,13.64172,100.83272,Asia/Bangkok,10560,AS131293,TOT Public Company Limited,tot.co.th,isp,false,false,false,false,false
+1.112.63.10,Kitakyushu,Fukuoka,40,Japan,JP,Asia,AS,33.85181,130.85034,Asia/Tokyo,803-0865,AS17676,SoftBank Corp.,softbank.jp,isp,false,false,false,true,false
+1.115.85.128/27,Tokyo,Tokyo,13,Japan,JP,Asia,AS,35.6895,139.69171,Asia/Tokyo,101-8656,AS17676,SoftBank Corp.,softbank.jp,isp,false,false,false,true,false
+1.194.166.16/30,Zhengzhou,Henan,HA,China,CN,Asia,AS,34.75778,113.64861,Asia/Shanghai,450000,AS139587,China Telecom Henan Zhengzhou Shujugang IDC network,chinatelecom.cn,isp,false,false,false,false,false
+1.179.164.82/31,Bang Lamung,Chon Buri,20,Thailand,TH,Asia,AS,13.04704,100.92891,Asia/Bangkok,20150,AS131293,TOT Public Company Limited,tot.co.th,isp,false,false,false,false,false
+1.115.88.144/28,Tokyo,Tokyo,13,Japan,JP,Asia,AS,35.6895,139.69171,Asia/Tokyo,101-8656,AS17676,SoftBank Corp.,softbank.jp,isp,false,false,false,true,false
+1.1.109.119,Tokyo,Tokyo,13,Japan,JP,Asia,AS,35.6895,139.69171,Asia/Tokyo,101-8656,AS2519,ARTERIA Networks Corporation,arteria-net.com,isp,true,false,false,false,false
+1.0.215.42,Lahan Sai,Buriram,31,Thailand,TH,Asia,AS,14.41142,102.85936,Asia/Bangkok,31170,AS23969,TOT Public Company Limited,ntplc.co.th,isp,false,false,false,false,false
+1.122.230.128/28,Gold Coast,Queensland,QLD,Australia,AU,Oceania,OC,-28.00029,153.43088,Australia/Brisbane,4217,AS1221,Telstra Limited,telstra.com.au,isp,false,false,false,false,false
+1.122.179.64/26,Gold Coast,Queensland,QLD,Australia,AU,Oceania,OC,-28.00029,153.43088,Australia/Brisbane,4217,AS1221,Telstra Limited,telstra.com.au,isp,false,false,false,false,false
+1.112.35.13,Maebashi,Gunma,10,Japan,JP,Asia,AS,36.4,139.08333,Asia/Tokyo,371-0011,AS17676,SoftBank Corp.,softbank.jp,isp,false,false,false,true,false
+1.158.8.58/31,Sydney,New South Wales,NSW,Australia,AU,Oceania,OC,-33.86785,151.20732,Australia/Sydney,1001,AS1221,Telstra Limited,telstra.com.au,isp,false,false,false,false,false
+1.113.12.62,Chōfu,Tokyo,13,Japan,JP,Asia,AS,35.65924,139.54837,Asia/Tokyo,182-0000,AS17676,SoftBank Corp.,softbank.jp,isp,false,false,false,true,false
+1.112.44.12/30,Osaka,Osaka,27,Japan,JP,Asia,AS,34.69379,135.50107,Asia/Tokyo,543-0062,AS17676,SoftBank Corp.,softbank.jp,isp,false,false,false,true,false
+1.121.124.0/30,Adelaide,South Australia,SA,Australia,AU,Oceania,OC,-34.92866,138.59863,Australia/Adelaide,5000,AS1221,Telstra Limited,telstra.com.au,isp,false,false,false,false,false
+1.123.234.0/25,Melbourne,Victoria,VIC,Australia,AU,Oceania,OC,-37.814,144.96332,Australia/Melbourne,3000,AS1221,Telstra Limited,telstra.com.au,isp,false,false,false,false,false
+1.1.2.40/30,Singapore,,01,Singapore,SG,Asia,AS,1.28967,103.85007,Asia/Singapore,018989,,,,,false,false,false,false,false
+1.112.105.62/31,Osaka,Osaka,27,Japan,JP,Asia,AS,34.69379,135.50107,Asia/Tokyo,543-0062,AS17676,SoftBank Corp.,softbank.jp,isp,false,false,false,true,false
+1.169.65.48/30,Keelung,Taiwan,04,Taiwan,TW,Asia,AS,25.13089,121.74094,Asia/Taipei,,AS3462,Data Communication Business Group,hinet.net,isp,false,false,false,false,false
+1.1.109.58,Tokyo,Tokyo,13,Japan,JP,Asia,AS,35.6895,139.69171,Asia/Tokyo,101-8656,AS2519,ARTERIA Networks Corporation,arteria-net.com,isp,false,false,false,false,false
+1.122.147.118/31,Gold Coast,Queensland,QLD,Australia,AU,Oceania,OC,-28.00029,153.43088,Australia/Brisbane,4217,AS1221,Telstra Limited,telstra.com.au,isp,false,false,false,false,false
+1.122.242.48/28,Gold Coast,Queensland,QLD,Australia,AU,Oceania,OC,-28.00029,153.43088,Australia/Brisbane,4217,AS1221,Telstra Limited,telstra.com.au,isp,false,false,false,false,false
+1.196.204.188/30,Shanghai,Shanghai,SH,China,CN,Asia,AS,31.22222,121.45806,Asia/Shanghai,200000,AS4134,CHINANET-BACKBONE,chinatelecom.com.cn,isp,true,false,false,false,false
+1.10.146.164/30,Sawi,Chumphon,86,Thailand,TH,Asia,AS,10.23668,99.10938,Asia/Bangkok,86130,AS23969,TOT Public Company Limited,ntplc.co.th,isp,false,false,false,false,false
+1.112.254.128/29,Osaka,Osaka,27,Japan,JP,Asia,AS,34.69379,135.50107,Asia/Tokyo,543-0062,AS17676,SoftBank Corp.,softbank.jp,isp,false,false,false,true,false
+1.0.98.48,Matsue,Shimane,32,Japan,JP,Asia,AS,35.48333,133.05,Asia/Tokyo,690-0801,AS18144,"Enecom,Inc.",enecom.co.jp,business,false,false,false,false,false
+1.0.162.178/31,Koh Tao,Surat Thani,84,Thailand,TH,Asia,AS,10.09808,99.83809,Asia/Bangkok,86220,AS23969,TOT Public Company Limited,ntplc.co.th,isp,false,false,false,false,false
+1.158.35.96/27,Sydney,New South Wales,NSW,Australia,AU,Oceania,OC,-33.86785,151.20732,Australia/Sydney,1001,AS1221,Telstra Limited,telstra.com.au,isp,false,false,false,false,false
+1.112.235.70,Yugawara,Kanagawa,14,Japan,JP,Asia,AS,35.15,139.06667,Asia/Tokyo,259-0304,AS17676,SoftBank Corp.,softbank.jp,isp,false,false,false,true,false
+1.157.97.170/31,Canberra,Australian Capital Territory,ACT,Australia,AU,Oceania,OC,-35.28346,149.12807,Australia/Sydney,2600,AS1221,Telstra Limited,telstra.com.au,isp,false,false,false,false,false
+1.0.200.32/28,Phanom,Surat Thani,84,Thailand,TH,Asia,AS,8.85475,98.81267,Asia/Bangkok,84250,AS23969,TOT Public Company Limited,ntplc.co.th,isp,false,false,false,false,false
+1.0.172.79,Lamae,Chumphon,86,Thailand,TH,Asia,AS,9.76789,99.09256,Asia/Bangkok,86170,AS23969,TOT Public Company Limited,ntplc.co.th,isp,false,false,false,false,false
+1.192.188.28/30,Zhengzhou,Henan,HA,China,CN,Asia,AS,34.75778,113.64861,Asia/Shanghai,450000,AS137687,"Luoyang, Henan Province, P.R.China.",chinatelecom.cn,isp,false,false,false,false,false
+1.122.154.50/31,Gold Coast,Queensland,QLD,Australia,AU,Oceania,OC,-28.00029,153.43088,Australia/Brisbane,4217,AS1221,Telstra Limited,telstra.com.au,isp,false,false,false,false,false
+1.0.224.172/30,That Phanom,Nakhon Phanom,48,Thailand,TH,Asia,AS,16.93636,104.71039,Asia/Bangkok,48110,AS23969,TOT Public Company Limited,ntplc.co.th,isp,false,false,false,false,false
+1.0.167.170/31,Ko Samui,Surat Thani,84,Thailand,TH,Asia,AS,9.53567,99.93567,Asia/Bangkok,84140,AS23969,TOT Public Company Limited,ntplc.co.th,isp,false,false,false,false,false
+1.179.183.220,Bangkok,Bangkok,10,Thailand,TH,Asia,AS,13.75398,100.50144,Asia/Bangkok,10200,AS131293,TOT Public Company Limited,tot.co.th,isp,false,false,false,false,false
 1.1.196.72/29,Nakhon Phanom,Nakhon Phanom,48,Thailand,TH,Asia,AS,17.41081,104.77856,Asia/Bangkok,48000,AS23969,TOT Public Company Limited,ntplc.co.th,isp,false,false,false,false,false
+1.156.142.0/27,Brisbane,Queensland,QLD,Australia,AU,Oceania,OC,-27.46794,153.02809,Australia/Brisbane,4000,AS1221,Telstra Limited,telstra.com.au,isp,false,false,false,false,false
+1.179.240.128/27,Bangkok,Bangkok,10,Thailand,TH,Asia,AS,13.75398,100.50144,Asia/Bangkok,10200,AS23969,TOT Public Company Limited,ntplc.co.th,isp,true,false,false,false,false
+1.10.139.133,Koh Tao,Surat Thani,84,Thailand,TH,Asia,AS,10.09808,99.83809,Asia/Bangkok,86220,AS23969,TOT Public Company Limited,ntplc.co.th,isp,false,false,false,false,false
+1.192.0.44/31,Zhengzhou,Henan,HA,China,CN,Asia,AS,34.75778,113.64861,Asia/Shanghai,450000,AS4134,CHINANET-BACKBONE,chinatelecom.com.cn,isp,false,false,false,false,false
+1.10.133.29,Ranong,Ranong province,85,Thailand,TH,Asia,AS,9.96583,98.63476,Asia/Bangkok,85000,AS23969,TOT Public Company Limited,ntplc.co.th,isp,false,false,false,false,false
+1.179.208.182/31,Bangkok,Bangkok,10,Thailand,TH,Asia,AS,13.75398,100.50144,Asia/Bangkok,10200,AS131293,TOT Public Company Limited,tot.co.th,isp,false,false,false,false,false
+1.0.158.51,Nakhon Si Thammarat,Nakhon Si Thammarat,80,Thailand,TH,Asia,AS,8.43333,99.96667,Asia/Bangkok,80140,AS23969,TOT Public Company Limited,ntplc.co.th,isp,false,false,false,false,false
+1.1.235.14,Nakhon Phanom,Nakhon Phanom,48,Thailand,TH,Asia,AS,17.41081,104.77856,Asia/Bangkok,48000,AS23969,TOT Public Company Limited,ntplc.co.th,isp,true,false,false,false,false
+1.194.239.78/31,Zhengzhou,Henan,HA,China,CN,Asia,AS,34.75778,113.64861,Asia/Shanghai,450000,AS137687,"Luoyang, Henan Province, P.R.China.",chinatelecom.cn,isp,false,false,false,false,false
+1.171.13.182,Hsinchu,Taiwan,04,Taiwan,TW,Asia,AS,24.80361,120.96861,Asia/Taipei,,AS3462,Data Communication Business Group,hinet.net,isp,false,false,false,false,false
+1.0.125.250,Tottori-shi,Tottori,31,Japan,JP,Asia,AS,35.5,134.23333,Asia/Tokyo,680-0013,AS18144,"Enecom,Inc.",enecom.co.jp,business,false,false,false,false,false
+1.10.164.5,Phra Samut Chedi,Samut Prakan,11,Thailand,TH,Asia,AS,13.60222,100.5721,Asia/Bangkok,10290,AS23969,TOT Public Company Limited,ntplc.co.th,isp,true,false,false,false,false
+1.1.149.204/31,Raman,Yala,95,Thailand,TH,Asia,AS,6.47862,101.42414,Asia/Bangkok,95140,AS23969,TOT Public Company Limited,ntplc.co.th,isp,false,false,false,false,false
+1.157.222.64/27,Sydney,New South Wales,NSW,Australia,AU,Oceania,OC,-33.86785,151.20732,Australia/Sydney,1001,AS1221,Telstra Limited,telstra.com.au,isp,false,false,false,false,false
+1.112.107.132/31,Kawasaki,Miyagi,04,Japan,JP,Asia,AS,38.17278,140.63694,Asia/Tokyo,999-3192,AS17676,SoftBank Corp.,softbank.jp,isp,false,false,false,true,false
+1.1.232.84,Nakhon Phanom,Nakhon Phanom,48,Thailand,TH,Asia,AS,17.41081,104.77856,Asia/Bangkok,48000,AS23969,TOT Public Company Limited,ntplc.co.th,isp,false,false,false,false,false
