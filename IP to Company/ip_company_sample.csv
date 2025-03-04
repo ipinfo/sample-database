@@ -1,101 +1,101 @@
 start_ip,end_ip,join_key,name,domain,type,asn,as_name,as_domain,as_type,country
-2c0e:6779:4000::,2c0e:6779:7fff:ffff:ffff:ffff:ffff:ffff,2c0e:6779:4000::,African Network Information Center - (AfriNIC) Ltd,afrinic.net,isp,AS5713,Telkom SA Ltd.,telkom.co.za,isp,MU
-2a02:7451::,2a02:7451:3fff:ffff:ffff:ffff:ffff:ffff,2a02:7451::,RIPE NCC,ripe.net,isp,AS3269,Telecom Italia S.p.A.,telecomitalia.com,isp,IT
-2a1a:bfbc:c000::,2a1a:bfbc:ffff:ffff:ffff:ffff:ffff:ffff,2a1a:bfbc:c000::,RIPE NCC,ripe.net,isp,AS3269,Telecom Italia S.p.A.,telecomitalia.com,isp,IT
-51.254.237.56,51.254.237.63,51.254.0.0,OVH SAS,ovh.net,hosting,AS16276,OVH SAS,ovhcloud.com,hosting,FR
-88.116.163.74,88.116.163.74,88.116.0.0,A1 Telekom Austria AG,a1.net,isp,AS8447,A1 Telekom Austria AG,a1.net,isp,AT
-75.40.222.32,75.40.222.47,75.40.0.0,"AT&T Enterprises, LLC",att.com,isp,AS7018,"AT&T Services, Inc.",att.com,isp,US
-122.226.25.12,122.226.25.15,122.226.0.0,Milan Jiari Binguan,zsptt.zj.cn,business,AS4134,CHINANET-BACKBONE,chinatelecom.com.cn,isp,CN
-240e:b057::,240e:b057:3fff:ffff:ffff:ffff:ffff:ffff,240e:b057::,Asia Pacific Network Information Centre,apnic.net,hosting,AS4134,CHINANET-BACKBONE,chinatelecom.com.cn,isp,AU
-2c0b:2c94:8000::,2c0b:2c94:bfff:ffff:ffff:ffff:ffff:ffff,2c0b:2c94:8000::,African Network Information Center - (AfriNIC) Ltd,afrinic.net,isp,AS5713,Telkom SA Ltd.,telkom.co.za,isp,MU
-182.71.194.128,182.71.194.135,182.71.0.0,PUBLISH INDUSTRY INDIA PV,publish-industry.net,business,AS9498,BHARTI Airtel Ltd.,airtel.in,isp,IN
-2407:901c:c000::,2407:901c:ffff:ffff:ffff:ffff:ffff:ffff,2407:901c:c000::,Asia Pacific Network Information Centre,apnic.net,hosting,AS4134,CHINANET-BACKBONE,chinatelecom.com.cn,isp,AU
-2a01:4f8:221:701::,2a01:4f8:221:701:ffff:ffff:ffff:ffff,2a01:4f8::,diegelernten,diegelernten.de,hosting,AS24940,Hetzner Online GmbH,hetzner.de,hosting,DE
-2a0b:c1c8::,2a0b:c1c8:3fff:ffff:ffff:ffff:ffff:ffff,2a0b:c1c8::,RIPE NCC,ripe.net,isp,AS3269,Telecom Italia S.p.A.,telecomitalia.com,isp,IT
-99.158.218.168,99.158.218.175,99.158.0.0,"AT&T Services, Inc.",att.com,isp,AS7018,"AT&T Services, Inc.",att.com,isp,US
-2401:86e9:8000::,2401:86e9:bfff:ffff:ffff:ffff:ffff:ffff,2401:86e9:8000::,Asia Pacific Network Information Centre,apnic.net,hosting,AS4134,CHINANET-BACKBONE,chinatelecom.com.cn,isp,AU
-222.133.63.88,222.133.63.95,222.133.0.0,DeZhou-Guo Tu Ju,cnc-noc.net,business,AS4837,CHINA UNICOM China169 Backbone,chinaunicom.cn,isp,CN
-2a03:8373:4000::,2a03:8373:7fff:ffff:ffff:ffff:ffff:ffff,2a03:8373:4000::,RIPE NCC,ripe.net,isp,AS3269,Telecom Italia S.p.A.,telecomitalia.com,isp,IT
-62.183.130.184,62.183.130.191,62.183.0.0,Metsapietila Oy,koivistonauto.fi,business,AS16086,DNA Oyj,dna.fi,isp,FI
-2605:8d80:8000::,2605:8d80:bfff:ffff:ffff:ffff:ffff:ffff,2605:8d80:8000::,Rogers Communications Canada Inc.,rogers.com,isp,AS812,Rogers Communications Canada Inc.,rogers.com,isp,CA
-2a0b:4bd7::,2a0b:4bd7:3fff:ffff:ffff:ffff:ffff:ffff,2a0b:4bd7::,RIPE NCC,ripe.net,isp,AS3269,Telecom Italia S.p.A.,telecomitalia.com,isp,IT
-2a03:e3ff::,2a03:e3ff:3fff:ffff:ffff:ffff:ffff:ffff,2a03:e3ff::,RIPE NCC,ripe.net,isp,AS3269,Telecom Italia S.p.A.,telecomitalia.com,isp,IT
-2a0e:cd4b:c000::,2a0e:cd4b:ffff:ffff:ffff:ffff:ffff:ffff,2a0e:cd4b:c000::,RIPE NCC,ripe.net,isp,AS3269,Telecom Italia S.p.A.,telecomitalia.com,isp,IT
-77.60.160.164,77.60.160.167,77.60.0.0,Gooi Finance BV,gooifinance.nl,business,AS1136,KPN B.V.,kpn.com,isp,NL
-2c0b:6aaa:4000::,2c0b:6aaa:7fff:ffff:ffff:ffff:ffff:ffff,2c0b:6aaa:4000::,African Network Information Center - (AfriNIC) Ltd,afrinic.net,isp,AS5713,Telkom SA Ltd.,telkom.co.za,isp,MU
-2001:1520:1:200::359,2001:1520:1:200::35c,2001:1520::,HEG Mass,heg.com,hosting,AS8972,Host Europe GmbH,hosteurope.de,hosting,DE
-2c05:4d74::,2c05:4d74:3fff:ffff:ffff:ffff:ffff:ffff,2c05:4d74::,African Network Information Center - (AfriNIC) Ltd,afrinic.net,isp,AS5713,Telkom SA Ltd.,telkom.co.za,isp,MU
-240c:a875:4000::,240c:a875:7fff:ffff:ffff:ffff:ffff:ffff,240c:a875:4000::,Asia Pacific Network Information Centre,apnic.net,hosting,AS4134,CHINANET-BACKBONE,chinatelecom.com.cn,isp,AU
-62.255.97.0,62.255.97.15,62.255.0.0,Virgin Media Limited,virginmedia.com,isp,AS5089,Virgin Media Limited,virginmedia.com,isp,GB
-240d:8211:8000::,240d:8211:bfff:ffff:ffff:ffff:ffff:ffff,240d:8211:8000::,Asia Pacific Network Information Centre,apnic.net,hosting,AS4134,CHINANET-BACKBONE,chinatelecom.com.cn,isp,AU
-240f:87ab::,240f:87ab:3fff:ffff:ffff:ffff:ffff:ffff,240f:87ab::,Asia Pacific Network Information Centre,apnic.net,hosting,AS4134,CHINANET-BACKBONE,chinatelecom.com.cn,isp,AU
-2a13:ab90:c000::,2a13:ab90:ffff:ffff:ffff:ffff:ffff:ffff,2a13:ab90:c000::,RIPE NCC,ripe.net,isp,AS3269,Telecom Italia S.p.A.,telecomitalia.com,isp,IT
-2a1e:292:8000::,2a1e:292:bfff:ffff:ffff:ffff:ffff:ffff,2a1e:292:8000::,RIPE NCC,ripe.net,isp,AS3269,Telecom Italia S.p.A.,telecomitalia.com,isp,IT
-2405:8a90:c000::,2405:8a90:ffff:ffff:ffff:ffff:ffff:ffff,2405:8a90:c000::,Asia Pacific Network Information Centre,apnic.net,hosting,AS4134,CHINANET-BACKBONE,chinatelecom.com.cn,isp,AU
-81.187.219.168,81.187.219.175,81.187.0.0,Slough office,bsimmons.com,business,AS20712,Andrews & Arnold Ltd,aa.net.uk,isp,GB
-2c01:b879:4000::,2c01:b879:7fff:ffff:ffff:ffff:ffff:ffff,2c01:b879:4000::,African Network Information Center - (AfriNIC) Ltd,afrinic.net,isp,AS5713,Telkom SA Ltd.,telkom.co.za,isp,MU
-2a01:4f8:2200:27a8::,2a01:4f8:2200:27a8:ffff:ffff:ffff:ffff,2a01:4f8::,HOS-1781958,hetzner.com,hosting,AS24940,Hetzner Online GmbH,hetzner.de,hosting,DE
-2c00:77f6:8000::,2c00:77f6:bfff:ffff:ffff:ffff:ffff:ffff,2c00:77f6:8000::,African Network Information Center - (AfriNIC) Ltd,afrinic.net,isp,AS5713,Telkom SA Ltd.,telkom.co.za,isp,MU
-2a0b:c3ad:8000::,2a0b:c3ad:bfff:ffff:ffff:ffff:ffff:ffff,2a0b:c3ad:8000::,RIPE NCC,ripe.net,isp,AS3269,Telecom Italia S.p.A.,telecomitalia.com,isp,IT
-141.95.234.80,141.95.234.83,141.95.0.0,OF.PL Tomasz,of.pl,business,AS16276,OVH SAS,ovhcloud.com,hosting,PL
-2a08:3b3e:8000::,2a08:3b3e:bfff:ffff:ffff:ffff:ffff:ffff,2a08:3b3e:8000::,RIPE NCC,ripe.net,isp,AS3269,Telecom Italia S.p.A.,telecomitalia.com,isp,IT
-185.250.28.0,185.250.31.255,185.250.0.0,Tele2 Kazakhstan,tele2.kz,isp,AS48503,Mobile Telecom-Service LLP,tele2.kz,isp,KZ
-2a0f:5f66:c000::,2a0f:5f66:ffff:ffff:ffff:ffff:ffff:ffff,2a0f:5f66:c000::,RIPE NCC,ripe.net,isp,AS3269,Telecom Italia S.p.A.,telecomitalia.com,isp,IT
-2c02:1f12:4000::,2c02:1f12:7fff:ffff:ffff:ffff:ffff:ffff,2c02:1f12:4000::,African Network Information Center - (AfriNIC) Ltd,afrinic.net,isp,AS5713,Telkom SA Ltd.,telkom.co.za,isp,MU
-2401:b4d2:c000::,2401:b4d2:ffff:ffff:ffff:ffff:ffff:ffff,2401:b4d2:c000::,Asia Pacific Network Information Centre,apnic.net,hosting,AS4134,CHINANET-BACKBONE,chinatelecom.com.cn,isp,AU
-72.32.178.8,72.32.178.23,72.32.0.0,Rackspace Hosting,rackspace.com,hosting,AS33070,Rackspace Hosting,rackspace.com,hosting,US
-2a02:f86:8000::,2a02:f86:bfff:ffff:ffff:ffff:ffff:ffff,2a02:f86:8000::,RIPE NCC,ripe.net,isp,AS3269,Telecom Italia S.p.A.,telecomitalia.com,isp,IT
-2a19:d3dc:8000::,2a19:d3dc:bfff:ffff:ffff:ffff:ffff:ffff,2a19:d3dc:8000::,RIPE NCC,ripe.net,isp,AS3269,Telecom Italia S.p.A.,telecomitalia.com,isp,IT
-2601:93e1:c000::,2601:93e1:ffff:ffff:ffff:ffff:ffff:ffff,2601:93e1:c000::,U.S. Dept. of Health and Human Services,hhs.gov,government,AS26810,U.S. Dept. of Health and Human Services,hhs.gov,government,US
-189.57.24.144,189.57.24.175,189.57.0.0,TELEFÔNICA BRASIL S.A,telefonica.com.br,isp,AS10429,TELEFÔNICA BRASIL S.A,telefonica.com.br,isp,BR
-2a1c:191b:8000::,2a1c:191b:bfff:ffff:ffff:ffff:ffff:ffff,2a1c:191b:8000::,RIPE NCC,ripe.net,isp,AS3269,Telecom Italia S.p.A.,telecomitalia.com,isp,IT
-67.43.7.44,67.43.7.48,67.43.0.0,Liquid Web Inc.,liquidweb.com,hosting,AS32244,"Liquid Web, L.L.C",liquidweb.com,hosting,US
-213.74.211.96,213.74.211.111,213.74.0.0,FI TELEKOMUNIKASYONVE BIL.SIS.ITHALAT IHRA.SAN.TIC.LTD.STI,turkcell.com.tr,isp,AS34984,Superonline Iletisim Hizmetleri A.S.,superonline.net,isp,TR
-92.66.85.140,92.66.85.151,92.66.0.0,KPN B.V.,kpn.com,isp,AS1136,KPN B.V.,kpn.com,isp,NL
-2401:c422:c000::,2401:c422:ffff:ffff:ffff:ffff:ffff:ffff,2401:c422:c000::,Asia Pacific Network Information Centre,apnic.net,hosting,AS4134,CHINANET-BACKBONE,chinatelecom.com.cn,isp,AU
-2a1e:1d4b::,2a1e:1d4b:3fff:ffff:ffff:ffff:ffff:ffff,2a1e:1d4b::,RIPE NCC,ripe.net,isp,AS3269,Telecom Italia S.p.A.,telecomitalia.com,isp,IT
-2a0c:6762:8000::,2a0c:6762:bfff:ffff:ffff:ffff:ffff:ffff,2a0c:6762:8000::,RIPE NCC,ripe.net,isp,AS3269,Telecom Italia S.p.A.,telecomitalia.com,isp,IT
-2402:d155:8000::,2402:d155:bfff:ffff:ffff:ffff:ffff:ffff,2402:d155:8000::,Asia Pacific Network Information Centre,apnic.net,hosting,AS4134,CHINANET-BACKBONE,chinatelecom.com.cn,isp,AU
-2c0b:fcd0::,2c0b:fcd0:3fff:ffff:ffff:ffff:ffff:ffff,2c0b:fcd0::,African Network Information Center - (AfriNIC) Ltd,afrinic.net,isp,AS5713,Telkom SA Ltd.,telkom.co.za,isp,MU
-85.39.151.128,85.39.151.135,85.39.0.0,PANAPESCA SPA,panapesca.eu,business,AS3269,Telecom Italia S.p.A.,telecomitalia.com,isp,IT
-65.211.167.224,65.211.167.231,65.211.0.0,ADP DEALER,adp.com,business,AS701,Verizon Business,verizonbusiness.com,isp,US
-183.91.80.152,183.91.80.159,183.91.0.0,CSR GUNUNG AGUNG,idola.net.id,isp,AS4800,PT Aplikanusa Lintasarta,lintasarta.net,isp,ID
-68.75.223.160,68.75.223.167,68.75.0.0,"AT&T Services, Inc.",att.com,isp,AS7018,"AT&T Services, Inc.",att.com,isp,US
-240d:7412:4000::,240d:7412:7fff:ffff:ffff:ffff:ffff:ffff,240d:7412:4000::,Asia Pacific Network Information Centre,apnic.net,hosting,AS4134,CHINANET-BACKBONE,chinatelecom.com.cn,isp,AU
-102.69.180.0,102.69.183.255,102.69.0.0,UNLIMITED SARL,un-limited.net,isp,AS328445,UNLIMITED SARL,un-limited.net,isp,CD
-82.209.228.22,82.209.228.22,82.209.0.0,BELTELECOM,beltelecom.by,isp,AS6697,Republican Unitary Telecommunication Enterprise Beltelecom,beltelecom.by,isp,BY
-2a16:f94a::,2a16:f94a:3fff:ffff:ffff:ffff:ffff:ffff,2a16:f94a::,RIPE NCC,ripe.net,isp,AS3269,Telecom Italia S.p.A.,telecomitalia.com,isp,IT
-2a09:9ade::,2a09:9ade:3fff:ffff:ffff:ffff:ffff:ffff,2a09:9ade::,RIPE NCC,ripe.net,isp,AS3269,Telecom Italia S.p.A.,telecomitalia.com,isp,IT
-240a:9247::,240a:9247:3fff:ffff:ffff:ffff:ffff:ffff,240a:9247::,Asia Pacific Network Information Centre,apnic.net,hosting,AS4134,CHINANET-BACKBONE,chinatelecom.com.cn,isp,AU
-2a1e:5663::,2a1e:5663:3fff:ffff:ffff:ffff:ffff:ffff,2a1e:5663::,RIPE NCC,ripe.net,isp,AS3269,Telecom Italia S.p.A.,telecomitalia.com,isp,IT
-2400:4895::,2400:4895:3fff:ffff:ffff:ffff:ffff:ffff,2400:4895::,Asia Pacific Network Information Centre,apnic.net,hosting,AS4134,CHINANET-BACKBONE,chinatelecom.com.cn,isp,AU
-2a00:c738:c000::,2a00:c738:ffff:ffff:ffff:ffff:ffff:ffff,2a00:c738:c000::,RIPE NCC,ripe.net,isp,AS3269,Telecom Italia S.p.A.,telecomitalia.com,isp,IT
-2c0d:dc1:8000::,2c0d:dc1:bfff:ffff:ffff:ffff:ffff:ffff,2c0d:dc1:8000::,African Network Information Center - (AfriNIC) Ltd,afrinic.net,isp,AS5713,Telkom SA Ltd.,telkom.co.za,isp,MU
-2c08:6033:8000::,2c08:6033:bfff:ffff:ffff:ffff:ffff:ffff,2c08:6033:8000::,African Network Information Center - (AfriNIC) Ltd,afrinic.net,isp,AS5713,Telkom SA Ltd.,telkom.co.za,isp,MU
-2a04:748e::,2a04:748e:3fff:ffff:ffff:ffff:ffff:ffff,2a04:748e::,RIPE NCC,ripe.net,isp,AS3269,Telecom Italia S.p.A.,telecomitalia.com,isp,IT
-240a:5af::,240a:5af:3fff:ffff:ffff:ffff:ffff:ffff,240a:5af::,Asia Pacific Network Information Centre,apnic.net,hosting,AS4134,CHINANET-BACKBONE,chinatelecom.com.cn,isp,AU
-99.34.160.48,99.34.160.55,99.34.0.0,"AT&T Enterprises, LLC",att.com,isp,AS7018,"AT&T Services, Inc.",att.com,isp,US
-82.222.186.68,82.222.186.71,82.222.0.0,ADK DEKORASYON KONGRE ORGANIZASYON SANAYI VE TICARET LIMITED SIRKETI,turkcell.com.tr,isp,AS34984,Superonline Iletisim Hizmetleri A.S.,superonline.net,isp,TR
-2a01:4f9:2b:b0::,2a01:4f9:2b:b0:ffff:ffff:ffff:ffff,2a01:4f9::,HOS-1227751,hetzner.com,hosting,AS24940,Hetzner Online GmbH,hetzner.de,hosting,DE
-2a17:78a7:8000::,2a17:78a7:bfff:ffff:ffff:ffff:ffff:ffff,2a17:78a7:8000::,RIPE NCC,ripe.net,isp,AS3269,Telecom Italia S.p.A.,telecomitalia.com,isp,IT
-2a1d:97ed::,2a1d:97ed:3fff:ffff:ffff:ffff:ffff:ffff,2a1d:97ed::,RIPE NCC,ripe.net,isp,AS3269,Telecom Italia S.p.A.,telecomitalia.com,isp,IT
-2c0b:ab2b:8000::,2c0b:ab2b:bfff:ffff:ffff:ffff:ffff:ffff,2c0b:ab2b:8000::,African Network Information Center - (AfriNIC) Ltd,afrinic.net,isp,AS5713,Telkom SA Ltd.,telkom.co.za,isp,MU
-82.200.5.96,82.200.5.111,82.200.0.0,Premier-Tomsk ltd,zsttk.ru,isp,AS21127,Joint Stock Company TransTeleCom,ttk.ru,isp,RU
-2a11:7c1d:c000::,2a11:7c1d:ffff:ffff:ffff:ffff:ffff:ffff,2a11:7c1d:c000::,RIPE NCC,ripe.net,isp,AS3269,Telecom Italia S.p.A.,telecomitalia.com,isp,IT
-211.168.137.64,211.168.137.127,211.168.0.0,Simjiyeong,lguplus.com,business,AS3786,LG DACOM Corporation,uplus.co.kr,business,KR
-2a07:7475::,2a07:7475:3fff:ffff:ffff:ffff:ffff:ffff,2a07:7475::,RIPE NCC,ripe.net,isp,AS3269,Telecom Italia S.p.A.,telecomitalia.com,isp,IT
-2001:41f0:6507::,2001:41f0:6507:ffff:ffff:ffff:ffff:ffff,2001:41f0:4000::,Blu Telecom Bv,blunetworks.nl,business,AS33915,Vodafone Libertel B.V.,vodafone.nl,isp,NL
-41.78.230.241,41.78.230.241,41.78.0.0,Princess May,gigs.co.za,isp,AS37491,Gigs Broadband Pty Ltd,gigs.co.za,isp,ZA
-2c01:2010::,2c01:2010:3fff:ffff:ffff:ffff:ffff:ffff,2c01:2010::,African Network Information Center - (AfriNIC) Ltd,afrinic.net,isp,AS5713,Telkom SA Ltd.,telkom.co.za,isp,MU
-2a13:f6d4:c000::,2a13:f6d4:ffff:ffff:ffff:ffff:ffff:ffff,2a13:f6d4:c000::,RIPE NCC,ripe.net,isp,AS3269,Telecom Italia S.p.A.,telecomitalia.com,isp,IT
-2a06:e7a0:4000::,2a06:e7a0:7fff:ffff:ffff:ffff:ffff:ffff,2a06:e7a0:4000::,RIPE NCC,ripe.net,isp,AS3269,Telecom Italia S.p.A.,telecomitalia.com,isp,IT
-2a19:f286:c000::,2a19:f286:ffff:ffff:ffff:ffff:ffff:ffff,2a19:f286:c000::,RIPE NCC,ripe.net,isp,AS3269,Telecom Italia S.p.A.,telecomitalia.com,isp,IT
-2a17:f0f0:8000::,2a17:f0f0:bfff:ffff:ffff:ffff:ffff:ffff,2a17:f0f0:8000::,RIPE NCC,ripe.net,isp,AS3269,Telecom Italia S.p.A.,telecomitalia.com,isp,IT
-2a05:92f1:4000::,2a05:92f1:7fff:ffff:ffff:ffff:ffff:ffff,2a05:92f1:4000::,RIPE NCC,ripe.net,isp,AS3269,Telecom Italia S.p.A.,telecomitalia.com,isp,IT
-2401:f96a:4000::,2401:f96a:7fff:ffff:ffff:ffff:ffff:ffff,2401:f96a:4000::,Asia Pacific Network Information Centre,apnic.net,hosting,AS4134,CHINANET-BACKBONE,chinatelecom.com.cn,isp,AU
-2001:df3:7f81::,2001:df3:7fbf:ffff:ffff:ffff:ffff:ffff,2001:df3:4000::,Asia Pacific Network Information Centre,apnic.net,isp,AS7671,NTT SmartConnect Corporation,nttsmc.com,hosting,AU
-31.160.127.232,31.160.127.235,31.160.0.0,Haveruij BV,jeroenversluis.nl,business,AS1136,KPN B.V.,kpn.com,isp,NL
-2c01:58df:8000::,2c01:58df:bfff:ffff:ffff:ffff:ffff:ffff,2c01:58df:8000::,African Network Information Center - (AfriNIC) Ltd,afrinic.net,isp,AS5713,Telkom SA Ltd.,telkom.co.za,isp,MU
-2a15:4935:c000::,2a15:4935:ffff:ffff:ffff:ffff:ffff:ffff,2a15:4935:c000::,RIPE NCC,ripe.net,isp,AS3269,Telecom Italia S.p.A.,telecomitalia.com,isp,IT
-2a1f:ca2b:c000::,2a1f:ca2b:ffff:ffff:ffff:ffff:ffff:ffff,2a1f:ca2b:c000::,RIPE NCC,ripe.net,isp,AS3269,Telecom Italia S.p.A.,telecomitalia.com,isp,IT
-92.65.249.192,92.65.249.195,92.65.0.0,De Taalsprong,taalsprong.nl,business,AS1136,KPN B.V.,kpn.com,isp,NL
+1.2.4.0,1.2.4.255,1.2.0.0,China Network Information Center,cnnic.cn,hosting,AS24151,China Internet Network Infomation Center,cnnic.cn,hosting,CN
+1.9.190.0,1.9.192.255,1.9.0.0,TM TECHNOLOGY SERVICES SDN. BHD.,tm.com.my,isp,AS4788,TM TECHNOLOGY SERVICES SDN. BHD.,tm.com.my,isp,MY
+1.9.70.144,1.9.95.255,1.9.0.0,TM TECHNOLOGY SERVICES SDN. BHD.,tm.com.my,isp,AS4788,TM TECHNOLOGY SERVICES SDN. BHD.,tm.com.my,isp,MY
+1.4.4.0,1.4.4.255,1.4.0.0,"KNET Techonlogy (BeiJing) Co.,Ltd.",knet.cn,business,,,,,CN
+1.9.116.0,1.9.120.255,1.9.0.0,HSBB BUSINESS,tm.com.my,isp,AS4788,TM TECHNOLOGY SERVICES SDN. BHD.,tm.com.my,isp,MY
+1.10.0.0,1.10.7.255,1.10.0.0,CHINANET Guangdong province network,chinatelecom.cn,isp,,,,,CN
+1.7.0.0,1.7.255.255,1.7.0.0,Sify Limited,sifytechnologies.com,isp,AS9583,Sify Limited,sifycorp.com,isp,IN
+1.0.16.0,1.0.31.255,1.0.0.0,"i2ts,inc.",i2ts.com,business,AS2519,ARTERIA Networks Corporation,arteria-net.com,isp,JP
+1.9.32.0,1.9.32.255,1.9.0.0,TMNET,tm.com.my,isp,AS4788,TM TECHNOLOGY SERVICES SDN. BHD.,tm.com.my,isp,MY
+1.10.16.0,1.10.127.255,1.10.0.0,CHINANET Guangdong province network,chinatelecom.cn,isp,,,,,CN
+1.9.14.64,1.9.14.95,1.9.0.0,gitn-brf,gitn.com.my,isp,AS4788,TM TECHNOLOGY SERVICES SDN. BHD.,tm.com.my,isp,MY
+1.9.100.0,1.9.101.255,1.9.0.0,LSN STREAMYX-KU,tm.com.my,isp,AS4788,TM TECHNOLOGY SERVICES SDN. BHD.,tm.com.my,isp,MY
+1.9.124.0,1.9.127.255,1.9.0.0,HSBB BUSINESS,tm.com.my,isp,AS4788,TM TECHNOLOGY SERVICES SDN. BHD.,tm.com.my,isp,MY
+1.9.176.0,1.9.187.255,1.9.0.0,HSBB HOME,tm.com.my,isp,AS4788,TM TECHNOLOGY SERVICES SDN. BHD.,tm.com.my,isp,MY
+1.9.67.160,1.9.70.127,1.9.0.0,TM TECHNOLOGY SERVICES SDN. BHD.,tm.com.my,isp,AS4788,TM TECHNOLOGY SERVICES SDN. BHD.,tm.com.my,isp,MY
+1.6.70.154,1.6.70.155,1.6.0.0,LITMUS7 SYSTEMS CONSULTING PVT LTD,litmus7.com,business,AS9583,Sify Limited,sifycorp.com,isp,IN
+1.9.204.0,1.9.205.255,1.9.0.0,HSBB HOME,tm.com.my,isp,AS4788,TM TECHNOLOGY SERVICES SDN. BHD.,tm.com.my,isp,MY
+1.1.2.0,1.1.2.255,1.1.0.0,Taguchi Digital Marketing System,taguchi.com.au,business,,,,,AU
+1.9.121.0,1.9.121.255,1.9.0.0,STREAMYX,tm.com.my,isp,AS4788,TM TECHNOLOGY SERVICES SDN. BHD.,tm.com.my,isp,MY
+1.8.0.0,1.8.17.255,1.8.0.0,"KNET Techonlogy (BeiJing) Co.,Ltd.",knet.cn,hosting,AS38345,Internet Domain Name System Beijing Engineering Resrarch Center Ltd.,knet.cn,hosting,CN
+1.9.133.0,1.9.133.127,1.9.0.0,Jabatan Ketua Menteri,melaka.gov.my,business,AS4788,TM TECHNOLOGY SERVICES SDN. BHD.,tm.com.my,isp,MY
+1.0.128.0,1.0.191.255,1.0.0.0,Dynamic IP Address for residential Broadband Customers,totidc.net,business,AS23969,TOT Public Company Limited,ntplc.co.th,isp,TH
+1.9.194.0,1.9.201.255,1.9.0.0,TM TECHNOLOGY SERVICES SDN. BHD.,tm.com.my,isp,AS4788,TM TECHNOLOGY SERVICES SDN. BHD.,tm.com.my,isp,MY
+1.1.128.0,1.1.255.255,1.1.0.0,Dynamic IP Address for residential Broadband Customers,totidc.net,business,AS23969,TOT Public Company Limited,ntplc.co.th,isp,TH
+1.9.96.0,1.9.97.255,1.9.0.0,LSN STREAMYX-KO,tm.com.my,isp,AS4788,TM TECHNOLOGY SERVICES SDN. BHD.,tm.com.my,isp,MY
+1.1.1.0,1.1.1.255,1.1.0.0,APNIC and Cloudflare DNS Resolver project,cloudflare.com,hosting,AS13335,"Cloudflare, Inc.",cloudflare.com,hosting,AU
+1.1.8.0,1.1.8.255,1.1.0.0,"Yamu Technologies Co., Ltd.",yamu.com,hosting,AS149511,"Yamu Technologies Co., Ltd.",yamu.com,hosting,CN
+1.4.8.0,1.4.127.255,1.4.0.0,CHINANET Guangdong province network,chinatelecom.cn,isp,,,,,CN
+1.9.13.0,1.9.14.63,1.9.0.0,TM TECHNOLOGY SERVICES SDN. BHD.,tm.com.my,isp,AS4788,TM TECHNOLOGY SERVICES SDN. BHD.,tm.com.my,isp,MY
+1.0.192.0,1.0.255.255,1.0.0.0,Dynamic IP Address for residential Broadband Customers,totidc.net,isp,AS23969,TOT Public Company Limited,ntplc.co.th,isp,TH
+1.9.162.0,1.9.162.255,1.9.0.0,Universiti Malaysia Pahang,ump.edu.my,isp,AS4788,TM TECHNOLOGY SERVICES SDN. BHD.,tm.com.my,isp,MY
+1.2.0.0,1.2.1.255,1.2.0.0,CHINANET FUJIAN PROVINCE NETWORK,chinatelecom.cn,isp,,,,,CN
+1.9.188.0,1.9.189.255,1.9.0.0,HSBB BUSINESS,tm.com.my,isp,AS4788,TM TECHNOLOGY SERVICES SDN. BHD.,tm.com.my,isp,MY
+1.9.112.0,1.9.115.255,1.9.0.0,HSBB HOME,tm.com.my,isp,AS4788,TM TECHNOLOGY SERVICES SDN. BHD.,tm.com.my,isp,MY
+1.6.0.0,1.6.70.135,1.6.0.0,Sify Limited,sifytechnologies.com,isp,AS9583,Sify Limited,sifycorp.com,isp,IN
+1.9.161.0,1.9.161.255,1.9.0.0,TM TECHNOLOGY SERVICES SDN. BHD.,tm.com.my,isp,AS4788,TM TECHNOLOGY SERVICES SDN. BHD.,tm.com.my,isp,MY
+1.9.56.0,1.9.67.143,1.9.0.0,TM TECHNOLOGY SERVICES SDN. BHD.,tm.com.my,isp,AS4788,TM TECHNOLOGY SERVICES SDN. BHD.,tm.com.my,isp,MY
+1.1.9.0,1.1.63.255,1.1.0.0,CHINANET Guangdong province network,chinatelecom.cn,isp,,,,,CN
+1.9.102.0,1.9.103.255,1.9.0.0,LSN STREAMYX-SGT,tm.com.my,isp,AS4788,TM TECHNOLOGY SERVICES SDN. BHD.,tm.com.my,isp,MY
+1.9.70.128,1.9.70.143,1.9.0.0,Muda Paper Mills Sdn. Bhd.,mpmsb.com,business,AS4788,TM TECHNOLOGY SERVICES SDN. BHD.,tm.com.my,isp,MY
+1.2.9.0,1.2.127.255,1.2.0.0,CHINANET Guangdong province network,chinatelecom.cn,isp,,,,,CN
+1.9.12.0,1.9.12.255,1.9.0.0,KUALA LUMPUR,srikl.edu.my,education,AS4788,TM TECHNOLOGY SERVICES SDN. BHD.,tm.com.my,isp,MY
+1.9.106.0,1.9.107.255,1.9.0.0,LSN STREAMYX-STM,tm.com.my,isp,AS4788,TM TECHNOLOGY SERVICES SDN. BHD.,tm.com.my,isp,MY
+1.2.5.0,1.2.7.255,1.2.0.0,CHINANET FUJIAN PROVINCE NETWORK,chinatelecom.cn,isp,,,,,CN
+1.10.192.0,1.10.255.255,1.10.0.0,Dynamic IP for ADSL Broadband Service,totidc.net,isp,AS23969,TOT Public Company Limited,ntplc.co.th,isp,TH
+1.2.192.0,1.2.255.255,1.2.0.0,Dynamic IP Address for residential Broadband Customers,totidc.net,business,AS23969,TOT Public Company Limited,ntplc.co.th,isp,TH
+1.4.1.0,1.4.3.255,1.4.0.0,CHINANET FUJIAN PROVINCE NETWORK,chinatelecom.cn,isp,,,,,CN
+1.3.0.0,1.3.255.255,1.3.0.0,CHINANET Guangdong province network,chinatelecom.cn,isp,,,,,CN
+1.9.0.0,1.9.0.127,1.9.0.0,TM TECHNOLOGY SERVICES SDN. BHD.,tm.com.my,isp,AS4788,TM TECHNOLOGY SERVICES SDN. BHD.,tm.com.my,isp,MY
+1.0.8.0,1.0.15.255,1.0.0.0,CHINANET Guangdong province network,chinatelecom.cn,isp,,,,,CN
+1.6.70.136,1.6.70.143,1.6.0.0,LITMUS7 SYSTEMS CONSULTING PVT LTD,litmus7.com,business,AS9583,Sify Limited,sifycorp.com,isp,IN
+1.6.70.156,1.6.255.255,1.6.0.0,Sify Limited,sifytechnologies.com,isp,AS9583,Sify Limited,sifycorp.com,isp,IN
+1.9.104.0,1.9.105.255,1.9.0.0,LSN STREAMYX-KBU,tm.com.my,isp,AS4788,TM TECHNOLOGY SERVICES SDN. BHD.,tm.com.my,isp,MY
+1.9.52.0,1.9.55.255,1.9.0.0,HSBB HOME,tm.com.my,isp,AS4788,TM TECHNOLOGY SERVICES SDN. BHD.,tm.com.my,isp,MY
+1.9.44.0,1.9.51.255,1.9.0.0,HSBB BUSINESS,tm.com.my,isp,AS4788,TM TECHNOLOGY SERVICES SDN. BHD.,tm.com.my,isp,MY
+1.4.5.0,1.4.7.255,1.4.0.0,CHINANET FUJIAN PROVINCE NETWORK,chinatelecom.cn,isp,,,,,CN
+1.9.14.255,1.9.31.255,1.9.0.0,TM TECHNOLOGY SERVICES SDN. BHD.,tm.com.my,isp,AS4788,TM TECHNOLOGY SERVICES SDN. BHD.,tm.com.my,isp,MY
+1.2.128.0,1.2.191.255,1.2.0.0,Dynamic IP Address for residential Broadband Customers,totidc.net,isp,AS23969,TOT Public Company Limited,ntplc.co.th,isp,TH
+1.9.2.0,1.9.2.255,1.9.0.0,Kementerian Pengajian Tinggi Malaysia,myren.net.my,education,AS4788,TM TECHNOLOGY SERVICES SDN. BHD.,tm.com.my,isp,MY
+1.1.0.0,1.1.0.255,1.1.0.0,CHINANET FUJIAN PROVINCE NETWORK,chinatelecom.cn,isp,,,,,CN
+1.0.32.0,1.0.63.255,1.0.0.0,CHINANET Guangdong province network,chinatelecom.cn,isp,,,,,CN
+1.9.128.0,1.9.132.255,1.9.0.0,TM TECHNOLOGY SERVICES SDN. BHD.,tm.com.my,isp,AS4788,TM TECHNOLOGY SERVICES SDN. BHD.,tm.com.my,isp,MY
+1.9.67.144,1.9.67.159,1.9.0.0,VITROX TECHNOLOGIES SDN BHD,uniten.edu.my,education,AS4788,TM TECHNOLOGY SERVICES SDN. BHD.,tm.com.my,isp,MY
+1.8.19.0,1.8.255.255,1.8.0.0,"KNET Techonlogy (BeiJing) Co.,Ltd.",knet.cn,business,,,,,CN
+1.10.8.0,1.10.9.255,1.10.0.0,CHINANET FUJIAN PROVINCE NETWORK,chinatelecom.cn,isp,,,,,CN
+1.9.202.0,1.9.203.255,1.9.0.0,HSBB BUSINESS,tm.com.my,isp,AS4788,TM TECHNOLOGY SERVICES SDN. BHD.,tm.com.my,isp,MY
+1.10.10.0,1.10.10.255,1.10.0.0,National Internet Exchange of India,nixi.in,isp,AS148000,1.10.10.10 - Indian Public DNS,dns.nic.in,business,IN
+1.9.133.128,1.9.151.255,1.9.0.0,TM TECHNOLOGY SERVICES SDN. BHD.,tm.com.my,isp,AS4788,TM TECHNOLOGY SERVICES SDN. BHD.,tm.com.my,isp,MY
+1.1.3.0,1.1.7.255,1.1.0.0,CHINANET FUJIAN PROVINCE NETWORK,chinatelecom.cn,isp,,,,,CN
+1.4.128.0,1.4.255.255,1.4.0.0,Dynamic IP Address for residential Broadband Customers,totidc.net,business,AS23969,TOT Public Company Limited,ntplc.co.th,isp,TH
+1.9.160.0,1.9.160.255,1.9.0.0,Universiti Tenaga Nasional (Muadzam Shah),uniten.edu.my,education,AS4788,TM TECHNOLOGY SERVICES SDN. BHD.,tm.com.my,isp,MY
+1.9.163.0,1.9.171.255,1.9.0.0,TM TECHNOLOGY SERVICES SDN. BHD.,tm.com.my,isp,AS4788,TM TECHNOLOGY SERVICES SDN. BHD.,tm.com.my,isp,MY
+1.9.152.0,1.9.159.255,1.9.0.0,HSBB HOME CENTRAL,tm.com.my,isp,AS4788,TM TECHNOLOGY SERVICES SDN. BHD.,tm.com.my,isp,MY
+1.2.8.0,1.2.8.255,1.2.0.0,China Network Information Center,cnnic.cn,business,,,,,CN
+1.2.3.0,1.2.3.255,1.2.0.0,APNIC Debogon Project,,business,,,,,AU
+1.0.4.0,1.0.7.255,1.0.0.0,Gtelecom Pty Ltd,gtelecom.com.au,isp,AS38803,Gtelecom Pty Ltd,gtelecom.com.au,isp,AU
+1.9.122.0,1.9.123.255,1.9.0.0,HSBB HOME,tm.com.my,isp,AS4788,TM TECHNOLOGY SERVICES SDN. BHD.,tm.com.my,isp,MY
+1.9.33.0,1.9.43.255,1.9.0.0,TM TECHNOLOGY SERVICES SDN. BHD.,tm.com.my,isp,AS4788,TM TECHNOLOGY SERVICES SDN. BHD.,tm.com.my,isp,MY
+1.4.0.0,1.4.0.255,1.4.0.0,APNIC Debogon Project,,business,,,,,AU
+1.9.206.0,1.9.255.255,1.9.0.0,TM TECHNOLOGY SERVICES SDN. BHD.,tm.com.my,isp,AS4788,TM TECHNOLOGY SERVICES SDN. BHD.,tm.com.my,isp,MY
+1.9.193.0,1.9.193.255,1.9.0.0,KKIPC (Likas Square),tm.net.my,isp,AS4788,TM TECHNOLOGY SERVICES SDN. BHD.,tm.com.my,isp,MY
+1.10.11.0,1.10.15.255,1.10.0.0,CHINANET FUJIAN PROVINCE NETWORK,chinatelecom.cn,isp,,,,,CN
+1.9.3.0,1.9.11.255,1.9.0.0,TM TECHNOLOGY SERVICES SDN. BHD.,tm.com.my,isp,AS4788,TM TECHNOLOGY SERVICES SDN. BHD.,tm.com.my,isp,MY
+1.10.140.0,1.10.191.255,1.10.0.0,TOT Public Company Limited,tot.co.th,isp,AS23969,TOT Public Company Limited,ntplc.co.th,isp,TH
+1.9.172.0,1.9.175.255,1.9.0.0,HSBB BUSINESS,tm.com.my,isp,AS4788,TM TECHNOLOGY SERVICES SDN. BHD.,tm.com.my,isp,MY
+1.0.1.0,1.0.3.255,1.0.0.0,CHINANET FUJIAN PROVINCE NETWORK,chinatelecom.cn,isp,,,,,CN
+1.0.0.0,1.0.0.255,1.0.0.0,APNIC and Cloudflare DNS Resolver project,cloudflare.com,hosting,AS13335,"Cloudflare, Inc.",cloudflare.com,hosting,AU
+1.9.0.160,1.9.1.255,1.9.0.0,TM TECHNOLOGY SERVICES SDN. BHD.,tm.com.my,isp,AS4788,TM TECHNOLOGY SERVICES SDN. BHD.,tm.com.my,isp,MY
+1.9.108.0,1.9.111.255,1.9.0.0,HSBB BUSINESS,tm.com.my,isp,AS4788,TM TECHNOLOGY SERVICES SDN. BHD.,tm.com.my,isp,MY
+1.1.127.0,1.1.127.255,1.1.0.0,"i2ts,inc.",i2ts.com,business,,,,,JP
+1.0.64.0,1.0.127.255,1.0.0.0,"Enecom,Inc.",eneco.nl,business,AS18144,"Enecom,Inc.",enecom.co.jp,business,JP
+1.9.98.0,1.9.99.255,1.9.0.0,LSN STREAMYX-TL,tm.com.my,isp,AS4788,TM TECHNOLOGY SERVICES SDN. BHD.,tm.com.my,isp,MY
+1.9.0.128,1.9.0.159,1.9.0.0,mollogistics kelana jaya,mol-logistics.com.my,business,AS4788,TM TECHNOLOGY SERVICES SDN. BHD.,tm.com.my,isp,MY
+1.1.64.0,1.1.126.255,1.1.0.0,"i2ts,inc.",i2ts.com,business,AS2519,ARTERIA Networks Corporation,arteria-net.com,isp,JP
+1.9.14.96,1.9.14.127,1.9.0.0,TM TECHNOLOGY SERVICES SDN. BHD.,tm.com.my,isp,AS4788,TM TECHNOLOGY SERVICES SDN. BHD.,tm.com.my,isp,MY
+1.10.128.0,1.10.139.255,1.10.0.0,Shared Dynamic IP Address for Residential Broadband Services,totbb.net,isp,AS23969,TOT Public Company Limited,ntplc.co.th,isp,TH
+1.2.2.0,1.2.2.255,1.2.0.0,"KNET Techonlogy (BeiJing) Co.,Ltd.",knet.cn,business,,,,,CN
+1.6.70.144,1.6.70.153,1.6.0.0,Sify Limited,sifytechnologies.com,isp,AS9583,Sify Limited,sifycorp.com,isp,IN
+1.5.0.0,1.5.255.255,1.5.0.0,SoftBank Corp.,softbank.jp,isp,AS4725,SoftBank Corp.,softbank.jp,isp,JP
+1.8.18.0,1.8.18.255,1.8.0.0,Internet Domain Name System Beijing Engineering Resrarch Center Ltd.,knet.cn,business,,,,,CN
