@@ -1,6 +1,6 @@
-# IPinfo Standard Database
+# IPinfo Core Database
 
-## IPinfo's Standard is a robust IP database that combines our location, ASN, network flags data in a single database.
+## IPinfo's Core is a robust IP database that combines our location, ASN, network flags data in a single database.
 
 # Database Schema & Description
 
@@ -32,9 +32,9 @@
 
 ## Samples
 
-- [CSV Database] [IPinfo Standard Sample](/IPinfo%20Standard/ipinfo_standard_sample.csv)
-- [JSON Database] [IPinfo Standard Sample](/IPinfo%20Standard/ipinfo_standard_sample.json)
-- [MMDB Database] [IPinfo Standard Sample](/IPinfo%20Standard/ipinfo_standard_sample.mmdb)
+- [CSV Database] [IPinfo Core Sample](/IPinfo%20Core/ipinfo_standard_sample.csv)
+- [JSON Database] [IPinfo Core Sample](/IPinfo%20Core/ipinfo_standard_sample.json)
+- [MMDB Database] [IPinfo Core Sample](/IPinfo%20Core/ipinfo_standard_sample.mmdb)
 
 ## Downloadable File Formats
 
