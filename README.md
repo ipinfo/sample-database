@@ -8,25 +8,21 @@
   <img src="./assets/header_grahics_main_readme.png">
 </p>
 
+- [ IPinfo Sample Database Repository](#-ipinfo-sample-database-repository)
+  - [Sample datasets of all the IP address database products.](#sample-datasets-of-all-the-ip-address-database-products)
 - [Database Overview](#database-overview)
 - [Features of the Repository](#features-of-the-repository)
 - [Summary of the Databases](#summary-of-the-databases)
-    - [IP to Country](#ip-to-country)
-    - [IP to ASN](#ip-to-asn)
-    - [IP to Country + ASN](#ip-to-country--asn)
-    - [IP Geolocation](#ip-geolocation)
-    - [IP to Company](#ip-to-company)
-    - [ASN Database](#asn-database)
-    - [IP to Mobile Carrier](#ip-to-mobile-carrier)
-    - [Privacy Detection](#privacy-detection--anonymous-ip-detection)
-    - [Hosted Domains](#hosted-domains--reverse-ip-lookup)
-    - [Abuse Contact](#abuse-contact)
-    - [IP Geolocation Extended](#ip-geolocation-extended)
-    - [Privacy Detection Extended](#privacy-detection-extended)
-    - [IPinfo Lite](#ipinfo-lite-database)
-    - [IPinfo Standard](#ipinfo-standard-database)
-    - [IPinfo Plus](#ipinfo-plus-database)
-    - [WHOIS](#whois)
+    - [🔗 IP Geolocation Database Product Page](#-ip-geolocation-database-product-page)
+    - [🔗 IP to Company Database Product Page](#-ip-to-company-database-product-page)
+    - [🔗 ASN Database Product Page](#-asn-database-product-page)
+    - [🔗 IP to Mobile Carrier Database Product Page](#-ip-to-mobile-carrier-database-product-page)
+    - [🔗 Privacy Detection Database Product Page](#-privacy-detection-database-product-page)
+    - [🔗 Hosted Domains Database Product Page](#-hosted-domains-database-product-page)
+    - [🔗 Abuse Contact Database Product Page](#-abuse-contact-database-product-page)
+    - [R WHOIS](#r-whois)
+    - [RIR WHOIS](#rir-whois)
+    - [🔗 WHOIS Database Product Page](#-whois-database-product-page)
 - [Relevant Articles](#relevant-articles)
   - [Guides](#guides)
   - [FAQs](#faqs)
@@ -77,8 +73,8 @@ From January 2025, we are offering several new IP database downloads that bundle
 | Database Product | Sample Database Repo                     | Description                                                                 |
 | ---------------- | ---------------------------------------- | --------------------------------------------------------------------------- |
 | IPinfo Lite      | [IP Lite Sample](/IPinfo%20Lite)         | The ultimate free IP database from IPinfo                                   |
-| IPinfo Plus      | [IP Standard Sample](/IPinfo%20Standard) | Location, ASN and newtork flags IP database                                 |
-| IPinfo Standard  | [IP Plus Sample](/IPinfo%20Plus)         | Enterprise IP database with location, insights, network metadata, and flags |
+| IPinfo Core      | [IP Core Sample](/IPinfo%20Core) | Location, ASN and newtork flags IP database                                 |
+| IPinfo Plus  | [IP Plus Sample](/IPinfo%20Plus)         | Enterprise IP database with location, insights, network metadata, and flags |
 
 
 
@@ -417,11 +413,11 @@ You can find the schema, database sample, and other information in the **[IPinfo
 </details>
 
 <details id=15>
-<summary><h2>IPinfo Standard Database</h2></summary>
+<summary><h2>IPinfo Core Database</h2></summary>
 
-**IPinfo's Standard is a robust IP database that combines our location, ASN, and network flags data into a single database**
+**IPinfo's Core is a robust IP database that combines our location, ASN, and network flags data into a single database**
 
-You can find the schema, database sample, and other information in the **[IPinfo Standard folder](/IPinfo%20Standard)**. The database includes the following fields:
+You can find the schema, database sample, and other information in the **[IPinfo Core folder](/IPinfo%20Core)**. The database includes the following fields:
 
 | Field Name     | Example                       | Descrption                                                                  |
 | -------------- | ----------------------------- | --------------------------------------------------------------------------- |
