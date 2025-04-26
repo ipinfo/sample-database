@@ -1,101 +1,101 @@
 network,country,country_code,continent,continent_code,asn,as_name,as_domain
-1.1.4.0/23,China,CN,Asia,AS,,,
-1.1.10.3,China,CN,Asia,AS,,,
-1.1.10.64/26,China,CN,Asia,AS,,,
-1.1.6.24/29,China,CN,Asia,AS,,,
-1.1.20.128/25,China,CN,Asia,AS,,,
-1.1.11.0/24,China,CN,Asia,AS,,,
-1.1.6.32/28,China,CN,Asia,AS,,,
-1.2.2.0/24,China,CN,Asia,AS,,,
-1.1.0.0/24,China,CN,Asia,AS,,,
-1.1.60.0/24,China,CN,Asia,AS,,,
-1.1.2.112/28,China,CN,Asia,AS,,,
-1.1.21.0/24,China,CN,Asia,AS,,,
-1.1.48.0/21,China,CN,Asia,AS,,,
-1.1.1.0/24,Australia,AU,Oceania,OC,AS13335,"Cloudflare, Inc.",cloudflare.com
-1.1.6.20/31,China,CN,Asia,AS,,,
-1.1.10.2,South Korea,KR,Asia,AS,,,
-1.1.3.3,Mexico,MX,North America,NA,,,
 1.1.20.16/30,China,CN,Asia,AS,,,
-1.1.126.0/24,Japan,JP,Asia,AS,AS2519,ARTERIA Networks Corporation,arteria-net.com
-1.1.6.0/28,China,CN,Asia,AS,,,
-1.1.7.0/24,China,CN,Asia,AS,,,
-1.1.10.128/25,China,CN,Asia,AS,,,
-1.0.17.0/24,Japan,JP,Asia,AS,,,
-1.1.6.54/31,Turkey,TR,Asia,AS,,,
-1.1.20.0/28,South Korea,KR,Asia,AS,,,
-1.1.2.64/28,Singapore,SG,Asia,AS,,,
+1.0.5.224/27,Australia,AU,Oceania,OC,AS38803,Gtelecom Pty Ltd,gtelecom.com.au
+1.1.3.8/29,China,CN,Asia,AS,,,
+1.0.5.216/29,Australia,AU,Oceania,OC,AS38803,Gtelecom Pty Ltd,gtelecom.com.au
+1.1.3.16/28,China,CN,Asia,AS,,,
+1.1.64.0/19,Japan,JP,Asia,AS,AS2519,ARTERIA Networks Corporation,arteria-net.com
+1.1.20.3,China,CN,Asia,AS,,,
+1.0.64.0/18,Japan,JP,Asia,AS,AS18144,"Enecom,Inc.",enecom.co.jp
+1.1.6.20/31,China,CN,Asia,AS,,,
+1.1.6.32/28,China,CN,Asia,AS,,,
+1.1.2.8/29,Singapore,SG,Asia,AS,,,
+1.0.5.0/25,Australia,AU,Oceania,OC,AS38803,Gtelecom Pty Ltd,gtelecom.com.au
+1.1.3.0,China,CN,Asia,AS,,,
+1.1.20.32/27,China,CN,Asia,AS,,,
+1.1.9.0/24,China,CN,Asia,AS,,,
+1.1.112.0/21,Japan,JP,Asia,AS,AS2519,ARTERIA Networks Corporation,arteria-net.com
 1.1.6.62/31,Turkey,TR,Asia,AS,,,
-1.1.32.0/20,China,CN,Asia,AS,,,
-1.1.3.0/31,Bulgaria,BG,Europe,EU,,,
-1.0.128.0/17,Thailand,TH,Asia,AS,AS23969,TOT Public Company Limited,ntplc.co.th
-1.1.10.0/31,China,CN,Asia,AS,,,
-1.1.30.0/24,China,CN,Asia,AS,,,
+1.0.17.0/24,Japan,JP,Asia,AS,,,
+1.0.5.213,Iran,IR,Asia,AS,AS38803,Gtelecom Pty Ltd,gtelecom.com.au
+1.0.20.0/22,Japan,JP,Asia,AS,,,
+1.1.124.0/23,Japan,JP,Asia,AS,AS2519,ARTERIA Networks Corporation,arteria-net.com
+1.1.16.0/22,China,CN,Asia,AS,,,
+1.0.5.212,Australia,AU,Oceania,OC,AS38803,Gtelecom Pty Ltd,gtelecom.com.au
+1.1.3.4/30,China,CN,Asia,AS,,,
+1.1.2.64/27,Singapore,SG,Asia,AS,,,
+1.0.4.0/24,Australia,AU,Oceania,OC,AS38803,Gtelecom Pty Ltd,gtelecom.com.au
+1.1.3.128/25,China,CN,Asia,AS,,,
+1.1.0.0/24,Italy,IT,Europe,EU,,,
+1.1.12.0/22,China,CN,Asia,AS,,,
+1.1.11.0/24,China,CN,Asia,AS,,,
+1.1.2.104/29,Singapore,SG,Asia,AS,,,
+1.1.20.0/31,China,CN,Asia,AS,,,
+1.1.10.8/29,China,CN,Asia,AS,,,
+1.0.16.0/24,Japan,JP,Asia,AS,AS2519,ARTERIA Networks Corporation,arteria-net.com
+1.1.20.23,China,CN,Asia,AS,,,
+1.1.2.32/27,China,CN,Asia,AS,,,
+1.1.2.16/28,China,CN,Asia,AS,,,
+1.1.28.0/23,China,CN,Asia,AS,,,
+1.1.20.64/26,China,CN,Asia,AS,,,
+1.1.6.60/31,China,CN,Asia,AS,,,
+1.0.6.0/23,Australia,AU,Oceania,OC,AS38803,Gtelecom Pty Ltd,gtelecom.com.au
+1.1.7.0/24,China,CN,Asia,AS,,,
+1.0.8.0/21,China,CN,Asia,AS,,,
+1.1.10.32/27,China,CN,Asia,AS,,,
+1.0.2.0/23,China,CN,Asia,AS,,,
+1.1.2.1,Vietnam,VN,Asia,AS,,,
+1.1.3.1,Bulgaria,BG,Europe,EU,,,
+1.1.6.22/31,Turkey,TR,Asia,AS,,,
+1.1.8.0/24,China,CN,Asia,AS,AS149511,"Yamu Technologies Co., Ltd.",yamu.com
+1.1.120.0/22,Japan,JP,Asia,AS,AS2519,ARTERIA Networks Corporation,arteria-net.com
+1.1.96.0/20,Japan,JP,Asia,AS,AS2519,ARTERIA Networks Corporation,arteria-net.com
+1.1.20.2,South Korea,KR,Asia,AS,,,
+1.1.20.8/29,China,CN,Asia,AS,,,
+1.1.126.0/24,Japan,JP,Asia,AS,AS2519,ARTERIA Networks Corporation,arteria-net.com
+1.1.20.128/25,China,CN,Asia,AS,,,
+1.1.3.2,China,CN,Asia,AS,,,
+1.0.18.0/23,Japan,JP,Asia,AS,,,
+1.1.6.56/30,China,CN,Asia,AS,,,
+1.1.6.0/28,China,CN,Asia,AS,,,
+1.1.31.0/24,Poland,PL,Europe,EU,,,
+1.1.2.4/30,China,CN,Asia,AS,,,
+1.1.10.2,South Korea,KR,Asia,AS,,,
+1.0.5.128/26,Australia,AU,Oceania,OC,AS38803,Gtelecom Pty Ltd,gtelecom.com.au
+1.1.32.0/19,China,CN,Asia,AS,,,
+1.0.5.192/28,Australia,AU,Oceania,OC,AS38803,Gtelecom Pty Ltd,gtelecom.com.au
+1.1.24.0/22,China,CN,Asia,AS,,,
+1.1.4.0/23,China,CN,Asia,AS,,,
+1.0.5.208/30,Australia,AU,Oceania,OC,AS38803,Gtelecom Pty Ltd,gtelecom.com.au
+1.1.3.64/26,China,CN,Asia,AS,,,
+1.0.1.0/24,China,CN,Asia,AS,,,
+1.1.21.0/24,China,CN,Asia,AS,,,
+1.1.6.24/29,China,CN,Asia,AS,,,
+1.1.6.16/30,China,CN,Asia,AS,,,
+1.1.20.20/31,China,CN,Asia,AS,,,
 1.1.3.32/27,China,CN,Asia,AS,,,
-1.1.2.96/29,China,CN,Asia,AS,,,
-1.1.20.24/29,China,CN,Asia,AS,,,
 1.1.20.22,Bangladesh,BD,Asia,AS,,,
 1.1.10.4/30,China,CN,Asia,AS,,,
-1.1.10.32/27,China,CN,Asia,AS,,,
-1.0.1.0/24,Australia,AU,Oceania,OC,,,
-1.1.6.64/26,Turkey,TR,Asia,AS,,,
-1.1.20.23,China,CN,Asia,AS,,,
-1.1.127.0/24,Japan,JP,Asia,AS,,,
-1.1.2.128/25,Singapore,SG,Asia,AS,,,
-1.1.3.144/28,China,CN,Asia,AS,,,
-1.1.6.56/30,China,CN,Asia,AS,,,
-1.0.20.0/22,Japan,JP,Asia,AS,,,
-1.1.62.0/23,China,CN,Asia,AS,,,
-1.1.2.80/28,China,CN,Asia,AS,,,
-1.1.24.0/22,China,CN,Asia,AS,,,
-1.1.61.0/24,Bulgaria,BG,Europe,EU,,,
-1.1.96.0/20,Japan,JP,Asia,AS,AS2519,ARTERIA Networks Corporation,arteria-net.com
-1.0.16.0/24,Japan,JP,Asia,AS,AS2519,ARTERIA Networks Corporation,arteria-net.com
-1.1.2.16/28,China,CN,Asia,AS,,,
-1.1.3.2,China,CN,Asia,AS,,,
-1.1.3.192/26,China,CN,Asia,AS,,,
-1.1.31.0/24,Poland,PL,Europe,EU,,,
-1.1.20.32/27,China,CN,Asia,AS,,,
-1.0.2.0/23,China,CN,Asia,AS,,,
-1.1.12.0/22,China,CN,Asia,AS,,,
-1.1.3.4/30,Bulgaria,BG,Europe,EU,,,
-1.1.3.160/27,China,CN,Asia,AS,,,
-1.1.3.64/26,China,CN,Asia,AS,,,
-1.1.20.20/31,China,CN,Asia,AS,,,
-1.1.2.4/30,China,CN,Asia,AS,,,
-1.1.6.128/25,China,CN,Asia,AS,,,
-1.1.120.0/22,Japan,JP,Asia,AS,AS2519,ARTERIA Networks Corporation,arteria-net.com
-1.1.10.8/29,China,CN,Asia,AS,,,
-1.1.6.60/31,China,CN,Asia,AS,,,
-1.1.6.16/30,China,CN,Asia,AS,,,
-1.1.128.0/17,Thailand,TH,Asia,AS,AS23969,TOT Public Company Limited,ntplc.co.th
-1.1.2.8/29,Singapore,SG,Asia,AS,,,
-1.1.64.0/19,Japan,JP,Asia,AS,AS2519,ARTERIA Networks Corporation,arteria-net.com
-1.1.3.128/28,Bulgaria,BG,Europe,EU,,,
-1.1.28.0/23,China,CN,Asia,AS,,,
-1.0.4.0/22,Australia,AU,Oceania,OC,AS38803,Gtelecom Pty Ltd,gtelecom.com.au
-1.1.16.0/22,China,CN,Asia,AS,,,
-1.1.124.0/23,Japan,JP,Asia,AS,AS2519,ARTERIA Networks Corporation,arteria-net.com
-1.1.2.1,Vietnam,VN,Asia,AS,,,
-1.0.8.0/21,China,CN,Asia,AS,,,
-1.1.112.0/21,Japan,JP,Asia,AS,AS2519,ARTERIA Networks Corporation,arteria-net.com
-1.1.3.8/29,China,CN,Asia,AS,,,
-1.1.6.48/30,China,CN,Asia,AS,,,
-1.1.2.104/29,Singapore,SG,Asia,AS,,,
-1.2.0.0/23,China,CN,Asia,AS,,,
-1.1.2.0,China,CN,Asia,AS,,,
-1.1.3.16/28,China,CN,Asia,AS,,,
-1.1.9.0/24,China,CN,Asia,AS,,,
-1.1.8.0/24,China,CN,Asia,AS,AS149511,"Yamu Technologies Co., Ltd.",yamu.com
-1.1.20.64/26,China,CN,Asia,AS,,,
-1.1.56.0/22,China,CN,Asia,AS,,,
+1.1.30.0/24,China,CN,Asia,AS,,,
 1.1.10.16/28,China,CN,Asia,AS,,,
-1.1.6.22/31,Turkey,TR,Asia,AS,,,
-1.1.2.32/27,China,CN,Asia,AS,,,
-1.1.2.2/31,China,CN,Asia,AS,,,
-1.1.6.52/31,China,CN,Asia,AS,,,
-1.0.18.0/23,Japan,JP,Asia,AS,,,
-1.0.32.0/19,China,CN,Asia,AS,,,
+1.1.2.112/28,China,CN,Asia,AS,,,
+1.1.2.96/29,China,CN,Asia,AS,,,
+1.1.1.0/24,Australia,AU,Oceania,OC,AS13335,"Cloudflare, Inc.",cloudflare.com
+1.1.2.128/25,Singapore,SG,Asia,AS,,,
+1.1.6.128/25,China,CN,Asia,AS,,,
+1.1.10.3,China,CN,Asia,AS,,,
+1.0.5.214/31,Australia,AU,Oceania,OC,AS38803,Gtelecom Pty Ltd,gtelecom.com.au
+1.1.6.64/26,China,CN,Asia,AS,,,
+1.1.2.0,China,CN,Asia,AS,,,
 1.1.22.0/23,China,CN,Asia,AS,,,
+1.1.3.3,Mexico,MX,North America,NA,,,
+1.1.20.24/29,China,CN,Asia,AS,,,
+1.1.20.4/30,China,CN,Asia,AS,,,
+1.1.10.128/25,China,CN,Asia,AS,,,
+1.1.2.2/31,China,CN,Asia,AS,,,
+1.1.6.48/29,Turkey,TR,Asia,AS,,,
 1.0.0.0/24,Australia,AU,Oceania,OC,AS13335,"Cloudflare, Inc.",cloudflare.com
-1.0.64.0/18,Japan,JP,Asia,AS,AS18144,"Enecom,Inc.",enecom.co.jp
+1.1.10.0/31,China,CN,Asia,AS,,,
+1.0.128.0/17,Thailand,TH,Asia,AS,AS23969,TOT Public Company Limited,ntplc.co.th
+1.0.32.0/19,China,CN,Asia,AS,,,
+1.0.24.0/21,Japan,JP,Asia,AS,,,
