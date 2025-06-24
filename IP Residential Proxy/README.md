@@ -1,10 +1,10 @@
 # IP to Residential Proxy
 
-## Identify residential proxy IPs, including mobile network proxies, from more than 100 services with acitivity level.
+## Identify residential proxy IPs, including mobile network proxies, from more than 100 services with activity level.
 
 # Database Schema & Description
 
-*[data updated as of December, 2024]*
+*[data updated as of June, 2025]*
 
 The following database schema represents the CSV database. We also provide JSON and MMDB format data.
 
