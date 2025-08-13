@@ -21,9 +21,6 @@
 | **dma_code**           | `13w`                            | TEXT      | Direct Marketing Area (DMA) is a unique regional identifier for marketing.                                 |
 | **geoname_id**         | `2634202`                        | INTEGER   | geonames.org's unique numercial identifier for geographic locations.                                       |
 | **radius**             | `20`                             | INTEGER   | Location accuracy radius in terms of kilometers                                                            |
-| **city_confidence**    | `high`                           | TEXT      | Indicates the accuracy of city-level geolocation data.                                                     |
-| **region_confidence**  | `high`                           | TEXT      | Indicates the accuracy of region or state level geolocation data.                                          |
-| **country_confidence** | `high`                           | TEXT      | Indicates the accuracy of country level geolocation data.                                                  |
 | **asn**                | `AS2856`                         | TEXT      | Autonomous System Number (ASN)                                                                             |
 | **as_name**            | `British Telecommunications PLC` | TEXT      | Organization domain name of the ASN                                                                        |
 | **as_domain**          | `bt.com`                         | TEXT      | Name of the ASN organization                                                                               |
@@ -33,8 +30,6 @@
 | **mnc**                |                                  | INTEGER   | Mobile Network Code (MNC) of the carrier                                                                   |
 | **as_changed**         | `2025-01-10`                     | DATE      | Date when the IP address's ASN last changed: Date in YYYY-MM-DD format, ISO-8601                           |
 | **geo_changed**        | `2024-11-10`                     | DATE      | Date when the IP address's location last changed: Date in YYYY-MM-DD format, ISO-8601                      |
-| **as_stability**       | `1.0`                            | FLOAT     | The stability/change of ASN data for the IP address within a recent period of time. 1.0 means very stable. |
-| **geo_stability**      | `1.0`                            | FLOAT     | The stability/change of location for the IP address within a recent period of time. 1.0 means very stable.  |
 | **is_anonymous**            | `false`                          | BOOLEAN   | Indicates whether the IP address is anonymous.                                                             |
 | **is_anycast**         | `false`                          | BOOLEAN   | dicates whether the IP address is an internet service hosting IP address                                   |
 | **is_hosting**         | `false`                          | BOOLEAN   | Indicates whether the IP address is an hosting/cloud/data center IP address                                |
@@ -45,7 +40,6 @@
 | **is_tor**             | `false`                          | BOOLEAN   | Indicates a TOR (The Onion Router) exit node IP address                                                    |
 | **is_vpn**             | `false`                          | BOOLEAN   | Indicates Virtual Private Network (VPN) service exit node IP address                                       |
 | **privacy_name**       |                                  | TEXT      | The name of the privacy service provider includes VPN, Proxy, or Relay service provider name               |
-| **cdn_name**           |                                  | TEXT      | Name of the CDN provider, if it is CDN IP address                                                          |
 
 
 
