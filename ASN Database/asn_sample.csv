@@ -1,101 +1,101 @@
 start_ip,end_ip,join_key,asn,domain,name,type,country
-1.1.64.0,1.1.126.255,1.1.0.0,AS2519,arteria-net.com,ARTERIA Networks Corporation,isp,JP
-1.22.88.0,1.22.107.255,1.22.0.0,AS45528,tikona.in,Tikona Infinet Ltd.,isp,IN
-1.22.3.0,1.22.6.255,1.22.0.0,AS45528,tikona.in,Tikona Infinet Ltd.,isp,IN
-1.18.123.0,1.18.123.255,1.18.0.0,AS23599,,Korea Internet Security Agency,business,KR
-1.7.142.0,1.7.142.255,1.7.0.0,AS132215,powergrid.in,Powergrid Teleservices Limited,isp,IN
-1.7.24.0,1.7.24.255,1.7.0.0,AS133388,imshealth.com,IMS Health India Pvt Ltd,business,IN
-1.18.132.0,1.18.135.255,1.18.0.0,AS23600,,Korea Internet Security Agency,hosting,KR
-1.4.128.0,1.4.255.255,1.4.0.0,AS23969,ntplc.co.th,TOT Public Company Limited,isp,TH
-1.6.226.0,1.6.228.255,1.6.0.0,AS132215,powergrid.in,Powergrid Teleservices Limited,isp,IN
-1.11.48.0,1.11.48.255,1.11.0.0,AS17598,lghellovision.net,LG HelloVision Corp.,isp,KR
-1.22.163.0,1.22.189.255,1.22.0.0,AS45528,tikona.in,Tikona Infinet Ltd.,isp,IN
-1.20.124.0,1.20.124.255,1.20.0.0,AS23969,ntplc.co.th,TOT Public Company Limited,isp,TH
-1.11.32.0,1.11.39.255,1.11.0.0,AS17598,lghellovision.net,LG HelloVision Corp.,isp,KR
-1.20.117.0,1.20.117.255,1.20.0.0,AS56120,tot.co.th,TOT Public Company Limited,isp,TH
-1.21.96.0,1.21.111.255,1.21.0.0,AS59125,fnj.co.jp,FAMILY NET JAPAN INCORPORATED,isp,JP
-1.16.0.0,1.16.63.255,1.16.0.0,AS45996,daou.co.kr,DAOU TECHNOLOGY,hosting,KR
-1.6.231.0,1.6.255.255,1.6.0.0,AS9583,sifycorp.com,Sify Limited,isp,IN
-1.13.0.0,1.13.255.255,1.13.0.0,AS45090,tencent.com,Shenzhen Tencent Computer Systems Company Limited,hosting,CN
-1.2.128.0,1.2.255.255,1.2.0.0,AS23969,ntplc.co.th,TOT Public Company Limited,isp,TH
-1.22.145.0,1.22.161.255,1.22.0.0,AS45528,tikona.in,Tikona Infinet Ltd.,isp,IN
-1.21.128.0,1.21.143.255,1.21.0.0,AS59125,fnj.co.jp,FAMILY NET JAPAN INCORPORATED,isp,JP
-1.11.96.0,1.11.127.255,1.11.0.0,AS38669,lghellovision.net,LG HelloVision Corp.,isp,KR
-1.0.16.0,1.0.16.255,1.0.0.0,AS2519,arteria-net.com,ARTERIA Networks Corporation,isp,JP
-1.22.52.0,1.22.61.255,1.22.0.0,AS45528,tikona.in,Tikona Infinet Ltd.,isp,IN
-1.21.144.0,1.21.223.255,1.21.0.0,AS2519,arteria-net.com,ARTERIA Networks Corporation,isp,JP
-1.20.118.0,1.20.118.255,1.20.0.0,AS23969,ntplc.co.th,TOT Public Company Limited,isp,TH
 1.20.125.0,1.20.127.255,1.20.0.0,AS56120,tot.co.th,TOT Public Company Limited,isp,TH
-1.10.10.0,1.10.10.255,1.10.0.0,AS148000,dns.nic.in,1.10.10.10 - Indian Public DNS,hosting,IN
-1.7.204.0,1.7.224.255,1.7.0.0,AS9583,sifycorp.com,Sify Limited,isp,IN
-1.10.128.0,1.10.255.255,1.10.0.0,AS23969,ntplc.co.th,TOT Public Company Limited,isp,TH
-1.12.0.0,1.12.15.255,1.12.0.0,AS132203,tencent.com,"Tencent Building, Kejizhongyi Avenue",hosting,CN
-1.8.1.0,1.8.1.255,1.8.0.0,AS38345,knet.cn,Internet Domain Name System Beijing Engineering Resrarch Center Ltd.,hosting,CN
-1.22.8.0,1.22.10.255,1.22.0.0,AS45528,tikona.in,Tikona Infinet Ltd.,isp,IN
+1.11.96.0,1.11.127.255,1.11.0.0,AS38669,lghellovision.net,LG HelloVision Corp.,isp,KR
+1.11.40.0,1.11.47.255,1.11.0.0,AS18313,lghellovision.net,LG HelloVision Corp.,isp,KR
+1.0.0.0,1.0.0.255,1.0.0.0,AS13335,cloudflare.com,"Cloudflare, Inc.",hosting,US
+1.18.116.0,1.18.116.255,1.18.0.0,AS131098,,Korea Internet Security Agency,business,KR
 1.18.118.0,1.18.118.255,1.18.0.0,AS131099,,Korea Internet Security Agency,business,KR
-1.18.125.0,1.18.126.255,1.18.0.0,AS23599,,Korea Internet Security Agency,business,KR
-1.5.0.0,1.5.255.255,1.5.0.0,AS4725,softbank.jp,SoftBank Corp.,isp,JP
-1.0.128.0,1.0.255.255,1.0.0.0,AS23969,ntplc.co.th,TOT Public Company Limited,isp,TH
-1.7.143.0,1.7.150.255,1.7.0.0,AS9583,sifycorp.com,Sify Limited,isp,IN
-1.1.128.0,1.1.255.255,1.1.0.0,AS23969,ntplc.co.th,TOT Public Company Limited,isp,TH
-1.7.3.0,1.7.23.255,1.7.0.0,AS9583,sifycorp.com,Sify Limited,isp,IN
-1.12.16.0,1.12.33.255,1.12.0.0,AS45090,tencent.com,Shenzhen Tencent Computer Systems Company Limited,hosting,CN
-1.11.49.0,1.11.55.255,1.11.0.0,AS38091,lghellovision.net,LG HelloVision Corp.,isp,KR
-1.22.24.0,1.22.30.255,1.22.0.0,AS45528,tikona.in,Tikona Infinet Ltd.,isp,IN
+1.7.128.0,1.7.141.255,1.7.0.0,AS9583,sifycorp.com,Sify Limited,isp,IN
+1.20.128.0,1.20.255.255,1.20.0.0,AS23969,ntplc.co.th,TOT Public Company Limited,isp,TH
 1.7.0.0,1.7.0.255,1.7.0.0,AS9583,sifycorp.com,Sify Limited,isp,IN
-1.22.77.0,1.22.83.255,1.22.0.0,AS45528,tikona.in,Tikona Infinet Ltd.,isp,IN
-1.7.225.0,1.7.225.255,1.7.0.0,AS396421,paloaltonetworks.com,PALO ALTO NETWORKS,business,US
+1.6.229.0,1.6.230.255,1.6.0.0,AS4755,tatacommunications.com,TATA Communications formerly VSNL is Leading ISP,isp,IN
+1.14.0.0,1.14.255.255,1.14.0.0,AS45090,tencent.com,Shenzhen Tencent Computer Systems Company Limited,hosting,CN
+1.11.32.0,1.11.39.255,1.11.0.0,AS17598,lghellovision.net,LG HelloVision Corp.,isp,KR
+1.7.161.0,1.7.162.255,1.7.0.0,AS132215,powergrid.in,Powergrid Teleservices Limited,isp,IN
+1.20.0.0,1.20.66.255,1.20.0.0,AS56120,tot.co.th,TOT Public Company Limited,isp,TH
+1.20.117.0,1.20.117.255,1.20.0.0,AS56120,tot.co.th,TOT Public Company Limited,isp,TH
+1.20.119.0,1.20.123.255,1.20.0.0,AS56120,tot.co.th,TOT Public Company Limited,isp,TH
+1.7.60.0,1.7.60.255,1.7.0.0,AS9583,sifycorp.com,Sify Limited,isp,IN
+1.8.1.0,1.8.1.255,1.8.0.0,AS38345,knet.cn,Internet Domain Name System Beijing Engineering Resrarch Center Ltd.,hosting,CN
+1.7.200.0,1.7.202.255,1.7.0.0,AS132215,powergrid.in,Powergrid Teleservices Limited,isp,IN
+1.15.0.0,1.15.255.255,1.15.0.0,AS45090,tencent.com,Shenzhen Tencent Computer Systems Company Limited,hosting,CN
+1.7.142.0,1.7.142.255,1.7.0.0,AS132215,powergrid.in,Powergrid Teleservices Limited,isp,IN
+1.18.132.0,1.18.135.255,1.18.0.0,AS23600,,Korea Internet Security Agency,hosting,KR
+1.22.64.0,1.22.67.255,1.22.0.0,AS45528,tikona.in,Tikona Infinet Ltd.,isp,IN
+1.7.25.0,1.7.54.255,1.7.0.0,AS9583,sifycorp.com,Sify Limited,isp,IN
+1.12.0.0,1.12.15.255,1.12.0.0,AS132203,tencent.com,"Tencent Building, Kejizhongyi Avenue",hosting,CN
+1.0.16.0,1.0.16.255,1.0.0.0,AS2519,arteria-net.com,ARTERIA Networks Corporation,isp,JP
+1.7.181.0,1.7.199.255,1.7.0.0,AS9583,sifycorp.com,Sify Limited,isp,IN
+1.7.3.0,1.7.23.255,1.7.0.0,AS9583,sifycorp.com,Sify Limited,isp,IN
+1.21.128.0,1.21.143.255,1.21.0.0,AS59125,fnj.co.jp,FAMILY NET JAPAN INCORPORATED,isp,JP
+1.10.128.0,1.10.255.255,1.10.0.0,AS23969,ntplc.co.th,TOT Public Company Limited,isp,TH
+1.6.137.0,1.6.225.255,1.6.0.0,AS9583,sifycorp.com,Sify Limited,isp,IN
+1.22.145.0,1.22.161.255,1.22.0.0,AS45528,tikona.in,Tikona Infinet Ltd.,isp,IN
 1.11.56.0,1.11.63.255,1.11.0.0,AS18313,lghellovision.net,LG HelloVision Corp.,isp,KR
-1.7.226.0,1.7.245.255,1.7.0.0,AS9583,sifycorp.com,Sify Limited,isp,IN
-1.7.152.0,1.7.160.255,1.7.0.0,AS9583,sifycorp.com,Sify Limited,isp,IN
-1.7.163.0,1.7.179.255,1.7.0.0,AS9583,sifycorp.com,Sify Limited,isp,IN
-1.22.35.0,1.22.50.255,1.22.0.0,AS45528,tikona.in,Tikona Infinet Ltd.,isp,IN
-1.22.69.0,1.22.69.255,1.22.0.0,AS45528,tikona.in,Tikona Infinet Ltd.,isp,IN
+1.22.163.0,1.22.189.255,1.22.0.0,AS45528,tikona.in,Tikona Infinet Ltd.,isp,IN
+1.20.118.0,1.20.118.255,1.20.0.0,AS23969,ntplc.co.th,TOT Public Company Limited,isp,TH
+1.1.8.0,1.1.8.255,1.1.0.0,AS149511,yamu.com,"Yamu Technologies Co., Ltd.",hosting,CN
+1.1.128.0,1.1.255.255,1.1.0.0,AS23969,ntplc.co.th,TOT Public Company Limited,isp,TH
+1.1.64.0,1.1.126.255,1.1.0.0,AS2519,arteria-net.com,ARTERIA Networks Corporation,isp,JP
+1.7.180.0,1.7.180.255,1.7.0.0,AS132215,powergrid.in,Powergrid Teleservices Limited,isp,IN
+1.11.64.0,1.11.91.255,1.11.0.0,AS38091,lghellovision.net,LG HelloVision Corp.,isp,KR
+1.22.24.0,1.22.30.255,1.22.0.0,AS45528,tikona.in,Tikona Infinet Ltd.,isp,IN
+1.6.231.0,1.6.255.255,1.6.0.0,AS9583,sifycorp.com,Sify Limited,isp,IN
+1.6.0.0,1.6.135.255,1.6.0.0,AS9583,sifycorp.com,Sify Limited,isp,IN
+1.7.151.0,1.7.151.255,1.7.0.0,AS132215,powergrid.in,Powergrid Teleservices Limited,isp,IN
+1.22.77.0,1.22.83.255,1.22.0.0,AS45528,tikona.in,Tikona Infinet Ltd.,isp,IN
+1.22.32.0,1.22.33.255,1.22.0.0,AS45528,tikona.in,Tikona Infinet Ltd.,isp,IN
+1.11.49.0,1.11.55.255,1.11.0.0,AS38091,lghellovision.net,LG HelloVision Corp.,isp,KR
+1.18.127.0,1.18.130.255,1.18.0.0,AS23596,,Korea Internet Security Agency,business,KR
+1.20.124.0,1.20.124.255,1.20.0.0,AS23969,ntplc.co.th,TOT Public Company Limited,isp,TH
+1.21.0.0,1.21.95.255,1.21.0.0,AS2519,arteria-net.com,ARTERIA Networks Corporation,isp,JP
+1.16.0.0,1.16.63.255,1.16.0.0,AS45996,daou.co.kr,DAOU TECHNOLOGY,hosting,KR
+1.7.81.0,1.7.108.255,1.7.0.0,AS9583,sifycorp.com,Sify Limited,isp,IN
+1.18.125.0,1.18.126.255,1.18.0.0,AS23599,,Korea Internet Security Agency,hosting,KR
+1.5.0.0,1.5.255.255,1.5.0.0,AS4725,softbank.jp,SoftBank Corp.,isp,JP
+1.21.96.0,1.21.111.255,1.21.0.0,AS59125,fnj.co.jp,FAMILY NET JAPAN INCORPORATED,isp,JP
+1.11.24.0,1.11.31.255,1.11.0.0,AS18313,lghellovision.net,LG HelloVision Corp.,isp,KR
+1.9.0.0,1.9.255.255,1.9.0.0,AS4788,tm.com.my,TM TECHNOLOGY SERVICES SDN. BHD.,isp,MY
+1.12.36.0,1.12.255.255,1.12.0.0,AS45090,tencent.com,Shenzhen Tencent Computer Systems Company Limited,hosting,CN
+1.12.34.0,1.12.35.255,1.12.0.0,AS132203,tencent.com,"Tencent Building, Kejizhongyi Avenue",hosting,CN
+1.11.0.0,1.11.7.255,1.11.0.0,AS18313,lghellovision.net,LG HelloVision Corp.,isp,KR
+1.22.88.0,1.22.107.255,1.22.0.0,AS45528,tikona.in,Tikona Infinet Ltd.,isp,IN
 1.1.1.0,1.1.1.255,1.1.0.0,AS13335,cloudflare.com,"Cloudflare, Inc.",hosting,US
 1.20.67.0,1.20.116.255,1.20.0.0,AS23969,ntplc.co.th,TOT Public Company Limited,isp,TH
-1.7.151.0,1.7.151.255,1.7.0.0,AS132215,powergrid.in,Powergrid Teleservices Limited,isp,IN
-1.7.25.0,1.7.54.255,1.7.0.0,AS9583,sifycorp.com,Sify Limited,isp,IN
-1.6.137.0,1.6.225.255,1.6.0.0,AS9583,sifycorp.com,Sify Limited,isp,IN
-1.7.81.0,1.7.108.255,1.7.0.0,AS9583,sifycorp.com,Sify Limited,isp,IN
-1.12.36.0,1.12.255.255,1.12.0.0,AS45090,tencent.com,Shenzhen Tencent Computer Systems Company Limited,hosting,CN
-1.11.24.0,1.11.31.255,1.11.0.0,AS18313,lghellovision.net,LG HelloVision Corp.,isp,KR
-1.20.128.0,1.20.255.255,1.20.0.0,AS23969,ntplc.co.th,TOT Public Company Limited,isp,TH
-1.7.128.0,1.7.141.255,1.7.0.0,AS9583,sifycorp.com,Sify Limited,isp,IN
-1.6.136.0,1.6.136.255,1.6.0.0,AS132215,powergrid.in,Powergrid Teleservices Limited,isp,IN
-1.11.128.0,1.11.255.255,1.11.0.0,AS17839,lghellovision.net,LG HelloVision Corp.,isp,KR
-1.22.12.0,1.22.20.255,1.22.0.0,AS45528,tikona.in,Tikona Infinet Ltd.,isp,IN
-1.7.60.0,1.7.60.255,1.7.0.0,AS9583,sifycorp.com,Sify Limited,isp,IN
-1.11.8.0,1.11.19.255,1.11.0.0,AS18318,lghellovision.net,LG HelloVision Corp.,isp,KR
-1.8.8.0,1.8.8.255,1.8.0.0,AS38345,knet.cn,Internet Domain Name System Beijing Engineering Resrarch Center Ltd.,hosting,CN
-1.7.181.0,1.7.199.255,1.7.0.0,AS9583,sifycorp.com,Sify Limited,isp,IN
-1.22.72.0,1.22.75.255,1.22.0.0,AS45528,tikona.in,Tikona Infinet Ltd.,isp,IN
-1.11.64.0,1.11.91.255,1.11.0.0,AS38091,lghellovision.net,LG HelloVision Corp.,isp,KR
 1.22.112.0,1.22.140.255,1.22.0.0,AS45528,tikona.in,Tikona Infinet Ltd.,isp,IN
-1.12.34.0,1.12.35.255,1.12.0.0,AS132203,tencent.com,"Tencent Building, Kejizhongyi Avenue",hosting,CN
-1.20.119.0,1.20.123.255,1.20.0.0,AS56120,tot.co.th,TOT Public Company Limited,isp,TH
-1.11.0.0,1.11.7.255,1.11.0.0,AS18313,lghellovision.net,LG HelloVision Corp.,isp,KR
-1.11.92.0,1.11.94.255,1.11.0.0,AS45996,daou.co.kr,DAOU TECHNOLOGY,hosting,KR
-1.0.0.0,1.0.0.255,1.0.0.0,AS13335,cloudflare.com,"Cloudflare, Inc.",hosting,US
-1.15.0.0,1.15.255.255,1.15.0.0,AS45090,tencent.com,Shenzhen Tencent Computer Systems Company Limited,hosting,CN
-1.7.200.0,1.7.202.255,1.7.0.0,AS132215,powergrid.in,Powergrid Teleservices Limited,isp,IN
-1.20.0.0,1.20.66.255,1.20.0.0,AS56120,tot.co.th,TOT Public Company Limited,isp,TH
-1.7.161.0,1.7.162.255,1.7.0.0,AS132215,powergrid.in,Powergrid Teleservices Limited,isp,IN
-1.0.64.0,1.0.127.255,1.0.0.0,AS18144,enecom.co.jp,"Enecom,Inc.",business,JP
-1.0.4.0,1.0.7.255,1.0.0.0,AS38803,gtelecom.com.au,Gtelecom Pty Ltd,isp,AU
-1.6.0.0,1.6.135.255,1.6.0.0,AS9583,sifycorp.com,Sify Limited,isp,IN
-1.7.180.0,1.7.180.255,1.7.0.0,AS132215,powergrid.in,Powergrid Teleservices Limited,isp,IN
+1.2.128.0,1.2.255.255,1.2.0.0,AS23969,ntplc.co.th,TOT Public Company Limited,isp,TH
+1.12.16.0,1.12.33.255,1.12.0.0,AS45090,tencent.com,Shenzhen Tencent Computer Systems Company Limited,hosting,CN
+1.18.123.0,1.18.123.255,1.18.0.0,AS23599,,Korea Internet Security Agency,hosting,KR
+1.11.48.0,1.11.48.255,1.11.0.0,AS17598,lghellovision.net,LG HelloVision Corp.,isp,KR
 1.11.95.0,1.11.95.255,1.11.0.0,AS38091,lghellovision.net,LG HelloVision Corp.,isp,KR
-1.2.4.0,1.2.4.255,1.2.0.0,AS24151,cnnic.cn,China Internet Network Infomation Center,isp,CN
-1.21.112.0,1.21.127.255,1.21.0.0,AS2519,arteria-net.com,ARTERIA Networks Corporation,isp,JP
-1.22.32.0,1.22.33.255,1.22.0.0,AS45528,tikona.in,Tikona Infinet Ltd.,isp,IN
-1.11.40.0,1.11.47.255,1.11.0.0,AS18313,lghellovision.net,LG HelloVision Corp.,isp,KR
-1.14.0.0,1.14.255.255,1.14.0.0,AS45090,tencent.com,Shenzhen Tencent Computer Systems Company Limited,hosting,CN
-1.1.8.0,1.1.8.255,1.1.0.0,AS149511,yamu.com,"Yamu Technologies Co., Ltd.",hosting,CN
-1.22.64.0,1.22.67.255,1.22.0.0,AS45528,tikona.in,Tikona Infinet Ltd.,isp,IN
-1.18.119.0,1.18.119.255,1.18.0.0,AS131100,,Korea Internet Security Agency,business,KR
-1.9.0.0,1.9.255.255,1.9.0.0,AS4788,tm.com.my,TM TECHNOLOGY SERVICES SDN. BHD.,isp,MY
-1.18.116.0,1.18.116.255,1.18.0.0,AS131098,,Korea Internet Security Agency,business,KR
-1.21.0.0,1.21.95.255,1.21.0.0,AS2519,arteria-net.com,ARTERIA Networks Corporation,isp,JP
-1.18.127.0,1.18.130.255,1.18.0.0,AS23596,,Korea Internet Security Agency,business,KR
+1.11.8.0,1.11.19.255,1.11.0.0,AS18318,lghellovision.net,LG HelloVision Corp.,isp,KR
+1.7.226.0,1.7.245.255,1.7.0.0,AS9583,sifycorp.com,Sify Limited,isp,IN
+1.7.204.0,1.7.224.255,1.7.0.0,AS9583,sifycorp.com,Sify Limited,isp,IN
+1.22.8.0,1.22.10.255,1.22.0.0,AS45528,tikona.in,Tikona Infinet Ltd.,isp,IN
+1.8.8.0,1.8.8.255,1.8.0.0,AS38345,knet.cn,Internet Domain Name System Beijing Engineering Resrarch Center Ltd.,hosting,CN
 1.11.20.0,1.11.23.255,1.11.0.0,AS38091,lghellovision.net,LG HelloVision Corp.,isp,KR
+1.6.226.0,1.6.228.255,1.6.0.0,AS132215,powergrid.in,Powergrid Teleservices Limited,isp,IN
+1.22.3.0,1.22.6.255,1.22.0.0,AS45528,tikona.in,Tikona Infinet Ltd.,isp,IN
+1.13.0.0,1.13.255.255,1.13.0.0,AS45090,tencent.com,Shenzhen Tencent Computer Systems Company Limited,hosting,CN
+1.11.128.0,1.11.255.255,1.11.0.0,AS17839,lghellovision.net,LG HelloVision Corp.,isp,KR
+1.6.136.0,1.6.136.255,1.6.0.0,AS132215,powergrid.in,Powergrid Teleservices Limited,isp,IN
+1.2.4.0,1.2.4.255,1.2.0.0,AS24151,cnnic.cn,China Internet Network Infomation Center,isp,CN
+1.7.163.0,1.7.179.255,1.7.0.0,AS9583,sifycorp.com,Sify Limited,isp,IN
+1.18.119.0,1.18.119.255,1.18.0.0,AS131100,,Korea Internet Security Agency,business,KR
+1.7.24.0,1.7.24.255,1.7.0.0,AS133388,imshealth.com,IMS Health India Pvt Ltd,business,IN
+1.22.72.0,1.22.75.255,1.22.0.0,AS45528,tikona.in,Tikona Infinet Ltd.,isp,IN
+1.11.92.0,1.11.94.255,1.11.0.0,AS45996,daou.co.kr,DAOU TECHNOLOGY,hosting,KR
+1.7.152.0,1.7.160.255,1.7.0.0,AS9583,sifycorp.com,Sify Limited,isp,IN
+1.21.112.0,1.21.127.255,1.21.0.0,AS2519,arteria-net.com,ARTERIA Networks Corporation,isp,JP
+1.7.143.0,1.7.150.255,1.7.0.0,AS9583,sifycorp.com,Sify Limited,isp,IN
+1.4.128.0,1.4.255.255,1.4.0.0,AS23969,ntplc.co.th,TOT Public Company Limited,isp,TH
+1.22.69.0,1.22.69.255,1.22.0.0,AS45528,tikona.in,Tikona Infinet Ltd.,isp,IN
+1.7.225.0,1.7.225.255,1.7.0.0,AS396421,paloaltonetworks.com,PALO ALTO NETWORKS,business,US
+1.22.35.0,1.22.50.255,1.22.0.0,AS45528,tikona.in,Tikona Infinet Ltd.,isp,IN
 1.22.192.0,1.22.201.255,1.22.0.0,AS45528,tikona.in,Tikona Infinet Ltd.,isp,IN
+1.22.12.0,1.22.20.255,1.22.0.0,AS45528,tikona.in,Tikona Infinet Ltd.,isp,IN
+1.0.128.0,1.0.255.255,1.0.0.0,AS23969,ntplc.co.th,TOT Public Company Limited,isp,TH
+1.22.52.0,1.22.61.255,1.22.0.0,AS45528,tikona.in,Tikona Infinet Ltd.,isp,IN
+1.0.4.0,1.0.7.255,1.0.0.0,AS38803,gtelecom.com.au,Gtelecom Pty Ltd,isp,AU
+1.21.144.0,1.21.223.255,1.21.0.0,AS2519,arteria-net.com,ARTERIA Networks Corporation,isp,JP
+1.0.64.0,1.0.127.255,1.0.0.0,AS18144,enecom.co.jp,"Enecom,Inc.",business,JP
