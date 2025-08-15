@@ -1,101 +1,101 @@
 start_ip,end_ip,country,country_name,continent,continent_name,asn,as_name,as_domain
-2a09:9446:461d::,2a09:9446:4620:ffff:ffff:ffff:ffff:ffff,RU,Russia,EU,Europe,AS49981,WorldStream,worldstream.com
-2401:4900:30f0::,2401:4900:30ff:ffff:ffff:ffff:ffff:ffff,IN,India,AS,Asia,,,
-2001:4860:0:1::2421,2001:4860:0:1::2421,ES,Spain,EU,Europe,AS15169,Google LLC,google.com
-47.234.128.0,47.234.255.255,US,United States,NA,North America,AS11427,Charter Communications Inc,charter.com
-184.28.212.0,184.28.213.255,US,United States,NA,North America,AS16625,"Akamai Technologies, Inc.",akamai.com
-2001:728:0:5000::14ee,2001:728:0:5000::14f0,GB,United Kingdom,EU,Europe,AS2914,"NTT America, Inc.",ntt.com
-190.8.119.0,190.8.119.255,CL,Chile,SA,South America,AS14259,Gtd Internet S.A.,gtd.cl
-2a01:c22:be00:7b3a::,2a01:c22:be00:7b52:ffff:ffff:ffff:ffff,DE,Germany,EU,Europe,AS6805,Telefonica Germany GmbH & Co.OHG,telefonica.de
-2a03:e088::,2a03:e0bf:ffff:ffff:ffff:ffff:ffff:ffff,NL,The Netherlands,EU,Europe,,,
-103.56.82.0,103.56.82.0,SG,Singapore,AS,Asia,AS138608,Cloud Host Pte Ltd,cloudhost.asia
-2a14:b84:d0cf:c200::,2a14:b84:d0cf:c2ff:ffff:ffff:ffff:ffff,US,United States,NA,North America,AS7018,"AT&T Enterprises, LLC",att.com
-2404:2040::,2404:2040:ffff:ffff:ffff:ffff:ffff:ffff,KR,South Korea,AS,Asia,AS138195,MOACK.Co.LTD,moack.co.kr
-2606:54c3:0:179a::,2606:54c3:0:179a:ffff:ffff:ffff:ffff,BR,Brazil,SA,South America,AS13335,"Cloudflare, Inc.",cloudflare.com
-2a01:4f9:2b:2a88::,2a01:4f9:2b:2a8a:ffff:ffff:ffff:ffff,DE,Germany,EU,Europe,AS24940,Hetzner Online GmbH,hetzner.de
-2a03:2880:f2ff:100::,2a03:2880:f2ff:ffff:ffff:ffff:ffff:ffff,IE,Ireland,EU,Europe,AS32934,"Facebook, Inc.",facebook.com
-2001:470:b51e:180f::,2001:470:b51e:1810:ffff:ffff:ffff:ffff,CH,Switzerland,EU,Europe,AS6939,Hurricane Electric LLC,he.net
-240f:61:9801::,240f:61:992b:ffff:ffff:ffff:ffff:ffff,JP,Japan,AS,Asia,AS2516,KDDI CORPORATION,kddi.com
-2804:7aa8::,2804:7aa8:ffff:ffff:ffff:ffff:ffff:ffff,BR,Brazil,SA,South America,AS271384,Bandin & Assis Provedor LTDA,x-linetelecom.com.br
-240f:56:b64::,240f:56:b64:ffff:ffff:ffff:ffff:ffff,US,United States,NA,North America,AS2516,KDDI CORPORATION,kddi.com
-2a11:6d42:cbcd:5f9e::,2a11:6d42:cbf9:67a:ffff:ffff:ffff:ffff,RU,Russia,EU,Europe,AS213505,GRIGOREV BORIS ANDREEVICH,
-240f:f0:39c0::,240f:f0:39c0:ffff:ffff:ffff:ffff:ffff,US,United States,NA,North America,AS2516,KDDI CORPORATION,kddi.com
-2001:470:744c:83d2::,2001:470:744c:83d3:ffff:ffff:ffff:ffff,DM,Dominica,NA,North America,AS6939,Hurricane Electric LLC,he.net
-72.246.247.0,72.247.15.255,US,United States,NA,North America,AS20940,Akamai International B.V.,akamai.com
-2a01:c22:9200:53c9::,2a01:c22:9200:53c9:ffff:ffff:ffff:ffff,HU,Hungary,EU,Europe,AS6805,Telefonica Germany GmbH & Co.OHG,telefonica.de
-208.84.200.0,208.84.207.255,VC,Saint Vincent and the Grenadines,NA,North America,AS46408,Columbus Communication St. Vincent and the Grenadines Ltd.,discoverflow.co
-198.62.180.0,198.62.180.255,US,United States,NA,North America,,,
-2a0f:1fc7:5bf6:2336::,2a0f:1fc7:5c64:5c:ffff:ffff:ffff:ffff,RU,Russia,EU,Europe,AS213505,GRIGOREV BORIS ANDREEVICH,
-2403:300:0:90f::,2403:300:0:910:ffff:ffff:ffff:ffff,AU,Australia,OC,Oceania,AS714,Apple Inc.,apple.com
-2a01:c22:c200:38b3::,2a01:c22:c200:38dc:ffff:ffff:ffff:ffff,DE,Germany,EU,Europe,AS6805,Telefonica Germany GmbH & Co.OHG,telefonica.de
-2a11:1205:7149:7eeb::,2a11:1205:7149:7eeb:ffff:ffff:ffff:ffff,NL,The Netherlands,EU,Europe,AS213505,GRIGOREV BORIS ANDREEVICH,
-2a14:b81:9392:eb00::,2a14:b81:9392:ebff:ffff:ffff:ffff:ffff,US,United States,NA,North America,AS7018,"AT&T Enterprises, LLC",att.com
-2a14:b86:958a:2000::,2a14:b86:958c:60ff:ffff:ffff:ffff:ffff,GB,United Kingdom,EU,Europe,AS7018,"AT&T Enterprises, LLC",att.com
-2a14:b83:e7d7:a300::,2a14:b83:e7d8:fff:ffff:ffff:ffff:ffff,GB,United Kingdom,EU,Europe,AS7018,"AT&T Enterprises, LLC",att.com
-2a02:a45a:88ce::,2a02:a45a:88ce:ffff:ffff:ffff:ffff:ffff,FR,France,EU,Europe,AS1136,KPN B.V.,kpn.com
-102.219.196.0,102.219.199.255,ZA,South Africa,AF,Africa,AS328872,Sonke Telecommunications (Pty) Ltd,sonketelecoms.com
-188.128.126.105,188.128.126.107,DE,Germany,EU,Europe,AS12389,PJSC Rostelecom,rt.ru
-185.126.252.0,185.126.252.255,UA,Ukraine,EU,Europe,AS56899,Granat Ukraine LLC,granatua.net
-2a14:b86:753d:f400::,2a14:b86:753d:f4ff:ffff:ffff:ffff:ffff,US,United States,NA,North America,AS7018,"AT&T Enterprises, LLC",att.com
-2a09:9446:330::,2a09:9446:331:ffff:ffff:ffff:ffff:ffff,RU,Russia,EU,Europe,AS49981,WorldStream,worldstream.com
-149.102.158.6,149.102.158.11,DE,Germany,EU,Europe,AS51167,Contabo GmbH,contabo.com
-2001:41d0:0:1:3::6c8d,2001:41d0:0:1:3::6c95,FR,France,EU,Europe,AS16276,OVH SAS,ovhcloud.com
-2a14:b85:7244:9200::,2a14:b85:7246:cfff:ffff:ffff:ffff:ffff,GB,United Kingdom,EU,Europe,AS7018,"AT&T Enterprises, LLC",att.com
-2a01:c22:aa00:9bdd::,2a01:c22:aa00:9c28:ffff:ffff:ffff:ffff,DE,Germany,EU,Europe,AS6805,Telefonica Germany GmbH & Co.OHG,telefonica.de
-2001:15d8:0:e::3,2001:15d8:0:f::1,PT,Portugal,EU,Europe,AS8657,MEO - SERVICOS DE COMUNICACOES E MULTIMEDIA S.A.,meo.pt
-77.81.80.0,77.81.81.255,GB,United Kingdom,EU,Europe,AS20860,IOMART CLOUD SERVICES LIMITED,iomart.com
-240f:103:d845:100::,240f:103:d845:ffff:ffff:ffff:ffff:ffff,SG,Singapore,AS,Asia,AS2516,KDDI CORPORATION,kddi.com
-66.225.251.0,66.225.251.255,US,United States,NA,North America,AS393713,All Points Broadband,allpointsbroadband.com
-2a0d:9446:9800::,2a0d:9446:9fff:ffff:ffff:ffff:ffff:ffff,SM,San Marino,EU,Europe,AS216157,SIXNET OPERATION LTD,sixnet.ltd
-2001:470:b506:f669::,2001:470:b506:f669:ffff:ffff:ffff:ffff,CH,Switzerland,EU,Europe,AS6939,Hurricane Electric LLC,he.net
-2804:18:11d:bc00::,2804:18:11f:23ff:ffff:ffff:ffff:ffff,BR,Brazil,SA,South America,AS26599,TELEFÔNICA BRASIL S.A,telefonica.com.br
-38.240.88.0,38.240.95.255,US,United States,NA,North America,AS40281,"QWK.net Hosting, L.L.C.",qwk.net
-185.116.117.0,185.116.117.255,DE,Germany,EU,Europe,,,
-2400:cb00:c1e8::,2400:cb00:c1f0:ffff:ffff:ffff:ffff:ffff,US,United States,NA,North America,,,
-2a14:b81:7d39:d300::,2a14:b81:7d39:d3ff:ffff:ffff:ffff:ffff,US,United States,NA,North America,AS7018,"AT&T Enterprises, LLC",att.com
-206.147.64.0,206.147.66.255,US,United States,NA,North America,AS40160,"Inteliquent, inc.",inteliquent.com
-240f:30:ceac::,240f:30:ceb3:ffff:ffff:ffff:ffff:ffff,JP,Japan,AS,Asia,AS2516,KDDI CORPORATION,kddi.com
-40.99.8.128,40.99.8.143,IN,India,AS,Asia,AS8075,Microsoft Corporation,microsoft.com
-2a14:b83:1ec9:d400::,2a14:b83:1ec9:d5ff:ffff:ffff:ffff:ffff,GB,United Kingdom,EU,Europe,AS7018,"AT&T Enterprises, LLC",att.com
-2a14:b83:f79c::,2a14:b83:f79c:ffff:ffff:ffff:ffff:ffff,US,United States,NA,North America,AS7018,"AT&T Enterprises, LLC",att.com
-2a14:b85:995b:a700::,2a14:b85:995b:a7ff:ffff:ffff:ffff:ffff,US,United States,NA,North America,AS7018,"AT&T Enterprises, LLC",att.com
-2a02:56a0::,2a02:56a0:ffff:ffff:ffff:ffff:ffff:ffff,FR,France,EU,Europe,,,
-2001:470:b506:ff3f::,2001:470:b506:ff4c:ffff:ffff:ffff:ffff,TH,Thailand,AS,Asia,AS6939,Hurricane Electric LLC,he.net
-2a00:56c0:14ee:5200::,2a00:56c0:14ee:52ff:ffff:ffff:ffff:ffff,RU,Russia,EU,Europe,AS12389,PJSC Rostelecom,rt.ru
-2400:cb00:1040::,2400:cb00:1040:ffff:ffff:ffff:ffff:ffff,BE,Belgium,EU,Europe,AS13335,"Cloudflare, Inc.",cloudflare.com
-63.222.38.0,63.222.38.255,NG,Nigeria,AF,Africa,AS3491,"PCCW Global, Inc.",pccwglobal.com
-2a14:b83:9854:3200::,2a14:b83:9854:d9ff:ffff:ffff:ffff:ffff,GB,United Kingdom,EU,Europe,AS7018,"AT&T Enterprises, LLC",att.com
-148.153.118.0,148.153.121.255,US,United States,NA,North America,AS63199,"CDS Global Cloud Co., Ltd",cdsglobalcloud.com
-2a09:bac1:5920:39::,2a09:bac1:5920:3f:ffff:ffff:ffff:ffff,US,United States,NA,North America,AS13335,"Cloudflare, Inc.",cloudflare.com
-2404:7ac0:4c88::,2404:7ac0:4c88:ffff:ffff:ffff:ffff:ffff,HK,Hong Kong,AS,Asia,AS38136,Akari Networks,akari.hk
-38.44.104.0,38.44.107.255,US,United States,NA,North America,AS174,Cogent Communications,cogentco.com
-2a04:4e41:4074:d000::,2a04:4e41:4074:dfff:ffff:ffff:ffff:ffff,GD,Grenada,NA,North America,AS54113,"Fastly, Inc.",fastly.com
-5.189.235.0,5.189.239.255,RU,Russia,EU,Europe,AS49505,JSC Selectel,selectel.com
-2a01:c22:a600:f7c7::,2a01:c22:a600:f83c:ffff:ffff:ffff:ffff,DE,Germany,EU,Europe,AS6805,Telefonica Germany GmbH & Co.OHG,telefonica.de
-240f:a1:bfdf::,240f:a1:c009:ff:ffff:ffff:ffff:ffff,JP,Japan,AS,Asia,AS2516,KDDI CORPORATION,kddi.com
-164.82.56.0,164.82.63.255,US,United States,NA,North America,AS33084,DC-Net,dc.gov
-106.187.13.34,106.187.13.35,US,United States,NA,North America,AS2516,KDDI CORPORATION,kddi.com
-2a00:62c0:70:4d00::,2a00:62c0:70:4fff:ffff:ffff:ffff:ffff,US,United States,NA,North America,AS12389,PJSC Rostelecom,rt.ru
-2a14:b85:1e1a:8000::,2a14:b85:1e1a:bfff:ffff:ffff:ffff:ffff,US,United States,NA,North America,AS7018,"AT&T Enterprises, LLC",att.com
-2001:470:752c:91ea::,2001:470:752c:91ec:ffff:ffff:ffff:ffff,TR,Turkey,AS,Asia,AS6939,Hurricane Electric LLC,he.net
-2405:b500:1720:49::,2405:b500:1720:4f:ffff:ffff:ffff:ffff,US,United States,NA,North America,AS13335,"Cloudflare, Inc.",cloudflare.com
-2001:470:1f1a:738::,2001:470:1f1a:739:ffff:ffff:ffff:ffff,US,United States,NA,North America,AS6939,Hurricane Electric LLC,he.net
-240f:e2:36ad::,240f:e2:36ad:ffff:ffff:ffff:ffff:ffff,SG,Singapore,AS,Asia,AS2516,KDDI CORPORATION,kddi.com
-2001:470:7445:cd85::,2001:470:7445:cd85:ffff:ffff:ffff:ffff,DE,Germany,EU,Europe,AS6939,Hurricane Electric LLC,he.net
-2a01:c22:d600:9af2::,2a01:c22:d600:9aff:ffff:ffff:ffff:ffff,DE,Germany,EU,Europe,AS6805,Telefonica Germany GmbH & Co.OHG,telefonica.de
-2a14:b85:f1f1:d200::,2a14:b85:f1f2:44ff:ffff:ffff:ffff:ffff,GB,United Kingdom,EU,Europe,AS7018,"AT&T Enterprises, LLC",att.com
-82.123.149.32,82.123.149.63,FR,France,EU,Europe,AS3215,Orange S.A.,orange.com
-200.239.200.0,200.239.201.255,US,United States,NA,North America,AS10704,ML Telecom,metropop.com.br
-2a14:b84:485d:2200::,2a14:b84:485f:66ff:ffff:ffff:ffff:ffff,GB,United Kingdom,EU,Europe,AS7018,"AT&T Enterprises, LLC",att.com
-2001:470:d024::,2001:470:d024:ffff:ffff:ffff:ffff:ffff,FR,France,EU,Europe,AS6939,Hurricane Electric LLC,he.net
-193.149.0.0,193.149.1.255,ES,Spain,EU,Europe,,,
-2001:470:b506:13fe::,2001:470:b506:13ff:ffff:ffff:ffff:ffff,TH,Thailand,AS,Asia,AS6939,Hurricane Electric LLC,he.net
-2a0b:9644::,2a0b:9647:ffff:ffff:ffff:ffff:ffff:ffff,CH,Switzerland,EU,Europe,,,
-2a14:b84:58a9:d000::,2a14:b84:58aa:3cff:ffff:ffff:ffff:ffff,GB,United Kingdom,EU,Europe,AS7018,"AT&T Enterprises, LLC",att.com
-2402:4f00:2000:100::925,2402:4f00:2000:100::925,GB,United Kingdom,EU,Europe,AS58453,China Mobile International Limited,chinamobile.com
-240f:30:67ce::,240f:30:67d5:ff:ffff:ffff:ffff:ffff,JP,Japan,AS,Asia,AS2516,KDDI CORPORATION,kddi.com
-2403:ad80:5017:c72c::,2403:ad80:5017:c72c:ffff:ffff:ffff:ffff,NL,The Netherlands,EU,Europe,AS53356,Free Range Cloud Hosting Inc.,freerangecloud.com
-2001:470:752a:22bd::,2001:470:752a:22bd:ffff:ffff:ffff:ffff,DE,Germany,EU,Europe,AS6939,Hurricane Electric LLC,he.net
-2a14:b84:1d0c:f800::,2a14:b84:1d0c:f8ff:ffff:ffff:ffff:ffff,US,United States,NA,North America,AS7018,"AT&T Enterprises, LLC",att.com
-2001:470:752c:8bf0::,2001:470:752c:8bf0:ffff:ffff:ffff:ffff,TR,Turkey,AS,Asia,AS6939,Hurricane Electric LLC,he.net
-2a01:c22:ae00:3dd2::,2a01:c22:ae00:3e30:ffff:ffff:ffff:ffff,DE,Germany,EU,Europe,AS6805,Telefonica Germany GmbH & Co.OHG,telefonica.de
+2a01:c23:9600:b056::,2a01:c23:9600:b056:ffff:ffff:ffff:ffff,HU,Hungary,EU,Europe,AS6805,Telefonica Germany GmbH & Co.OHG,telefonica.de
+2a01:c23:9200:c46::,2a01:c23:9200:c46:ffff:ffff:ffff:ffff,HU,Hungary,EU,Europe,AS6805,Telefonica Germany GmbH & Co.OHG,telefonica.de
+2001:470:744c:cc6::,2001:470:744c:cce:ffff:ffff:ffff:ffff,DM,Dominica,NA,North America,AS6939,Hurricane Electric LLC,he.net
+193.178.192.0,193.178.195.255,LV,Latvia,EU,Europe,,,
+2803:9620:a03::,2803:9620:a03:ffff:ffff:ffff:ffff:ffff,AR,Argentina,SA,South America,AS265865,VEGA CESAR AUGUSTO (I-TIC),i-tic.com
+193.134.16.0,193.134.31.2,CH,Switzerland,EU,Europe,AS51907,Kanton Zug,zg.ch
+2a01:c22:8e00:b7a3::,2a01:c22:8e00:b7bb:ffff:ffff:ffff:ffff,DE,Germany,EU,Europe,AS6805,Telefonica Germany GmbH & Co.OHG,telefonica.de
+69.178.216.0,69.178.223.255,US,United States,NA,North America,AS12042,"Consolidated Communications, Inc.",consolidated.com
+85.132.7.0,85.132.7.255,AZ,Azerbaijan,AS,Asia,AS39397,Metronet LLC,azstarnet.az
+213.19.150.211,213.19.150.224,FR,France,EU,Europe,AS3356,"Level 3 Parent, LLC",lumen.com
+2a14:b82:dea4:cf00::,2a14:b82:deaf:fcff:ffff:ffff:ffff:ffff,GB,United Kingdom,EU,Europe,AS7018,"AT&T Enterprises, LLC",att.com
+123.255.208.0,123.255.223.255,AU,Australia,OC,Oceania,,,
+2a14:b85:2b62::,2a14:b85:2b62:ffff:ffff:ffff:ffff:ffff,US,United States,NA,North America,AS7018,"AT&T Enterprises, LLC",att.com
+2a14:b84:a3b4:4000::,2a14:b84:a3b4:40ff:ffff:ffff:ffff:ffff,US,United States,NA,North America,AS7018,"AT&T Enterprises, LLC",att.com
+193.58.240.0,193.58.240.255,GB,United Kingdom,EU,Europe,AS207856,Sentillia B.V.,deribit.com
+2404:8d06:b000::,2404:8d06:b0ff:ffff:ffff:ffff:ffff:ffff,TH,Thailand,AS,Asia,AS133543,"DTAC TriNet Co.,Ltd.",dtacnetwork.co.th
+2a00:79e0:ffe4:af00::,2a00:79e0:ffe4:afff:ffff:ffff:ffff:ffff,MX,Mexico,NA,North America,AS45566,Google Singapore Pte. Ltd.,google.com
+147.185.197.0,147.185.197.255,GB,United Kingdom,EU,Europe,AS42831,UK Dedicated Servers Limited,ukservers.com
+240f:103:d966::,240f:103:d966:ffff:ffff:ffff:ffff:ffff,US,United States,NA,North America,AS2516,KDDI CORPORATION,kddi.com
+2001:470:73c2:7918::,2001:470:73c2:7919:ffff:ffff:ffff:ffff,DE,Germany,EU,Europe,AS6939,Hurricane Electric LLC,he.net
+2001:470:7445:b602::,2001:470:7445:b602:ffff:ffff:ffff:ffff,DE,Germany,EU,Europe,AS6939,Hurricane Electric LLC,he.net
+91.208.148.0,91.208.148.255,SE,Sweden,EU,Europe,AS49408,Securitas AB,securitas.com
+2a14:b84:f906:ba00::,2a14:b84:f90a:9fff:ffff:ffff:ffff:ffff,GB,United Kingdom,EU,Europe,AS7018,"AT&T Enterprises, LLC",att.com
+72.14.209.160,72.14.209.161,DE,Germany,EU,Europe,AS15169,Google LLC,google.com
+45.138.36.0,45.138.39.255,NL,The Netherlands,EU,Europe,AS60144,3W Infra B.V.,3winfra.com
+2a02:5741:79::,2a02:5741:79:ffff:ffff:ffff:ffff:ffff,TL,Timor Leste,OC,Oceania,,,
+2001:470:72d8:42a9::,2001:470:72d8:42a9:ffff:ffff:ffff:ffff,DE,Germany,EU,Europe,AS6939,Hurricane Electric LLC,he.net
+2603:1026:900:20::,2603:1026:900:20:ffff:ffff:ffff:ffff,AT,Austria,EU,Europe,AS8075,Microsoft Corporation,microsoft.com
+2a14:b81:1814:1700::,2a14:b81:1818:ffff:ffff:ffff:ffff:ffff,GB,United Kingdom,EU,Europe,AS7018,"AT&T Enterprises, LLC",att.com
+2606:40:22ef:3000::,2606:40:22ef:3fff:ffff:ffff:ffff:ffff,SE,Sweden,EU,Europe,AS15169,Google LLC,google.com
+2a01:c23:6a00:5f6::,2a01:c23:6a00:5f6:ffff:ffff:ffff:ffff,HU,Hungary,EU,Europe,AS6805,Telefonica Germany GmbH & Co.OHG,telefonica.de
+2a01:c22:9201:342b::,2a01:c22:9201:344c:ffff:ffff:ffff:ffff,DE,Germany,EU,Europe,AS6805,Telefonica Germany GmbH & Co.OHG,telefonica.de
+2a14:b81:96cb:3200::,2a14:b81:96cb:32ff:ffff:ffff:ffff:ffff,US,United States,NA,North America,AS7018,"AT&T Enterprises, LLC",att.com
+89.39.247.0,89.39.247.255,GB,United Kingdom,EU,Europe,AS60194,Anchor Computer Systems Ltd,anchor.co.uk
+149.6.4.128,149.6.4.135,US,United States,NA,North America,AS174,Cogent Communications,cogentco.com
+2a14:b83:b69b:7e00::,2a14:b83:b69b:7eff:ffff:ffff:ffff:ffff,US,United States,NA,North America,AS7018,"AT&T Enterprises, LLC",att.com
+102.212.128.0,102.212.131.255,ZA,South Africa,AF,Africa,AS327996,Accelerit Technologies PTY LTD,accelerit.co.za
+62.115.137.109,62.115.137.109,JP,Japan,AS,Asia,AS1299,Arelion Sweden AB,arelion.com
+2a0e:419:2354::,2a0e:419:2999:ffff:ffff:ffff:ffff:ffff,IT,Italy,EU,Europe,AS210278,Sky Italia srl,sky.it
+2a14:b86:f14c::,2a14:b86:f14c:ffff:ffff:ffff:ffff:ffff,GB,United Kingdom,EU,Europe,AS7018,"AT&T Enterprises, LLC",att.com
+2a01:c22:a600:fb6::,2a01:c22:a600:fb6:ffff:ffff:ffff:ffff,HU,Hungary,EU,Europe,AS6805,Telefonica Germany GmbH & Co.OHG,telefonica.de
+2001:470:7445:ea27::,2001:470:7445:ea28:ffff:ffff:ffff:ffff,DE,Germany,EU,Europe,AS6939,Hurricane Electric LLC,he.net
+2001:470:7445:a8ed::,2001:470:7445:a8ed:ffff:ffff:ffff:ffff,DE,Germany,EU,Europe,AS6939,Hurricane Electric LLC,he.net
+2a14:b81:8ce6:4900::,2a14:b81:8ce7:bfff:ffff:ffff:ffff:ffff,GB,United Kingdom,EU,Europe,AS7018,"AT&T Enterprises, LLC",att.com
+2405:b500:19e0:63b1::,2405:b500:19e0:659f:ffff:ffff:ffff:ffff,US,United States,NA,North America,AS13335,"Cloudflare, Inc.",cloudflare.com
+184.104.191.213,184.104.191.216,DE,Germany,EU,Europe,AS6939,Hurricane Electric LLC,he.net
+2a01:c23:c601:a4eb::,2a01:c23:c601:a4f4:ffff:ffff:ffff:ffff,DE,Germany,EU,Europe,AS6805,Telefonica Germany GmbH & Co.OHG,telefonica.de
+2a14:b85:439e:6000::,2a14:b85:439e:60ff:ffff:ffff:ffff:ffff,US,United States,NA,North America,AS7018,"AT&T Enterprises, LLC",att.com
+161.69.94.144,161.69.94.144,DK,Denmark,EU,Europe,AS16509,"Amazon.com, Inc.",amazon.com
+2a0b:e848::,2a0b:e87f:ffff:ffff:ffff:ffff:ffff:ffff,NL,The Netherlands,EU,Europe,,,
+2a01:4f9:3100:2a70::,2a01:4f9:3100:2a7f:ffff:ffff:ffff:ffff,DE,Germany,EU,Europe,AS24940,Hetzner Online GmbH,hetzner.de
+167.64.0.0,167.64.23.255,US,United States,NA,North America,,,
+2a14:b86:693a:7600::,2a14:b86:693a:76ff:ffff:ffff:ffff:ffff,US,United States,NA,North America,AS7018,"AT&T Enterprises, LLC",att.com
+2a01:c22:7800:2d35::,2a01:c22:7800:2d50:ffff:ffff:ffff:ffff,DE,Germany,EU,Europe,AS6805,Telefonica Germany GmbH & Co.OHG,telefonica.de
+2a01:c22:7400:3f15::,2a01:c22:7400:3f15:ffff:ffff:ffff:ffff,DE,Germany,EU,Europe,AS6805,Telefonica Germany GmbH & Co.OHG,telefonica.de
+157.20.24.0,157.20.24.255,ID,Indonesia,AS,Asia,AS63506,Badan SAR Nasional,basarnas.go.id
+2a14:b85:33d6::,2a14:b85:33d6:2fff:ffff:ffff:ffff:ffff,GB,United Kingdom,EU,Europe,AS7018,"AT&T Enterprises, LLC",att.com
+2a09:bac2:55a0::,2a09:bac2:55a7:ffff:ffff:ffff:ffff:ffff,SZ,Eswatini,AF,Africa,AS13335,"Cloudflare, Inc.",cloudflare.com
+2a01:c23:7e00:e9bc::,2a01:c23:7e00:e9d6:ffff:ffff:ffff:ffff,DE,Germany,EU,Europe,AS6805,Telefonica Germany GmbH & Co.OHG,telefonica.de
+128.127.151.0,128.127.151.255,GB,United Kingdom,EU,Europe,AS25369,Hydra Communications Ltd,bandwidth.co.uk
+142.251.201.84,142.251.201.87,NL,The Netherlands,EU,Europe,AS15169,Google LLC,google.com
+2a12:f680:84::,2a12:f680:86:ffff:ffff:ffff:ffff:ffff,IQ,Iraq,AS,Asia,AS51684,ASIACELL COMMUNICATIONS PJSC,asiacell.com
+196.198.76.0,196.198.76.255,DJ,Djibouti,AF,Africa,AS37518,Fiber Grid INC,fibergrid.net
+2a14:b83:2425:c900::,2a14:b83:2425:c9ff:ffff:ffff:ffff:ffff,US,United States,NA,North America,AS7018,"AT&T Enterprises, LLC",att.com
+2a0c:9240:b7f7::,2a0c:9240:b8a3:ffff:ffff:ffff:ffff:ffff,US,United States,NA,North America,AS32613,Leaseweb Canada Inc.,iweb.com
+2a0c:2f07:4663::,2a0c:2f07:4663:ffff:ffff:ffff:ffff:ffff,GB,United Kingdom,EU,Europe,AS206924,Ben Cartwright-Cox,benjojo.co.uk
+62.72.117.168,62.72.117.171,NL,The Netherlands,EU,Europe,AS8220,COLT Technology Services Group Limited,colt.net
+2001:470:73c2:b9a2::,2001:470:73c2:b9a3:ffff:ffff:ffff:ffff,KH,Cambodia,AS,Asia,AS6939,Hurricane Electric LLC,he.net
+2001:470:b51e:177f::,2001:470:b51e:1788:ffff:ffff:ffff:ffff,TW,Taiwan,AS,Asia,AS6939,Hurricane Electric LLC,he.net
+213.39.26.198,213.39.26.198,GB,United Kingdom,EU,Europe,AS3257,GTT Communications Inc.,gtt.net
+2001:4860:0:1::2f96,2001:4860:0:1::2fa8,US,United States,NA,North America,AS15169,Google LLC,google.com
+2a09:54c1:155::,2a09:54c1:155:ffff:ffff:ffff:ffff:ffff,LK,Sri Lanka,AS,Asia,,,
+2001:470:73c2:4c68::,2001:470:73c2:4c68:ffff:ffff:ffff:ffff,DE,Germany,EU,Europe,AS6939,Hurricane Electric LLC,he.net
+89.116.124.0,89.116.124.255,LT,Lithuania,EU,Europe,AS13194,Bite IP Network,bite.lt
+2a01:c23:7e01:6ef5::,2a01:c23:7e01:6f15:ffff:ffff:ffff:ffff,DE,Germany,EU,Europe,AS6805,Telefonica Germany GmbH & Co.OHG,telefonica.de
+2602:f881:1000::,2602:f884:ffff:ffff:ffff:ffff:ffff:ffff,US,United States,NA,North America,,,
+2a14:b82:587f:8d00::,2a14:b82:5880:45ff:ffff:ffff:ffff:ffff,GB,United Kingdom,EU,Europe,AS7018,"AT&T Enterprises, LLC",att.com
+2a14:b86:d976:b100::,2a14:b86:d976:b1ff:ffff:ffff:ffff:ffff,US,United States,NA,North America,AS7018,"AT&T Enterprises, LLC",att.com
+210.48.216.0,210.48.223.255,MY,Malaysia,AS,Asia,AS45344,International Islamic University Of Malaysia,iium.edu.my
+2409:896d:2a23:8300::,2409:896d:2a23:83ff:ffff:ffff:ffff:ffff,MM,Myanmar,AS,Asia,AS9808,"China Mobile Communications Group Co., Ltd.",10086.cn
+2001:470:c839:59b6::,2001:470:c839:59b6:ffff:ffff:ffff:ffff,FR,France,EU,Europe,AS6939,Hurricane Electric LLC,he.net
+167.17.64.0,167.17.64.255,FR,France,EU,Europe,AS63023,GTHost,gthost.com
+2001:470:28:ee1::,2001:470:28:ee5:ffff:ffff:ffff:ffff,US,United States,NA,North America,AS6939,Hurricane Electric LLC,he.net
+240f:104:8870::,240f:104:8927:ffff:ffff:ffff:ffff:ffff,JP,Japan,AS,Asia,AS2516,KDDI CORPORATION,kddi.com
+240f:7c:602e::,240f:7c:602e:ffff:ffff:ffff:ffff:ffff,US,United States,NA,North America,AS2516,KDDI CORPORATION,kddi.com
+192.64.201.0,192.64.201.255,US,United States,NA,North America,AS8075,Microsoft Corporation,microsoft.com
+146.88.169.64,146.88.169.71,TW,Taiwan,AS,Asia,AS55547,WOODSNET-PH,rtat.net
+2a14:b85:8a2b:2200::,2a14:b85:8a2c:93ff:ffff:ffff:ffff:ffff,GB,United Kingdom,EU,Europe,AS7018,"AT&T Enterprises, LLC",att.com
+240f:31:4d8d:100::,240f:31:4d8d:ffff:ffff:ffff:ffff:ffff,US,United States,NA,North America,AS2516,KDDI CORPORATION,kddi.com
+2a13:9bc8::,2a13:9bff:ffff:ffff:ffff:ffff:ffff:ffff,NL,The Netherlands,EU,Europe,,,
+136.220.144.0,136.220.169.255,US,United States,NA,North America,AS721,DoD Network Information Center,mail.mil
+74.123.4.0,74.123.11.255,US,United States,NA,North America,,,
+2a14:b82:a8fb::,2a14:b82:a8fb:beff:ffff:ffff:ffff:ffff,GB,United Kingdom,EU,Europe,AS7018,"AT&T Enterprises, LLC",att.com
+2001:470:7445:8a52::,2001:470:7445:8a52:ffff:ffff:ffff:ffff,DE,Germany,EU,Europe,AS6939,Hurricane Electric LLC,he.net
+2001:4059::,2001:405f:ffff:ffff:ffff:ffff:ffff:ffff,NL,The Netherlands,EU,Europe,,,
+2a14:b85:7f95:4500::,2a14:b85:7f97:fbff:ffff:ffff:ffff:ffff,GB,United Kingdom,EU,Europe,AS7018,"AT&T Enterprises, LLC",att.com
+185.36.84.0,185.36.87.255,BA,Bosnia and Herzegovina,EU,Europe,AS21107,# BLIC.NET AS peering info,blic.net
+2a01:c23:c200:5cf5::,2a01:c23:c200:5d35:ffff:ffff:ffff:ffff,DE,Germany,EU,Europe,AS6805,Telefonica Germany GmbH & Co.OHG,telefonica.de
+2001:470:2893::,2001:470:2893:ffff:ffff:ffff:ffff:ffff,US,United States,NA,North America,AS6939,Hurricane Electric LLC,he.net
+2a14:b81:87f0:2300::,2a14:b81:87f0:23ff:ffff:ffff:ffff:ffff,US,United States,NA,North America,AS7018,"AT&T Enterprises, LLC",att.com
