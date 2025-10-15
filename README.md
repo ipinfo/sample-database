@@ -10,15 +10,16 @@
 
 The primary IP databases available for download are:
 
------------------------------------------------------------------------------|
-| **[IPinfo Lite](https://ipinfo.io/lite)**                                           | [IP Lite Sample](/IPinfo%20Lite)                            | The ultimate free IP database from IPinfo                                   |
-| **[IPinfo Core](https://ipinfo.io/core)**                                           | [IP Core Sample](/IPinfo%20Core)                            | Location, ASN, and network flags IP database                                |
-| **[IPinfo Plus](https://ipinfo.io/plus)**                                           | [IP Plus Sample](/IPinfo%20Plus)                            | Enterprise IP database with location, insights, network metadata, and flags |
+| Database Product                                                                 | Sample Database Repo                                        | Description                                                                 |
+|----------------------------------------------------------------------------------|-------------------------------------------------------------|-----------------------------------------------------------------------------|
+| **[IPinfo Lite](https://ipinfo.io/lite)**                                        | [IP Lite Sample](/IPinfo%20Lite)                            | The ultimate free IP database from IPinfo                                   |
+| **[IPinfo Core](https://ipinfo.io/core)**                                        | [IP Core Sample](/IPinfo%20Core)                            | Location, ASN, and network flags IP database                                |
+| **[IPinfo Plus](https://ipinfo.io/plus)**                                        | [IP Plus Sample](/IPinfo%20Plus)                            | Enterprise IP database with location, insights, network metadata, and flags |
 
 We also offer the following IP database downloads:
 
 | Database Product                                                                 | Sample Database Repo                                        | Description                                                                 |
-|----------------------------------------------------------------------------------|-------------------------------------------------------------|
+|----------------------------------------------------------------------------------|-------------------------------------------------------------|-----------------------------------------------------------------------------|
 | [IP to Residential Proxy Database](https://ipinfo.io/products/residential-proxy) | [IP to Residential Proxy Sample](/IP%20Residential%20Proxy) | IP to residential proxy or ISP proxy detection data                         |
 | [Hosted Domain Database](https://ipinfo.io/products/hosted-domains-database)     | [Hosted Domains Sample](../Hosted%20Domains)                | Reverse IP lookup                                                           |
 | [Abuse Contact Database](https://ipinfo.io/products/ip-abuse-contact-database)   | [Abuse Contact Sample](../Abuse%20Contact)                  | Abuse contact information                                                   |
@@ -93,7 +94,7 @@ You can find the schema, database sample, and other information in the **[IPinfo
 | **is_satellite**   | `false`                         | Indicates whether the IP address is part of a satellite internet connection |
 
 
-## [IPinfo Plus Database](https://ipinfo.io/pluss)
+## [IPinfo Plus Database](https://ipinfo.io/plus)
 
 **IPinfo's Plus is an enterprise-grade IP database that includes location, insights, confidence, ASN, privacy, carrier, and network flags all in one.**
 
@@ -114,15 +115,15 @@ You can find the schema, database sample, and other information in the **[IPinfo
 | **timezone**       | `Europe/London`                  | Local timezone of the IP address location                                                    |
 | **postal_code**    | `DT3`                            | Postal code or zip code of the IP address                                                    |
 | **dma_code**       | `13w`                            | Direct Marketing Area (DMA) is a unique regional identifier for marketing.                   |
-| **geoname_id**     | `2634202`                        | geonames.org's unique numercial identifier for geographic locations.                         |
+| **geoname_id**     | `2634202`                        | geonames.org's unique numerical identifier for geographic locations.                         |
 | **radius**         | `20`                             | Location accuracy radius in terms of kilometers                                              |
 | **asn**            | `AS2856`                         | Autonomous System Number (ASN)                                                               |
 | **as_name**        | `British Telecommunications PLC` | Organization domain name of the ASN                                                          |
 | **as_domain**      | `bt.com`                         | Name of the ASN organization                                                                 |
 | **as_type**        | `isp`                            | ASN Type: ISP, Hosting, Education, Government, or Business                                   |
-| **carrier_name**   |                                  | Name of the mobile carrier organization                                                      |
-| **mcc**            |                                  | Mobile Country Code (MCC) of the carrier                                                     |
-| **mnc**            |                                  | Mobile Network Code (MNC) of the carrier                                                     |
+| **carrier_name**   | `BT Mobile`                      | Name of the mobile carrier organization                                                      |
+| **mcc**            | `234`                            | Mobile Country Code (MCC) of the carrier                                                     |
+| **mnc**            | `15`                             | Mobile Network Code (MNC) of the carrier                                                     |
 | **as_changed**     | `2025-01-10`                     | Date when the IP address's ASN last changed: Date in YYYY-MM-DD format, ISO-8601             |
 | **geo_changed**    | `2024-11-10`                     | Date when the IP address's location last changed: Date in YYYY-MM-DD format, ISO-8601        |
 | **is_anonymous**   | `false`                          | Indicates whether the IP address is anonymous.                                               |
@@ -130,16 +131,31 @@ You can find the schema, database sample, and other information in the **[IPinfo
 | **is_hosting**     | `false`                          | Indicates whether the IP address is a hosting/cloud/data center IP address                   |
 | **is_mobile**      | `false`                          | Indicates whether the IP address belongs to a mobile network                                 |
 | **is_satellite**   | `false`                          | Indicates whether the IP address is part of a satellite internet connection                  |
-| **is_proxy**       | `false`                          | Indicates a open web proxy IP address                                                        |
-| **is_relay**       | `false`                          | Indicates location preserving anonymous relay service like iCloud private relay.             |
+| **is_proxy**       | `false`                          | Indicates an open web proxy IP address                                                       |
+| **is_relay**       | `false`                          | Indicates location-preserving anonymous relay service like iCloud private relay.             |
 | **is_tor**         | `false`                          | Indicates a TOR (The Onion Router) exit node IP address                                      |
 | **is_vpn**         | `false`                          | Indicates Virtual Private Network (VPN) service exit node IP address                         |
-| **privacy_name**   |                                  | The name of the privacy service provider includes VPN, Proxy, or Relay service provider name |
+| **privacy_name**   | `NordVPN`                        | The name of the privacy service provider includes VPN, Proxy, or Relay service provider name |
 
 
 ---
 
 
+<details>
+<summary><h2>Residential Proxy Detection Database</h2></summary>
+
+**Identify residential proxy IPs, including mobile network proxies, from more than 100 services**
+
+You can find the schema, database sample, and other information in the **[Residential Proxy Detection folder](/IP%20Residential%20Proxy)**. The database includes the following fields:
+
+| Fields              | Example          | Description                                                                                                                                                      |
+| ------------------- | ---------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| `ip`                | 38.222.31.85     | IP address associated with a residential proxy.                                                                                                                  |
+| `service`           | lightningproxies | Name of the residential proxy service. Carrier/mobile services are suffixed with `_mobile` (e.g., soax_mobile).                                                  |
+| `last_seen`         | 2024-09-07       | Last recorded active date of a residential proxy IP in ISO 8601 format (YYYY-MM-DD), with the timezone set to UTC.                                               |
+| `percent_days_seen` | 2                | Integer representing the percentage of days an IP was active over the past 90 days, indicating its activity level and frequency within a residential proxy pool. |
+
+</details>
 
 <details>
 <summary><h2>Hosted Domains / Reverse IP Lookup</h2></summary>
