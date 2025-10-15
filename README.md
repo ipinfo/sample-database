@@ -1,8 +1,6 @@
 # [<img src="https://ipinfo.io/static/ipinfo-small.svg" alt="IPinfo" width="24"/>](https://ipinfo.io/) IPinfo Sample Database Repository
 
-
 ## Sample datasets of all the [IP address database products](https://ipinfo.io/account/data-downloads).
-
 
 <p align="center">
   <img src="./assets/header_grahics_main_readme.png">
@@ -14,33 +12,34 @@ The primary IP databases available for download are:
 
 | Database Product                                                                 | Sample Database Repo                                        | Description                                                                 |
 |----------------------------------------------------------------------------------|-------------------------------------------------------------|-----------------------------------------------------------------------------|
-| [IPinfo Lite]((https://ipinfo.io/lite)                                           | [IP Lite Sample](/IPinfo%20Lite)                            | The ultimate free IP database from IPinfo                                   |
-| [IPinfo Core](https://ipinfo.io/core)                                            | [IP Core Sample](/IPinfo%20Core)                            | Location, ASN and newtork flags IP database                                 |
-| [IPinfo Plus](https://ipinfo.io/plus)                                            | [IP Plus Sample](/IPinfo%20Plus)                            | Enterprise IP database with location, insights, network metadata, and flags |
+| [IPinfo Lite](https://ipinfo.io/lite)                                           | [IP Lite Sample](/IPinfo%20Lite)                            | The ultimate free IP database from IPinfo                                   |
+| [IPinfo Core](https://ipinfo.io/core)                                           | [IP Core Sample](/IPinfo%20Core)                            | Location, ASN, and network flags IP database                                |
+| [IPinfo Plus](https://ipinfo.io/plus)                                           | [IP Plus Sample](/IPinfo%20Plus)                            | Enterprise IP database with location, insights, network metadata, and flags |
 | [IP to Residential Proxy Database](https://ipinfo.io/products/residential-proxy) | [IP to Residential Proxy Sample](/IP%20Residential%20Proxy) | IP to residential proxy or ISP proxy detection data                         |
 | [Hosted Domain Database](https://ipinfo.io/products/hosted-domains-database)     | [Hosted Domains Sample](../Hosted%20Domains)                | Reverse IP lookup                                                           |
 | [Abuse Contact Database](https://ipinfo.io/products/ip-abuse-contact-database)   | [Abuse Contact Sample](../Abuse%20Contact)                  | Abuse contact information                                                   |
 | [WHOIS Database](https://ipinfo.io/products/ip-whois-data-download)              | [WHOIS Sample](../WHOIS)                                    | Contextualized and structured WHOIS database                                |
-| IP to Privacy Detection Extended Database | [IP to Privacy Detection Extended Sample](/Privacy%20Detection%20Extended) | IP to Privacy Detection database detection method information |
+| IP to Privacy Detection Extended Database                                       | [IP to Privacy Detection Extended Sample](/Privacy%20Detection%20Extended) | IP to Privacy Detection database detection method information               |
 
 
+**In addition to the above IP data downloads, we maintain several [legacy IP data downloads](/Legacy/README.md).**
 
-**All of these products are available as CSV, JSON, Parquet and MMDB type.**
+
+**All of these products are available as CSV, JSON, Parquet, and MMDB types.**
 
 # Features of the Repository
 
-Please visit each folder to learn more about the databases. Each directory README contains -
+Please visit each folder to learn more about the databases. Each directory README contains:
 
-- Sample Dataset (100 rows) in `.csv`, `.json`, `.parquet` and `.mmdb` format
+- Sample Dataset (100 rows) in `.csv`, `.json`, `.parquet`, and `.mmdb` format
 - API response (in `.json`)
-- Breakdown of the dataset with description of the fields
+- Breakdown of the dataset with a description of the fields
 - Breakdown of the API response
-- Helpful guides, resources and articles
-
+- Helpful guides, resources, and articles
 
 # Summary of the Databases
 
-Please visit the individual database directories to learn more. The database schemas were generated in May, 2024.
+Please visit the individual database directories to learn more. The database schemas were generated in May 2024.
 
 <details id=14>
 <summary><h2>IPinfo Lite Database</h2></summary>
@@ -49,7 +48,7 @@ Please visit the individual database directories to learn more. The database sch
 
 You can find the schema, database sample, and other information in the **[IPinfo Lite folder](/IPinfo%20Lite)**. The database includes the following fields:
 
-| Field Name         | Example                 | Descrption                                                             |
+| Field Name         | Example                 | Description                                                             |
 | ------------------ | ----------------------- | ---------------------------------------------------------------------- |
 | **network**        | `154.24.39.204/30`      | CIDR/IP range or single IP address                                     |
 | **country**        | `Canada`                | Country name                                                           |
@@ -65,12 +64,12 @@ You can find the schema, database sample, and other information in the **[IPinfo
 <details id=15>
 <summary><h2>IPinfo Core Database</h2></summary>
 
-**IPinfo's Core is a robust IP database that combines our location, ASN, and network flags data into a single database**
+**IPinfo's Core is a robust IP database that combines our location, ASN, and network flags data into a single database.**
 
 You can find the schema, database sample, and other information in the **[IPinfo Core folder](/IPinfo%20Core)**. The database includes the following fields:
 
-| Field Name     | Example                       | Descrption                                                                  |
-| -------------- | ----------------------------- | --------------------------------------------------------------------------- |
+| Field Name     | Example                       | Description                                                                  |
+| -------------- | ----------------------------- | ---------------------------------------------------------------------------- |
 | network        | 66.202.64.131                 | CIDR/IP range or single IP address                                          |
 | city           | Chicago                       | City of the IP address                                                      |
 | region         | Illinois                      | Region/State of the IP address                                              |
@@ -86,10 +85,10 @@ You can find the schema, database sample, and other information in the **[IPinfo
 | asn            | AS7029                        | Autonomous System Number (ASN)                                              |
 | as_name        | Windstream Communications LLC | Organization domain name of the ASN                                         |
 | as_domain      | windstream.com                | Name of the ASN organization                                                |
-| as_type        | isp                           | ASN Type: ISP, Hosting, Education, Government or Business                   |
-| is_anonymous        | false                         | Indicates whether the IP address is anonymous.                              |
-| is_anycast     | false                         | dicates whether the IP address is an internet service hosting IP address    |
-| is_hosting     | false                         | Indicates whether the IP address is an hosting/cloud/data center IP address |
+| as_type        | isp                           | ASN Type: ISP, Hosting, Education, Government, or Business                  |
+| is_anonymous   | false                         | Indicates whether the IP address is anonymous.                              |
+| is_anycast     | false                         | Indicates whether the IP address is an internet service hosting IP address  |
+| is_hosting     | false                         | Indicates whether the IP address is a hosting/cloud/data center IP address  |
 | is_mobile      | false                         | Indicates whether the IP address belongs to a mobile network                |
 | is_satellite   | false                         | Indicates whether the IP address is part of a satellite internet connection |
 
@@ -102,7 +101,7 @@ You can find the schema, database sample, and other information in the **[IPinfo
 
 You can find the schema, database sample, and other information in the **[IPinfo Plus folder](/IPinfo%20Plus)**. The database includes the following fields:
 
-| Field Name         | Example                        | Descrption                                                                                                 |
+| Field Name         | Example                        | Description                                                                                                 |
 | ------------------ | ------------------------------ | ---------------------------------------------------------------------------------------------------------- |
 | network            | 86.179.219.192/29              | CIDR/IP range or single IP address                                                                         |
 | city               | Weymouth                       | City of the IP address                                                                                     |
@@ -122,15 +121,15 @@ You can find the schema, database sample, and other information in the **[IPinfo
 | asn                | AS2856                         | Autonomous System Number (ASN)                                                                             |
 | as_name            | British Telecommunications PLC | Organization domain name of the ASN                                                                        |
 | as_domain          | bt.com                         | Name of the ASN organization                                                                               |
-| as_type            | isp                            | ASN Type: ISP, Hosting, Education, Government or Business                                                  |
+| as_type            | isp                            | ASN Type: ISP, Hosting, Education, Government, or Business                                                  |
 | carrier_name       |                                | Name of the mobile carrier organization                                                                    |
 | mcc                |                                | Mobile Country Code (MCC) of the carrier                                                                   |
 | mnc                |                                | Mobile Network Code (MNC) of the carrier                                                                   |
 | as_changed         | 2025-01-10                     | Date when the IP address's ASN last changed: Date in YYYY-MM-DD format, ISO-8601                           |
 | geo_changed        | 2024-11-10                     | Date when the IP address's location last changed: Date in YYYY-MM-DD format, ISO-8601                      |
-| is_anonymous            | false                          | Indicates whether the IP address is anonymous.                                                             |
-| is_anycast         | false                          | dicates whether the IP address is an internet service hosting IP address                                   |
-| is_hosting         | false                          | Indicates whether the IP address is an hosting/cloud/data center IP address                                |
+| is_anonymous       | false                          | Indicates whether the IP address is anonymous.                                                             |
+| is_anycast         | false                          | Indicates whether the IP address is an internet service hosting IP address                                   |
+| is_hosting         | false                          | Indicates whether the IP address is a hosting/cloud/data center IP address                                |
 | is_mobile          | false                          | Indicates whether the IP address belongs to a mobile network                                               |
 | is_satellite       | false                          | Indicates whether the IP address is part of a satellite internet connection                                |
 | is_proxy           | false                          | Indicates a open web proxy IP address                                                                      |
@@ -182,32 +181,6 @@ You can find the schema, database sample, API response sample, and other informa
 
 
 ### 🔗 [Abuse Contact Database Product Page](https://ipinfo.io/products/ip-abuse-contact-database)
-
-</details>
-
-<details id=11>
-<summary><h2>IP Geolocation Extended</h2></summary>
-
-**IP to Geolocation database with confidence metric or accuracy radius for each entry**
-
-You can find the schema, database sample, API response sample, and other information in the **[IP Geolocation Extended folder](/IP%20Geolocation%20Extended)**. The database includes the following fields:
-
-| Field Name    | Example             | Description                                                  |
-| ------------- | ------------------- | ------------------------------------------------------------ |
-| `start_ip`    | 171.71.0.0          | Starting IP address of an IP address range                   |
-| `end_ip`      | 171.71.127.255      | Ending IP address of an IP address range                     |
-| `join_key`    | 171.71.0.0          | Special variable to facilitate database `join` operation     |
-| `city`        | San Jose            | City of the location                                         |
-| `region`      | California          | Region of the location                                       |
-| `country`     | US                  | ISO 3166 country code of the location                        |
-| `latitude`    | 37.4087             | Latitude value of the location                               |
-| `longitude`   | -121.9406           | Longitude value of the location                              |
-| `postal_code` | 95134               | Postal code of the location                                  |
-| `timezone`    | America/Los_Angeles | Local time zone                                              |
-| `geoname_id`  | 5392171             | `Geonames_id` from [geonames.org](https://www.geonames.org/) |
-| `radius`      | 5                   | Accuracy radius in terms of kilometers                       |
-
-
 
 </details>
 
@@ -356,17 +329,9 @@ We highly recommend exploring the [IPinfo community](https://community.ipinfo.io
 
 - [Database downloads articles in the community](https://community.ipinfo.io/c/docs/database-downloads/10)
 - [Lookup IP geolocation and ASN with ClickHouse and IPinfo’s free database](https://community.ipinfo.io/t/lookup-ip-geolocation-and-asn-with-clickhouse-and-ipinfos-free-database/149)
-- [https://community.ipinfo.io/t/using-ipinfo-s-data-downloads-in-postgresql/1000](https://community.ipinfo.io/t/using-ipinfo-s-data-downloads-in-postgresql/1000)
-- [Querying IPinfo IP databases inside BigQuery](https://community.ipinfo.io/t/querying-ipinfo-ip-databases-inside-bigquery/4579)
 - [Using IPinfo’s MMDB data downloads with Golang](https://community.ipinfo.io/t/using-ipinfos-mmdb-data-downloads-with-golang/4415)
 - [How to choose the best file format for your IPinfo database?](https://ipinfo.io/blog/ipinfo-database-formats/)
-- [How to get IP data and IP location in C# with IPinfo](https://ipinfo.io/blog/ip-geolocation-c-sharp/)
-- [Our downloadable IP WHOIS data sets are live!](https://ipinfo.io/blog/our-downloadable-ip-whois-data-sets-are-live)
-- [Data downloads vs API, or both?](https://ipinfo.io/blog/data-downloads-vs-api-or-both/)
 - [Ingesting IPinfo geolocation data with PostgreSQL 13](https://ipinfo.io/blog/ingesting-ipinfo-geolocation-data-with-postgresql-13/)
-- [Introducing a Simpler Way to get IP Address Data in Snowflake](https://ipinfo.io/blog/ip-address-data-in-snowflake/)
-- [IP data enrichment with IPinfo: 4 ways to add insights to your traffic/server logs](https://ipinfo.io/blog/ip-data-enrichment-in-4-ways/)
-- [Meet IPinfo’s Free IP Data Downloads](https://ipinfo.io/blog/meet-free-ip-address-database/)
 
 ## FAQs
 
@@ -378,17 +343,15 @@ If you found an issue or would like to submit an improvement to this project, pl
 
 # Interested in more?
 
-Currently, we are limiting the sample datasets to only **100 rows**. If you would like to request a larger sample or would like to get a quote on the database products, **[feel free to reach to us](https://ipinfo.io/products/ip-database-download#request_form)**.
+Currently, we are limiting the sample datasets to only **100 rows**. If you would like to request a larger sample or would like to get a quote on the database products, **[feel free to reach out to us](https://ipinfo.io/products/ip-database-download#request_form)**.
 
-Follow us on [Twitter](https://twitter.com/ipinfo) and [LinkedIn](https://www.linkedin.com/company/ipinfo/) to learn more about IP Address data and it’s fascinating potential.
+Follow us on [Twitter](https://twitter.com/ipinfo) and [LinkedIn](https://www.linkedin.com/company/ipinfo/) to learn more about IP Address data and its fascinating potential.
 
 ---
 
 # IPinfo Tools
 
-There are official IPinfo client libraries available for many languages including PHP, Python, Go, Java, Ruby, and many popular frameworks such as Django, Rails and Laravel. There are also many third party libraries and integrations available for our API.
-
-We also have an excellent CLI tool (**1700 Stars on Github**) and mapping tool.
+There are official IPinfo client libraries available for many languages including PHP, Python, Go, Java, Ruby, and many popular frameworks such as Django, Rails, and Laravel. There are also many third-party libraries and integrations available for our API.
 
 See [https://ipinfo.io/developers/libraries](https://ipinfo.io/developers/libraries) for more details.
 
