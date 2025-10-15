@@ -8,73 +8,20 @@
   <img src="./assets/header_grahics_main_readme.png">
 </p>
 
-- [ IPinfo Sample Database Repository](#-ipinfo-sample-database-repository)
-  - [Sample datasets of all the IP address database products.](#sample-datasets-of-all-the-ip-address-database-products)
-- [Database Overview](#database-overview)
-- [Features of the Repository](#features-of-the-repository)
-- [Summary of the Databases](#summary-of-the-databases)
-    - [🔗 IP Geolocation Database Product Page](#-ip-geolocation-database-product-page)
-    - [🔗 IP to Company Database Product Page](#-ip-to-company-database-product-page)
-    - [🔗 ASN Database Product Page](#-asn-database-product-page)
-    - [🔗 IP to Mobile Carrier Database Product Page](#-ip-to-mobile-carrier-database-product-page)
-    - [🔗 Privacy Detection Database Product Page](#-privacy-detection-database-product-page)
-    - [🔗 Hosted Domains Database Product Page](#-hosted-domains-database-product-page)
-    - [🔗 Abuse Contact Database Product Page](#-abuse-contact-database-product-page)
-    - [R WHOIS](#r-whois)
-    - [RIR WHOIS](#rir-whois)
-    - [🔗 WHOIS Database Product Page](#-whois-database-product-page)
-- [Relevant Articles](#relevant-articles)
-  - [Guides](#guides)
-  - [FAQs](#faqs)
-- [Found a bug?](#found-a-bug)
-- [Interested in more?](#interested-in-more)
-- [IPinfo Tools](#ipinfo-tools)
-- [About IPinfo](#about-ipinfo)
-
 # Database Overview
 
-<p align="center">
-  <img src="./assets/product_demo_main_readme.gif">
-</p>
+The primary IP databases available for download are:
 
-The database products [IPinfo.io](https://ipinfo.io) has to offer are -
-
-| Database Product                                                               | Sample Database Repo                               | Description                                  |
-| ------------------------------------------------------------------------------ | -------------------------------------------------- | -------------------------------------------- |
-| [IP Geolocation Database](https://ipinfo.io/products/ip-geolocation-database)  | [IP Geolocation Sample](/IP%20Geolocation)         | IP geolocation information                   |
-| [IP to Company Database](https://ipinfo.io/products/ip-company-database)       | [IP to Company Sample](/IP%20to%20Company)         | Company associated with IP address           |
-| [ASN Database](https://ipinfo.io/products/asn-database)                        | [ASN Database Sample](/ASN%20Database)             | IP range and ASN information                 |
-| [IP to Mobile Carrier Database](https://ipinfo.io/products/mobile-ip-database) | [IP to Mobile Sample](/IP%20to%20Mobile%20Carrier) | Mobile carrier and country information       |
-| [Privacy Detection Database](https://ipinfo.io/products/anonymous-ip-database) | [Privacy Detection Sample](/Privacy%20Detection)   | VPN, proxy, Tor, relay detection             |
-| [Hosted Domain Database](https://ipinfo.io/products/hosted-domains-database)   | [Hosted Domains Sample](/Hosted%20Domains)         | Reverse IP lookup                            |
-| [Abuse Contact Database](https://ipinfo.io/products/ip-abuse-contact-database) | [Abuse Contact Sample](/Abuse%20Contact)           | Abuse contact information                    |
-| [WHOIS Database](https://ipinfo.io/products/ip-whois-data-download)            | [WHOIS Sample](/WHOIS)                             | Contextualized and structured WHOIS database |
-
-
-IPinfo also provides the following [IP databases for free](https://ipinfo.io/products/free-ip-database). The database provide full accuracy, daily updates and complete IP data solution. The databases are licensed under (CC BY-SA 4.0) and require an attribution statement, which can found on your account dashboard.
-
-| Database Product                                                   | Sample Database Repo                                   | Description                                    |
-| ------------------------------------------------------------------ | ------------------------------------------------------ | ---------------------------------------------- |
-| [IP to Country](https://ipinfo.io/products/free-ip-database)       | [IP to Country Sample](/IP%20to%20Country)             | IP to Country Information                      |
-| [IP to ASN](https://ipinfo.io/products/free-ip-database)           | [IP to ASN Sample](/IP%20to%20ASN)                     | IP to ASN information                          |
-| [IP to Country + ASN](https://ipinfo.io/products/free-ip-database) | [IP to Country + ASN Sample](/IP%20to%20Country%20ASN) | Joined database of IP to Country and IP to ASN |
-
-
-We offer a few detailed database that comes with additional columns that gives insights to the accuracy and our data methodology. These enterprise grade databases are only available upon request.
-
-| Database Product                          | Sample Database Repo                                                       | Description                                                   |
-| ----------------------------------------- | -------------------------------------------------------------------------- | ------------------------------------------------------------- |
-| IP to Geolocation Extended Database       | [IP to Geolocation Extended Sample](/IP%20Geolocation%20Extended)          | IP to Geolocation database with accuracy radius               |
+| Database Product                                                                 | Sample Database Repo                                        | Description                                                                 |
+|----------------------------------------------------------------------------------|-------------------------------------------------------------|-----------------------------------------------------------------------------|
+| [IPinfo Lite]((https://ipinfo.io/lite)                                           | [IP Lite Sample](/IPinfo%20Lite)                            | The ultimate free IP database from IPinfo                                   |
+| [IPinfo Core](https://ipinfo.io/core)                                            | [IP Core Sample](/IPinfo%20Core)                            | Location, ASN and newtork flags IP database                                 |
+| [IPinfo Plus](https://ipinfo.io/plus)                                            | [IP Plus Sample](/IPinfo%20Plus)                            | Enterprise IP database with location, insights, network metadata, and flags |
+| [IP to Residential Proxy Database](https://ipinfo.io/products/residential-proxy) | [IP to Residential Proxy Sample](/IP%20Residential%20Proxy) | IP to residential proxy or ISP proxy detection data                         |
+| [Hosted Domain Database](https://ipinfo.io/products/hosted-domains-database)     | [Hosted Domains Sample](../Hosted%20Domains)                | Reverse IP lookup                                                           |
+| [Abuse Contact Database](https://ipinfo.io/products/ip-abuse-contact-database)   | [Abuse Contact Sample](../Abuse%20Contact)                  | Abuse contact information                                                   |
+| [WHOIS Database](https://ipinfo.io/products/ip-whois-data-download)              | [WHOIS Sample](../WHOIS)                                    | Contextualized and structured WHOIS database                                |
 | IP to Privacy Detection Extended Database | [IP to Privacy Detection Extended Sample](/Privacy%20Detection%20Extended) | IP to Privacy Detection database detection method information |
-| IP to Residential Proxy Database          | [IP to Residential Proxy Sample](/IP%20Residential%20Proxy)                | IP to residential proxy or ISP proxy detection data           |
-
-From January 2025, we are offering several new IP database downloads that bundle multiple IP contexts in single data downloads
-
-| Database Product | Sample Database Repo                     | Description                                                                 |
-| ---------------- | ---------------------------------------- | --------------------------------------------------------------------------- |
-| IPinfo Lite      | [IP Lite Sample](/IPinfo%20Lite)         | The ultimate free IP database from IPinfo                                   |
-| IPinfo Core      | [IP Core Sample](/IPinfo%20Core) | Location, ASN and newtork flags IP database                                 |
-| IPinfo Plus  | [IP Plus Sample](/IPinfo%20Plus)         | Enterprise IP database with location, insights, network metadata, and flags |
 
 
 
@@ -84,7 +31,7 @@ From January 2025, we are offering several new IP database downloads that bundle
 
 Please visit each folder to learn more about the databases. Each directory README contains -
 
-- Sample Dataset (100 rows) in `.csv`, `.json` and `.mmdb` format
+- Sample Dataset (100 rows) in `.csv`, `.json`, `.parquet` and `.mmdb` format
 - API response (in `.json`)
 - Breakdown of the dataset with description of the fields
 - Breakdown of the API response
@@ -94,303 +41,6 @@ Please visit each folder to learn more about the databases. Each directory READM
 # Summary of the Databases
 
 Please visit the individual database directories to learn more. The database schemas were generated in May, 2024.
-
-<details id=1>
-<summary><h2>IP to Country</h2></summary>
-
-**Get the country and continent information from IP addresses.**
-
-You can find the schema, database sample, API response sample, and other information in the **[IP to Country folder](/IP%20to%20Country)**. The database includes the following fields:
-
-| Field Name       | Example         | Description                                |
-| ---------------- | --------------- | ------------------------------------------ |
-| `start_ip`       | 217.220.0.0     | Starting IP address of an IP address range |
-| `end_ip`         | 217.223.255.255 | Ending IP address of an IP address range   |
-| `country`        | IT              | ISO 3166 country code of the IP addresses  |
-| `country_name`   | Italy           | Name of the country                        |
-| `continent`      | EU              | Continent code of the country              |
-| `continent_name` | Europe          | Name of the continent                      |
-
-
-</details>
-
-<details id=2>
-<summary><h2>IP to ASN</h2></summary>
-
-**Get ASN information (limited) from an IP address range.**
-
-You can find the schema, database sample, API response sample, and other information in the **[IP to ASN folder](/IP%20to%20ASN)**. The database includes the following fields:
-
-| Field Name | Example       | Description                                       |
-| ---------- | ------------- | ------------------------------------------------- |
-| `start_ip` | 62.235.50.0   | Starting IP address of an IP address range        |
-| `end_ip`   | 62.235.50.255 | Ending IP address of an IP address range          |
-| `asn`      | AS29005       | Autonomous System Number                          |
-| `name`     | Proximus NV   | Name of the AS (Autonomous System) organization   |
-| `domain`   | proximus.com  | Official domain or website of the AS organization |
-
-
-</details>
-
-
-<details id=3>
-<summary><h2>IP to Country + ASN</h2></summary>
-
-**Joined database of IP to Country and IP to ASN database.**
-
-You can find the schema, database sample, API response sample, and other information in the **[IP to Country ASN folder](/IP%20to%20Country%20ASN)**. The database includes the following fields:
-
-| Field Name       | Example        | Description                                       |
-| ---------------- | -------------- | ------------------------------------------------- |
-| `start_ip`       | 194.87.139.0   | Starting IP address of an IP address range        |
-| `end_ip`         | 194.87.139.255 | Ending IP address of an IP address range          |
-| `country`        | NL             | ISO 3166 country code of the IP addresses         |
-| `country_name`   | Netherlands    | Name of the country                               |
-| `continent`      | EU             | Continent code of the country                     |
-| `continent_name` | Europe         | Name of the continent                             |
-| `asn`            | AS1239         | Autonomous System Number                          |
-| `as_name`        | Sprint         | Name of the AS (Autonomous System) organization   |
-| `as_domain`      | sprint.net     | Official domain or website of the AS organization |
-
-
-</details>
-
-<details id=4>
-<summary><h2>IP Geolocation</h2></summary>
-
-**Get geolocation information from IP addresses.**
-
-You can find the schema, database sample, API response sample, and other information in the **[IP Geolocation folder](/IP%20Geolocation)**. The database includes the following fields:
-
-| Field Name         | Example            | Description                                    |
-| ------------------ | ------------------ | ---------------------------------------------- |
-| **network**        | `71.50.174.48/28`  | CIDR or single Address of the IP address block |
-| **city**           | `Spring Lake`      | City of the IP address                         |
-| **region**         | `North Carolina`   | Region/State of the IP address                 |
-| **region_code**    | `NC`               | Region code in two-letter format in ISO 3166   |
-| **country**        | `United States`    | Name of the country of the IP address          |
-| **country_code**   | `US`               | ISO 3166 country code of the IP address        |
-| **continent**      | `North America`    | Name of the continent                          |
-| **continent_code** | `NA`               | Continent name code in two-letter format       |
-| **latitude**       | `35.16794`         | Latitude value of the IP address               |
-| **longitude**      | `-78.97281`        | Longitude value of the IP address              |
-| **timezone**       | `America/New_York` | Local timezone of the IP address location      |
-| **postal_code**    | `28390`            | Postal code or zip code of the IP address      |
-
-
-### 🔗 [IP Geolocation Database Product Page](https://ipinfo.io/products/ip-geolocation-database)
-
-</details>
-
-<details id=5>
-<summary><h2>IP to Company</h2></summary>
-
-**Get organization data and identify the company behind the IP address and network traffic.**
-
-You can find the schema, database sample, API response sample, and other information in the **[IP to Company folder](/IP%20to%20Company)**. This database is can be used to identify large scale organization or companies behind IP address ranges. The database includes the following fields:
-
-| Field Name  | Example                 | Description                                                |
-| ----------- | ----------------------- | ---------------------------------------------------------- |
-| `start_ip`  | 107.136.106.168         | Starting IP address of an IP address range                 |
-| `end_ip`    | 107.136.106.175         | Ending IP address of an IP address range                   |
-| `join_key`  | 107.136.0.0             | Special variable to facilitate database `join` operation   |
-| `name`      | ZSPEC FLOW-180709174314 | Name of the organization                                   |
-| `domain`    | zspec.com               | Domain of the organization                                 |
-| `type`      | business                | Type of business. e.g. Business, ISP, Hosting or Education |
-| `asn`       | AS7018                  | ASN of the IP range                                        |
-| `as_name`   | AT&T Services, Inc.     | Name of the ASN                                            |
-| `as_domain` | att.com                 | Domain name of the ASN                                     |
-| `as_type`   | isp                     | ASN Type: ISP, Hosting, Business or Education              |
-| `country`   | US                      | ISO 3166 country code                                      |
-
-
-
-### 🔗 [IP to Company Database Product Page](https://ipinfo.io/products/ip-company-database)
-
-</details>
-
-<details id=6>
-<summary><h2>ASN Database</h2></summary>
-
-
-**Get ASN data from ASN or IP Address information.**
-
-You can find the schema, database sample, API response sample, and other information in the **[ASN folder](/ASN%20Database)**. The Database contains the following fields:
-
-| Field Name  | Example          | Description                                                               |
-| ----------- | ---------------- | ------------------------------------------------------------------------- |
-| **network** | `115.76.56.0/23` | CIDR or single IP address of the IP address block                         |
-| **asn**     | `AS7552`         | Autonomous System Number (ASN)                                            |
-| **domain**  | `viettel.com.vn` | Organization domain name of the ASN                                       |
-| **name**    | `Viettel Group`  | Name of the ASN organization                                              |
-| **type**    | `isp`            | ASN Type: ISP, Hosting, Education, Government or Business                 |
-| **country** | `VN`             | ISO 3166 two letter country code of the ASN declared in the WHOIS records |
-
-
-### 🔗 [ASN Database Product Page](https://ipinfo.io/products/asn-database)
-
-</details>
-
-<details id=7>
-<summary><h2>IP to Mobile Carrier</h2></summary>
-
-**Lookup Mobile Carrier data such as - MCC and MNC from IP addresses.** 
-
-You can find the schema, database sample, API response sample, and other information in the **[IP to Mobile Carrier folder](/IP%20to%20Mobile%20Carrier)**. The database contains the following fields:
-
-| Field Name | Example                                  | Description                                              |
-| ---------- | ---------------------------------------- | -------------------------------------------------------- |
-| `start_ip` | 5.208.203.0                              | Starting IP address of an IP address range               |
-| `end_ip`   | 5.208.203.255                            | Ending IP address of an IP address range                 |
-| `join_key` | 5.208.0.0                                | Special variable to facilitate database `join` operation |
-| `name`     | Mobile Communication Company of Iran PLC | Name of the mobile carrier                               |
-| `country`  | IR                                       | ISO 3166 country code                                    |
-| `mcc`      | 432                                      | Mobile Country Code (MCC) of the carrier                 |
-| `mnc`      | 11                                       | Mobile Network Code (MNC) of the carrier                 |
-
-
-
-### 🔗 [IP to Mobile Carrier Database Product Page](https://ipinfo.io/products/mobile-ip-database)
-
-</details>
-
-<details id=8>
-<summary><h2>Privacy Detection / Anonymous IP Detection</h2></summary>
-
-**Demystify anonymous IP addresses. Identify privacy masking services such as VPN, Tor, proxies, relays and hosting from IP addresses.**
-
-You can find the schema, database sample, API response sample, and other information in the **[Privacy Detection folder](/Privacy%20Detection)**. The database includes the following fields:
-
-| Field Name  | Example             | Descrption                                                           |
-| ----------- | ------------------- | -------------------------------------------------------------------- |
-| **network** | `146.70.174.112/31` | CIDR or single IP address of the IP address block                    |
-| **hosting** | `true`              | Indicates a hosting/cloud service/data center IP address             |
-| **proxy**   | `false`             | Indicates a open web proxy IP address                                |
-| **tor**     | `false`             | Indicates a TOR (The Onion Router) exit node IP address              |
-| **relay**   | `false`             | Indicates Virtual Private Network (VPN) service exit node IP address |
-| **vpn**     | `true`              | Indicates location preserving anonymous relay service                |
-| **service** | `ProtonVPN`         | Name of the anonymous IP service provider                            |
-
-
-
-### 🔗 [Privacy Detection Database Product Page](https://ipinfo.io/products/anonymous-ip-database)
-
-</details>
-
-<details id=9>
-<summary><h2>Hosted Domains / Reverse IP Lookup</h2></summary>
-
-**Hosted Domains database enables you to do reverse IP lookups.**
-
-Through our Hosted Domains service, you can see the list of domains hosted on a single IP address. 
-
-You can find the schema, database sample, API response sample, and other information in the **[Hosted Domains folder](/Hosted%20Domains)**. The database includes the following fields:
-
-| Field Name | Example                                  | Description                                    |
-| ---------- | ---------------------------------------- | ---------------------------------------------- |
-| `ip`       | 135.125.236.225                          | IP address for reverse IP lookup               |
-| `total`    | 3                                        | Number of domains registered to the IP Address |
-| `domains`  | farmanaut.com,pharmanaut.be,farmanaut.be | Name of the domain(s) under the IP address     |
-
-
-### 🔗 [Hosted Domains Database Product Page](https://ipinfo.io/products/hosted-domains-database)
-
-</details>
-
-<details id=10>
-<summary><h2>Abuse Contact</h2></summary>
-
-**Get the abuse contact information of every ISP on the internet.**
-
-You can find the schema, database sample, API response sample, and other information in the **[Abuse Contact folder](/Abuse%20Contact)**. The database includes the following fields:
-
-| Field Name | Example                                           | Description                                              |
-| ---------- | ------------------------------------------------- | -------------------------------------------------------- |
-| `start_ip` | 119.93.20.248                                     | Starting IP address of an IP address block               |
-| `end_ip`   | 119.93.20.255                                     | Ending IP address of an IP address block                 |
-| `join_key` | 119.93.0.0                                        | Special variable to facilitate database `join` operation |
-| `name`     | Nilo Agir                                         | Name of the abuse contact                                |
-| `email`    | abuse@pldt.net                                    | Organizational email of the abuse contact                |
-| `address`  | Philippine Long Distance Telephone Company, 6/... | Organizational address of the abuse contact              |
-| `country`  | PH                                                | ISO 3166 country code                                    |
-| `phone`    | +632-584-1045                                     | Organizational phone number of the abuse contact         |
-
-
-### 🔗 [Abuse Contact Database Product Page](https://ipinfo.io/products/ip-abuse-contact-database)
-
-</details>
-
-<details id=11>
-<summary><h2>IP Geolocation Extended</h2></summary>
-
-**IP to Geolocation database with confidence metric or accuracy radius for each entry**
-
-You can find the schema, database sample, API response sample, and other information in the **[IP Geolocation Extended folder](/IP%20Geolocation%20Extended)**. The database includes the following fields:
-
-| Field Name    | Example             | Description                                                  |
-| ------------- | ------------------- | ------------------------------------------------------------ |
-| `start_ip`    | 171.71.0.0          | Starting IP address of an IP address range                   |
-| `end_ip`      | 171.71.127.255      | Ending IP address of an IP address range                     |
-| `join_key`    | 171.71.0.0          | Special variable to facilitate database `join` operation     |
-| `city`        | San Jose            | City of the location                                         |
-| `region`      | California          | Region of the location                                       |
-| `country`     | US                  | ISO 3166 country code of the location                        |
-| `latitude`    | 37.4087             | Latitude value of the location                               |
-| `longitude`   | -121.9406           | Longitude value of the location                              |
-| `postal_code` | 95134               | Postal code of the location                                  |
-| `timezone`    | America/Los_Angeles | Local time zone                                              |
-| `geoname_id`  | 5392171             | `Geonames_id` from [geonames.org](https://www.geonames.org/) |
-| `radius`      | 5                   | Accuracy radius in terms of kilometers                       |
-
-
-
-</details>
-
-
-<details id=12>
-<summary><h2>Privacy Detection Extended</h2></summary>
-
-**Get detection method for each private IP address**
-
-You can find the schema, database sample, API response sample, and other information in the **[Privacy Detection Extended folder](/Privacy%20Detection%20Extended)**. The database includes the following fields:
-
- | Field Name          | Example         | Data Type                                                                                                                                                                                                                                                                                                                             | Descrption |
- | ------------------- | --------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- |
- | **network**         | `45.129.35.234` | CIDR/IP Range or single IP address block                                                                                                                                                                                                                                                                                              |
- | **hosting**         | `true`          | Indicates a hosting/cloud service/data center IP address                                                                                                                                                                                                                                                                              |
- | **proxy**           | `false`         | Indicates a open web proxy IP address                                                                                                                                                                                                                                                                                                 |
- | **relay**           | `false`         | Indicates location preserving anonymous relay service                                                                                                                                                                                                                                                                                 |
- | **tor**             | `false`         | Indicates a TOR (The Onion Router) exit node IP address                                                                                                                                                                                                                                                                               |
- | **vpn**             | `true`          | Indicates Virtual Private Network (VPN) service exit node IP address                                                                                                                                                                                                                                                                  |
- | **service**         | `NordVPN`       | Name of the privacy service provider includes VPN, Proxy and Relay service providers names                                                                                                                                                                                                                                            |
- | **first_seen**      | `2024-10-31`    | Date when the activity on an anonymous IP address was first observed: Date in YYYY-MM-DD format, ISO-8601. Within the 3-month lookback period.                                                                                                                                                                                        |
- | **last_seen**       | `2025-01-03`    | Date when the activity on an anonymous IP address was last/recently observed: Date in YYYY-MM-DD format, ISO-8601.                                                                                                                                                                                                                    |
- | **confidence**      | `3`             | The level (from 1 to 3) of confidence attributed to the best source associated with this range                                                                                                                                                                                                                                        |
- | **coverage**        | `1.0`           | For inferred ranges (see `inferred` flag), represents the proportion of the range (in IP count) that we saw direct evidence of VPN activity on; the remaining percentage of the range (1 - coverage) is composed of IPs we did not directly observe. For IPs/ranges we've fully directly observed VPN evidence on, this value is 1.0. |
- | **census**          | `false`         | Ranges where we've observed VPN software/ports on; we run scans on ports and protocols commonly associated with VPN software. Ranges with the census flag are those where these scans obtained positive results                                                                                                                       |
- | **census_ports**    | ``              | The ports we've gotten positive results for when running our VPN detection census                                                                                                                                                                                                                                                     |
- | **device_activity** | `false`         | Ranges on which we've observed device activity compatible with VPN usage (outside of known infrastructure area; simultaneous use around a large area; pingable and/or associated with hosting providers)                                                                                                                              |
- | **inferred**        | `false`         | Whether the range associated with the record is the result of direct observation or inference based on neighboring IPs                                                                                                                                                                                                                |
- | **vpn_config**      | `true`          | Ranges where we confirmed VPN activity by directly running VPN software from almost 200 different providers and collecting exit IPs                                                                                                                                                                                                   |
- | **whois**           | `false`         | Ranges where we've observed VPN software/ports on AND have a WHOIS association with either VPNs in general or specific VPN providers. e.g. if our ipsec scan returned a positive result for an IP and its WHOIS record indicates that it is owned by a VPN provider, this flag will be true.                                          |
-
-</details>
-
-<details id=13>
-<summary><h2>Residential Proxy Detection Database</h2></summary>
-
-**Identify residential proxy IPs, including mobile network proxies, from more than 100 services**
-
-You can find the schema, database sample, and other information in the **[Residential Proxy Detection folder](/IP%20Residential%20Proxy)**. The database includes the following fields:
-
-| Fields              | Example          | Description                                                                                                                                                      |
-| ------------------- | ---------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| `ip`                | 38.222.31.85     | IP address associated with a residential proxy.                                                                                                                  |
-| `service`           | lightningproxies | Name of the residential proxy service. Carrier/mobile services are suffixed with `_mobile` (e.g., soax_mobile).                                                  |
-| `last_seen`         | 2024-09-07       | Last recorded active date of a residential proxy IP in ISO 8601 format (YYYY-MM-DD), with the timezone set to UTC.                                               |
-| `percent_days_seen` | 2                | Integer representing the percentage of days an IP was active over the past 90 days, indicating its activity level and frequency within a residential proxy pool. |
-
-</details>
 
 <details id=14>
 <summary><h2>IPinfo Lite Database</h2></summary>
@@ -490,6 +140,123 @@ You can find the schema, database sample, and other information in the **[IPinfo
 | privacy_name       |                                | The name of the privacy service provider includes VPN, Proxy, or Relay service provider name               |
 
 </details>
+
+
+<details id=9>
+<summary><h2>Hosted Domains / Reverse IP Lookup</h2></summary>
+
+**Hosted Domains database enables you to do reverse IP lookups.**
+
+Through our Hosted Domains service, you can see the list of domains hosted on a single IP address. 
+
+You can find the schema, database sample, API response sample, and other information in the **[Hosted Domains folder](/Hosted%20Domains)**. The database includes the following fields:
+
+| Field Name | Example                                  | Description                                    |
+| ---------- | ---------------------------------------- | ---------------------------------------------- |
+| `ip`       | 135.125.236.225                          | IP address for reverse IP lookup               |
+| `total`    | 3                                        | Number of domains registered to the IP Address |
+| `domains`  | farmanaut.com,pharmanaut.be,farmanaut.be | Name of the domain(s) under the IP address     |
+
+
+### 🔗 [Hosted Domains Database Product Page](https://ipinfo.io/products/hosted-domains-database)
+
+</details>
+
+<details id=10>
+<summary><h2>Abuse Contact</h2></summary>
+
+**Get the abuse contact information of every ISP on the internet.**
+
+You can find the schema, database sample, API response sample, and other information in the **[Abuse Contact folder](/Abuse%20Contact)**. The database includes the following fields:
+
+| Field Name | Example                                           | Description                                              |
+| ---------- | ------------------------------------------------- | -------------------------------------------------------- |
+| `start_ip` | 119.93.20.248                                     | Starting IP address of an IP address block               |
+| `end_ip`   | 119.93.20.255                                     | Ending IP address of an IP address block                 |
+| `join_key` | 119.93.0.0                                        | Special variable to facilitate database `join` operation |
+| `name`     | Nilo Agir                                         | Name of the abuse contact                                |
+| `email`    | abuse@pldt.net                                    | Organizational email of the abuse contact                |
+| `address`  | Philippine Long Distance Telephone Company, 6/... | Organizational address of the abuse contact              |
+| `country`  | PH                                                | ISO 3166 country code                                    |
+| `phone`    | +632-584-1045                                     | Organizational phone number of the abuse contact         |
+
+
+### 🔗 [Abuse Contact Database Product Page](https://ipinfo.io/products/ip-abuse-contact-database)
+
+</details>
+
+<details id=11>
+<summary><h2>IP Geolocation Extended</h2></summary>
+
+**IP to Geolocation database with confidence metric or accuracy radius for each entry**
+
+You can find the schema, database sample, API response sample, and other information in the **[IP Geolocation Extended folder](/IP%20Geolocation%20Extended)**. The database includes the following fields:
+
+| Field Name    | Example             | Description                                                  |
+| ------------- | ------------------- | ------------------------------------------------------------ |
+| `start_ip`    | 171.71.0.0          | Starting IP address of an IP address range                   |
+| `end_ip`      | 171.71.127.255      | Ending IP address of an IP address range                     |
+| `join_key`    | 171.71.0.0          | Special variable to facilitate database `join` operation     |
+| `city`        | San Jose            | City of the location                                         |
+| `region`      | California          | Region of the location                                       |
+| `country`     | US                  | ISO 3166 country code of the location                        |
+| `latitude`    | 37.4087             | Latitude value of the location                               |
+| `longitude`   | -121.9406           | Longitude value of the location                              |
+| `postal_code` | 95134               | Postal code of the location                                  |
+| `timezone`    | America/Los_Angeles | Local time zone                                              |
+| `geoname_id`  | 5392171             | `Geonames_id` from [geonames.org](https://www.geonames.org/) |
+| `radius`      | 5                   | Accuracy radius in terms of kilometers                       |
+
+
+
+</details>
+
+
+<details id=13>
+<summary><h2>Residential Proxy Detection Database</h2></summary>
+
+**Identify residential proxy IPs, including mobile network proxies, from more than 100 services**
+
+You can find the schema, database sample, and other information in the **[Residential Proxy Detection folder](/IP%20Residential%20Proxy)**. The database includes the following fields:
+
+| Fields              | Example          | Description                                                                                                                                                      |
+| ------------------- | ---------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| `ip`                | 38.222.31.85     | IP address associated with a residential proxy.                                                                                                                  |
+| `service`           | lightningproxies | Name of the residential proxy service. Carrier/mobile services are suffixed with `_mobile` (e.g., soax_mobile).                                                  |
+| `last_seen`         | 2024-09-07       | Last recorded active date of a residential proxy IP in ISO 8601 format (YYYY-MM-DD), with the timezone set to UTC.                                               |
+| `percent_days_seen` | 2                | Integer representing the percentage of days an IP was active over the past 90 days, indicating its activity level and frequency within a residential proxy pool. |
+
+</details>
+
+<details id=12>
+<summary><h2>Privacy Detection Extended</h2></summary>
+
+**Get detection method for each private IP address**
+
+You can find the schema, database sample, API response sample, and other information in the **[Privacy Detection Extended folder](/Privacy%20Detection%20Extended)**. The database includes the following fields:
+
+ | Field Name          | Example         | Data Type                                                                                                                                                                                                                                                                                                                             | Descrption |
+ | ------------------- | --------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- |
+ | **network**         | `45.129.35.234` | CIDR/IP Range or single IP address block                                                                                                                                                                                                                                                                                              |
+ | **hosting**         | `true`          | Indicates a hosting/cloud service/data center IP address                                                                                                                                                                                                                                                                              |
+ | **proxy**           | `false`         | Indicates a open web proxy IP address                                                                                                                                                                                                                                                                                                 |
+ | **relay**           | `false`         | Indicates location preserving anonymous relay service                                                                                                                                                                                                                                                                                 |
+ | **tor**             | `false`         | Indicates a TOR (The Onion Router) exit node IP address                                                                                                                                                                                                                                                                               |
+ | **vpn**             | `true`          | Indicates Virtual Private Network (VPN) service exit node IP address                                                                                                                                                                                                                                                                  |
+ | **service**         | `NordVPN`       | Name of the privacy service provider includes VPN, Proxy and Relay service providers names                                                                                                                                                                                                                                            |
+ | **first_seen**      | `2024-10-31`    | Date when the activity on an anonymous IP address was first observed: Date in YYYY-MM-DD format, ISO-8601. Within the 3-month lookback period.                                                                                                                                                                                        |
+ | **last_seen**       | `2025-01-03`    | Date when the activity on an anonymous IP address was last/recently observed: Date in YYYY-MM-DD format, ISO-8601.                                                                                                                                                                                                                    |
+ | **confidence**      | `3`             | The level (from 1 to 3) of confidence attributed to the best source associated with this range                                                                                                                                                                                                                                        |
+ | **coverage**        | `1.0`           | For inferred ranges (see `inferred` flag), represents the proportion of the range (in IP count) that we saw direct evidence of VPN activity on; the remaining percentage of the range (1 - coverage) is composed of IPs we did not directly observe. For IPs/ranges we've fully directly observed VPN evidence on, this value is 1.0. |
+ | **census**          | `false`         | Ranges where we've observed VPN software/ports on; we run scans on ports and protocols commonly associated with VPN software. Ranges with the census flag are those where these scans obtained positive results                                                                                                                       |
+ | **census_ports**    | ``              | The ports we've gotten positive results for when running our VPN detection census                                                                                                                                                                                                                                                     |
+ | **device_activity** | `false`         | Ranges on which we've observed device activity compatible with VPN usage (outside of known infrastructure area; simultaneous use around a large area; pingable and/or associated with hosting providers)                                                                                                                              |
+ | **inferred**        | `false`         | Whether the range associated with the record is the result of direct observation or inference based on neighboring IPs                                                                                                                                                                                                                |
+ | **vpn_config**      | `true`          | Ranges where we confirmed VPN activity by directly running VPN software from almost 200 different providers and collecting exit IPs                                                                                                                                                                                                   |
+ | **whois**           | `false`         | Ranges where we've observed VPN software/ports on AND have a WHOIS association with either VPNs in general or specific VPN providers. e.g. if our ipsec scan returned a positive result for an IP and its WHOIS record indicates that it is owned by a VPN provider, this flag will be true.                                          |
+
+</details>
+
 
 <details id=17>
 <summary><h2>WHOIS</h2></summary>
