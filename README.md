@@ -10,11 +10,15 @@
 
 The primary IP databases available for download are:
 
+-----------------------------------------------------------------------------|
+| **[IPinfo Lite](https://ipinfo.io/lite)**                                           | [IP Lite Sample](/IPinfo%20Lite)                            | The ultimate free IP database from IPinfo                                   |
+| **[IPinfo Core](https://ipinfo.io/core)**                                           | [IP Core Sample](/IPinfo%20Core)                            | Location, ASN, and network flags IP database                                |
+| **[IPinfo Plus](https://ipinfo.io/plus)**                                           | [IP Plus Sample](/IPinfo%20Plus)                            | Enterprise IP database with location, insights, network metadata, and flags |
+
+We also offer the following IP database downloads:
+
 | Database Product                                                                 | Sample Database Repo                                        | Description                                                                 |
-|----------------------------------------------------------------------------------|-------------------------------------------------------------|-----------------------------------------------------------------------------|
-| [IPinfo Lite](https://ipinfo.io/lite)                                           | [IP Lite Sample](/IPinfo%20Lite)                            | The ultimate free IP database from IPinfo                                   |
-| [IPinfo Core](https://ipinfo.io/core)                                           | [IP Core Sample](/IPinfo%20Core)                            | Location, ASN, and network flags IP database                                |
-| [IPinfo Plus](https://ipinfo.io/plus)                                           | [IP Plus Sample](/IPinfo%20Plus)                            | Enterprise IP database with location, insights, network metadata, and flags |
+|----------------------------------------------------------------------------------|-------------------------------------------------------------|
 | [IP to Residential Proxy Database](https://ipinfo.io/products/residential-proxy) | [IP to Residential Proxy Sample](/IP%20Residential%20Proxy) | IP to residential proxy or ISP proxy detection data                         |
 | [Hosted Domain Database](https://ipinfo.io/products/hosted-domains-database)     | [Hosted Domains Sample](../Hosted%20Domains)                | Reverse IP lookup                                                           |
 | [Abuse Contact Database](https://ipinfo.io/products/ip-abuse-contact-database)   | [Abuse Contact Sample](../Abuse%20Contact)                  | Abuse contact information                                                   |
@@ -22,7 +26,7 @@ The primary IP databases available for download are:
 | IP to Privacy Detection Extended Database                                       | [IP to Privacy Detection Extended Sample](/Privacy%20Detection%20Extended) | IP to Privacy Detection database detection method information               |
 
 
-**In addition to the above IP data downloads, we maintain several [legacy IP data downloads](/Legacy/README.md).**
+> **In addition to the above IP data downloads, we maintain several [legacy IP data downloads](/Legacy/README.md).**
 
 
 **All of these products are available as CSV, JSON, Parquet, and MMDB types.**
@@ -41,8 +45,7 @@ Please visit each folder to learn more about the databases. Each directory READM
 
 Please visit the individual database directories to learn more. The database schemas were generated in May 2024.
 
-<details id=14>
-<summary><h2>IPinfo Lite Database</h2></summary>
+## [IPinfo Lite Database](https://ipinfo.io/lite)
 
 **IPinfo's free IP database provides location (country + continent) and ASN information in a single database.**
 
@@ -59,89 +62,86 @@ You can find the schema, database sample, and other information in the **[IPinfo
 | **as_name**        | `Cogent Communications` | Name of the AS (Autonomous System Number) organization                 |
 | **as_domain**      | `cogentco.com`          | Official domain or website of the ASN organization                     |
 
-</details>
-
-<details id=15>
-<summary><h2>IPinfo Core Database</h2></summary>
+## [IPinfo Core Database](https://ipinfo.io/core)
 
 **IPinfo's Core is a robust IP database that combines our location, ASN, and network flags data into a single database.**
 
 You can find the schema, database sample, and other information in the **[IPinfo Core folder](/IPinfo%20Core)**. The database includes the following fields:
 
-| Field Name     | Example                       | Description                                                                  |
-| -------------- | ----------------------------- | ---------------------------------------------------------------------------- |
-| network        | 66.202.64.131                 | CIDR/IP range or single IP address                                          |
-| city           | Chicago                       | City of the IP address                                                      |
-| region         | Illinois                      | Region/State of the IP address                                              |
-| region_code    | IL                            | Region code in two-letter format in ISO 3166                                |
-| country        | United States                 | Name of the country of the IP address                                       |
-| country_code   | US                            | ISO 3166 country code of the IP address                                     |
-| continent      | North America                 | Name of the continent                                                       |
-| continent_code | NA                            | Continent name code in two-letter format                                    |
-| latitude       | 41.85003                      | Latitude value of the IP address                                            |
-| longitude      | -87.65005                     | Longitude value of the IP address                                           |
-| timezone       | America/Chicago               | Local timezone of the IP address location                                   |
-| postal_code    | 60666                         | Postal code or zip code of the IP address                                   |
-| asn            | AS7029                        | Autonomous System Number (ASN)                                              |
-| as_name        | Windstream Communications LLC | Organization domain name of the ASN                                         |
-| as_domain      | windstream.com                | Name of the ASN organization                                                |
-| as_type        | isp                           | ASN Type: ISP, Hosting, Education, Government, or Business                  |
-| is_anonymous   | false                         | Indicates whether the IP address is anonymous.                              |
-| is_anycast     | false                         | Indicates whether the IP address is an internet service hosting IP address  |
-| is_hosting     | false                         | Indicates whether the IP address is a hosting/cloud/data center IP address  |
-| is_mobile      | false                         | Indicates whether the IP address belongs to a mobile network                |
-| is_satellite   | false                         | Indicates whether the IP address is part of a satellite internet connection |
+| Field Name         | Example                         | Description                                                                 |
+|--------------------|---------------------------------|-----------------------------------------------------------------------------|
+| **network**        | `66.202.64.131`                 | CIDR/IP range or single IP address                                          |
+| **city**           | `Chicago`                       | City of the IP address                                                      |
+| **region**         | `Illinois`                      | Region/State of the IP address                                              |
+| **region_code**    | `IL`                            | Region code in two-letter format in ISO 3166                                |
+| **country**        | `United States`                 | Name of the country of the IP address                                       |
+| **country_code**   | `US`                            | ISO 3166 country code of the IP address                                     |
+| **continent**      | `North America`                 | Name of the continent                                                       |
+| **continent_code** | `NA`                            | Continent name code in two-letter format                                    |
+| **latitude**       | `41.85003`                      | Latitude value of the IP address                                            |
+| **longitude**      | `-87.65005`                     | Longitude value of the IP address                                           |
+| **timezone**       | `America/Chicago`               | Local timezone of the IP address location                                   |
+| **postal_code**    | `60666`                         | Postal code or zip code of the IP address                                   |
+| **asn**            | `AS7029`                        | Autonomous System Number (ASN)                                              |
+| **as_name**        | `Windstream Communications LLC` | Organization domain name of the ASN                                         |
+| **as_domain**      | `windstream.com`                | Name of the ASN organization                                                |
+| **as_type**        | `isp`                           | ASN Type: ISP, Hosting, Education, Government, or Business                  |
+| **is_anonymous**   | `false`                         | Indicates whether the IP address is anonymous.                              |
+| **is_anycast**     | `false`                         | Indicates whether the IP address is an internet service hosting IP address  |
+| **is_hosting**     | `false`                         | Indicates whether the IP address is a hosting/cloud/data center IP address  |
+| **is_mobile**      | `false`                         | Indicates whether the IP address belongs to a mobile network                |
+| **is_satellite**   | `false`                         | Indicates whether the IP address is part of a satellite internet connection |
 
-</details>
 
-<details id=16>
-<summary><h2>IPinfo Plus Database</h2></summary>
+## [IPinfo Plus Database](https://ipinfo.io/pluss)
 
 **IPinfo's Plus is an enterprise-grade IP database that includes location, insights, confidence, ASN, privacy, carrier, and network flags all in one.**
 
 You can find the schema, database sample, and other information in the **[IPinfo Plus folder](/IPinfo%20Plus)**. The database includes the following fields:
 
-| Field Name         | Example                        | Description                                                                                                 |
-| ------------------ | ------------------------------ | ---------------------------------------------------------------------------------------------------------- |
-| network            | 86.179.219.192/29              | CIDR/IP range or single IP address                                                                         |
-| city               | Weymouth                       | City of the IP address                                                                                     |
-| region             | England                        | Region/State of the IP address                                                                             |
-| region_code        | ENG                            | Region code in two-letter format in ISO 3166                                                               |
-| country            | United Kingdom                 | Name of the country of the IP address                                                                      |
-| country_code       | GB                             | ISO 3166 country code of the IP address                                                                    |
-| continent          | Europe                         | Name of the continent                                                                                      |
-| continent_code     | EU                             | Continent name code in two-letter format                                                                   |
-| latitude           | 50.61448                       | Latitude value of the IP address                                                                           |
-| longitude          | -2.45991                       | Longitude value of the IP address                                                                          |
-| timezone           | Europe/London                  | Local timezone of the IP address location                                                                  |
-| postal_code        | DT3                            | Postal code or zip code of the IP address                                                                  |
-| dma_code           | 13w                            | Direct Marketing Area (DMA) is a unique regional identifier for marketing.                                 |
-| geoname_id         | 2634202                        | geonames.org's unique numercial identifier for geographic locations.                                       |
-| radius             | 20                             | Location accuracy radius in terms of kilometers                                                            |
-| asn                | AS2856                         | Autonomous System Number (ASN)                                                                             |
-| as_name            | British Telecommunications PLC | Organization domain name of the ASN                                                                        |
-| as_domain          | bt.com                         | Name of the ASN organization                                                                               |
-| as_type            | isp                            | ASN Type: ISP, Hosting, Education, Government, or Business                                                  |
-| carrier_name       |                                | Name of the mobile carrier organization                                                                    |
-| mcc                |                                | Mobile Country Code (MCC) of the carrier                                                                   |
-| mnc                |                                | Mobile Network Code (MNC) of the carrier                                                                   |
-| as_changed         | 2025-01-10                     | Date when the IP address's ASN last changed: Date in YYYY-MM-DD format, ISO-8601                           |
-| geo_changed        | 2024-11-10                     | Date when the IP address's location last changed: Date in YYYY-MM-DD format, ISO-8601                      |
-| is_anonymous       | false                          | Indicates whether the IP address is anonymous.                                                             |
-| is_anycast         | false                          | Indicates whether the IP address is an internet service hosting IP address                                   |
-| is_hosting         | false                          | Indicates whether the IP address is a hosting/cloud/data center IP address                                |
-| is_mobile          | false                          | Indicates whether the IP address belongs to a mobile network                                               |
-| is_satellite       | false                          | Indicates whether the IP address is part of a satellite internet connection                                |
-| is_proxy           | false                          | Indicates a open web proxy IP address                                                                      |
-| is_relay           | false                          | Indicates location preserving anonymous relay service like iCloud private relay.                           |
-| is_tor             | false                          | Indicates a TOR (The Onion Router) exit node IP address                                                    |
-| is_vpn             | false                          | Indicates Virtual Private Network (VPN) service exit node IP address                                       |
-| privacy_name       |                                | The name of the privacy service provider includes VPN, Proxy, or Relay service provider name               |
-
-</details>
+| Field Name         | Example                          | Description                                                                                  |
+|--------------------|----------------------------------|----------------------------------------------------------------------------------------------|
+| **network**        | `86.179.219.192/29`              | CIDR/IP range or single IP address                                                           |
+| **city**           | `Weymouth`                       | City of the IP address                                                                       |
+| **region**         | `England`                        | Region/State of the IP address                                                               |
+| **region_code**    | `ENG`                            | Region code in two-letter format in ISO 3166                                                 |
+| **country**        | `United Kingdom`                 | Name of the country of the IP address                                                        |
+| **country_code**   | `GB`                             | ISO 3166 country code of the IP address                                                      |
+| **continent**      | `Europe`                         | Name of the continent                                                                        |
+| **continent_code** | `EU`                             | Continent name code in two-letter format                                                     |
+| **latitude**       | `50.61448`                       | Latitude value of the IP address                                                             |
+| **longitude**      | `-2.45991`                       | Longitude value of the IP address                                                            |
+| **timezone**       | `Europe/London`                  | Local timezone of the IP address location                                                    |
+| **postal_code**    | `DT3`                            | Postal code or zip code of the IP address                                                    |
+| **dma_code**       | `13w`                            | Direct Marketing Area (DMA) is a unique regional identifier for marketing.                   |
+| **geoname_id**     | `2634202`                        | geonames.org's unique numercial identifier for geographic locations.                         |
+| **radius**         | `20`                             | Location accuracy radius in terms of kilometers                                              |
+| **asn**            | `AS2856`                         | Autonomous System Number (ASN)                                                               |
+| **as_name**        | `British Telecommunications PLC` | Organization domain name of the ASN                                                          |
+| **as_domain**      | `bt.com`                         | Name of the ASN organization                                                                 |
+| **as_type**        | `isp`                            | ASN Type: ISP, Hosting, Education, Government, or Business                                   |
+| **carrier_name**   |                                  | Name of the mobile carrier organization                                                      |
+| **mcc**            |                                  | Mobile Country Code (MCC) of the carrier                                                     |
+| **mnc**            |                                  | Mobile Network Code (MNC) of the carrier                                                     |
+| **as_changed**     | `2025-01-10`                     | Date when the IP address's ASN last changed: Date in YYYY-MM-DD format, ISO-8601             |
+| **geo_changed**    | `2024-11-10`                     | Date when the IP address's location last changed: Date in YYYY-MM-DD format, ISO-8601        |
+| **is_anonymous**   | `false`                          | Indicates whether the IP address is anonymous.                                               |
+| **is_anycast**     | `false`                          | Indicates whether the IP address is an internet service hosting IP address                   |
+| **is_hosting**     | `false`                          | Indicates whether the IP address is a hosting/cloud/data center IP address                   |
+| **is_mobile**      | `false`                          | Indicates whether the IP address belongs to a mobile network                                 |
+| **is_satellite**   | `false`                          | Indicates whether the IP address is part of a satellite internet connection                  |
+| **is_proxy**       | `false`                          | Indicates a open web proxy IP address                                                        |
+| **is_relay**       | `false`                          | Indicates location preserving anonymous relay service like iCloud private relay.             |
+| **is_tor**         | `false`                          | Indicates a TOR (The Onion Router) exit node IP address                                      |
+| **is_vpn**         | `false`                          | Indicates Virtual Private Network (VPN) service exit node IP address                         |
+| **privacy_name**   |                                  | The name of the privacy service provider includes VPN, Proxy, or Relay service provider name |
 
 
-<details id=9>
+---
+
+
+
+<details>
 <summary><h2>Hosted Domains / Reverse IP Lookup</h2></summary>
 
 **Hosted Domains database enables you to do reverse IP lookups.**
@@ -161,7 +161,7 @@ You can find the schema, database sample, API response sample, and other informa
 
 </details>
 
-<details id=10>
+<details>
 <summary><h2>Abuse Contact</h2></summary>
 
 **Get the abuse contact information of every ISP on the internet.**
@@ -184,54 +184,38 @@ You can find the schema, database sample, API response sample, and other informa
 
 </details>
 
-
-<details id=13>
-<summary><h2>Residential Proxy Detection Database</h2></summary>
-
-**Identify residential proxy IPs, including mobile network proxies, from more than 100 services**
-
-You can find the schema, database sample, and other information in the **[Residential Proxy Detection folder](/IP%20Residential%20Proxy)**. The database includes the following fields:
-
-| Fields              | Example          | Description                                                                                                                                                      |
-| ------------------- | ---------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| `ip`                | 38.222.31.85     | IP address associated with a residential proxy.                                                                                                                  |
-| `service`           | lightningproxies | Name of the residential proxy service. Carrier/mobile services are suffixed with `_mobile` (e.g., soax_mobile).                                                  |
-| `last_seen`         | 2024-09-07       | Last recorded active date of a residential proxy IP in ISO 8601 format (YYYY-MM-DD), with the timezone set to UTC.                                               |
-| `percent_days_seen` | 2                | Integer representing the percentage of days an IP was active over the past 90 days, indicating its activity level and frequency within a residential proxy pool. |
-
-</details>
-
-<details id=12>
+<details>
 <summary><h2>Privacy Detection Extended</h2></summary>
 
 **Get detection method for each private IP address**
 
 You can find the schema, database sample, API response sample, and other information in the **[Privacy Detection Extended folder](/Privacy%20Detection%20Extended)**. The database includes the following fields:
 
- | Field Name          | Example         | Data Type                                                                                                                                                                                                                                                                                                                             | Descrption |
- | ------------------- | --------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- |
- | **network**         | `45.129.35.234` | CIDR/IP Range or single IP address block                                                                                                                                                                                                                                                                                              |
- | **hosting**         | `true`          | Indicates a hosting/cloud service/data center IP address                                                                                                                                                                                                                                                                              |
- | **proxy**           | `false`         | Indicates a open web proxy IP address                                                                                                                                                                                                                                                                                                 |
- | **relay**           | `false`         | Indicates location preserving anonymous relay service                                                                                                                                                                                                                                                                                 |
- | **tor**             | `false`         | Indicates a TOR (The Onion Router) exit node IP address                                                                                                                                                                                                                                                                               |
- | **vpn**             | `true`          | Indicates Virtual Private Network (VPN) service exit node IP address                                                                                                                                                                                                                                                                  |
- | **service**         | `NordVPN`       | Name of the privacy service provider includes VPN, Proxy and Relay service providers names                                                                                                                                                                                                                                            |
- | **first_seen**      | `2024-10-31`    | Date when the activity on an anonymous IP address was first observed: Date in YYYY-MM-DD format, ISO-8601. Within the 3-month lookback period.                                                                                                                                                                                        |
- | **last_seen**       | `2025-01-03`    | Date when the activity on an anonymous IP address was last/recently observed: Date in YYYY-MM-DD format, ISO-8601.                                                                                                                                                                                                                    |
- | **confidence**      | `3`             | The level (from 1 to 3) of confidence attributed to the best source associated with this range                                                                                                                                                                                                                                        |
- | **coverage**        | `1.0`           | For inferred ranges (see `inferred` flag), represents the proportion of the range (in IP count) that we saw direct evidence of VPN activity on; the remaining percentage of the range (1 - coverage) is composed of IPs we did not directly observe. For IPs/ranges we've fully directly observed VPN evidence on, this value is 1.0. |
- | **census**          | `false`         | Ranges where we've observed VPN software/ports on; we run scans on ports and protocols commonly associated with VPN software. Ranges with the census flag are those where these scans obtained positive results                                                                                                                       |
- | **census_ports**    | ``              | The ports we've gotten positive results for when running our VPN detection census                                                                                                                                                                                                                                                     |
- | **device_activity** | `false`         | Ranges on which we've observed device activity compatible with VPN usage (outside of known infrastructure area; simultaneous use around a large area; pingable and/or associated with hosting providers)                                                                                                                              |
- | **inferred**        | `false`         | Whether the range associated with the record is the result of direct observation or inference based on neighboring IPs                                                                                                                                                                                                                |
- | **vpn_config**      | `true`          | Ranges where we confirmed VPN activity by directly running VPN software from almost 200 different providers and collecting exit IPs                                                                                                                                                                                                   |
- | **whois**           | `false`         | Ranges where we've observed VPN software/ports on AND have a WHOIS association with either VPNs in general or specific VPN providers. e.g. if our ipsec scan returned a positive result for an IP and its WHOIS record indicates that it is owned by a VPN provider, this flag will be true.                                          |
+| Field Name          | Example         | Descrption                                                                                                                                                                                                                                                                                                                            |
+|---------------------|-----------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **network**         | `45.129.35.234` | CIDR/IP Range or single IP address block                                                                                                                                                                                                                                                                                              |
+| **hosting**         | `true`          | Indicates a hosting/cloud service/data center IP address                                                                                                                                                                                                                                                                              |
+| **proxy**           | `false`         | Indicates a open web proxy IP address                                                                                                                                                                                                                                                                                                 |
+| **relay**           | `false`         | Indicates location preserving anonymous relay service                                                                                                                                                                                                                                                                                 |
+| **tor**             | `false`         | Indicates a TOR (The Onion Router) exit node IP address                                                                                                                                                                                                                                                                               |
+| **vpn**             | `true`          | Indicates Virtual Private Network (VPN) service exit node IP address                                                                                                                                                                                                                                                                  |
+| **service**         | `NordVPN`       | Name of the privacy service provider includes VPN, Proxy and Relay service providers names                                                                                                                                                                                                                                            |
+| **first_seen**      | `2024-10-31`    | Date when the activity on an anonymous IP address was first observed: Date in YYYY-MM-DD format, ISO-8601. Within the 3-month lookback period.                                                                                                                                                                                        |
+| **last_seen**       | `2025-01-03`    | Date when the activity on an anonymous IP address was last/recently observed: Date in YYYY-MM-DD format, ISO-8601.                                                                                                                                                                                                                    |
+| **confidence**      | `3`             | The level (from 1 to 3) of confidence attributed to the best source associated with this range                                                                                                                                                                                                                                        |
+| **coverage**        | `1.0`           | For inferred ranges (see `inferred` flag), represents the proportion of the range (in IP count) that we saw direct evidence of VPN activity on; the remaining percentage of the range (1 - coverage) is composed of IPs we did not directly observe. For IPs/ranges we've fully directly observed VPN evidence on, this value is 1.0. |
+| **census**          | `false`         | Ranges where we've observed VPN software/ports on; we run scans on ports and protocols commonly associated with VPN software. Ranges with the census flag are those where these scans obtained positive results                                                                                                                       |
+| **census_ports**    | ``              | The ports we've gotten positive results for when running our VPN detection census                                                                                                                                                                                                                                                     |
+| **device_activity** | `false`         | Ranges on which we've observed device activity compatible with VPN usage (outside of known infrastructure area; simultaneous use around a large area; pingable and/or associated with hosting providers)                                                                                                                              |
+| **inferred**        | `false`         | Whether the range associated with the record is the result of direct observation or inference based on neighboring IPs                                                                                                                                                                                                                |
+| **vpn_config**      | `true`          | Ranges where we confirmed VPN activity by directly running VPN software from almost 200 different providers and collecting exit IPs                                                                                                                                                                                                   |
+| **whois**           | `false`         | Ranges where we've observed VPN software/ports on AND have a WHOIS association with either VPNs in general or specific VPN providers. e.g. if our ipsec scan returned a positive result for an IP and its WHOIS record indicates that it is owned by a VPN provider, this flag will be true.                                          |
+                      |
 
 </details>
 
 
-<details id=17>
+<details>
 <summary><h2>WHOIS</h2></summary>
 
 
@@ -288,7 +272,7 @@ You can find the schema, database sample, API response sample, and other informa
 
 
 
-<details id=18>
+<details>
 <summary><h3>Other WHOIS Databases</h3></summary>
 
 Other kinds of WHOIS Database IPinfo offers:
