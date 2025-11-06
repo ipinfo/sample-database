@@ -6,27 +6,29 @@ This database provides IP geolocation data with an accuracy radius, which is the
 
 # Database Schema & Description
 
-*[data updated as of May, 2023]*
+_[data updated as of May, 2023]_
 
 The following database schema represents the CSV database. We also provide JSON and MMDB format data.
 
-| Field Name    | Example             | Description                                                 |
-|---------------|---------------------|-------------------------------------------------------------|
-| `start_ip`    | 171.71.0.0          | Starting IP address of an IP address range                  |
-| `end_ip`      | 171.71.127.255      | Ending IP address of an IP address range                    |
-| `join_key`    | 171.71.0.0          | Special variable to facilitate `join` operation             |
-| `city`        | San Jose            | City of the IP address                                      |
-| `region`      | California          | Region of the IP address                                    |
-| `country`     | US                  | ISO 3166 country code of the IP address                     |
-| `latitude`    | 37.4087             | Latitude value of the IP address                            |
-| `longitude`   | -121.9406           | Longitude value of the IP address                           |
-| `postal_code` | 95134               | Postal code or zip code of the IP address                   |
-| `timezone`    | America/Los_Angeles | Local timezone of the IP address                            |
-| `geoname_id`  | 5392171             | `geoname_id` from [geonames.org](https://www.geonames.org/) |
-| `radius`      | 5                   | Accuracy radius in terms of kilometers                      |
+| Field Name     | Example             | Description                                                 |
+| -------------- | ------------------- | ----------------------------------------------------------- |
+| `start_ip`     | 171.71.0.0          | Starting IP address of an IP address range                  |
+| `end_ip`       | 171.71.127.255      | Ending IP address of an IP address range                    |
+| `join_key`     | 171.71.0.0          | Special variable to facilitate `join` operation             |
+| `city`         | San Jose            | City of the IP address                                      |
+| `region`       | CA                  | Region code in two-letter format in ISO 3166                |
+| `region_name`  | California          | Region of the IP address                                    |
+| `country`      | US                  | ISO 3166 country code of the IP address                     |
+| `country_name` | United States       | Name of the country                                         |
+| `latitude`     | 37.4087             | Latitude value of the IP address                            |
+| `longitude`    | -121.9406           | Longitude value of the IP address                           |
+| `postal_code`  | 95134               | Postal code or zip code of the IP address                   |
+| `timezone`     | America/Los_Angeles | Local timezone of the IP address                            |
+| `geoname_id`   | 5392171             | `geoname_id` from [geonames.org](https://www.geonames.org/) |
+| `radius`       | 5                   | Accuracy radius in terms of kilometers                      |
 
 > `join_key` represents the Class C network each IP address is part of, allowing you to filter the result set significantly before `join`ing. Learn more about `join_key` [here](https://community.ipinfo.io/t/ipinfos-join-key-column-explained/5526).
-> 
+>
 > Please refer to "[How to choose the best file format for your IPinfo database?](https://ipinfo.io/blog/ipinfo-database-formats/)" article to select the best format possible for your use case.
 >
 > The usage of the IP data downloads relies on the software or application of the data. Check out our [documentation](https://ipinfo.io/developers/database-download), [community](https://community.ipinfo.io/c/docs/8), and our [integrations](https://ipinfo.io/integrations) pages to find the best path forward.
