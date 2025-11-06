@@ -2,11 +2,11 @@
 
 ## IP to Geolocation database with accuracy radius data as a confidence metric.
 
-This database provides IP geolocation data with an accuracy radius, which is the estimated distance between the actual location of the user (based on our ground truth daata) and the geolocation coordinates returned by the database. The accuracy radius varies depending on the city, country, connection type, and IP address type. The database also comes with the `geoname_id` field that provide additional geographic information from [geonames.org](https://www.geonames.org/).
+This database provides IP geolocation data with an accuracy radius, which is the estimated distance between the actual location of the user (based on our ground truth data) and the geolocation coordinates returned by the database. The accuracy radius varies depending on the city, country, connection type, and IP address type. The database also comes with the `geoname_id` field that provide additional geographic information from [geonames.org](https://www.geonames.org/).
 
 # Database Schema & Description
 
-_[data updated as of May, 2023]_
+_[data updated as of November 2025]_
 
 The following database schema represents the CSV database. We also provide JSON and MMDB format data.
 
