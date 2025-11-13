@@ -4,7 +4,7 @@
 
 # Database Schema & Description
 
-*[data updated as of August, 2022]*
+_[data updated as of November 2025]_
 
 The following database schema represents the CSV database. We also provide JSON and MMDB format data.
 
@@ -52,24 +52,22 @@ The ARIN region (North America) is special in that it allows ISPs and LIRs to ma
 This database is called [Referral WHOIS](https://www.arin.net/resources/registry/reassignments/rwhois/) or RWHOIS.
 To cover this case we fetch data from RWHOIS servers and normalize it in a standard set of fields.
 
-| Field Name  | Example                             | Data Type | Notes                               |
-|-------------|-------------------------------------|-----------|-------------------------------------|
-| `range`     | 50.28.18.195                        | TEXT      | IP Address range/netblock           |
-| `id`        | NETBLK-GRADOCEROPUB.50.28.18.195/32 | TEXT      | Raw netblock identifier from WHOIS  |
-| `name`      | Grado Cero Publicidad S.A. de C.V.  | TEXT      | Name of netblock                    |
-| `descr`     | GRADOCEROPUB-50.28.18.195           | TEXT      | Description                         |
-| `host`      | rwhois.liquidweb.com:4321           | TEXT      | Host information                    |
-| `country`   | MX                                  | TEXT      | ISO 3166 country code               |
-| `email`     | webmaster@gradocero.com             | TEXT      | Contact email information           |
-| `abuse`     | abuse@sourcedns.com                 | TEXT      | Abuse email information             |
-| `domain`    | gradocero.com                       | TEXT      | Domain associated with the netblock |
-| `country.1` | MX                                  | TEXT      | Secondary country information       |
-| `city`      | Naucalpan de Juarez                 | TEXT      | City information                    |
-| `street`    | Calle Andes #46                     | TEXT      | Street information                  |
-| `postal`    | 53125                               | TEXT      | Postal Code information             |
-| `updated`   | 2021-01-26 00:00:00                 | TEXT      | Update date in the WHOIS registry   |
-| `imported`  | 2021-01-27 04:44:47.206483          | TEXT      | Imported date in the WHOIS registry |
-
+| Field Name | Example                             | Data Type | Notes                               |
+| ---------- | ----------------------------------- | --------- | ----------------------------------- |
+| `range`    | 50.28.18.195                        | TEXT      | IP Address range/netblock           |
+| `id`       | NETBLK-GRADOCEROPUB.50.28.18.195/32 | TEXT      | Raw netblock identifier from WHOIS  |
+| `name`     | Grado Cero Publicidad S.A. de C.V.  | TEXT      | Name of netblock                    |
+| `descr`    | GRADOCEROPUB-50.28.18.195           | TEXT      | Description                         |
+| `host`     | rwhois.liquidweb.com:4321           | TEXT      | Host information                    |
+| `email`    | webmaster@gradocero.com             | TEXT      | Contact email information           |
+| `abuse`    | abuse@sourcedns.com                 | TEXT      | Abuse email information             |
+| `domain`   | gradocero.com                       | TEXT      | Domain associated with the netblock |
+| `country`  | MX                                  | TEXT      | ISO 3166 country code               |
+| `city`     | Naucalpan de Juarez                 | TEXT      | City information                    |
+| `street`   | Calle Andes #46                     | TEXT      | Street information                  |
+| `postal`   | 53125                               | TEXT      | Postal Code information             |
+| `updated`  | 2021-01-26 00:00:00                 | TEXT      | Update date in the WHOIS registry   |
+| `imported` | 2021-01-27 04:44:47.206483          | TEXT      | Imported date in the WHOIS registry |
 
 </details>
 
