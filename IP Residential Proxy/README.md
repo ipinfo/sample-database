@@ -12,9 +12,15 @@ The following database schema represents the CSV database. We also provide JSON 
 |-------------------|------------------|-----------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | ip                | 38.222.31.85     | TEXT      | IPv4 or IPv6 address associated with a residential proxy.                                                                                                           |
 | service           | lightningproxies | TEXT      | Name of the residential proxy service. Carrier/mobile services are suffixed with _mobile (e.g., soax_mobile).                                                       |
-| last_seen         | 2024-09-07       | TEXT      | Last recorded date when the residential proxy IP was active, formatted as YYYY-MM-DD (ISO-8601). Timezone is UTC.                                                   |
-| percent_days_seen | 2                | TEXT      | Integer indicating the percentage of days the IP was active in the last 90-day period, reflecting its activity and frequency of IP within a residential proxy pool. |
+| last_seen         | 2024-09-07       | DATE      | Last recorded date when the residential proxy IP was active, formatted as YYYY-MM-DD (ISO-8601). Timezone is UTC.                                                   |
+| percent_days_seen | 2                | INTEGER   | Integer indicating the percentage of days the IP was active in the last 90-day period, reflecting its activity and frequency of IP within a residential proxy pool. |
 
+
+The Residential Proxy database is scoped within certain periods of time windows. This affects temporal (time-based) attributes fields such as `last_seen` and `percent_days_seen`.
+
+- 7-day dataset
+- 30-day dataset
+- 90-day dataset
 
 
 > Please refer to "[How to choose the best file format for your IPinfo database?](https://ipinfo.io/blog/ipinfo-database-formats/)" article to select the best format possible for your use case.
