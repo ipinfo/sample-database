@@ -4,42 +4,42 @@
 
 # Database Schema & Description
 
-| Field Name             | Example                          | Data Type | Descrption                                                                                                 |
-|------------------------|----------------------------------|-----------|------------------------------------------------------------------------------------------------------------|
-| **network**            | `86.179.219.192/29`              | TEXT      | CIDR/IP range or single IP address                                                                         |
-| **city**               | `Weymouth`                       | TEXT      | City of the IP address                                                                                     |
-| **region**             | `England`                        | TEXT      | Region/State of the IP address                                                                             |
-| **region_code**        | `ENG`                            | TEXT      | Region code in two-letter format in ISO 3166                                                               |
-| **country**            | `United Kingdom`                 | TEXT      | Name of the country of the IP address                                                                      |
-| **country_code**       | `GB`                             | TEXT      | ISO 3166 country code of the IP address                                                                    |
-| **continent**          | `Europe`                         | TEXT      | Name of the continent                                                                                      |
-| **continent_code**     | `EU`                             | TEXT      | Continent name code in two-letter format                                                                   |
-| **latitude**           | `50.61448`                       | FLOAT     | Latitude value of the IP address                                                                           |
-| **longitude**          | `-2.45991`                       | FLOAT     | Longitude value of the IP address                                                                          |
-| **timezone**           | `Europe/London`                  | TEXT      | Local timezone of the IP address location                                                                  |
-| **postal_code**        | `DT3`                            | TEXT      | Postal code or zip code of the IP address                                                                  |
-| **dma_code**           | `13w`                            | TEXT      | Direct Marketing Area (DMA) is a unique regional identifier for marketing.                                 |
-| **geoname_id**         | `2634202`                        | INTEGER   | geonames.org's unique numercial identifier for geographic locations.                                       |
-| **radius**             | `20`                             | INTEGER   | Location accuracy radius in terms of kilometers                                                            |
-| **asn**                | `AS2856`                         | TEXT      | Autonomous System Number (ASN)                                                                             |
-| **as_name**            | `British Telecommunications PLC` | TEXT      | Organization domain name of the ASN                                                                        |
-| **as_domain**          | `bt.com`                         | TEXT      | Name of the ASN organization                                                                               |
-| **as_type**            | `isp`                            | TEXT      | ASN Type: ISP, Hosting, Education, Government or Business                                                  |
-| **carrier_name**       |                                  | TEXT      | Name of the mobile carrier organization                                                                    |
-| **mcc**                |                                  | INTEGER   | Mobile Country Code (MCC) of the carrier                                                                   |
-| **mnc**                |                                  | INTEGER   | Mobile Network Code (MNC) of the carrier                                                                   |
-| **as_changed**         | `2025-01-10`                     | DATE      | Date when the IP address's ASN last changed: Date in YYYY-MM-DD format, ISO-8601                           |
-| **geo_changed**        | `2024-11-10`                     | DATE      | Date when the IP address's location last changed: Date in YYYY-MM-DD format, ISO-8601                      |
-| **is_anonymous**            | `false`                          | BOOLEAN   | Indicates whether the IP address is anonymous.                                                             |
-| **is_anycast**         | `false`                          | BOOLEAN   | dicates whether the IP address is an internet service hosting IP address                                   |
-| **is_hosting**         | `false`                          | BOOLEAN   | Indicates whether the IP address is an hosting/cloud/data center IP address                                |
-| **is_mobile**          | `false`                          | BOOLEAN   | Indicates whether the IP address belongs to a mobile network                                               |
-| **is_satellite**       | `false`                          | BOOLEAN   | Indicates whether the IP address is part of a satellite internet connection                                |
-| **is_proxy**           | `false`                          | BOOLEAN   | Indicates a open web proxy IP address                                                                      |
-| **is_relay**           | `false`                          | BOOLEAN   | Indicates location preserving anonymous relay service like iCloud private relay.                           |
-| **is_tor**             | `false`                          | BOOLEAN   | Indicates a TOR (The Onion Router) exit node IP address                                                    |
-| **is_vpn**             | `false`                          | BOOLEAN   | Indicates Virtual Private Network (VPN) service exit node IP address                                       |
-| **privacy_name**       |                                  | TEXT      | The name of the privacy service provider includes VPN, Proxy, or Relay service provider name               |
+| Field Name         | Example                          | Data Type | Descrption                                                                                   |
+|--------------------|----------------------------------|-----------|----------------------------------------------------------------------------------------------|
+| **network**        | `86.179.219.192/29`              | TEXT      | CIDR/IP range or single IP address                                                           |
+| **city**           | `Weymouth`                       | TEXT      | City of the IP address                                                                       |
+| **region**         | `England`                        | TEXT      | Region/State of the IP address                                                               |
+| **region_code**    | `ENG`                            | TEXT      | Region code in two-letter format in ISO 3166                                                 |
+| **country**        | `United Kingdom`                 | TEXT      | Name of the country of the IP address                                                        |
+| **country_code**   | `GB`                             | TEXT      | ISO 3166 country code of the IP address                                                      |
+| **continent**      | `Europe`                         | TEXT      | Name of the continent                                                                        |
+| **continent_code** | `EU`                             | TEXT      | Continent name code in two-letter format                                                     |
+| **latitude**       | `50.61448`                       | FLOAT     | Latitude value of the IP address                                                             |
+| **longitude**      | `-2.45991`                       | FLOAT     | Longitude value of the IP address                                                            |
+| **timezone**       | `Europe/London`                  | TEXT      | Local timezone of the IP address location                                                    |
+| **postal_code**    | `DT3`                            | TEXT      | Postal code or zip code of the IP address                                                    |
+| **dma_code**       | `13w`                            | TEXT      | Direct Marketing Area (DMA) is a unique regional identifier for marketing.                   |
+| **geoname_id**     | `2634202`                        | TEXT      | geonames.org's unique numercial identifier for geographic locations.                         |
+| **radius**         | `20`                             | INTEGER   | Location accuracy radius in terms of kilometers                                              |
+| **asn**            | `AS2856`                         | TEXT      | Autonomous System Number (ASN)                                                               |
+| **as_name**        | `British Telecommunications PLC` | TEXT      | Organization domain name of the ASN                                                          |
+| **as_domain**      | `bt.com`                         | TEXT      | Name of the ASN organization                                                                 |
+| **as_type**        | `isp`                            | TEXT      | ASN Type: ISP, Hosting, Education, Government or Business                                    |
+| **carrier_name**   |                                  | TEXT      | Name of the mobile carrier organization                                                      |
+| **mcc**            |                                  | TEXT      | Mobile Country Code (MCC) of the carrier                                                     |
+| **mnc**            |                                  | TEXT      | Mobile Network Code (MNC) of the carrier                                                     |
+| **as_changed**     | `2025-01-10`                     | DATE      | Date when the IP address's ASN last changed: Date in YYYY-MM-DD format, ISO-8601             |
+| **geo_changed**    | `2024-11-10`                     | DATE      | Date when the IP address's location last changed: Date in YYYY-MM-DD format, ISO-8601        |
+| **is_anonymous**   | `false`                          | BOOLEAN   | Indicates whether the IP address is anonymous.                                               |
+| **is_anycast**     | `false`                          | BOOLEAN   | dicates whether the IP address is an internet service hosting IP address                     |
+| **is_hosting**     | `false`                          | BOOLEAN   | Indicates whether the IP address is an hosting/cloud/data center IP address                  |
+| **is_mobile**      | `false`                          | BOOLEAN   | Indicates whether the IP address belongs to a mobile network                                 |
+| **is_satellite**   | `false`                          | BOOLEAN   | Indicates whether the IP address is part of a satellite internet connection                  |
+| **is_proxy**       | `false`                          | BOOLEAN   | Indicates a open web proxy IP address                                                        |
+| **is_relay**       | `false`                          | BOOLEAN   | Indicates location preserving anonymous relay service like iCloud private relay.             |
+| **is_tor**         | `false`                          | BOOLEAN   | Indicates a TOR (The Onion Router) exit node IP address                                      |
+| **is_vpn**         | `false`                          | BOOLEAN   | Indicates Virtual Private Network (VPN) service exit node IP address                         |
+| **privacy_name**   |                                  | TEXT      | The name of the privacy service provider includes VPN, Proxy, or Relay service provider name |
 
 
 
