@@ -42,6 +42,15 @@ Please visit each folder to learn more about the databases. Each directory READM
 - Breakdown of the API response
 - Helpful guides, resources, and articles
 
+## Field Types Across Formats
+
+Field types can differ depending on the database download format:
+
+- Parquet: fully typed, preserves booleans, numbers, and nulls.
+- CSV: untyped, all values are strings; empty fields represents nulls.
+- JSON: mostly untyped; numbers and booleans preserved when present, optional fields may be omitted.
+- MMDB: typed for most IP database products; booleans and numbers preserved, optional fields may be absent.
+
 # Summary of the Databases
 
 Please visit the individual database directories to learn more. The database schemas were generated in May 2024.
