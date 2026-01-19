@@ -10,15 +10,15 @@ start_ip,end_ip,join_key,asn,domain,name,type,country
 1.1.8.0,1.1.8.255,1.1.0.0,AS149511,yamu.com,"Yamu Technologies Co., Ltd.",hosting,CN
 1.1.64.0,1.1.126.255,1.1.0.0,AS2519,arteria-net.com,ARTERIA Networks Corporation,isp,JP
 1.1.128.0,1.1.255.255,1.1.0.0,AS23969,ntplc.co.th,TOT Public Company Limited,isp,TH
-1.2.4.0,1.2.4.255,1.2.0.0,AS24151,cnnic.cn,China Internet Network Infomation Center,business,CN
+1.2.4.0,1.2.4.255,1.2.0.0,AS24151,cnnic.cn,China Internet Network Infomation Center,isp,CN
 1.2.128.0,1.2.255.255,1.2.0.0,AS23969,ntplc.co.th,TOT Public Company Limited,isp,TH
 1.4.128.0,1.4.255.255,1.4.0.0,AS23969,ntplc.co.th,TOT Public Company Limited,isp,TH
 1.5.0.0,1.5.255.255,1.5.0.0,AS4725,softbank.jp,SoftBank Corp.,isp,JP
 1.6.0.0,1.6.135.255,1.6.0.0,AS9583,sifycorp.com,Sify Limited,isp,IN
-1.6.136.0,1.6.136.255,1.6.0.0,AS132215,powergrid.in,Powergrid Teleservices Limited,isp,IN
+1.6.136.0,1.6.136.255,1.6.0.0,AS132215,powergrid.in,Powergrid Teleservices Limited,hosting,IN
 1.6.137.0,1.6.225.255,1.6.0.0,AS9583,sifycorp.com,Sify Limited,isp,IN
-1.6.226.0,1.6.228.255,1.6.0.0,AS132215,powergrid.in,Powergrid Teleservices Limited,isp,IN
-1.6.229.0,1.6.230.255,1.6.0.0,AS4755,tatacommunications.com,TATA Communications formerly VSNL is Leading ISP,isp,IN
+1.6.226.0,1.6.228.255,1.6.0.0,AS132215,powergrid.in,Powergrid Teleservices Limited,hosting,IN
+1.6.229.0,1.6.230.255,1.6.0.0,AS4755,tatacommunications.com,TATA Communications formerly VSNL is Leading ISP,hosting,IN
 1.6.231.0,1.6.255.255,1.6.0.0,AS9583,sifycorp.com,Sify Limited,isp,IN
 1.7.0.0,1.7.0.255,1.7.0.0,AS9583,sifycorp.com,Sify Limited,isp,IN
 1.7.3.0,1.7.23.255,1.7.0.0,AS9583,sifycorp.com,Sify Limited,isp,IN
@@ -26,17 +26,17 @@ start_ip,end_ip,join_key,asn,domain,name,type,country
 1.7.25.0,1.7.55.255,1.7.0.0,AS9583,sifycorp.com,Sify Limited,isp,IN
 1.7.81.0,1.7.108.255,1.7.0.0,AS9583,sifycorp.com,Sify Limited,isp,IN
 1.7.128.0,1.7.141.255,1.7.0.0,AS9583,sifycorp.com,Sify Limited,isp,IN
-1.7.142.0,1.7.142.255,1.7.0.0,AS132215,powergrid.in,Powergrid Teleservices Limited,isp,IN
+1.7.142.0,1.7.142.255,1.7.0.0,AS132215,powergrid.in,Powergrid Teleservices Limited,hosting,IN
 1.7.143.0,1.7.150.255,1.7.0.0,AS9583,sifycorp.com,Sify Limited,isp,IN
-1.7.151.0,1.7.151.255,1.7.0.0,AS132215,powergrid.in,Powergrid Teleservices Limited,isp,IN
+1.7.151.0,1.7.151.255,1.7.0.0,AS132215,powergrid.in,Powergrid Teleservices Limited,hosting,IN
 1.7.152.0,1.7.160.255,1.7.0.0,AS9583,sifycorp.com,Sify Limited,isp,IN
-1.7.161.0,1.7.162.255,1.7.0.0,AS132215,powergrid.in,Powergrid Teleservices Limited,isp,IN
+1.7.161.0,1.7.162.255,1.7.0.0,AS132215,powergrid.in,Powergrid Teleservices Limited,hosting,IN
 1.7.163.0,1.7.179.255,1.7.0.0,AS9583,sifycorp.com,Sify Limited,isp,IN
-1.7.180.0,1.7.180.255,1.7.0.0,AS132215,powergrid.in,Powergrid Teleservices Limited,isp,IN
+1.7.180.0,1.7.180.255,1.7.0.0,AS132215,powergrid.in,Powergrid Teleservices Limited,hosting,IN
 1.7.181.0,1.7.199.255,1.7.0.0,AS9583,sifycorp.com,Sify Limited,isp,IN
-1.7.200.0,1.7.202.255,1.7.0.0,AS132215,powergrid.in,Powergrid Teleservices Limited,isp,IN
+1.7.200.0,1.7.202.255,1.7.0.0,AS132215,powergrid.in,Powergrid Teleservices Limited,hosting,IN
 1.7.204.0,1.7.224.255,1.7.0.0,AS9583,sifycorp.com,Sify Limited,isp,IN
-1.7.225.0,1.7.225.255,1.7.0.0,AS396421,paloaltonetworks.com,PALO ALTO NETWORKS,hosting,US
+1.7.225.0,1.7.225.255,1.7.0.0,AS396421,paloaltonetworks.com,PALO ALTO NETWORKS,business,US
 1.7.226.0,1.7.245.255,1.7.0.0,AS9583,sifycorp.com,Sify Limited,isp,IN
 1.8.1.0,1.8.1.255,1.8.0.0,AS38345,knet.cn,Internet Domain Name System Beijing Engineering Resrarch Center Ltd.,hosting,CN
 1.8.8.0,1.8.8.255,1.8.0.0,AS38345,knet.cn,Internet Domain Name System Beijing Engineering Resrarch Center Ltd.,hosting,CN
@@ -73,13 +73,13 @@ start_ip,end_ip,join_key,asn,domain,name,type,country
 1.18.125.0,1.18.126.255,1.18.0.0,AS23599,,Korea Internet Security Agency,business,KR
 1.18.127.0,1.18.130.255,1.18.0.0,AS23596,,Korea Internet Security Agency,business,KR
 1.18.132.0,1.18.135.255,1.18.0.0,AS23600,,Korea Internet Security Agency,hosting,KR
-1.20.0.0,1.20.66.255,1.20.0.0,AS56120,tot.co.th,TOT Public Company Limited,isp,TH
+1.20.0.0,1.20.66.255,1.20.0.0,AS56120,tot.co.th,TOT Public Company Limited,business,TH
 1.20.67.0,1.20.116.255,1.20.0.0,AS23969,ntplc.co.th,TOT Public Company Limited,isp,TH
-1.20.117.0,1.20.117.255,1.20.0.0,AS56120,tot.co.th,TOT Public Company Limited,isp,TH
+1.20.117.0,1.20.117.255,1.20.0.0,AS56120,tot.co.th,TOT Public Company Limited,business,TH
 1.20.118.0,1.20.118.255,1.20.0.0,AS23969,ntplc.co.th,TOT Public Company Limited,isp,TH
-1.20.119.0,1.20.123.255,1.20.0.0,AS56120,tot.co.th,TOT Public Company Limited,isp,TH
+1.20.119.0,1.20.123.255,1.20.0.0,AS56120,tot.co.th,TOT Public Company Limited,business,TH
 1.20.124.0,1.20.124.255,1.20.0.0,AS23969,ntplc.co.th,TOT Public Company Limited,isp,TH
-1.20.125.0,1.20.127.255,1.20.0.0,AS56120,tot.co.th,TOT Public Company Limited,isp,TH
+1.20.125.0,1.20.127.255,1.20.0.0,AS56120,tot.co.th,TOT Public Company Limited,business,TH
 1.20.128.0,1.20.255.255,1.20.0.0,AS23969,ntplc.co.th,TOT Public Company Limited,isp,TH
 1.21.0.0,1.21.95.255,1.21.0.0,AS2519,arteria-net.com,ARTERIA Networks Corporation,isp,JP
 1.21.96.0,1.21.111.255,1.21.0.0,AS59125,fnj.co.jp,FAMILY NET JAPAN INCORPORATED,isp,JP
@@ -99,4 +99,3 @@ start_ip,end_ip,join_key,asn,domain,name,type,country
 1.22.77.0,1.22.83.255,1.22.0.0,AS45528,tikona.in,Tikona Infinet Ltd.,isp,IN
 1.22.88.0,1.22.107.255,1.22.0.0,AS45528,tikona.in,Tikona Infinet Ltd.,isp,IN
 1.22.112.0,1.22.140.255,1.22.0.0,AS45528,tikona.in,Tikona Infinet Ltd.,isp,IN
-1.22.145.0,1.22.161.255,1.22.0.0,AS45528,tikona.in,Tikona Infinet Ltd.,isp,IN

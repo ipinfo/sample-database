@@ -32,9 +32,7 @@ start_ip,end_ip,join_key,name,email,address,country,phone
 1.6.0.0,1.6.255.255,1.6.0.0,Hostmaster Satyam Infoway,abuse@sifycorp.com,"Sify Limited,, 5th, 6th & 7th floor Reliable Plaza,, Kalwa industrial Area, Thane Belapur Road,, Airoli, Navi Mumbai-400708",IN,+91-44-22540770
 1.7.0.0,1.7.255.255,1.7.0.0,Hostmaster Satyam Infoway,abuse@sifycorp.com,"Sify Limited,, 5th, 6th & 7th floor Reliable Plaza,, Kalwa industrial Area, Thane Belapur Road,, Airoli, Navi Mumbai-400708",IN,+91-44-22540770
 1.8.0.0,1.8.255.255,1.8.0.0,ABUSE CNNICCN,ipas@cnnic.cn,"Beijing, China",CN,+000000000
-1.9.0.0,1.9.120.255,1.9.0.0,ABUSE MYWEBE,abuse@tm.com.my,"Menara TM, Jalan Pantai Baharu,, 59100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",MY,+601110001000
-1.9.121.0,1.9.121.255,1.9.0.0,TMNET IP Administrators,abuse@tm.com.my,"Menara TM, Jalan Pantai Baharu,, 59100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",MY,+601110001000
-1.9.122.0,1.9.255.255,1.9.0.0,ABUSE MYWEBE,abuse@tm.com.my,"Menara TM, Jalan Pantai Baharu,, 59100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",MY,+601110001000
+1.9.0.0,1.9.255.255,1.9.0.0,ABUSE MYWEBE,abuse@tm.com.my,"Menara TM, Jalan Pantai Baharu,, 59100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",MY,+601110001000
 1.10.0.0,1.10.9.255,1.10.0.0,ABUSE CHINANETCN,anti-spam@chinatelecom.cn,"No.31 ,jingrong street,beijing, 100032",CN,+000000000
 1.10.10.0,1.10.10.255,1.10.0.0,NIXI IP,ix@nixi.in,"National Internet Exchange of India 9th Floor, B-Wing, Statesman House, 148, Barakhamba Road, New Delhi-110001 India",IN,+91 11 48202030
 1.10.11.0,1.10.127.255,1.10.0.0,ABUSE CHINANETCN,anti-spam@chinatelecom.cn,"No.31 ,jingrong street,beijing, 100032",CN,+000000000
@@ -99,3 +97,5 @@ start_ip,end_ip,join_key,name,email,address,country,phone
 1.32.222.0,1.32.223.255,1.32.0.0,ABUSE BGPNLHK,abuse@bgp.net,"399 Chai Wan Road, Chai Wan, Hong Kong",HK,+000000000
 1.32.224.0,1.32.227.255,1.32.0.0,ABUSE RCPLSG,abuse@bgp.net,"399 Chai Wan Road, Chai Wan, Hong Kong",HK,+000000000
 1.32.228.0,1.32.229.255,1.32.0.0,ABUSE CTGHK,cs.mail@ctgserver.com,"202 ,2/F Kam Sang BLDG 257,Des Voeux RD Central Hong Kong",HK,+000000000
+1.32.230.0,1.32.245.255,1.32.0.0,ABUSE RCPLSG,abuse@bgp.net,"399 Chai Wan Road, Chai Wan, Hong Kong",HK,+000000000
+1.32.246.0,1.32.255.255,1.32.0.0,ABUSE CTGHK,cs.mail@ctgserver.com,"202 ,2/F Kam Sang BLDG 257,Des Voeux RD Central Hong Kong",HK,+000000000

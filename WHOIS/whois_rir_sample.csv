@@ -82,7 +82,7 @@ range,id,name,country,status,tech,maintainer,admin,source,whois_domain,updated,o
 1.2.0.0/23,CHINANET-FJ,CHINANET FUJIAN PROVINCE NETWORK,CN,ALLOCATED PORTABLE,CA67-AP,MAINT-CHINANET-FJ,CA67-AP,apnic,chinatelecom.cn,2021-06-15,,,chinatelecom.cn,,,,,,
 1.2.2.0/24,KNET,"KNET Techonlogy (BeiJing) Co.,Ltd.",CN,ALLOCATED PORTABLE,WL1818-AP,MAINT-CNNIC-AP,ZX2975-AP,apnic,knet.cn,2023-11-28,,,knet.cn,,,,,,
 1.2.3.0/24,DEBOGON-PREFIX,APNIC Debogon Project,AU,ASSIGNED PORTABLE,AR302-AP,APNIC-HM,AR302-AP,apnic,,2025-06-06,ORG-RQA1-AP,,,,"6 Cordelia Street, South Brisbane",,,,
-1.2.4.0/24,SAIYU,"Saiyu Technology (Beijing) Co., Ltd.",CN,ALLOCATED PORTABLE,JS4665-AP,MAINT-CNNIC-AP,YW7408-AP,apnic,saiyutech.cn,2025-06-13,,,saiyutech.cn,,,AS24151,China Internet Network Infomation Center,cnnic.cn,business
+1.2.4.0/24,SAIYU,"Saiyu Technology (Beijing) Co., Ltd.",CN,ALLOCATED PORTABLE,JS4665-AP,MAINT-CNNIC-AP,YW7408-AP,apnic,saiyutech.cn,2025-06-13,,,saiyutech.cn,,,AS24151,China Internet Network Infomation Center,cnnic.cn,isp
 1.2.5.0-1.2.7.255,CHINANET-FJ,CHINANET FUJIAN PROVINCE NETWORK,CN,ALLOCATED PORTABLE,CA67-AP,MAINT-CHINANET-FJ,CA67-AP,apnic,chinatelecom.cn,2021-06-15,,,chinatelecom.cn,,,,,,
 1.2.8.0/24,CNNIC-CRITICAL-CN,China Network Information Center,CN,ALLOCATED PORTABLE,IP50-AP,MAINT-CNNIC-AP,IP50-AP,apnic,cnnic.cn,2021-06-16,,,cnnic.cn,,,,,,
 1.2.9.0-1.2.15.255,CHINANET-GD,CHINANET Guangdong province network,CN,ALLOCATED PORTABLE,IC83-AP,MAINT-CHINANET-GD,CH93-AP,apnic,chinatelecom.cn,2023-12-21,,,chinatelecom.cn,,,,,,

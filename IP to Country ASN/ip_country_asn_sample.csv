@@ -28,7 +28,9 @@ start_ip,end_ip,country,country_name,continent,continent_name,asn,as_name,as_dom
 1.4.1.0,1.4.127.255,CN,China,AS,Asia,,,
 1.4.128.0,1.4.255.255,TH,Thailand,AS,Asia,AS23969,TOT Public Company Limited,ntplc.co.th
 1.5.0.0,1.5.255.255,JP,Japan,AS,Asia,AS4725,SoftBank Corp.,softbank.jp
-1.6.0.0,1.6.135.255,IN,India,AS,Asia,AS9583,Sify Limited,sifycorp.com
+1.6.0.0,1.6.14.78,IN,India,AS,Asia,AS9583,Sify Limited,sifycorp.com
+1.6.14.79,1.6.14.79,AZ,Azerbaijan,AS,Asia,AS9583,Sify Limited,sifycorp.com
+1.6.14.80,1.6.135.255,IN,India,AS,Asia,AS9583,Sify Limited,sifycorp.com
 1.6.136.0,1.6.136.255,IN,India,AS,Asia,AS132215,Powergrid Teleservices Limited,powergrid.in
 1.6.137.0,1.6.225.255,IN,India,AS,Asia,AS9583,Sify Limited,sifycorp.com
 1.6.226.0,1.6.228.255,IN,India,AS,Asia,AS132215,Powergrid Teleservices Limited,powergrid.in
@@ -63,9 +65,9 @@ start_ip,end_ip,country,country_name,continent,continent_name,asn,as_name,as_dom
 1.8.2.0,1.8.7.255,CN,China,AS,Asia,,,
 1.8.8.0,1.8.8.255,CN,China,AS,Asia,AS38345,Internet Domain Name System Beijing Engineering Resrarch Center Ltd.,knet.cn
 1.8.9.0,1.8.255.255,CN,China,AS,Asia,,,
-1.9.0.0,1.9.71.8,MY,Malaysia,AS,Asia,AS4788,TM TECHNOLOGY SERVICES SDN. BHD.,tm.com.my
-1.9.71.9,1.9.71.14,HK,Hong Kong,AS,Asia,AS4788,TM TECHNOLOGY SERVICES SDN. BHD.,tm.com.my
-1.9.71.15,1.9.241.36,MY,Malaysia,AS,Asia,AS4788,TM TECHNOLOGY SERVICES SDN. BHD.,tm.com.my
+1.9.0.0,1.9.71.11,MY,Malaysia,AS,Asia,AS4788,TM TECHNOLOGY SERVICES SDN. BHD.,tm.com.my
+1.9.71.12,1.9.71.13,HK,Hong Kong,AS,Asia,AS4788,TM TECHNOLOGY SERVICES SDN. BHD.,tm.com.my
+1.9.71.14,1.9.241.36,MY,Malaysia,AS,Asia,AS4788,TM TECHNOLOGY SERVICES SDN. BHD.,tm.com.my
 1.9.241.37,1.9.241.37,HK,Hong Kong,AS,Asia,AS4788,TM TECHNOLOGY SERVICES SDN. BHD.,tm.com.my
 1.9.241.38,1.9.241.92,MY,Malaysia,AS,Asia,AS4788,TM TECHNOLOGY SERVICES SDN. BHD.,tm.com.my
 1.9.241.93,1.9.241.94,HK,Hong Kong,AS,Asia,AS4788,TM TECHNOLOGY SERVICES SDN. BHD.,tm.com.my
@@ -97,6 +99,3 @@ start_ip,end_ip,country,country_name,continent,continent_name,asn,as_name,as_dom
 1.11.48.0,1.11.55.255,KR,South Korea,AS,Asia,AS38091,LG HelloVision Corp.,lghellovision.net
 1.11.56.0,1.11.63.255,KR,South Korea,AS,Asia,AS18313,LG HelloVision Corp.,lghellovision.net
 1.11.64.0,1.11.91.255,KR,South Korea,AS,Asia,AS38091,LG HelloVision Corp.,lghellovision.net
-1.11.92.0,1.11.94.255,KR,South Korea,AS,Asia,AS45996,DAOU TECHNOLOGY,daou.co.kr
-1.11.95.0,1.11.95.255,KR,South Korea,AS,Asia,AS38091,LG HelloVision Corp.,lghellovision.net
-1.11.96.0,1.11.127.255,KR,South Korea,AS,Asia,AS38669,LG HelloVision Corp.,lghellovision.net
