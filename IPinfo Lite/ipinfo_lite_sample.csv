@@ -59,22 +59,7 @@ network,country,country_code,continent,continent_code,asn,as_name,as_domain
 1.4.64.0/18,China,CN,Asia,AS,,,
 1.4.128.0/17,Thailand,TH,Asia,AS,AS23969,TOT Public Company Limited,ntplc.co.th
 1.5.0.0/16,Japan,JP,Asia,AS,AS4725,SoftBank Corp.,softbank.jp
-1.6.0.0/21,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
-1.6.8.0/22,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
-1.6.12.0/23,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
-1.6.14.0/26,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
-1.6.14.64/29,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
-1.6.14.72/30,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
-1.6.14.76/31,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
-1.6.14.78,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
-1.6.14.79,Azerbaijan,AZ,Asia,AS,AS9583,Sify Limited,sifycorp.com
-1.6.14.80/28,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
-1.6.14.96/27,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
-1.6.14.128/25,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
-1.6.15.0/24,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
-1.6.16.0/20,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
-1.6.32.0/19,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
-1.6.64.0/18,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.0.0/17,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
 1.6.128.0/21,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
 1.6.136.0/24,India,IN,Asia,AS,AS132215,Powergrid Teleservices Limited,powergrid.in
 1.6.137.0/24,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
@@ -99,3 +84,18 @@ network,country,country_code,continent,continent_code,asn,as_name,as_domain
 1.7.8.0/21,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
 1.7.16.0/21,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
 1.7.24.0/24,India,IN,Asia,AS,AS133388,IMS Health India Pvt Ltd,imshealth.com
+1.7.25.0/24,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.26.0/23,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.28.0/22,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.32.0/20,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.48.0/21,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.56.0/22,India,IN,Asia,AS,,,
+1.7.60.0/23,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.62.0/23,India,IN,Asia,AS,,,
+1.7.64.0/20,India,IN,Asia,AS,,,
+1.7.80.0/24,India,IN,Asia,AS,,,
+1.7.81.0/24,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.82.0/23,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.84.0/22,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.88.0/21,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.96.0/21,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com

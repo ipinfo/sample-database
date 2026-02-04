@@ -97,5 +97,5 @@ start_ip,end_ip,join_key,name,email,address,country,phone
 1.32.222.0,1.32.223.255,1.32.0.0,ABUSE BGPNLHK,abuse@bgp.net,"399 Chai Wan Road, Chai Wan, Hong Kong",HK,+000000000
 1.32.224.0,1.32.227.255,1.32.0.0,ABUSE RCPLSG,abuse@bgp.net,"399 Chai Wan Road, Chai Wan, Hong Kong",HK,+000000000
 1.32.228.0,1.32.229.255,1.32.0.0,ABUSE CTGHK,cs.mail@ctgserver.com,"202 ,2/F Kam Sang BLDG 257,Des Voeux RD Central Hong Kong",HK,+000000000
-1.32.230.0,1.32.245.255,1.32.0.0,ABUSE RCPLSG,abuse@bgp.net,"399 Chai Wan Road, Chai Wan, Hong Kong",HK,+000000000
-1.32.246.0,1.32.255.255,1.32.0.0,ABUSE CTGHK,cs.mail@ctgserver.com,"202 ,2/F Kam Sang BLDG 257,Des Voeux RD Central Hong Kong",HK,+000000000
+1.32.230.0,1.32.231.255,1.32.0.0,ABUSE RCPLSG,abuse@bgp.net,"399 Chai Wan Road, Chai Wan, Hong Kong",HK,+000000000
+1.32.232.0,1.32.239.255,1.32.0.0,BGP CONSULTANCY PTE LTD administrator,abuse@bgp.net,"399 Chai Wan Road, Chai Wan, Hong Kong",HK,+603-7806-1316

@@ -23,6 +23,7 @@ start_ip,end_ip,asn,name,domain
 1.7.3.0,1.7.23.255,AS9583,Sify Limited,sifycorp.com
 1.7.24.0,1.7.24.255,AS133388,IMS Health India Pvt Ltd,imshealth.com
 1.7.25.0,1.7.55.255,AS9583,Sify Limited,sifycorp.com
+1.7.60.0,1.7.61.255,AS9583,Sify Limited,sifycorp.com
 1.7.81.0,1.7.108.255,AS9583,Sify Limited,sifycorp.com
 1.7.128.0,1.7.141.255,AS9583,Sify Limited,sifycorp.com
 1.7.142.0,1.7.142.255,AS132215,Powergrid Teleservices Limited,powergrid.in
@@ -40,7 +41,7 @@ start_ip,end_ip,asn,name,domain
 1.8.1.0,1.8.1.255,AS38345,Internet Domain Name System Beijing Engineering Resrarch Center Ltd.,knet.cn
 1.8.8.0,1.8.8.255,AS38345,Internet Domain Name System Beijing Engineering Resrarch Center Ltd.,knet.cn
 1.9.0.0,1.9.255.255,AS4788,TM TECHNOLOGY SERVICES SDN. BHD.,tm.com.my
-1.10.10.0,1.10.10.255,AS148000,National Knowledge Network,nkn.gov.in
+1.10.10.0,1.10.10.255,AS148000,BHARAT PUBLIC DNS (1.10.10.10),dns.nic.in
 1.10.128.0,1.10.134.255,AS23969,TOT Public Company Limited,ntplc.co.th
 1.10.135.0,1.10.135.255,AS23974,Ministry of education,moe.go.th
 1.10.136.0,1.10.255.255,AS23969,TOT Public Company Limited,ntplc.co.th
@@ -98,4 +99,3 @@ start_ip,end_ip,asn,name,domain
 1.22.145.0,1.22.161.255,AS45528,Tikona Infinet Ltd.,tikona.in
 1.22.163.0,1.22.189.255,AS45528,Tikona Infinet Ltd.,tikona.in
 1.22.192.0,1.22.201.255,AS45528,Tikona Infinet Ltd.,tikona.in
-1.22.206.0,1.22.210.255,AS45528,Tikona Infinet Ltd.,tikona.in

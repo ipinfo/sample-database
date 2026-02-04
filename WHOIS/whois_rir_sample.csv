@@ -1,26 +1,26 @@
 range,id,name,country,status,tech,maintainer,admin,source,whois_domain,updated,org,rdns_domain,domain,geoloc,org_address,asn,as_name,as_domain,as_type
-1.0.0.0/24,APNIC-LABS,APNIC and Cloudflare DNS Resolver project,AU,ASSIGNED PORTABLE,AIC3-AP,MAINT-APNICRANDNET,AIC3-AP,apnic,cloudflare.com,2023-04-26,ORG-ARAD1-AP,,cloudflare.com,,6 Cordelia St,AS13335,"Cloudflare, Inc.",cloudflare.com,hosting
 1.0.0.0/8,APNIC-1,Asia Pacific Network Information Centre,AU,RIR,AWC12-ARIN,,AWC12-ARIN,arin,apnic.net,2010-07-30,APNIC,apnic.net,apnic.net,,"PO Box 3646, South Brisbane, QLD, AU",AS1221,Telstra Limited,telstra.com.au,isp
 1.0.0.0/8,APNIC-AP,Asia Pacific Network Information Centre,AU,ALLOCATED PORTABLE,NO4-AP,APNIC-HM,HM20-AP,apnic,apnic.net,2023-09-05,ORG-APNI3-AP,apnic.net,apnic.net,,Level 1 - 33 Park Road,AS1221,Telstra Limited,telstra.com.au,isp
+1.0.0.0/24,APNIC-LABS,APNIC and Cloudflare DNS Resolver project,AU,ASSIGNED PORTABLE,AIC3-AP,MAINT-APNICRANDNET,AIC3-AP,apnic,cloudflare.com,2023-04-26,ORG-ARAD1-AP,,cloudflare.com,,6 Cordelia St,AS13335,"Cloudflare, Inc.",cloudflare.com,hosting
 1.0.1.0/24,CHINANET-FJ,CHINANET FUJIAN PROVINCE NETWORK,CN,ALLOCATED PORTABLE,CA67-AP,MAINT-CHINANET-FJ,CA67-AP,apnic,chinatelecom.cn,2021-06-15,,,chinatelecom.cn,,,,,,
 1.0.2.0/23,CHINANET-FJ,CHINANET FUJIAN PROVINCE NETWORK,CN,ALLOCATED PORTABLE,CA67-AP,MAINT-CHINANET-FJ,CA67-AP,apnic,chinatelecom.cn,2021-06-15,,,chinatelecom.cn,,,,,,
-1.0.4.0/24,GTELECOM-AU,Gtelecom Pty Ltd,AU,ALLOCATED NON-PORTABLE,GPLA15-AP,MAINT-GTELECOM2-AU,GPLA15-AP,apnic,gtelecom.com.au,2024-09-18,,,gtelecom.com.au,,,AS38803,Gtelecom Pty Ltd,gtelecom.com.au,isp
 1.0.4.0/22,GTELECOM-AU,Gtelecom Pty Ltd,AU,ALLOCATED PORTABLE,GPLA15-AP,MAINT-GTELECOM2-AU,GPLA15-AP,apnic,gtelecom.com.au,2024-09-18,ORG-GPL21-AP,,gtelecom.com.au,,1/18 Deblin Drive\nNarre Warren,AS38803,Gtelecom Pty Ltd,gtelecom.com.au,isp
+1.0.4.0/24,GTELECOM-AU,Gtelecom Pty Ltd,AU,ALLOCATED NON-PORTABLE,GPLA15-AP,MAINT-GTELECOM2-AU,GPLA15-AP,apnic,gtelecom.com.au,2024-09-18,,,gtelecom.com.au,,,AS38803,Gtelecom Pty Ltd,gtelecom.com.au,isp
 1.0.5.0/24,GTELECOM-AU,Gtelecom Pty Ltd,AU,ALLOCATED NON-PORTABLE,GPLA15-AP,MAINT-GTELECOM2-AU,GPLA15-AP,apnic,gtelecom.com.au,2024-09-18,,,gtelecom.com.au,,,AS38803,Gtelecom Pty Ltd,gtelecom.com.au,isp
 1.0.6.0/24,GTELECOM-AU,Gtelecom Pty Ltd,AU,ALLOCATED NON-PORTABLE,GPLA15-AP,MAINT-GTELECOM2-AU,GPLA15-AP,apnic,gtelecom.com.au,2024-09-18,,,gtelecom.com.au,,,AS38803,Gtelecom Pty Ltd,gtelecom.com.au,isp
 1.0.7.0/24,GTELECOM-AU,Gtelecom Pty Ltd,AU,ALLOCATED NON-PORTABLE,GPLA15-AP,MAINT-GTELECOM2-AU,GPLA15-AP,apnic,gtelecom.com.au,2024-09-18,,,gtelecom.com.au,,,AS38803,Gtelecom Pty Ltd,gtelecom.com.au,isp
 1.0.8.0/21,CHINANET-GD,CHINANET Guangdong province network,CN,ALLOCATED PORTABLE,IC83-AP,MAINT-CHINANET-GD,CH93-AP,apnic,chinatelecom.cn,2023-12-21,,,chinatelecom.cn,,,,,,
-1.0.16.0/24,I2TS-MTK-NET,"i2ts,inc.",JP,,JP00078611,,JP00078611,jpnic,i2ts.com,2018-01-23,,i2ts.com,i2ts.com,,,AS2519,ARTERIA Networks Corporation,arteria-net.com,isp
 1.0.16.0/20,I2TS-CIDR-BLK-JP,"i2ts,inc.",JP,ALLOCATED PORTABLE,JP00078611,MAINT-JPNIC,JP00078611,jpnic,i2ts.com,2012-03-23,,i2ts.com,i2ts.com,,,AS2519,ARTERIA Networks Corporation,arteria-net.com,isp
+1.0.16.0/24,I2TS-MTK-NET,"i2ts,inc.",JP,,JP00078611,,JP00078611,jpnic,i2ts.com,2018-01-23,,i2ts.com,i2ts.com,,,AS2519,ARTERIA Networks Corporation,arteria-net.com,isp
 1.0.17.0/24,I2TS-MTK-NET,i2ts inc.,JP,,JP00078611,,JP00078611,jpnic,i2ts.com,2025-06-25,,i2ts.com,i2ts.com,,,,,,
 1.0.32.0/19,CHINANET-GD,CHINANET Guangdong province network,CN,ALLOCATED PORTABLE,IC83-AP,MAINT-CHINANET-GD,CH93-AP,apnic,chinatelecom.cn,2023-12-21,,,chinatelecom.cn,,,,,,
-1.0.64.0/20,MEGAEGG,"Enecom,Inc.",JP,,JP00076967,,JP00076967,jpnic,,2024-05-15,,,eneco.nl,,,AS18144,"Enecom,Inc.",enecom.co.jp,business
 1.0.64.0/18,MEGAEGG-CIDR-BLK-JP,"Enecom,Inc.",JP,ALLOCATED PORTABLE,JP00065730,MAINT-JPNIC,JP00076967,jpnic,megaegg.ne.jp,2017-04-06,,,megaegg.ne.jp,,,AS18144,"Enecom,Inc.",enecom.co.jp,business
+1.0.64.0/20,MEGAEGG,"Enecom,Inc.",JP,,JP00076967,,JP00076967,jpnic,,2024-05-15,,,eneco.nl,,,AS18144,"Enecom,Inc.",enecom.co.jp,business
 1.0.80.0/20,MEGAEGG,"Enecom,Inc.",JP,,JP00076967,,JP00076967,jpnic,,2024-05-15,,,eneco.nl,,,AS18144,"Enecom,Inc.",enecom.co.jp,business
 1.0.96.0/20,MEGAEGG,"Enecom,Inc.",JP,,JP00076967,,JP00076967,jpnic,,2024-05-15,,,eneco.nl,,,AS18144,"Enecom,Inc.",enecom.co.jp,business
 1.0.112.0/20,MEGAEGG,"Enecom,Inc.",JP,,JP00076967,,JP00076967,jpnic,,2024-05-15,,,eneco.nl,,,AS18144,"Enecom,Inc.",enecom.co.jp,business
-1.0.128.0/18,TOTNET,Dynamic IP Address for residential Broadband Customers,TH,ASSIGNED NON-PORTABLE,AG100-AP,MAINT-TH-TOT,AG100-AP,apnic,ntplc.co.th,2021-01-27,,,totidc.net,,,AS23969,TOT Public Company Limited,ntplc.co.th,isp
 1.0.128.0/17,TOT-AS-AP,TOT Public Company Limited,TH,ALLOCATED PORTABLE,AG100-AP,MAINT-TH-TOT,PA82-AP,apnic,totidc.net,2020-07-09,ORG-TPCL1-AP,,totidc.net,,National Telecom Public Company Limited\nChaengwattana Office\n89/2 Chaengwatthana Road\nThoongsonghong,AS23969,TOT Public Company Limited,ntplc.co.th,isp
+1.0.128.0/18,TOTNET,Dynamic IP Address for residential Broadband Customers,TH,ASSIGNED NON-PORTABLE,AG100-AP,MAINT-TH-TOT,AG100-AP,apnic,ntplc.co.th,2021-01-27,,,totidc.net,,,AS23969,TOT Public Company Limited,ntplc.co.th,isp
 1.0.192.0/18,TOTNET,Dynamic IP Address for residential Broadband Customers,TH,ASSIGNED NON-PORTABLE,AG100-AP,MAINT-TH-TOT,AG100-AP,apnic,ntplc.co.th,2021-01-27,,,totidc.net,,,AS23969,TOT Public Company Limited,ntplc.co.th,isp
 1.1.0.0/24,CHINANET-FJ,CHINANET FUJIAN PROVINCE NETWORK,CN,ALLOCATED PORTABLE,CA67-AP,MAINT-CHINANET-FJ,CA67-AP,apnic,chinatelecom.cn,2021-06-15,,,chinatelecom.cn,,,,,,
 1.1.1.0/24,APNIC-LABS,APNIC and Cloudflare DNS Resolver project,AU,ASSIGNED PORTABLE,AIC3-AP,MAINT-APNICRANDNET,AIC3-AP,apnic,cloudflare.com,2023-04-26,ORG-ARAD1-AP,,cloudflare.com,,6 Cordelia St,AS13335,"Cloudflare, Inc.",cloudflare.com,hosting
@@ -30,8 +30,8 @@ range,id,name,country,status,tech,maintainer,admin,source,whois_domain,updated,o
 1.1.9.0-1.1.15.255,CHINANET-GD,CHINANET Guangdong province network,CN,ALLOCATED PORTABLE,IC83-AP,MAINT-CHINANET-GD,CH93-AP,apnic,chinatelecom.cn,2023-12-21,,,chinatelecom.cn,,,,,,
 1.1.16.0/20,CHINANET-GD,CHINANET Guangdong province network,CN,ALLOCATED PORTABLE,IC83-AP,MAINT-CHINANET-GD,CH93-AP,apnic,chinatelecom.cn,2023-12-21,,,chinatelecom.cn,,,,,,
 1.1.32.0/19,CHINANET-GD,CHINANET Guangdong province network,CN,ALLOCATED PORTABLE,IC83-AP,MAINT-CHINANET-GD,CH93-AP,apnic,chinatelecom.cn,2023-12-21,,,chinatelecom.cn,,,,,,
-1.1.64.0/24,I2TS-MTK-NET,"i2ts,inc.",JP,,JP00078611,,JP00078611,jpnic,i2ts.com,2012-03-31,,i2ts.com,i2ts.com,,,AS2519,ARTERIA Networks Corporation,arteria-net.com,isp
 1.1.64.0/18,I2TS-CIDR-BLK-JP,"i2ts,inc.",JP,ALLOCATED PORTABLE,JP00078611,MAINT-JPNIC,JP00078611,jpnic,i2ts.com,2012-03-23,,i2ts.com,i2ts.com,,,AS2519,ARTERIA Networks Corporation,arteria-net.com,isp
+1.1.64.0/24,I2TS-MTK-NET,"i2ts,inc.",JP,,JP00078611,,JP00078611,jpnic,i2ts.com,2012-03-31,,i2ts.com,i2ts.com,,,AS2519,ARTERIA Networks Corporation,arteria-net.com,isp
 1.1.65.0/24,I2TS-MTK-NET,"i2ts,inc.",JP,,JP00078611,,JP00078611,jpnic,i2ts.com,2012-03-31,,i2ts.com,i2ts.com,,,AS2519,ARTERIA Networks Corporation,arteria-net.com,isp
 1.1.66.0/24,I2TS-MTK-NET,"i2ts,inc.",JP,,JP00078611,,JP00078611,jpnic,i2ts.com,2012-03-31,,i2ts.com,i2ts.com,,,AS2519,ARTERIA Networks Corporation,arteria-net.com,isp
 1.1.67.0/24,I2TS-MTK-NET,"i2ts,inc.",JP,,JP00078611,,JP00078611,jpnic,i2ts.com,2012-03-31,,i2ts.com,i2ts.com,,,AS2519,ARTERIA Networks Corporation,arteria-net.com,isp
@@ -76,8 +76,8 @@ range,id,name,country,status,tech,maintainer,admin,source,whois_domain,updated,o
 1.1.116.0/24,I2TS-NET,"i2ts,inc.",JP,,JP00078611,,JP00078611,jpnic,i2ts.com,2015-05-15,,i2ts.com,i2ts.com,,,AS2519,ARTERIA Networks Corporation,arteria-net.com,isp
 1.1.126.0/24,I2TS-NET,"i2ts,inc.",JP,,JP00078611,,JP00078611,jpnic,i2ts.com,2015-06-30,,i2ts.com,i2ts.com,,,AS2519,ARTERIA Networks Corporation,arteria-net.com,isp
 1.1.127.0/24,I2TS-NET,"i2ts,inc.",JP,,JP00078611,,JP00078611,jpnic,i2ts.com,2012-05-24,,i2ts.com,i2ts.com,,,,,,
-1.1.128.0/18,TOTNET,Dynamic IP Address for residential Broadband Customers,TH,ASSIGNED NON-PORTABLE,AG100-AP,MAINT-TH-TOT,AG100-AP,apnic,ntplc.co.th,2021-01-27,,,totidc.net,,,AS23969,TOT Public Company Limited,ntplc.co.th,isp
 1.1.128.0/17,TOT-AS-AP,TOT Public Company Limited,TH,ALLOCATED PORTABLE,AG100-AP,MAINT-TH-TOT,PA82-AP,apnic,totidc.net,2020-07-09,ORG-TPCL1-AP,,totidc.net,,National Telecom Public Company Limited\nChaengwattana Office\n89/2 Chaengwatthana Road\nThoongsonghong,AS23969,TOT Public Company Limited,ntplc.co.th,isp
+1.1.128.0/18,TOTNET,Dynamic IP Address for residential Broadband Customers,TH,ASSIGNED NON-PORTABLE,AG100-AP,MAINT-TH-TOT,AG100-AP,apnic,ntplc.co.th,2021-01-27,,,totidc.net,,,AS23969,TOT Public Company Limited,ntplc.co.th,isp
 1.1.192.0/18,TOTNET,Dynamic IP Address for residential Broadband Customers,TH,ASSIGNED NON-PORTABLE,AG100-AP,MAINT-TH-TOT,AG100-AP,apnic,ntplc.co.th,2021-01-27,,,totidc.net,,,AS23969,TOT Public Company Limited,ntplc.co.th,isp
 1.2.0.0/23,CHINANET-FJ,CHINANET FUJIAN PROVINCE NETWORK,CN,ALLOCATED PORTABLE,CA67-AP,MAINT-CHINANET-FJ,CA67-AP,apnic,chinatelecom.cn,2021-06-15,,,chinatelecom.cn,,,,,,
 1.2.2.0/24,KNET,"KNET Techonlogy (BeiJing) Co.,Ltd.",CN,ALLOCATED PORTABLE,WL1818-AP,MAINT-CNNIC-AP,ZX2975-AP,apnic,knet.cn,2023-11-28,,,knet.cn,,,,,,
@@ -89,8 +89,8 @@ range,id,name,country,status,tech,maintainer,admin,source,whois_domain,updated,o
 1.2.16.0/20,CHINANET-GD,CHINANET Guangdong province network,CN,ALLOCATED PORTABLE,IC83-AP,MAINT-CHINANET-GD,CH93-AP,apnic,chinatelecom.cn,2023-12-21,,,chinatelecom.cn,,,,,,
 1.2.32.0/19,CHINANET-GD,CHINANET Guangdong province network,CN,ALLOCATED PORTABLE,IC83-AP,MAINT-CHINANET-GD,CH93-AP,apnic,chinatelecom.cn,2023-12-21,,,chinatelecom.cn,,,,,,
 1.2.64.0/18,CHINANET-GD,CHINANET Guangdong province network,CN,ALLOCATED PORTABLE,IC83-AP,MAINT-CHINANET-GD,CH93-AP,apnic,chinatelecom.cn,2023-12-21,,,chinatelecom.cn,,,,,,
-1.2.128.0/18,TOTNET,Dynamic IP Address for residential Broadband Customers,TH,ASSIGNED NON-PORTABLE,AG100-AP,MAINT-TH-TOT,AG100-AP,apnic,ntplc.co.th,2021-01-27,,,totidc.net,,,AS23969,TOT Public Company Limited,ntplc.co.th,isp
 1.2.128.0/17,TOT-AS-AP,TOT Public Company Limited,TH,ALLOCATED PORTABLE,AG100-AP,MAINT-TH-TOT,PA82-AP,apnic,totidc.net,2020-07-09,ORG-TPCL1-AP,,totidc.net,,National Telecom Public Company Limited\nChaengwattana Office\n89/2 Chaengwatthana Road\nThoongsonghong,AS23969,TOT Public Company Limited,ntplc.co.th,isp
+1.2.128.0/18,TOTNET,Dynamic IP Address for residential Broadband Customers,TH,ASSIGNED NON-PORTABLE,AG100-AP,MAINT-TH-TOT,AG100-AP,apnic,ntplc.co.th,2021-01-27,,,totidc.net,,,AS23969,TOT Public Company Limited,ntplc.co.th,isp
 1.2.192.0/18,TOTNET,Dynamic IP Address for residential Broadband Customers,TH,ASSIGNED NON-PORTABLE,AG100-AP,MAINT-TH-TOT,AG100-AP,apnic,ntplc.co.th,2021-01-27,,,totidc.net,,,AS23969,TOT Public Company Limited,ntplc.co.th,isp
 1.3.0.0/16,CHINANET-GD,CHINANET Guangdong province network,CN,ALLOCATED PORTABLE,IC83-AP,MAINT-CHINANET-GD,CH93-AP,apnic,chinatelecom.cn,2023-12-21,,,chinatelecom.cn,,,,,,
 1.4.0.0/24,DEBOGON-PREFIX,APNIC Debogon Project,AU,ASSIGNED PORTABLE,AR302-AP,APNIC-HM,AR302-AP,apnic,,2025-06-06,ORG-RQA1-AP,,,,"6 Cordelia Street, South Brisbane",,,,
