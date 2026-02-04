@@ -4,25 +4,24 @@
 
 # Database Schema & Description
 
-*[data updated as of March, 2024]*
+_[data updated as of February, 2026]_
 
 The IP to rDNS dataset contain two datasets.
 
 ## IP to rDNS - Domains dataset
 
 | Field Name | Example         | Data Type | Notes                                            |
-|------------|-----------------|-----------|--------------------------------------------------|
+| ---------- | --------------- | --------- | ------------------------------------------------ |
 | `start_ip` | 38.80.229.1     | TEXT      | Starting IP address of an IP address range       |
 | `end_ip`   | 38.80.229.255   | TEXT      | Ending IP address of an IP address range         |
 | `join_key` | 38.80.0.0       | TEXT      | Special variable to facilitate IP join operation |
 | `size`     | 255             | INTEGER   | Size of the IP range                             |
 | `domain`   | digitalpath.net | TEXT      | Associated rDNS domain                           |
 
-
-##  IP to rDNS - Hostname dataset
+## IP to rDNS - Hostname dataset
 
 | Field Name | Example        | Data Type | Notes               |
-|------------|----------------|-----------|---------------------|
+| ---------- | -------------- | --------- | ------------------- |
 | `ip`       | 161.163.44.195 | TEXT      | IP address          |
 | `hostname` | walmart.com    | TEXT      | Associated hostname |
 
@@ -33,7 +32,6 @@ The IP to rDNS dataset contain two datasets.
 - [MMDB Database] [IP to rDNS - Domains Database Sample](/IP%20to%20rDNS/ip_rdns_domains_sample.mmdb)
 - [CSV Database] [IP to rDNS - Hostnames Database Sample](/IP%20to%20rDNS/ip_rdns_hostnames_sample.csv)
 - [JSON Database] [IP to rDNS - Hostnames Database Sample](/IP%20to%20rDNS/ip_rdns_hostnames_sample.json)
-- [MMDB Database] [IP to rDNS - Hostnames Database Sample](/IP%20to%20rDNS/ip_rdns_hostnames_sample.mmdb)
 
 ---
 
