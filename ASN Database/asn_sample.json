@@ -17,7 +17,7 @@
 {"start_ip": "1.6.136.0", "end_ip": "1.6.136.255", "join_key": "1.6.0.0", "asn": "AS132215", "domain": "powergrid.in", "name": "Powergrid Teleservices Limited", "type": "isp", "country": "IN"}
 {"start_ip": "1.6.137.0", "end_ip": "1.6.225.255", "join_key": "1.6.0.0", "asn": "AS9583", "domain": "sifycorp.com", "name": "Sify Limited", "type": "isp", "country": "IN"}
 {"start_ip": "1.6.226.0", "end_ip": "1.6.228.255", "join_key": "1.6.0.0", "asn": "AS132215", "domain": "powergrid.in", "name": "Powergrid Teleservices Limited", "type": "isp", "country": "IN"}
-{"start_ip": "1.6.229.0", "end_ip": "1.6.230.255", "join_key": "1.6.0.0", "asn": "AS4755", "domain": "tatacommunications.com", "name": "TATA Communications formerly VSNL is Leading ISP", "type": "hosting", "country": "IN"}
+{"start_ip": "1.6.229.0", "end_ip": "1.6.230.255", "join_key": "1.6.0.0", "asn": "AS4755", "domain": "tatacommunications.com", "name": "TATA Communications formerly VSNL is Leading ISP", "type": "isp", "country": "IN"}
 {"start_ip": "1.6.231.0", "end_ip": "1.6.255.255", "join_key": "1.6.0.0", "asn": "AS9583", "domain": "sifycorp.com", "name": "Sify Limited", "type": "isp", "country": "IN"}
 {"start_ip": "1.7.0.0", "end_ip": "1.7.0.255", "join_key": "1.7.0.0", "asn": "AS9583", "domain": "sifycorp.com", "name": "Sify Limited", "type": "isp", "country": "IN"}
 {"start_ip": "1.7.3.0", "end_ip": "1.7.23.255", "join_key": "1.7.0.0", "asn": "AS9583", "domain": "sifycorp.com", "name": "Sify Limited", "type": "isp", "country": "IN"}
@@ -38,10 +38,10 @@
 {"start_ip": "1.7.204.0", "end_ip": "1.7.224.255", "join_key": "1.7.0.0", "asn": "AS9583", "domain": "sifycorp.com", "name": "Sify Limited", "type": "isp", "country": "IN"}
 {"start_ip": "1.7.225.0", "end_ip": "1.7.225.255", "join_key": "1.7.0.0", "asn": "AS396421", "domain": "paloaltonetworks.com", "name": "PALO ALTO NETWORKS", "type": "business", "country": "US"}
 {"start_ip": "1.7.226.0", "end_ip": "1.7.245.255", "join_key": "1.7.0.0", "asn": "AS9583", "domain": "sifycorp.com", "name": "Sify Limited", "type": "isp", "country": "IN"}
-{"start_ip": "1.8.1.0", "end_ip": "1.8.1.255", "join_key": "1.8.0.0", "asn": "AS38345", "domain": "knet.cn", "name": "Internet Domain Name System Beijing Engineering Resrarch Center Ltd.", "type": "business", "country": "CN"}
-{"start_ip": "1.8.8.0", "end_ip": "1.8.8.255", "join_key": "1.8.0.0", "asn": "AS38345", "domain": "knet.cn", "name": "Internet Domain Name System Beijing Engineering Resrarch Center Ltd.", "type": "business", "country": "CN"}
+{"start_ip": "1.8.1.0", "end_ip": "1.8.1.255", "join_key": "1.8.0.0", "asn": "AS38345", "domain": "knet.cn", "name": "Internet Domain Name System Beijing Engineering Resrarch Center Ltd.", "type": "hosting", "country": "CN"}
+{"start_ip": "1.8.8.0", "end_ip": "1.8.8.255", "join_key": "1.8.0.0", "asn": "AS38345", "domain": "knet.cn", "name": "Internet Domain Name System Beijing Engineering Resrarch Center Ltd.", "type": "hosting", "country": "CN"}
 {"start_ip": "1.9.0.0", "end_ip": "1.9.255.255", "join_key": "1.9.0.0", "asn": "AS4788", "domain": "tm.com.my", "name": "TM TECHNOLOGY SERVICES SDN. BHD.", "type": "isp", "country": "MY"}
-{"start_ip": "1.10.10.0", "end_ip": "1.10.10.255", "join_key": "1.10.0.0", "asn": "AS148000", "domain": "dns.nic.in", "name": "BHARAT PUBLIC DNS (1.10.10.10)", "type": "hosting", "country": "IN"}
+{"start_ip": "1.10.10.0", "end_ip": "1.10.10.255", "join_key": "1.10.0.0", "asn": "AS148000", "domain": "dns.nic.in", "name": "BHARAT PUBLIC DNS (1.10.10.10)", "type": "isp", "country": "IN"}
 {"start_ip": "1.10.128.0", "end_ip": "1.10.134.255", "join_key": "1.10.0.0", "asn": "AS23969", "domain": "ntplc.co.th", "name": "TOT Public Company Limited", "type": "isp", "country": "TH"}
 {"start_ip": "1.10.135.0", "end_ip": "1.10.135.255", "join_key": "1.10.0.0", "asn": "AS23974", "domain": "moe.go.th", "name": "Ministry of education", "type": "government", "country": "TH"}
 {"start_ip": "1.10.136.0", "end_ip": "1.10.255.255", "join_key": "1.10.0.0", "asn": "AS23969", "domain": "ntplc.co.th", "name": "TOT Public Company Limited", "type": "isp", "country": "TH"}
@@ -72,14 +72,14 @@
 {"start_ip": "1.18.123.0", "end_ip": "1.18.123.255", "join_key": "1.18.0.0", "asn": "AS23599", "domain": "", "name": "Korea Internet Security Agency", "type": "business", "country": "KR"}
 {"start_ip": "1.18.125.0", "end_ip": "1.18.126.255", "join_key": "1.18.0.0", "asn": "AS23599", "domain": "", "name": "Korea Internet Security Agency", "type": "business", "country": "KR"}
 {"start_ip": "1.18.127.0", "end_ip": "1.18.130.255", "join_key": "1.18.0.0", "asn": "AS23596", "domain": "", "name": "Korea Internet Security Agency", "type": "business", "country": "KR"}
-{"start_ip": "1.18.132.0", "end_ip": "1.18.135.255", "join_key": "1.18.0.0", "asn": "AS23600", "domain": "", "name": "Korea Internet Security Agency", "type": "business", "country": "KR"}
-{"start_ip": "1.20.0.0", "end_ip": "1.20.66.255", "join_key": "1.20.0.0", "asn": "AS56120", "domain": "tot.co.th", "name": "TOT Public Company Limited", "type": "isp", "country": "TH"}
+{"start_ip": "1.18.132.0", "end_ip": "1.18.135.255", "join_key": "1.18.0.0", "asn": "AS23600", "domain": "", "name": "Korea Internet Security Agency", "type": "hosting", "country": "KR"}
+{"start_ip": "1.20.0.0", "end_ip": "1.20.66.255", "join_key": "1.20.0.0", "asn": "AS56120", "domain": "totidc.net", "name": "TOT Public Company Limited", "type": "isp", "country": "TH"}
 {"start_ip": "1.20.67.0", "end_ip": "1.20.116.255", "join_key": "1.20.0.0", "asn": "AS23969", "domain": "ntplc.co.th", "name": "TOT Public Company Limited", "type": "isp", "country": "TH"}
-{"start_ip": "1.20.117.0", "end_ip": "1.20.117.255", "join_key": "1.20.0.0", "asn": "AS56120", "domain": "tot.co.th", "name": "TOT Public Company Limited", "type": "isp", "country": "TH"}
+{"start_ip": "1.20.117.0", "end_ip": "1.20.117.255", "join_key": "1.20.0.0", "asn": "AS56120", "domain": "totidc.net", "name": "TOT Public Company Limited", "type": "isp", "country": "TH"}
 {"start_ip": "1.20.118.0", "end_ip": "1.20.118.255", "join_key": "1.20.0.0", "asn": "AS23969", "domain": "ntplc.co.th", "name": "TOT Public Company Limited", "type": "isp", "country": "TH"}
-{"start_ip": "1.20.119.0", "end_ip": "1.20.123.255", "join_key": "1.20.0.0", "asn": "AS56120", "domain": "tot.co.th", "name": "TOT Public Company Limited", "type": "isp", "country": "TH"}
+{"start_ip": "1.20.119.0", "end_ip": "1.20.123.255", "join_key": "1.20.0.0", "asn": "AS56120", "domain": "totidc.net", "name": "TOT Public Company Limited", "type": "isp", "country": "TH"}
 {"start_ip": "1.20.124.0", "end_ip": "1.20.124.255", "join_key": "1.20.0.0", "asn": "AS23969", "domain": "ntplc.co.th", "name": "TOT Public Company Limited", "type": "isp", "country": "TH"}
-{"start_ip": "1.20.125.0", "end_ip": "1.20.127.255", "join_key": "1.20.0.0", "asn": "AS56120", "domain": "tot.co.th", "name": "TOT Public Company Limited", "type": "isp", "country": "TH"}
+{"start_ip": "1.20.125.0", "end_ip": "1.20.127.255", "join_key": "1.20.0.0", "asn": "AS56120", "domain": "totidc.net", "name": "TOT Public Company Limited", "type": "isp", "country": "TH"}
 {"start_ip": "1.20.128.0", "end_ip": "1.20.255.255", "join_key": "1.20.0.0", "asn": "AS23969", "domain": "ntplc.co.th", "name": "TOT Public Company Limited", "type": "isp", "country": "TH"}
 {"start_ip": "1.21.0.0", "end_ip": "1.21.95.255", "join_key": "1.21.0.0", "asn": "AS2519", "domain": "arteria-net.com", "name": "ARTERIA Networks Corporation", "type": "isp", "country": "JP"}
 {"start_ip": "1.21.96.0", "end_ip": "1.21.111.255", "join_key": "1.21.0.0", "asn": "AS59125", "domain": "fnj.co.jp", "name": "FAMILY NET JAPAN INCORPORATED", "type": "isp", "country": "JP"}

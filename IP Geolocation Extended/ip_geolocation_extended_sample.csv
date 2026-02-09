@@ -34,7 +34,8 @@ start_ip,end_ip,join_key,city,region,region_name,country,country_name,latitude,l
 1.0.80.80,1.0.80.87,1.0.0.0,Matsue,32,Shimane,JP,Japan,35.48333,133.05,690-0801,Asia/Tokyo,1857550,5
 1.0.80.88,1.0.80.92,1.0.0.0,Ube,35,Yamaguchi,JP,Japan,33.94306,131.25111,752-0923,Asia/Tokyo,1849498,50
 1.0.80.93,1.0.80.95,1.0.0.0,Hiroshima,34,Hiroshima,JP,Japan,34.4,132.45,730-0011,Asia/Tokyo,1862415,200
-1.0.80.96,1.0.80.111,1.0.0.0,Matsue,32,Shimane,JP,Japan,35.48333,133.05,690-0801,Asia/Tokyo,1857550,5
+1.0.80.96,1.0.80.103,1.0.0.0,Matsue,32,Shimane,JP,Japan,35.48333,133.05,690-0801,Asia/Tokyo,1857550,50
+1.0.80.104,1.0.80.111,1.0.0.0,Matsue,32,Shimane,JP,Japan,35.48333,133.05,690-0801,Asia/Tokyo,1857550,5
 1.0.80.112,1.0.80.112,1.0.0.0,Ube,35,Yamaguchi,JP,Japan,33.94306,131.25111,752-0923,Asia/Tokyo,1849498,50
 1.0.80.113,1.0.80.113,1.0.0.0,Matsue,32,Shimane,JP,Japan,35.48333,133.05,690-0801,Asia/Tokyo,1857550,50
 1.0.80.114,1.0.80.115,1.0.0.0,Hiroshima,34,Hiroshima,JP,Japan,34.4,132.45,730-0011,Asia/Tokyo,1862415,200
@@ -69,7 +70,9 @@ start_ip,end_ip,join_key,city,region,region_name,country,country_name,latitude,l
 1.0.81.8,1.0.81.11,1.0.0.0,Tottori-shi,31,Tottori,JP,Japan,35.5,134.23333,680-0013,Asia/Tokyo,1849892,5
 1.0.81.12,1.0.81.13,1.0.0.0,Tottori-shi,31,Tottori,JP,Japan,35.5,134.23333,680-0013,Asia/Tokyo,1849892,50
 1.0.81.14,1.0.81.15,1.0.0.0,Matsue,32,Shimane,JP,Japan,35.48333,133.05,690-0801,Asia/Tokyo,1857550,5
-1.0.81.16,1.0.81.55,1.0.0.0,Tottori-shi,31,Tottori,JP,Japan,35.5,134.23333,680-0013,Asia/Tokyo,1849892,50
+1.0.81.16,1.0.81.31,1.0.0.0,Tottori-shi,31,Tottori,JP,Japan,35.5,134.23333,680-0013,Asia/Tokyo,1849892,50
+1.0.81.32,1.0.81.47,1.0.0.0,Tottori-shi,31,Tottori,JP,Japan,35.5,134.23333,680-0013,Asia/Tokyo,1849892,5
+1.0.81.48,1.0.81.55,1.0.0.0,Tottori-shi,31,Tottori,JP,Japan,35.5,134.23333,680-0013,Asia/Tokyo,1849892,50
 1.0.81.56,1.0.81.63,1.0.0.0,Matsue,32,Shimane,JP,Japan,35.48333,133.05,690-0801,Asia/Tokyo,1857550,5
 1.0.81.64,1.0.81.95,1.0.0.0,Tottori-shi,31,Tottori,JP,Japan,35.5,134.23333,680-0013,Asia/Tokyo,1849892,50
 1.0.81.96,1.0.81.97,1.0.0.0,Tottori-shi,31,Tottori,JP,Japan,35.5,134.23333,680-0013,Asia/Tokyo,1849892,5
@@ -96,6 +99,3 @@ start_ip,end_ip,join_key,city,region,region_name,country,country_name,latitude,l
 1.0.81.232,1.0.81.239,1.0.0.0,Yamaguchi,35,Yamaguchi,JP,Japan,34.18333,131.46667,800-0336,Asia/Tokyo,1848689,50
 1.0.81.240,1.0.81.241,1.0.0.0,Matsue,32,Shimane,JP,Japan,35.48333,133.05,690-0801,Asia/Tokyo,1857550,50
 1.0.81.242,1.0.81.243,1.0.0.0,Yamaguchi,35,Yamaguchi,JP,Japan,34.18333,131.46667,800-0336,Asia/Tokyo,1848689,5
-1.0.81.244,1.0.81.247,1.0.0.0,Matsue,32,Shimane,JP,Japan,35.48333,133.05,690-0801,Asia/Tokyo,1857550,20
-1.0.81.248,1.0.81.255,1.0.0.0,Matsue,32,Shimane,JP,Japan,35.48333,133.05,690-0801,Asia/Tokyo,1857550,50
-1.0.82.0,1.0.82.1,1.0.0.0,Matsue,32,Shimane,JP,Japan,35.48333,133.05,690-0801,Asia/Tokyo,1857550,5

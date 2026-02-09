@@ -18,7 +18,7 @@ start_ip,end_ip,join_key,asn,domain,name,type,country
 1.6.136.0,1.6.136.255,1.6.0.0,AS132215,powergrid.in,Powergrid Teleservices Limited,isp,IN
 1.6.137.0,1.6.225.255,1.6.0.0,AS9583,sifycorp.com,Sify Limited,isp,IN
 1.6.226.0,1.6.228.255,1.6.0.0,AS132215,powergrid.in,Powergrid Teleservices Limited,isp,IN
-1.6.229.0,1.6.230.255,1.6.0.0,AS4755,tatacommunications.com,TATA Communications formerly VSNL is Leading ISP,hosting,IN
+1.6.229.0,1.6.230.255,1.6.0.0,AS4755,tatacommunications.com,TATA Communications formerly VSNL is Leading ISP,isp,IN
 1.6.231.0,1.6.255.255,1.6.0.0,AS9583,sifycorp.com,Sify Limited,isp,IN
 1.7.0.0,1.7.0.255,1.7.0.0,AS9583,sifycorp.com,Sify Limited,isp,IN
 1.7.3.0,1.7.23.255,1.7.0.0,AS9583,sifycorp.com,Sify Limited,isp,IN
@@ -39,10 +39,10 @@ start_ip,end_ip,join_key,asn,domain,name,type,country
 1.7.204.0,1.7.224.255,1.7.0.0,AS9583,sifycorp.com,Sify Limited,isp,IN
 1.7.225.0,1.7.225.255,1.7.0.0,AS396421,paloaltonetworks.com,PALO ALTO NETWORKS,business,US
 1.7.226.0,1.7.245.255,1.7.0.0,AS9583,sifycorp.com,Sify Limited,isp,IN
-1.8.1.0,1.8.1.255,1.8.0.0,AS38345,knet.cn,Internet Domain Name System Beijing Engineering Resrarch Center Ltd.,business,CN
-1.8.8.0,1.8.8.255,1.8.0.0,AS38345,knet.cn,Internet Domain Name System Beijing Engineering Resrarch Center Ltd.,business,CN
+1.8.1.0,1.8.1.255,1.8.0.0,AS38345,knet.cn,Internet Domain Name System Beijing Engineering Resrarch Center Ltd.,hosting,CN
+1.8.8.0,1.8.8.255,1.8.0.0,AS38345,knet.cn,Internet Domain Name System Beijing Engineering Resrarch Center Ltd.,hosting,CN
 1.9.0.0,1.9.255.255,1.9.0.0,AS4788,tm.com.my,TM TECHNOLOGY SERVICES SDN. BHD.,isp,MY
-1.10.10.0,1.10.10.255,1.10.0.0,AS148000,dns.nic.in,BHARAT PUBLIC DNS (1.10.10.10),hosting,IN
+1.10.10.0,1.10.10.255,1.10.0.0,AS148000,dns.nic.in,BHARAT PUBLIC DNS (1.10.10.10),isp,IN
 1.10.128.0,1.10.134.255,1.10.0.0,AS23969,ntplc.co.th,TOT Public Company Limited,isp,TH
 1.10.135.0,1.10.135.255,1.10.0.0,AS23974,moe.go.th,Ministry of education,government,TH
 1.10.136.0,1.10.255.255,1.10.0.0,AS23969,ntplc.co.th,TOT Public Company Limited,isp,TH
@@ -73,14 +73,14 @@ start_ip,end_ip,join_key,asn,domain,name,type,country
 1.18.123.0,1.18.123.255,1.18.0.0,AS23599,,Korea Internet Security Agency,business,KR
 1.18.125.0,1.18.126.255,1.18.0.0,AS23599,,Korea Internet Security Agency,business,KR
 1.18.127.0,1.18.130.255,1.18.0.0,AS23596,,Korea Internet Security Agency,business,KR
-1.18.132.0,1.18.135.255,1.18.0.0,AS23600,,Korea Internet Security Agency,business,KR
-1.20.0.0,1.20.66.255,1.20.0.0,AS56120,tot.co.th,TOT Public Company Limited,isp,TH
+1.18.132.0,1.18.135.255,1.18.0.0,AS23600,,Korea Internet Security Agency,hosting,KR
+1.20.0.0,1.20.66.255,1.20.0.0,AS56120,totidc.net,TOT Public Company Limited,isp,TH
 1.20.67.0,1.20.116.255,1.20.0.0,AS23969,ntplc.co.th,TOT Public Company Limited,isp,TH
-1.20.117.0,1.20.117.255,1.20.0.0,AS56120,tot.co.th,TOT Public Company Limited,isp,TH
+1.20.117.0,1.20.117.255,1.20.0.0,AS56120,totidc.net,TOT Public Company Limited,isp,TH
 1.20.118.0,1.20.118.255,1.20.0.0,AS23969,ntplc.co.th,TOT Public Company Limited,isp,TH
-1.20.119.0,1.20.123.255,1.20.0.0,AS56120,tot.co.th,TOT Public Company Limited,isp,TH
+1.20.119.0,1.20.123.255,1.20.0.0,AS56120,totidc.net,TOT Public Company Limited,isp,TH
 1.20.124.0,1.20.124.255,1.20.0.0,AS23969,ntplc.co.th,TOT Public Company Limited,isp,TH
-1.20.125.0,1.20.127.255,1.20.0.0,AS56120,tot.co.th,TOT Public Company Limited,isp,TH
+1.20.125.0,1.20.127.255,1.20.0.0,AS56120,totidc.net,TOT Public Company Limited,isp,TH
 1.20.128.0,1.20.255.255,1.20.0.0,AS23969,ntplc.co.th,TOT Public Company Limited,isp,TH
 1.21.0.0,1.21.95.255,1.21.0.0,AS2519,arteria-net.com,ARTERIA Networks Corporation,isp,JP
 1.21.96.0,1.21.111.255,1.21.0.0,AS59125,fnj.co.jp,FAMILY NET JAPAN INCORPORATED,isp,JP
