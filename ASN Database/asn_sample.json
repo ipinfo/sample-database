@@ -14,9 +14,9 @@
 {"start_ip": "1.4.128.0", "end_ip": "1.4.255.255", "join_key": "1.4.0.0", "asn": "AS23969", "domain": "ntplc.co.th", "name": "TOT Public Company Limited", "type": "isp", "country": "TH"}
 {"start_ip": "1.5.0.0", "end_ip": "1.5.255.255", "join_key": "1.5.0.0", "asn": "AS4725", "domain": "softbank.jp", "name": "SoftBank Corp.", "type": "isp", "country": "JP"}
 {"start_ip": "1.6.0.0", "end_ip": "1.6.135.255", "join_key": "1.6.0.0", "asn": "AS9583", "domain": "sifycorp.com", "name": "Sify Limited", "type": "isp", "country": "IN"}
-{"start_ip": "1.6.136.0", "end_ip": "1.6.136.255", "join_key": "1.6.0.0", "asn": "AS132215", "domain": "powergrid.in", "name": "Powergrid Teleservices Limited", "type": "isp", "country": "IN"}
+{"start_ip": "1.6.136.0", "end_ip": "1.6.136.255", "join_key": "1.6.0.0", "asn": "AS132215", "domain": "powergrid.in", "name": "Powergrid Teleservices Limited", "type": "hosting", "country": "IN"}
 {"start_ip": "1.6.137.0", "end_ip": "1.6.225.255", "join_key": "1.6.0.0", "asn": "AS9583", "domain": "sifycorp.com", "name": "Sify Limited", "type": "isp", "country": "IN"}
-{"start_ip": "1.6.226.0", "end_ip": "1.6.228.255", "join_key": "1.6.0.0", "asn": "AS132215", "domain": "powergrid.in", "name": "Powergrid Teleservices Limited", "type": "isp", "country": "IN"}
+{"start_ip": "1.6.226.0", "end_ip": "1.6.228.255", "join_key": "1.6.0.0", "asn": "AS132215", "domain": "powergrid.in", "name": "Powergrid Teleservices Limited", "type": "hosting", "country": "IN"}
 {"start_ip": "1.6.229.0", "end_ip": "1.6.230.255", "join_key": "1.6.0.0", "asn": "AS4755", "domain": "tatacommunications.com", "name": "TATA Communications formerly VSNL is Leading ISP", "type": "isp", "country": "IN"}
 {"start_ip": "1.6.231.0", "end_ip": "1.6.255.255", "join_key": "1.6.0.0", "asn": "AS9583", "domain": "sifycorp.com", "name": "Sify Limited", "type": "isp", "country": "IN"}
 {"start_ip": "1.7.0.0", "end_ip": "1.7.0.255", "join_key": "1.7.0.0", "asn": "AS9583", "domain": "sifycorp.com", "name": "Sify Limited", "type": "isp", "country": "IN"}
@@ -26,15 +26,15 @@
 {"start_ip": "1.7.60.0", "end_ip": "1.7.61.255", "join_key": "1.7.0.0", "asn": "AS9583", "domain": "sifycorp.com", "name": "Sify Limited", "type": "isp", "country": "IN"}
 {"start_ip": "1.7.81.0", "end_ip": "1.7.108.255", "join_key": "1.7.0.0", "asn": "AS9583", "domain": "sifycorp.com", "name": "Sify Limited", "type": "isp", "country": "IN"}
 {"start_ip": "1.7.128.0", "end_ip": "1.7.141.255", "join_key": "1.7.0.0", "asn": "AS9583", "domain": "sifycorp.com", "name": "Sify Limited", "type": "isp", "country": "IN"}
-{"start_ip": "1.7.142.0", "end_ip": "1.7.142.255", "join_key": "1.7.0.0", "asn": "AS132215", "domain": "powergrid.in", "name": "Powergrid Teleservices Limited", "type": "isp", "country": "IN"}
+{"start_ip": "1.7.142.0", "end_ip": "1.7.142.255", "join_key": "1.7.0.0", "asn": "AS132215", "domain": "powergrid.in", "name": "Powergrid Teleservices Limited", "type": "hosting", "country": "IN"}
 {"start_ip": "1.7.143.0", "end_ip": "1.7.150.255", "join_key": "1.7.0.0", "asn": "AS9583", "domain": "sifycorp.com", "name": "Sify Limited", "type": "isp", "country": "IN"}
-{"start_ip": "1.7.151.0", "end_ip": "1.7.151.255", "join_key": "1.7.0.0", "asn": "AS132215", "domain": "powergrid.in", "name": "Powergrid Teleservices Limited", "type": "isp", "country": "IN"}
+{"start_ip": "1.7.151.0", "end_ip": "1.7.151.255", "join_key": "1.7.0.0", "asn": "AS132215", "domain": "powergrid.in", "name": "Powergrid Teleservices Limited", "type": "hosting", "country": "IN"}
 {"start_ip": "1.7.152.0", "end_ip": "1.7.160.255", "join_key": "1.7.0.0", "asn": "AS9583", "domain": "sifycorp.com", "name": "Sify Limited", "type": "isp", "country": "IN"}
-{"start_ip": "1.7.161.0", "end_ip": "1.7.162.255", "join_key": "1.7.0.0", "asn": "AS132215", "domain": "powergrid.in", "name": "Powergrid Teleservices Limited", "type": "isp", "country": "IN"}
+{"start_ip": "1.7.161.0", "end_ip": "1.7.162.255", "join_key": "1.7.0.0", "asn": "AS132215", "domain": "powergrid.in", "name": "Powergrid Teleservices Limited", "type": "hosting", "country": "IN"}
 {"start_ip": "1.7.163.0", "end_ip": "1.7.179.255", "join_key": "1.7.0.0", "asn": "AS9583", "domain": "sifycorp.com", "name": "Sify Limited", "type": "isp", "country": "IN"}
-{"start_ip": "1.7.180.0", "end_ip": "1.7.180.255", "join_key": "1.7.0.0", "asn": "AS132215", "domain": "powergrid.in", "name": "Powergrid Teleservices Limited", "type": "isp", "country": "IN"}
+{"start_ip": "1.7.180.0", "end_ip": "1.7.180.255", "join_key": "1.7.0.0", "asn": "AS132215", "domain": "powergrid.in", "name": "Powergrid Teleservices Limited", "type": "hosting", "country": "IN"}
 {"start_ip": "1.7.181.0", "end_ip": "1.7.199.255", "join_key": "1.7.0.0", "asn": "AS9583", "domain": "sifycorp.com", "name": "Sify Limited", "type": "isp", "country": "IN"}
-{"start_ip": "1.7.200.0", "end_ip": "1.7.202.255", "join_key": "1.7.0.0", "asn": "AS132215", "domain": "powergrid.in", "name": "Powergrid Teleservices Limited", "type": "isp", "country": "IN"}
+{"start_ip": "1.7.200.0", "end_ip": "1.7.202.255", "join_key": "1.7.0.0", "asn": "AS132215", "domain": "powergrid.in", "name": "Powergrid Teleservices Limited", "type": "hosting", "country": "IN"}
 {"start_ip": "1.7.204.0", "end_ip": "1.7.224.255", "join_key": "1.7.0.0", "asn": "AS9583", "domain": "sifycorp.com", "name": "Sify Limited", "type": "isp", "country": "IN"}
 {"start_ip": "1.7.225.0", "end_ip": "1.7.225.255", "join_key": "1.7.0.0", "asn": "AS396421", "domain": "paloaltonetworks.com", "name": "PALO ALTO NETWORKS", "type": "business", "country": "US"}
 {"start_ip": "1.7.226.0", "end_ip": "1.7.245.255", "join_key": "1.7.0.0", "asn": "AS9583", "domain": "sifycorp.com", "name": "Sify Limited", "type": "isp", "country": "IN"}
@@ -69,8 +69,8 @@
 {"start_ip": "1.18.116.0", "end_ip": "1.18.116.255", "join_key": "1.18.0.0", "asn": "AS131098", "domain": "", "name": "Korea Internet Security Agency", "type": "business", "country": "KR"}
 {"start_ip": "1.18.118.0", "end_ip": "1.18.118.255", "join_key": "1.18.0.0", "asn": "AS131099", "domain": "", "name": "Korea Internet Security Agency", "type": "business", "country": "KR"}
 {"start_ip": "1.18.119.0", "end_ip": "1.18.119.255", "join_key": "1.18.0.0", "asn": "AS131100", "domain": "", "name": "Korea Internet Security Agency", "type": "business", "country": "KR"}
-{"start_ip": "1.18.123.0", "end_ip": "1.18.123.255", "join_key": "1.18.0.0", "asn": "AS23599", "domain": "", "name": "Korea Internet Security Agency", "type": "business", "country": "KR"}
-{"start_ip": "1.18.125.0", "end_ip": "1.18.126.255", "join_key": "1.18.0.0", "asn": "AS23599", "domain": "", "name": "Korea Internet Security Agency", "type": "business", "country": "KR"}
+{"start_ip": "1.18.123.0", "end_ip": "1.18.123.255", "join_key": "1.18.0.0", "asn": "AS23599", "domain": "", "name": "Korea Internet Security Agency", "type": "hosting", "country": "KR"}
+{"start_ip": "1.18.125.0", "end_ip": "1.18.126.255", "join_key": "1.18.0.0", "asn": "AS23599", "domain": "", "name": "Korea Internet Security Agency", "type": "hosting", "country": "KR"}
 {"start_ip": "1.18.127.0", "end_ip": "1.18.130.255", "join_key": "1.18.0.0", "asn": "AS23596", "domain": "", "name": "Korea Internet Security Agency", "type": "business", "country": "KR"}
 {"start_ip": "1.18.132.0", "end_ip": "1.18.135.255", "join_key": "1.18.0.0", "asn": "AS23600", "domain": "", "name": "Korea Internet Security Agency", "type": "hosting", "country": "KR"}
 {"start_ip": "1.20.0.0", "end_ip": "1.20.66.255", "join_key": "1.20.0.0", "asn": "AS56120", "domain": "totidc.net", "name": "TOT Public Company Limited", "type": "isp", "country": "TH"}

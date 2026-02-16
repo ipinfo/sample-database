@@ -1,20 +1,13 @@
 network,city,region,region_code,country,country_code,continent,continent_code,latitude,longitude,timezone,postal_code,asn,as_name,as_domain,as_type,is_anonymous,is_anycast,is_hosting,is_mobile,is_satellite
-1.0.0.0/31,Brisbane,Queensland,QLD,Australia,AU,Oceania,OC,-27.48159,153.0175,Australia/Brisbane,4101,AS13335,"Cloudflare, Inc.",cloudflare.com,hosting,false,true,true,false,false
-1.0.0.2,Brisbane,Queensland,QLD,Australia,AU,Oceania,OC,-27.48159,153.0175,Australia/Brisbane,4101,AS13335,"Cloudflare, Inc.",cloudflare.com,hosting,true,true,true,false,false
-1.0.0.3,Brisbane,Queensland,QLD,Australia,AU,Oceania,OC,-27.48159,153.0175,Australia/Brisbane,4101,AS13335,"Cloudflare, Inc.",cloudflare.com,hosting,false,true,true,false,false
-1.0.0.4/30,Brisbane,Queensland,QLD,Australia,AU,Oceania,OC,-27.48159,153.0175,Australia/Brisbane,4101,AS13335,"Cloudflare, Inc.",cloudflare.com,hosting,false,true,true,false,false
-1.0.0.8/29,Brisbane,Queensland,QLD,Australia,AU,Oceania,OC,-27.48159,153.0175,Australia/Brisbane,4101,AS13335,"Cloudflare, Inc.",cloudflare.com,hosting,false,true,true,false,false
-1.0.0.16/28,Brisbane,Queensland,QLD,Australia,AU,Oceania,OC,-27.48159,153.0175,Australia/Brisbane,4101,AS13335,"Cloudflare, Inc.",cloudflare.com,hosting,false,true,true,false,false
-1.0.0.32/27,Brisbane,Queensland,QLD,Australia,AU,Oceania,OC,-27.48159,153.0175,Australia/Brisbane,4101,AS13335,"Cloudflare, Inc.",cloudflare.com,hosting,false,true,true,false,false
-1.0.0.64/26,Brisbane,Queensland,QLD,Australia,AU,Oceania,OC,-27.48159,153.0175,Australia/Brisbane,4101,AS13335,"Cloudflare, Inc.",cloudflare.com,hosting,false,true,true,false,false
-1.0.0.128/27,Brisbane,Queensland,QLD,Australia,AU,Oceania,OC,-27.48159,153.0175,Australia/Brisbane,4101,AS13335,"Cloudflare, Inc.",cloudflare.com,hosting,false,true,true,false,false
-1.0.0.160/28,Brisbane,Queensland,QLD,Australia,AU,Oceania,OC,-27.48159,153.0175,Australia/Brisbane,4101,AS13335,"Cloudflare, Inc.",cloudflare.com,hosting,false,true,true,false,false
-1.0.0.176/29,Brisbane,Queensland,QLD,Australia,AU,Oceania,OC,-27.48159,153.0175,Australia/Brisbane,4101,AS13335,"Cloudflare, Inc.",cloudflare.com,hosting,false,true,true,false,false
-1.0.0.184/31,Brisbane,Queensland,QLD,Australia,AU,Oceania,OC,-27.48159,153.0175,Australia/Brisbane,4101,AS13335,"Cloudflare, Inc.",cloudflare.com,hosting,false,true,true,false,false
-1.0.0.186,Brisbane,Queensland,QLD,Australia,AU,Oceania,OC,-27.48159,153.0175,Australia/Brisbane,4101,AS13335,"Cloudflare, Inc.",cloudflare.com,hosting,false,true,true,false,false
-1.0.0.187,Brisbane,Queensland,QLD,Australia,AU,Oceania,OC,-27.48159,153.0175,Australia/Brisbane,4101,AS13335,"Cloudflare, Inc.",cloudflare.com,hosting,true,true,true,false,false
-1.0.0.188/30,Brisbane,Queensland,QLD,Australia,AU,Oceania,OC,-27.48159,153.0175,Australia/Brisbane,4101,AS13335,"Cloudflare, Inc.",cloudflare.com,hosting,false,true,true,false,false
-1.0.0.192/26,Brisbane,Queensland,QLD,Australia,AU,Oceania,OC,-27.48159,153.0175,Australia/Brisbane,4101,AS13335,"Cloudflare, Inc.",cloudflare.com,hosting,false,true,true,false,false
+1.0.0.0/31,Sydney,New South Wales,NSW,Australia,AU,Oceania,OC,-33.86785,151.20732,Australia/Sydney,1001,AS13335,"Cloudflare, Inc.",cloudflare.com,hosting,false,true,true,false,false
+1.0.0.2,Sydney,New South Wales,NSW,Australia,AU,Oceania,OC,-33.86785,151.20732,Australia/Sydney,1001,AS13335,"Cloudflare, Inc.",cloudflare.com,hosting,true,true,true,false,false
+1.0.0.3,Sydney,New South Wales,NSW,Australia,AU,Oceania,OC,-33.86785,151.20732,Australia/Sydney,1001,AS13335,"Cloudflare, Inc.",cloudflare.com,hosting,false,true,true,false,false
+1.0.0.4/30,Sydney,New South Wales,NSW,Australia,AU,Oceania,OC,-33.86785,151.20732,Australia/Sydney,1001,AS13335,"Cloudflare, Inc.",cloudflare.com,hosting,false,true,true,false,false
+1.0.0.8/29,Sydney,New South Wales,NSW,Australia,AU,Oceania,OC,-33.86785,151.20732,Australia/Sydney,1001,AS13335,"Cloudflare, Inc.",cloudflare.com,hosting,false,true,true,false,false
+1.0.0.16/28,Sydney,New South Wales,NSW,Australia,AU,Oceania,OC,-33.86785,151.20732,Australia/Sydney,1001,AS13335,"Cloudflare, Inc.",cloudflare.com,hosting,false,true,true,false,false
+1.0.0.32/27,Sydney,New South Wales,NSW,Australia,AU,Oceania,OC,-33.86785,151.20732,Australia/Sydney,1001,AS13335,"Cloudflare, Inc.",cloudflare.com,hosting,false,true,true,false,false
+1.0.0.64/26,Sydney,New South Wales,NSW,Australia,AU,Oceania,OC,-33.86785,151.20732,Australia/Sydney,1001,AS13335,"Cloudflare, Inc.",cloudflare.com,hosting,false,true,true,false,false
+1.0.0.128/25,Sydney,New South Wales,NSW,Australia,AU,Oceania,OC,-33.86785,151.20732,Australia/Sydney,1001,AS13335,"Cloudflare, Inc.",cloudflare.com,hosting,false,true,true,false,false
 1.0.1.0/24,Xiamen,Fujian,FJ,China,CN,Asia,AS,24.47979,118.08187,Asia/Shanghai,361000,,,,,false,false,false,false,false
 1.0.2.0/23,Xiamen,Fujian,FJ,China,CN,Asia,AS,24.47979,118.08187,Asia/Shanghai,361000,,,,,false,false,false,false,false
 1.0.4.0/23,Melbourne,Victoria,VIC,Australia,AU,Oceania,OC,-37.814,144.96332,Australia/Melbourne,3000,AS38803,Gtelecom Pty Ltd,gtelecom.com.au,isp,false,false,false,false,false
@@ -51,7 +44,12 @@ network,city,region,region_code,country,country_code,continent,continent_code,la
 1.0.24.0/21,Asagaya-minami,Tokyo,13,Japan,JP,Asia,AS,35.70206,139.63745,Asia/Tokyo,166-0000,,,,,false,false,false,false,false
 1.0.32.0/19,Shenzhen,Guangdong,GD,China,CN,Asia,AS,22.54554,114.0683,Asia/Shanghai,518000,,,,,false,false,false,false,false
 1.0.64.0/25,Hiroshima,Hiroshima,34,Japan,JP,Asia,AS,34.4,132.45,Asia/Tokyo,730-0011,AS18144,"Enecom,Inc.",enecom.co.jp,business,false,false,false,false,false
-1.0.64.128/27,Hiroshima,Hiroshima,34,Japan,JP,Asia,AS,34.4,132.45,Asia/Tokyo,730-0011,AS18144,"Enecom,Inc.",enecom.co.jp,business,false,false,false,false,false
+1.0.64.128,Hiroshima,Hiroshima,34,Japan,JP,Asia,AS,34.4,132.45,Asia/Tokyo,730-0011,AS18144,"Enecom,Inc.",enecom.co.jp,business,true,false,false,false,false
+1.0.64.129,Hiroshima,Hiroshima,34,Japan,JP,Asia,AS,34.4,132.45,Asia/Tokyo,730-0011,AS18144,"Enecom,Inc.",enecom.co.jp,business,false,false,false,false,false
+1.0.64.130/31,Hiroshima,Hiroshima,34,Japan,JP,Asia,AS,34.4,132.45,Asia/Tokyo,730-0011,AS18144,"Enecom,Inc.",enecom.co.jp,business,false,false,false,false,false
+1.0.64.132/30,Hiroshima,Hiroshima,34,Japan,JP,Asia,AS,34.4,132.45,Asia/Tokyo,730-0011,AS18144,"Enecom,Inc.",enecom.co.jp,business,false,false,false,false,false
+1.0.64.136/29,Hiroshima,Hiroshima,34,Japan,JP,Asia,AS,34.4,132.45,Asia/Tokyo,730-0011,AS18144,"Enecom,Inc.",enecom.co.jp,business,false,false,false,false,false
+1.0.64.144/28,Hiroshima,Hiroshima,34,Japan,JP,Asia,AS,34.4,132.45,Asia/Tokyo,730-0011,AS18144,"Enecom,Inc.",enecom.co.jp,business,false,false,false,false,false
 1.0.64.160/28,Hiroshima,Hiroshima,34,Japan,JP,Asia,AS,34.4,132.45,Asia/Tokyo,730-0011,AS18144,"Enecom,Inc.",enecom.co.jp,business,false,false,false,false,false
 1.0.64.176/30,Hiroshima,Hiroshima,34,Japan,JP,Asia,AS,34.4,132.45,Asia/Tokyo,730-0011,AS18144,"Enecom,Inc.",enecom.co.jp,business,false,false,false,false,false
 1.0.64.180,Hiroshima,Hiroshima,34,Japan,JP,Asia,AS,34.4,132.45,Asia/Tokyo,730-0011,AS18144,"Enecom,Inc.",enecom.co.jp,business,false,false,false,false,false
@@ -92,10 +90,12 @@ network,city,region,region_code,country,country_code,continent,continent_code,la
 1.0.67.168/29,Hiroshima,Hiroshima,34,Japan,JP,Asia,AS,34.4,132.45,Asia/Tokyo,730-0011,AS18144,"Enecom,Inc.",enecom.co.jp,business,false,false,false,false,false
 1.0.67.176/28,Hiroshima,Hiroshima,34,Japan,JP,Asia,AS,34.4,132.45,Asia/Tokyo,730-0011,AS18144,"Enecom,Inc.",enecom.co.jp,business,false,false,false,false,false
 1.0.67.192/26,Hiroshima,Hiroshima,34,Japan,JP,Asia,AS,34.4,132.45,Asia/Tokyo,730-0011,AS18144,"Enecom,Inc.",enecom.co.jp,business,false,false,false,false,false
-1.0.68.0/23,Hiroshima,Hiroshima,34,Japan,JP,Asia,AS,34.4,132.45,Asia/Tokyo,730-0011,AS18144,"Enecom,Inc.",enecom.co.jp,business,false,false,false,false,false
-1.0.70.0/25,Hiroshima,Hiroshima,34,Japan,JP,Asia,AS,34.4,132.45,Asia/Tokyo,730-0011,AS18144,"Enecom,Inc.",enecom.co.jp,business,false,false,false,false,false
-1.0.70.128/27,Hiroshima,Hiroshima,34,Japan,JP,Asia,AS,34.4,132.45,Asia/Tokyo,730-0011,AS18144,"Enecom,Inc.",enecom.co.jp,business,false,false,false,false,false
-1.0.70.160/28,Hiroshima,Hiroshima,34,Japan,JP,Asia,AS,34.4,132.45,Asia/Tokyo,730-0011,AS18144,"Enecom,Inc.",enecom.co.jp,business,false,false,false,false,false
-1.0.70.176/29,Hiroshima,Hiroshima,34,Japan,JP,Asia,AS,34.4,132.45,Asia/Tokyo,730-0011,AS18144,"Enecom,Inc.",enecom.co.jp,business,false,false,false,false,false
-1.0.70.184/31,Hiroshima,Hiroshima,34,Japan,JP,Asia,AS,34.4,132.45,Asia/Tokyo,730-0011,AS18144,"Enecom,Inc.",enecom.co.jp,business,false,false,false,false,false
-1.0.70.186,Hiroshima,Hiroshima,34,Japan,JP,Asia,AS,34.4,132.45,Asia/Tokyo,730-0011,AS18144,"Enecom,Inc.",enecom.co.jp,business,false,false,false,false,false
+1.0.68.0/24,Hiroshima,Hiroshima,34,Japan,JP,Asia,AS,34.4,132.45,Asia/Tokyo,730-0011,AS18144,"Enecom,Inc.",enecom.co.jp,business,false,false,false,false,false
+1.0.69.0/28,Hiroshima,Hiroshima,34,Japan,JP,Asia,AS,34.4,132.45,Asia/Tokyo,730-0011,AS18144,"Enecom,Inc.",enecom.co.jp,business,false,false,false,false,false
+1.0.69.16/30,Hiroshima,Hiroshima,34,Japan,JP,Asia,AS,34.4,132.45,Asia/Tokyo,730-0011,AS18144,"Enecom,Inc.",enecom.co.jp,business,false,false,false,false,false
+1.0.69.20,Hiroshima,Hiroshima,34,Japan,JP,Asia,AS,34.4,132.45,Asia/Tokyo,730-0011,AS18144,"Enecom,Inc.",enecom.co.jp,business,true,false,false,false,false
+1.0.69.21,Hiroshima,Hiroshima,34,Japan,JP,Asia,AS,34.4,132.45,Asia/Tokyo,730-0011,AS18144,"Enecom,Inc.",enecom.co.jp,business,false,false,false,false,false
+1.0.69.22/31,Hiroshima,Hiroshima,34,Japan,JP,Asia,AS,34.4,132.45,Asia/Tokyo,730-0011,AS18144,"Enecom,Inc.",enecom.co.jp,business,false,false,false,false,false
+1.0.69.24/29,Hiroshima,Hiroshima,34,Japan,JP,Asia,AS,34.4,132.45,Asia/Tokyo,730-0011,AS18144,"Enecom,Inc.",enecom.co.jp,business,false,false,false,false,false
+1.0.69.32/27,Hiroshima,Hiroshima,34,Japan,JP,Asia,AS,34.4,132.45,Asia/Tokyo,730-0011,AS18144,"Enecom,Inc.",enecom.co.jp,business,false,false,false,false,false
+1.0.69.64/26,Hiroshima,Hiroshima,34,Japan,JP,Asia,AS,34.4,132.45,Asia/Tokyo,730-0011,AS18144,"Enecom,Inc.",enecom.co.jp,business,false,false,false,false,false

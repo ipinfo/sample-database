@@ -77,7 +77,7 @@ start_ip,end_ip,join_key,name,email,address,country,phone
 1.30.0.0,1.30.255.255,1.30.0.0,ABUSE CUCN,zhaoyz3@chinaunicom.cn,"No.21,Financial Street, Beijing,100033, P.R.China",CN,+000000000
 1.31.0.0,1.31.255.255,1.31.0.0,ABUSE CUCN,zhaoyz3@chinaunicom.cn,"No.21,Financial Street, Beijing,100033, P.R.China",CN,+000000000
 1.32.0.0,1.32.127.255,1.32.0.0,ABUSE MYWEBE,abuse@tm.com.my,"Menara TM, Jalan Pantai Baharu,, 59100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",MY,+601110001000
-1.32.128.0,1.32.191.255,1.32.0.0,ABUSE CONNECTPLUSSG1,rajeshm@singtel.com,"31 Exeter Road,, # 04-00 Comcentre,, Singapore 239732",SG,+000000000
+1.32.128.0,1.32.191.255,1.32.0.0,ABUSE CONNECTPLUSSG1,rajeshm@singtel.com,"31 Exeter Road,, Singapore 239732",SG,+000000000
 1.32.192.0,1.32.199.255,1.32.0.0,ABUSE RCPLSG,abuse@bgp.net,"399 Chai Wan Road, Chai Wan, Hong Kong",HK,+000000000
 1.32.200.0,1.32.201.255,1.32.0.0,ABUSE BGPNLHK,abuse@bgp.net,"399 Chai Wan Road, Chai Wan, Hong Kong",HK,+000000000
 1.32.202.0,1.32.202.127,1.32.0.0,ABUSE RCPLSG,abuse@bgp.net,"6F-5, No.64, Minzu Rd, Central Dist, Taichung City 400, Taiwan",TW,+000000000

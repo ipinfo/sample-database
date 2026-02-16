@@ -40,11 +40,11 @@ start_ip,end_ip,join_key,name,domain,type,asn,as_name,as_domain,as_type,country
 1.6.70.154,1.6.70.155,1.6.0.0,LITMUS7 SYSTEMS CONSULTING PVT LTD,litmus7.com,business,AS9583,Sify Limited,sifycorp.com,isp,IN
 1.6.70.156,1.6.255.255,1.6.0.0,Sify Limited,sifytechnologies.com,isp,AS9583,Sify Limited,sifycorp.com,isp,IN
 1.7.0.0,1.7.255.255,1.7.0.0,Sify Limited,sifytechnologies.com,isp,AS9583,Sify Limited,sifycorp.com,isp,IN
-1.8.0.0,1.8.17.255,1.8.0.0,"KNET Techonlogy (BeiJing) Co.,Ltd.",knet.cn,hosting,AS38345,Internet Domain Name System Beijing Engineering Resrarch Center Ltd.,knet.cn,business,CN
+1.8.0.0,1.8.17.255,1.8.0.0,"KNET Techonlogy (BeiJing) Co.,Ltd.",knet.cn,hosting,AS38345,Internet Domain Name System Beijing Engineering Resrarch Center Ltd.,knet.cn,hosting,CN
 1.8.18.0,1.8.18.255,1.8.0.0,Internet Domain Name System Beijing Engineering Resrarch Center Ltd.,knet.cn,business,,,,,CN
 1.8.19.0,1.8.255.255,1.8.0.0,"KNET Techonlogy (BeiJing) Co.,Ltd.",knet.cn,business,,,,,CN
 1.9.0.0,1.9.0.127,1.9.0.0,TM TECHNOLOGY SERVICES SDN. BHD.,tm.com.my,isp,AS4788,TM TECHNOLOGY SERVICES SDN. BHD.,tm.com.my,isp,MY
-1.9.0.128,1.9.0.159,1.9.0.0,mollogistics kelana jaya,mol-logistics.com.my,isp,AS4788,TM TECHNOLOGY SERVICES SDN. BHD.,tm.com.my,isp,MY
+1.9.0.128,1.9.0.159,1.9.0.0,mollogistics kelana jaya,mol-logistics.com.my,business,AS4788,TM TECHNOLOGY SERVICES SDN. BHD.,tm.com.my,isp,MY
 1.9.0.160,1.9.1.255,1.9.0.0,TM TECHNOLOGY SERVICES SDN. BHD.,tm.com.my,isp,AS4788,TM TECHNOLOGY SERVICES SDN. BHD.,tm.com.my,isp,MY
 1.9.2.0,1.9.2.255,1.9.0.0,Kementerian Pengajian Tinggi Malaysia,myren.net.my,education,AS4788,TM TECHNOLOGY SERVICES SDN. BHD.,tm.com.my,isp,MY
 1.9.3.0,1.9.11.255,1.9.0.0,TM TECHNOLOGY SERVICES SDN. BHD.,tm.com.my,isp,AS4788,TM TECHNOLOGY SERVICES SDN. BHD.,tm.com.my,isp,MY
@@ -61,7 +61,7 @@ start_ip,end_ip,join_key,name,domain,type,asn,as_name,as_domain,as_type,country
 1.9.56.0,1.9.67.143,1.9.0.0,TM TECHNOLOGY SERVICES SDN. BHD.,tm.com.my,isp,AS4788,TM TECHNOLOGY SERVICES SDN. BHD.,tm.com.my,isp,MY
 1.9.67.144,1.9.67.159,1.9.0.0,VITROX TECHNOLOGIES SDN BHD,uniten.edu.my,education,AS4788,TM TECHNOLOGY SERVICES SDN. BHD.,tm.com.my,isp,MY
 1.9.67.160,1.9.70.127,1.9.0.0,TM TECHNOLOGY SERVICES SDN. BHD.,tm.com.my,isp,AS4788,TM TECHNOLOGY SERVICES SDN. BHD.,tm.com.my,isp,MY
-1.9.70.128,1.9.70.143,1.9.0.0,Muda Paper Mills Sdn. Bhd.,mpmsb.com,isp,AS4788,TM TECHNOLOGY SERVICES SDN. BHD.,tm.com.my,isp,MY
+1.9.70.128,1.9.70.143,1.9.0.0,Muda Paper Mills Sdn. Bhd.,mpmsb.com,business,AS4788,TM TECHNOLOGY SERVICES SDN. BHD.,tm.com.my,isp,MY
 1.9.70.144,1.9.95.255,1.9.0.0,TM TECHNOLOGY SERVICES SDN. BHD.,tm.com.my,isp,AS4788,TM TECHNOLOGY SERVICES SDN. BHD.,tm.com.my,isp,MY
 1.9.96.0,1.9.97.255,1.9.0.0,LSN STREAMYX-KO,tm.com.my,isp,AS4788,TM TECHNOLOGY SERVICES SDN. BHD.,tm.com.my,isp,MY
 1.9.98.0,1.9.99.255,1.9.0.0,LSN STREAMYX-TL,tm.com.my,isp,AS4788,TM TECHNOLOGY SERVICES SDN. BHD.,tm.com.my,isp,MY
@@ -94,7 +94,7 @@ start_ip,end_ip,join_key,name,domain,type,asn,as_name,as_domain,as_type,country
 1.9.206.0,1.9.255.255,1.9.0.0,TM TECHNOLOGY SERVICES SDN. BHD.,tm.com.my,isp,AS4788,TM TECHNOLOGY SERVICES SDN. BHD.,tm.com.my,isp,MY
 1.10.0.0,1.10.7.255,1.10.0.0,CHINANET Guangdong province network,chinatelecom.cn,isp,,,,,CN
 1.10.8.0,1.10.9.255,1.10.0.0,CHINANET FUJIAN PROVINCE NETWORK,chinatelecom.cn,isp,,,,,CN
-1.10.10.0,1.10.10.255,1.10.0.0,National Internet Exchange of India,nixi.in,isp,AS148000,BHARAT PUBLIC DNS (1.10.10.10),dns.nic.in,hosting,IN
+1.10.10.0,1.10.10.255,1.10.0.0,National Internet Exchange of India,nixi.in,isp,AS148000,BHARAT PUBLIC DNS (1.10.10.10),dns.nic.in,isp,IN
 1.10.11.0,1.10.15.255,1.10.0.0,CHINANET FUJIAN PROVINCE NETWORK,chinatelecom.cn,isp,,,,,CN
 1.10.16.0,1.10.127.255,1.10.0.0,CHINANET Guangdong province network,chinatelecom.cn,isp,,,,,CN
 1.10.128.0,1.10.139.255,1.10.0.0,Shared Dynamic IP Address for Residential Broadband Services,totbb.net,isp,AS23969,TOT Public Company Limited,ntplc.co.th,isp,TH

@@ -15,9 +15,9 @@ start_ip,end_ip,join_key,asn,domain,name,type,country
 1.4.128.0,1.4.255.255,1.4.0.0,AS23969,ntplc.co.th,TOT Public Company Limited,isp,TH
 1.5.0.0,1.5.255.255,1.5.0.0,AS4725,softbank.jp,SoftBank Corp.,isp,JP
 1.6.0.0,1.6.135.255,1.6.0.0,AS9583,sifycorp.com,Sify Limited,isp,IN
-1.6.136.0,1.6.136.255,1.6.0.0,AS132215,powergrid.in,Powergrid Teleservices Limited,isp,IN
+1.6.136.0,1.6.136.255,1.6.0.0,AS132215,powergrid.in,Powergrid Teleservices Limited,hosting,IN
 1.6.137.0,1.6.225.255,1.6.0.0,AS9583,sifycorp.com,Sify Limited,isp,IN
-1.6.226.0,1.6.228.255,1.6.0.0,AS132215,powergrid.in,Powergrid Teleservices Limited,isp,IN
+1.6.226.0,1.6.228.255,1.6.0.0,AS132215,powergrid.in,Powergrid Teleservices Limited,hosting,IN
 1.6.229.0,1.6.230.255,1.6.0.0,AS4755,tatacommunications.com,TATA Communications formerly VSNL is Leading ISP,isp,IN
 1.6.231.0,1.6.255.255,1.6.0.0,AS9583,sifycorp.com,Sify Limited,isp,IN
 1.7.0.0,1.7.0.255,1.7.0.0,AS9583,sifycorp.com,Sify Limited,isp,IN
@@ -27,15 +27,15 @@ start_ip,end_ip,join_key,asn,domain,name,type,country
 1.7.60.0,1.7.61.255,1.7.0.0,AS9583,sifycorp.com,Sify Limited,isp,IN
 1.7.81.0,1.7.108.255,1.7.0.0,AS9583,sifycorp.com,Sify Limited,isp,IN
 1.7.128.0,1.7.141.255,1.7.0.0,AS9583,sifycorp.com,Sify Limited,isp,IN
-1.7.142.0,1.7.142.255,1.7.0.0,AS132215,powergrid.in,Powergrid Teleservices Limited,isp,IN
+1.7.142.0,1.7.142.255,1.7.0.0,AS132215,powergrid.in,Powergrid Teleservices Limited,hosting,IN
 1.7.143.0,1.7.150.255,1.7.0.0,AS9583,sifycorp.com,Sify Limited,isp,IN
-1.7.151.0,1.7.151.255,1.7.0.0,AS132215,powergrid.in,Powergrid Teleservices Limited,isp,IN
+1.7.151.0,1.7.151.255,1.7.0.0,AS132215,powergrid.in,Powergrid Teleservices Limited,hosting,IN
 1.7.152.0,1.7.160.255,1.7.0.0,AS9583,sifycorp.com,Sify Limited,isp,IN
-1.7.161.0,1.7.162.255,1.7.0.0,AS132215,powergrid.in,Powergrid Teleservices Limited,isp,IN
+1.7.161.0,1.7.162.255,1.7.0.0,AS132215,powergrid.in,Powergrid Teleservices Limited,hosting,IN
 1.7.163.0,1.7.179.255,1.7.0.0,AS9583,sifycorp.com,Sify Limited,isp,IN
-1.7.180.0,1.7.180.255,1.7.0.0,AS132215,powergrid.in,Powergrid Teleservices Limited,isp,IN
+1.7.180.0,1.7.180.255,1.7.0.0,AS132215,powergrid.in,Powergrid Teleservices Limited,hosting,IN
 1.7.181.0,1.7.199.255,1.7.0.0,AS9583,sifycorp.com,Sify Limited,isp,IN
-1.7.200.0,1.7.202.255,1.7.0.0,AS132215,powergrid.in,Powergrid Teleservices Limited,isp,IN
+1.7.200.0,1.7.202.255,1.7.0.0,AS132215,powergrid.in,Powergrid Teleservices Limited,hosting,IN
 1.7.204.0,1.7.224.255,1.7.0.0,AS9583,sifycorp.com,Sify Limited,isp,IN
 1.7.225.0,1.7.225.255,1.7.0.0,AS396421,paloaltonetworks.com,PALO ALTO NETWORKS,business,US
 1.7.226.0,1.7.245.255,1.7.0.0,AS9583,sifycorp.com,Sify Limited,isp,IN
@@ -70,8 +70,8 @@ start_ip,end_ip,join_key,asn,domain,name,type,country
 1.18.116.0,1.18.116.255,1.18.0.0,AS131098,,Korea Internet Security Agency,business,KR
 1.18.118.0,1.18.118.255,1.18.0.0,AS131099,,Korea Internet Security Agency,business,KR
 1.18.119.0,1.18.119.255,1.18.0.0,AS131100,,Korea Internet Security Agency,business,KR
-1.18.123.0,1.18.123.255,1.18.0.0,AS23599,,Korea Internet Security Agency,business,KR
-1.18.125.0,1.18.126.255,1.18.0.0,AS23599,,Korea Internet Security Agency,business,KR
+1.18.123.0,1.18.123.255,1.18.0.0,AS23599,,Korea Internet Security Agency,hosting,KR
+1.18.125.0,1.18.126.255,1.18.0.0,AS23599,,Korea Internet Security Agency,hosting,KR
 1.18.127.0,1.18.130.255,1.18.0.0,AS23596,,Korea Internet Security Agency,business,KR
 1.18.132.0,1.18.135.255,1.18.0.0,AS23600,,Korea Internet Security Agency,hosting,KR
 1.20.0.0,1.20.66.255,1.20.0.0,AS56120,totidc.net,TOT Public Company Limited,isp,TH

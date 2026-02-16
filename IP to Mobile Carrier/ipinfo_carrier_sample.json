@@ -1,31 +1,9 @@
-{"network": "1.9.0.0/24", "name": "unifi", "country": "MY", "mcc": "502", "mnc": "153"}
-{"network": "1.9.40.0/24", "name": "unifi", "country": "MY", "mcc": "502", "mnc": "153"}
-{"network": "1.9.70.0/24", "name": "unifi", "country": "MY", "mcc": "502", "mnc": "153"}
-{"network": "1.9.72.0/24", "name": "unifi", "country": "MY", "mcc": "502", "mnc": "153"}
-{"network": "1.9.74.0/24", "name": "unifi", "country": "MY", "mcc": "502", "mnc": "153"}
-{"network": "1.9.78.0/24", "name": "unifi", "country": "MY", "mcc": "502", "mnc": "153"}
-{"network": "1.9.86.0/24", "name": "unifi", "country": "MY", "mcc": "502", "mnc": "153"}
-{"network": "1.9.92.0/24", "name": "unifi", "country": "MY", "mcc": "502", "mnc": "153"}
-{"network": "1.9.103.0/24", "name": "unifi", "country": "MY", "mcc": "502", "mnc": "153"}
-{"network": "1.9.113.0/24", "name": "unifi", "country": "MY", "mcc": "502", "mnc": "153"}
-{"network": "1.9.129.0/24", "name": "unifi", "country": "MY", "mcc": "502", "mnc": "153"}
-{"network": "1.9.149.0/24", "name": "unifi", "country": "MY", "mcc": "502", "mnc": "153"}
-{"network": "1.9.156.0/24", "name": "unifi", "country": "MY", "mcc": "502", "mnc": "153"}
-{"network": "1.9.164.0/24", "name": "unifi", "country": "MY", "mcc": "502", "mnc": "153"}
-{"network": "1.9.167.0/24", "name": "unifi", "country": "MY", "mcc": "502", "mnc": "153"}
-{"network": "1.9.198.0/24", "name": "unifi", "country": "MY", "mcc": "502", "mnc": "153"}
-{"network": "1.9.200.0/23", "name": "unifi", "country": "MY", "mcc": "502", "mnc": "153"}
-{"network": "1.9.219.0/24", "name": "unifi", "country": "MY", "mcc": "502", "mnc": "153"}
-{"network": "1.9.236.0/24", "name": "unifi", "country": "MY", "mcc": "502", "mnc": "153"}
-{"network": "1.32.57.0/24", "name": "unifi", "country": "MY", "mcc": "502", "mnc": "153"}
-{"network": "1.32.97.0/24", "name": "unifi", "country": "MY", "mcc": "502", "mnc": "153"}
-{"network": "1.32.100.0/24", "name": "unifi", "country": "MY", "mcc": "502", "mnc": "153"}
-{"network": "1.32.105.0/24", "name": "unifi", "country": "MY", "mcc": "502", "mnc": "153"}
-{"network": "1.32.110.0/24", "name": "unifi", "country": "MY", "mcc": "502", "mnc": "153"}
+{"network": "1.37.0.0/24", "name": "Globe", "country": "PH", "mcc": "515", "mnc": "02"}
 {"network": "1.37.80.0/22", "name": "Globe", "country": "PH", "mcc": "515", "mnc": "02"}
+{"network": "1.37.84.0/24", "name": "Globe", "country": "PH", "mcc": "515", "mnc": "02"}
 {"network": "1.37.86.0/23", "name": "Globe", "country": "PH", "mcc": "515", "mnc": "02"}
 {"network": "1.37.88.0/23", "name": "Globe", "country": "PH", "mcc": "515", "mnc": "02"}
-{"network": "1.37.103.0/24", "name": "Globe", "country": "PH", "mcc": "515", "mnc": "02"}
+{"network": "1.37.102.0/24", "name": "Globe", "country": "PH", "mcc": "515", "mnc": "02"}
 {"network": "1.38.0.0/23", "name": "Vi India", "country": "IN", "mcc": "404", "mnc": "22"}
 {"network": "1.38.2.0/23", "name": "Vi India", "country": "IN", "mcc": "404", "mnc": "22"}
 {"network": "1.38.4.0/22", "name": "Vi India", "country": "IN", "mcc": "404", "mnc": "22"}
@@ -54,10 +32,7 @@
 {"network": "1.38.90.0/23", "name": "Vi India", "country": "IN", "mcc": "404", "mnc": "22"}
 {"network": "1.38.95.0/24", "name": "Vi India", "country": "IN", "mcc": "404", "mnc": "22"}
 {"network": "1.38.96.0/19", "name": "Vi India", "country": "IN", "mcc": "404", "mnc": "22"}
-{"network": "1.38.136.0/23", "name": "Vi India", "country": "IN", "mcc": "404", "mnc": "22"}
-{"network": "1.38.138.0/24", "name": "Vi India", "country": "IN", "mcc": "404", "mnc": "22"}
-{"network": "1.38.139.0/24", "name": "Vi India", "country": "IN", "mcc": "404", "mnc": "22"}
-{"network": "1.38.140.0/22", "name": "Vi India", "country": "IN", "mcc": "404", "mnc": "22"}
+{"network": "1.38.136.0/21", "name": "Vi India", "country": "IN", "mcc": "404", "mnc": "22"}
 {"network": "1.38.144.0/20", "name": "Vi India", "country": "IN", "mcc": "404", "mnc": "22"}
 {"network": "1.38.160.0/24", "name": "Vi India", "country": "IN", "mcc": "404", "mnc": "22"}
 {"network": "1.38.161.0/24", "name": "Vi India", "country": "IN", "mcc": "404", "mnc": "22"}
@@ -98,3 +73,28 @@
 {"network": "1.39.120.0/21", "name": "Vi India", "country": "IN", "mcc": "404", "mnc": "22"}
 {"network": "1.39.128.0/24", "name": "Vi India", "country": "IN", "mcc": "404", "mnc": "22"}
 {"network": "1.39.159.0/24", "name": "Vi India", "country": "IN", "mcc": "404", "mnc": "22"}
+{"network": "1.39.195.0/24", "name": "Vi India", "country": "IN", "mcc": "404", "mnc": "22"}
+{"network": "1.39.196.0/24", "name": "Vi India", "country": "IN", "mcc": "404", "mnc": "22"}
+{"network": "1.39.197.0/24", "name": "Vi India", "country": "IN", "mcc": "404", "mnc": "22"}
+{"network": "1.39.199.0/24", "name": "Vi India", "country": "IN", "mcc": "404", "mnc": "22"}
+{"network": "1.39.201.0/24", "name": "Vi India", "country": "IN", "mcc": "404", "mnc": "22"}
+{"network": "1.39.203.0/24", "name": "Vi India", "country": "IN", "mcc": "404", "mnc": "22"}
+{"network": "1.39.207.0/24", "name": "Vi India", "country": "IN", "mcc": "404", "mnc": "22"}
+{"network": "1.39.212.0/24", "name": "Vi India", "country": "IN", "mcc": "404", "mnc": "22"}
+{"network": "1.39.214.0/24", "name": "Vi India", "country": "IN", "mcc": "404", "mnc": "22"}
+{"network": "1.39.216.0/23", "name": "Vi India", "country": "IN", "mcc": "404", "mnc": "22"}
+{"network": "1.39.218.0/24", "name": "Vi India", "country": "IN", "mcc": "404", "mnc": "22"}
+{"network": "1.39.220.0/24", "name": "Vi India", "country": "IN", "mcc": "404", "mnc": "22"}
+{"network": "1.39.222.0/24", "name": "Vi India", "country": "IN", "mcc": "404", "mnc": "22"}
+{"network": "1.39.226.0/24", "name": "Vi India", "country": "IN", "mcc": "404", "mnc": "22"}
+{"network": "1.39.229.0/24", "name": "Vi India", "country": "IN", "mcc": "404", "mnc": "22"}
+{"network": "1.39.233.0/24", "name": "Vi India", "country": "IN", "mcc": "404", "mnc": "22"}
+{"network": "1.39.234.0/24", "name": "Vi India", "country": "IN", "mcc": "404", "mnc": "22"}
+{"network": "1.39.236.0/23", "name": "Vi India", "country": "IN", "mcc": "404", "mnc": "22"}
+{"network": "1.39.242.0/24", "name": "Vi India", "country": "IN", "mcc": "404", "mnc": "22"}
+{"network": "1.39.245.0/24", "name": "Vi India", "country": "IN", "mcc": "404", "mnc": "22"}
+{"network": "1.39.246.0/24", "name": "Vi India", "country": "IN", "mcc": "404", "mnc": "22"}
+{"network": "1.39.248.0/24", "name": "Vi India", "country": "IN", "mcc": "404", "mnc": "22"}
+{"network": "1.39.249.0/24", "name": "Vi India", "country": "IN", "mcc": "404", "mnc": "22"}
+{"network": "1.40.105.0/24", "name": "Optus", "country": "AU/CC/CX", "mcc": "505", "mnc": "02"}
+{"network": "1.46.0.0/19", "name": "dtac", "country": "TH", "mcc": "520", "mnc": "18"}
