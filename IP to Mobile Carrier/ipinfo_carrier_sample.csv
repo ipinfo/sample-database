@@ -4,6 +4,7 @@ network,name,country,mcc,mnc
 1.37.84.0/24,Globe,PH,515,02
 1.37.86.0/23,Globe,PH,515,02
 1.37.88.0/23,Globe,PH,515,02
+1.37.100.0/24,Globe,PH,515,02
 1.37.102.0/24,Globe,PH,515,02
 1.38.0.0/23,Vi India,IN,404,22
 1.38.2.0/23,Vi India,IN,404,22
@@ -22,9 +23,7 @@ network,name,country,mcc,mnc
 1.38.65.0/24,Vi India,IN,404,22
 1.38.66.0/24,Vi India,IN,404,22
 1.38.70.0/23,Vi India,IN,404,22
-1.38.72.0/23,Vi India,IN,404,22
-1.38.74.0/24,Vi India,IN,404,22
-1.38.75.0/24,Vi India,IN,404,22
+1.38.72.0/22,Vi India,IN,404,22
 1.38.76.0/23,Vi India,IN,404,22
 1.38.79.0/24,Vi India,IN,404,22
 1.38.80.0/23,Vi India,IN,404,22
@@ -35,8 +34,7 @@ network,name,country,mcc,mnc
 1.38.96.0/19,Vi India,IN,404,22
 1.38.136.0/21,Vi India,IN,404,22
 1.38.144.0/20,Vi India,IN,404,22
-1.38.160.0/24,Vi India,IN,404,22
-1.38.161.0/24,Vi India,IN,404,22
+1.38.160.0/23,Vi India,IN,404,22
 1.38.162.0/24,Vi India,IN,404,22
 1.38.163.0/24,Vi India,IN,404,22
 1.38.164.0/22,Vi India,IN,404,22
@@ -54,7 +52,7 @@ network,name,country,mcc,mnc
 1.38.244.0/23,Vi India,IN,404,22
 1.38.246.0/23,Vi India,IN,404,22
 1.39.4.0/22,Vi India,IN,404,22
-1.39.12.0/22,Vi India,IN,404,22
+1.39.8.0/21,Vi India,IN,404,22
 1.39.16.0/23,Vi India,IN,404,22
 1.39.18.0/24,Vi India,IN,404,22
 1.39.19.0/24,Vi India,IN,404,22
@@ -99,3 +97,5 @@ network,name,country,mcc,mnc
 1.39.249.0/24,Vi India,IN,404,22
 1.40.105.0/24,Optus,AU/CC/CX,505,02
 1.46.0.0/19,dtac,TH,520,18
+1.46.32.0/20,dtac,TH,520,18
+1.46.48.0/20,dtac,TH,520,18

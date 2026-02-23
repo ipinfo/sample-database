@@ -79,19 +79,17 @@ start_ip,end_ip,country,country_name,continent,continent_name,asn,as_name,as_dom
 1.9.241.230,1.9.241.230,RE,Reunion,AF,Africa,AS4788,TM TECHNOLOGY SERVICES SDN. BHD.,tm.com.my
 1.9.241.231,1.9.243.33,MY,Malaysia,AS,Asia,AS4788,TM TECHNOLOGY SERVICES SDN. BHD.,tm.com.my
 1.9.243.34,1.9.243.34,ID,Indonesia,AS,Asia,AS4788,TM TECHNOLOGY SERVICES SDN. BHD.,tm.com.my
-1.9.243.35,1.9.244.48,MY,Malaysia,AS,Asia,AS4788,TM TECHNOLOGY SERVICES SDN. BHD.,tm.com.my
+1.9.243.35,1.9.244.12,MY,Malaysia,AS,Asia,AS4788,TM TECHNOLOGY SERVICES SDN. BHD.,tm.com.my
+1.9.244.13,1.9.244.13,HK,Hong Kong,AS,Asia,AS4788,TM TECHNOLOGY SERVICES SDN. BHD.,tm.com.my
+1.9.244.14,1.9.244.48,MY,Malaysia,AS,Asia,AS4788,TM TECHNOLOGY SERVICES SDN. BHD.,tm.com.my
 1.9.244.49,1.9.244.50,HK,Hong Kong,AS,Asia,AS4788,TM TECHNOLOGY SERVICES SDN. BHD.,tm.com.my
 1.9.244.51,1.9.244.89,MY,Malaysia,AS,Asia,AS4788,TM TECHNOLOGY SERVICES SDN. BHD.,tm.com.my
 1.9.244.90,1.9.244.90,RE,Reunion,AF,Africa,AS4788,TM TECHNOLOGY SERVICES SDN. BHD.,tm.com.my
 1.9.244.91,1.9.244.144,MY,Malaysia,AS,Asia,AS4788,TM TECHNOLOGY SERVICES SDN. BHD.,tm.com.my
 1.9.244.145,1.9.244.145,LA,Laos,AS,Asia,AS4788,TM TECHNOLOGY SERVICES SDN. BHD.,tm.com.my
 1.9.244.146,1.9.249.255,MY,Malaysia,AS,Asia,AS4788,TM TECHNOLOGY SERVICES SDN. BHD.,tm.com.my
-1.9.250.0,1.9.250.3,JP,Japan,AS,Asia,AS4788,TM TECHNOLOGY SERVICES SDN. BHD.,tm.com.my
-1.9.250.4,1.9.250.4,MY,Malaysia,AS,Asia,AS4788,TM TECHNOLOGY SERVICES SDN. BHD.,tm.com.my
-1.9.250.5,1.9.250.15,JP,Japan,AS,Asia,AS4788,TM TECHNOLOGY SERVICES SDN. BHD.,tm.com.my
-1.9.250.16,1.9.253.37,MY,Malaysia,AS,Asia,AS4788,TM TECHNOLOGY SERVICES SDN. BHD.,tm.com.my
-1.9.253.38,1.9.253.38,CN,China,AS,Asia,AS4788,TM TECHNOLOGY SERVICES SDN. BHD.,tm.com.my
-1.9.253.39,1.9.255.255,MY,Malaysia,AS,Asia,AS4788,TM TECHNOLOGY SERVICES SDN. BHD.,tm.com.my
+1.9.250.0,1.9.250.31,JP,Japan,AS,Asia,AS4788,TM TECHNOLOGY SERVICES SDN. BHD.,tm.com.my
+1.9.250.32,1.9.255.255,MY,Malaysia,AS,Asia,AS4788,TM TECHNOLOGY SERVICES SDN. BHD.,tm.com.my
 1.10.0.0,1.10.9.255,CN,China,AS,Asia,,,
 1.10.10.0,1.10.10.255,IN,India,AS,Asia,AS148000,BHARAT PUBLIC DNS (1.10.10.10),dns.nic.in
 1.10.11.0,1.10.127.255,CN,China,AS,Asia,,,
@@ -99,3 +97,5 @@ start_ip,end_ip,country,country_name,continent,continent_name,asn,as_name,as_dom
 1.10.135.0,1.10.135.255,TH,Thailand,AS,Asia,AS23974,Ministry of education,moe.go.th
 1.10.136.0,1.10.255.255,TH,Thailand,AS,Asia,AS23969,TOT Public Company Limited,ntplc.co.th
 1.11.0.0,1.11.7.255,KR,South Korea,AS,Asia,AS18313,LG HelloVision Corp.,lghellovision.net
+1.11.8.0,1.11.19.255,KR,South Korea,AS,Asia,AS18318,LG HelloVision Corp.,lghellovision.net
+1.11.20.0,1.11.23.255,KR,South Korea,AS,Asia,AS38091,LG HelloVision Corp.,lghellovision.net
