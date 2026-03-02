@@ -25,9 +25,9 @@ start_ip,end_ip,country,country_name,continent,continent_name
 1.7.168.174,1.7.168.174,SG,Singapore,AS,Asia
 1.7.168.175,1.7.255.255,IN,India,AS,Asia
 1.8.0.0,1.8.255.255,CN,China,AS,Asia
-1.9.0.0,1.9.71.11,MY,Malaysia,AS,Asia
-1.9.71.12,1.9.71.13,HK,Hong Kong,AS,Asia
-1.9.71.14,1.9.241.36,MY,Malaysia,AS,Asia
+1.9.0.0,1.9.71.8,MY,Malaysia,AS,Asia
+1.9.71.9,1.9.71.14,HK,Hong Kong,AS,Asia
+1.9.71.15,1.9.241.36,MY,Malaysia,AS,Asia
 1.9.241.37,1.9.241.37,HK,Hong Kong,AS,Asia
 1.9.241.38,1.9.241.92,MY,Malaysia,AS,Asia
 1.9.241.93,1.9.241.94,HK,Hong Kong,AS,Asia
