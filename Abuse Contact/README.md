@@ -56,6 +56,7 @@ Response:
 - [CSV Database] [Abuse Contact Database Sample](/Abuse%20Contact/abuse_contact_sample.csv)
 - [JSON Database] [Abuse Contact Database Sample](/Abuse%20Contact/abuse_contact_sample.json)
 - [MMDB Database] [Abuse Contact Database Sample](/Abuse%20Contact/abuse_contact_sample.mmdb)
+- [Parquet Database] [Abuse Contact Database Sample](/Abuse%20Contact/abuse_contact_sample.parquet)
 - [API] [Abuse Contact API Response Sample](/Abuse%20Contact/abuse_contact_api_sample.json)
 
 # Guides, Resources & Links
