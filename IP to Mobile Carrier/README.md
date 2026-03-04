@@ -4,7 +4,7 @@
 
 # Database Schema & Description
 
-*[data updated as of January, 2025]*
+_[data updated as of January, 2025]_
 
 | Field Name  | Example          | Data Type | Description                                       |
 | ----------- | ---------------- | --------- | ------------------------------------------------- |
@@ -14,12 +14,12 @@
 | **mcc**     | `208`            | INTEGER   | Mobile Country Code (MCC) of the carrier          |
 | **mnc**     | `01`             | INTEGER   | Mobile Network Code (MNC) of the carrier          |
 
-
 ## Samples
 
 - [CSV Database] [IP to Mobile Carrier Database Sample](/IP%20to%20Mobile%20Carrier/ipinfo_carrier_sample.csv)
 - [JSON Database] [IP to Mobile Carrier Database Sample](/IP%20to%20Mobile%20Carrier/ipinfo_carrier_sample.json)
 - [MMDB Database] [IP to Mobile Carrier Database Sample](/IP%20to%20Mobile%20Carrier/ipinfo_carrier_sample.mmdb)
+- [Parquet Database] [IP to Mobile Carrier Database Sample](/IP%20to%20Mobile%20Carrier/ipinfo_carrier_sample.parquet)
 
 <details>
 
@@ -37,7 +37,6 @@ The `standard_carrier` data download is structured based on IP ranges (`start_ip
 | **mcc**      | `432`                                      | INTEGER   | Mobile Country Code (MCC) of the carrier                 |
 | **mnc**      | `11`                                       | INTEGER   | Mobile Network Code (MNC) of the carrier                 |
 
-
 > Includes IP range columns (`start_ip` and `end_ip`) instead of a network or CIDR based column (`network`).
 > `join_key` represents the Class C network each IP address is part of, allowing you to filter the result set significantly before `join`ing. Learn more about `join_key` [here](https://community.ipinfo.io/t/ipinfos-join-key-column-explained/5526).
 
@@ -46,6 +45,7 @@ The `standard_carrier` data download is structured based on IP ranges (`start_ip
 - [CSV Database] [IP to Mobile Carrier Database Sample](/IP%20to%20Mobile%20Carrier/ip_carrier_sample.csv)
 - [JSON Database] [IP to Mobile Carrier Database Sample](/IP%20to%20Mobile%20Carrier/ip_carrier_sample.json)
 - [MMDB Database] [IP to Mobile Carrier Database Sample](/IP%20to%20Mobile%20Carrier/ip_carrier_sample.mmdb)
+- [Parquet Database] [IP to Mobile Carrier Database Sample](/IP%20to%20Mobile%20Carrier/ip_carrier_sample.parquet)
 - [API] [IP to Mobile Carrier API Response Sample](/IP%20to%20Mobile%20Carrier/ip_carrier_api_sample.json)
 
 </details>
@@ -57,11 +57,9 @@ The `standard_carrier` data download is structured based on IP ranges (`start_ip
 - MMDB: Specialized binary database for efficient and fast IP lookups.
 - Parquet: A columnar storage file format optimized for efficient data querying.
 
-> 
 > Please refer to "[How to choose the best file format for your IPinfo database?](https://ipinfo.io/blog/ipinfo-database-formats/)" article to select the best format possible for your use case.
 >
 > The usage of the IP data downloads relies on the software or application of the data. Check out our [documentation](https://ipinfo.io/developers/database-download), [community](https://community.ipinfo.io/c/docs/8), and our [integrations](https://ipinfo.io/integrations) pages to find the best path forward.
-
 
 ## Filename references:
 
@@ -86,9 +84,9 @@ Reponse:
 
 ```json
 {
-    "name": "Algar Telecom",
-    "mcc": "724",
-    "mnc": "32"
+  "name": "Algar Telecom",
+  "mcc": "724",
+  "mnc": "32"
 }
 ```
 

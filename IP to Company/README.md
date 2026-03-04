@@ -6,10 +6,10 @@ The core dataset for the IP to Company data is the WHOIS records. We parse and m
 
 # Database Schema & Description
 
-*[data updated as of May, 2024]*
+_[data updated as of May, 2024]_
 
 | Field Name  | Example                 | Data Type | Notes                                                        |
-|-------------|-------------------------|-----------|--------------------------------------------------------------|
+| ----------- | ----------------------- | --------- | ------------------------------------------------------------ |
 | `start_ip`  | 107.136.106.168         | TEXT      | Starting IP address of an IP address range                   |
 | `end_ip`    | 107.136.106.175         | TEXT      | Ending IP address of an IP address range                     |
 | `join_key`  | 107.136.0.0             | TEXT      | Special variable to facilitate database `join` operation     |
@@ -22,9 +22,8 @@ The core dataset for the IP to Company data is the WHOIS records. We parse and m
 | `as_type`   | isp                     | TEXT      | ASN Type: ISP, Hosting, Business or Education                |
 | `country`   | US                      | TEXT      | ISO 3166 country code of the organization's location         |
 
-
 > `join_key` represents the Class C network each IP address is part of, allowing you to filter the result set significantly before `join`ing. Learn more about `join_key` [here](https://community.ipinfo.io/t/ipinfos-join-key-column-explained/5526).
-> 
+>
 > Please refer to "[How to choose the best file format for your IPinfo database?](https://ipinfo.io/blog/ipinfo-database-formats/)" article to select the best format possible for your use case.
 >
 > The usage of the IP data downloads relies on the software or application of the data. Check out our [documentation](https://ipinfo.io/developers/database-download), [community](https://community.ipinfo.io/c/docs/8), and our [integrations](https://ipinfo.io/integrations) pages to find the best path forward.
@@ -45,9 +44,9 @@ Response:
 
 ```json
 {
-    "name": "Uber Technologies, Inc",
-    "domain": "uber.com",
-    "type": "isp"
+  "name": "Uber Technologies, Inc",
+  "domain": "uber.com",
+  "type": "isp"
 }
 ```
 
@@ -60,6 +59,7 @@ Response:
 - [CSV Database] [IP to Company Database Sample](/IP%20to%20Company/ip_company_sample.csv)
 - [JSON Database] [IP to Company Database Sample](/IP%20to%20Company/ip_company_sample.json)
 - [MMDB Database] [IP to Company Database Sample](/IP%20to%20Company/ip_company_sample.mmdb)
+- [Parquet Database] [IP to Company Database Sample](/IP%20to%20Company/ip_company_sample.parquet)
 - [API] [IP to Company API Response Sample](/IP%20to%20Company/ip_company_api_sample.json)
 
 # Guides, Resources & Links

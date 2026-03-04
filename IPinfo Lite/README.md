@@ -14,7 +14,7 @@ The IPinfo Lite database is part of our [free IP data downloads offering](https:
 
 # Database Schema & Description
 
-*[data updated as of January, 2025]*
+_[data updated as of January, 2025]_
 
 | Field Name         | Example                 | Data Type | Descrption                                                             |
 | ------------------ | ----------------------- | --------- | ---------------------------------------------------------------------- |
@@ -32,6 +32,7 @@ The IPinfo Lite database is part of our [free IP data downloads offering](https:
 - [CSV Database] [IPinfo Lite Sample](/IPinfo%20Lite/ipinfo_lite_sample.csv)
 - [JSON Database] [IPinfo Lite Sample](/IPinfo%20Lite/ipinfo_lite_sample.json)
 - [MMDB Database] [IPinfo Lite Sample](/IPinfo%20Lite/ipinfo_lite_sample.mmdb)
+- [Parquet Database] [IPinfo Lite Sample](/IPinfo%20Lite/ipinfo_lite_sample.parquet)
 
 <details>
 
