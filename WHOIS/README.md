@@ -18,7 +18,7 @@ Expand each section to learn about each database.
 RIR WHOIS data is created by parsing IP WHOIS data from the regional Internet Registries. Aside from normalizing and structuring the data from different RIR, we include additional contexts and insights.
 
 | Field Name     | Example                                    | Data Type | Notes                                                                                                                |
-|----------------|--------------------------------------------|-----------|----------------------------------------------------------------------------------------------------------------------|
+| -------------- | ------------------------------------------ | --------- | -------------------------------------------------------------------------------------------------------------------- |
 | `range`        | 45.142.160.224-45.142.161.255              | TEXT      | IP Address range/netblock                                                                                            |
 | `id`           | PL-DOMYNET-NETWORK                         | TEXT      | Raw netblock identifier from WHOIS                                                                                   |
 | `name`         | DomyNet Sp. z o.o.                         | TEXT      | Name of netblock                                                                                                     |
@@ -39,7 +39,6 @@ RIR WHOIS data is created by parsing IP WHOIS data from the regional Internet Re
 | `as_name`      | DomyNet Sp. z o.o.                         | TEXT      | Name of AS (based on our data sets and data processing)                                                              |
 | `as_domain`    | domynet.pl                                 | TEXT      | Domain of AS (based on our data sets and data processing)                                                            |
 | `as_type`      | isp                                        | TEXT      | ISP, business, or hosting (based on around 20 different features and our custom training set)                        |
-
 
 </details>
 
@@ -79,7 +78,7 @@ To cover this case we fetch data from RWHOIS servers and normalize it in a stand
 ASN registration information (`aut-num` objects).
 
 | Field Name | Example                         | Data Type | Notes                              |
-|------------|---------------------------------|-----------|------------------------------------|
+| ---------- | ------------------------------- | --------- | ---------------------------------- |
 | `id`       | AS3670                          | TEXT      | ASN information                    |
 | `name`     | Optimum Group                   | TEXT      | Name of the netblock               |
 | `country`  | US                              | TEXT      | ISO 3166 country code              |
@@ -89,7 +88,6 @@ ASN registration information (`aut-num` objects).
 | `source`   | arin                            | TEXT      | RIR associated with the record     |
 | `raw`      | ASHandle: AS3670 OrgID: PT A... | TEXT      | Raw data field                     |
 
-
 </details>
 
 <details>
@@ -98,7 +96,7 @@ ASN registration information (`aut-num` objects).
 </summary>
 
 | Field Name | Example                                         | Data Type | Notes                                          |
-|------------|-------------------------------------------------|-----------|------------------------------------------------|
+| ---------- | ----------------------------------------------- | --------- | ---------------------------------------------- |
 | `id`       | NETFIL-MNT                                      | TEXT      | ID for the contact authorized to update record |
 | `name`     | NETFIL SRL BULEVARDUL RACOTEANU NR.163A FILI... | TEXT      | Name and information of the mnt contact        |
 | `admin_id` | VD1057-RIPE                                     | TEXT      | Administrative contact id of the netblock      |
@@ -109,22 +107,19 @@ ASN registration information (`aut-num` objects).
 | `source`   | ripe                                            | TEXT      | RIR associated with the record                 |
 | `raw`      | mntner: NETFIL-MNT descr: NE...                 | TEXT      | Raw data field                                 |
 
-
 `updated` and `created` values can be set to `datetime` data type.
 
 </details>
-
-
 
 <details>
 <summary>
 <h2>WHOIS NET (Networks)</h2>
 </summary>
 
-Network information from WHOIS registry  
+Network information from WHOIS registry
 
 | Field Name | Example                                        | Data Type | Notes                                          |
-|------------|------------------------------------------------|-----------|------------------------------------------------|
+| ---------- | ---------------------------------------------- | --------- | ---------------------------------------------- |
 | `range`    | 148.59.204.0/23                                | TEXT      | Netblock range                                 |
 | `id`       | IN                                             | TEXT      | Raw netblock identifier from WHOIS             |
 | `name`     | iTel Networks Inc                              | TEXT      | Name of the netblock                           |
@@ -145,7 +140,6 @@ Network information from WHOIS registry
 
 </details>
 
-
 <details>
 <summary>
 <h2>WHOIS ORG (Organization)</h2>
@@ -154,7 +148,7 @@ Network information from WHOIS registry
 Organization information from WHOIS registry
 
 | Field Name   | Example                          | Data Type | Notes                                                 |
-|--------------|----------------------------------|-----------|-------------------------------------------------------|
+| ------------ | -------------------------------- | --------- | ----------------------------------------------------- |
 | `id`         | CTC-7                            | TEXT      | ID of the organization responsible for the netblock   |
 | `name`       | Communications Technology Center | TEXT      | Name of the organization responsible for the netblock |
 | `address`    |                                  | TEXT      | Address information of the organization               |
@@ -174,11 +168,9 @@ Organization information from WHOIS registry
 | `source`     | arin                             | TEXT      | RIR associated with the record                        |
 | `raw`        | OrgID: CTC-7 OrgName: Communi... | TEXT      | Raw data field                                        |
 
-
 `updated` and `created` values can be set to `datetime` data type.
 
 </details>
-
 
 <details>
 <summary>
@@ -188,7 +180,7 @@ Organization information from WHOIS registry
 WHOIS database registry from point of contact
 
 | Field Name    | Example                                        | Data Type | Notes                                                                         |
-|---------------|------------------------------------------------|-----------|-------------------------------------------------------------------------------|
+| ------------- | ---------------------------------------------- | --------- | ----------------------------------------------------------------------------- |
 | `id`          | TRONT-ARIN                                     | TEXT      | ID of the netblock owner                                                      |
 | `name`        | Matthew Tront                                  | TEXT      | Name of the point of contact of the organization responsible for the netblock |
 | `mobilephone` | +1-302-521-3780                                | TEXT      | Organizational mobile phone number of the point of contact                    |
@@ -202,7 +194,6 @@ WHOIS database registry from point of contact
 | `updated`     | 2014-11-12                                     | TEXT      | Updated date in the WHOIS registry                                            |
 | `source`      | arin                                           | TEXT      | RIR associated with the record                                                |
 | `raw`         | POCHandle: TRONT-ARIN IsRole: …                | TEXT      | Raw data field                                                                |
-
 
 `updated` and `created` values can be set to `datetime` data type.
 
@@ -224,7 +215,7 @@ curl ipinfo.io/whois/net/NET_ID?token=TOKEN
 
 Please see the sample JSON in the codebase. This is a **truncated** version of the JSON response.
 
-![Search Net Records by NET ID](../assets/whois_search_by_net_id.png) 
+![Search Net Records by NET ID](../assets/whois_search_by_net_id.png)
 
 ## **Search Net records by IP or IP Range**
 
@@ -234,7 +225,7 @@ curl ipinfo.io/whois/net/IP_RANGE?token=TOKEN
 
 Please see the sample JSON in the codebase. This is a **truncated** version of the JSON response.
 
-![image (4).png](../assets/whois_search_by_ip.png) 
+![image (4).png](../assets/whois_search_by_ip.png)
 
 ## **Search Net records by domain**
 
@@ -244,7 +235,7 @@ curl ipinfo.io/whois/net/DOMAIN?token=TOKEN
 
 Please see the sample JSON in the codebase. This is a **truncated** version of the JSON response.
 
-![WHOIS Search By Domain](../assets/whois_search_by_domain.png) 
+![WHOIS Search By Domain](../assets/whois_search_by_domain.png)
 
 ## **Search Net records by ASN**
 
@@ -264,7 +255,7 @@ curl ipinfo.io/whois/org/PINEAP?token=TOKEN
 
 Please see the sample JSON in the codebase. This is a **truncated** version of the JSON response.
 
-![WHOIS Search By Org ID](../assets/whois_search_by_org_id.png) 
+![WHOIS Search By Org ID](../assets/whois_search_by_org_id.png)
 
 ## **Search POC records by POC ID**
 
@@ -301,13 +292,14 @@ curl ipinfo.io/whois/poc/CP312-ARIN?token=TOKEN&source=arin
 - [JSON Database] [WHOIS NET Database Sample](/WHOIS/whois_net_sample.json)
 - [JSON Database] [WHOIS ORG Database Sample](/WHOIS/whois_org_sample.json)
 - [JSON Database] [WHOIS POC Database Sample](/WHOIS/whois_poc_sample.json)
+- [Parquet Database] [RWHOIS Database Sample](/WHOIS/rwhois_sample.parquet)
+- [Parquet Database] [RIR WHOIS Database Sample](/WHOIS/whois_rir_sample.parquet)
 - [API] [WHOIS ASN API Response Sample](/WHOIS/API/whois_asn_api_sample.json)
 - [API] [WHOIS Domain API Response Sample](/WHOIS/API/whois_domain_api_sample.json)
 - [API] [WHOIS IP Range API Response Sample](/WHOIS/API/whois_ip_range_api_sample.json)
 - [API] [WHOIS NET API Response Sample](/WHOIS/API/whois_net_api_sample.json)
 - [API] [WHOIS ORG API Response Sample](/WHOIS/API/whois_org_api_sample.json)
 - [API] [WHOIS POC API Response Sample](/WHOIS/API/whois_poc_api_sample.json)
- 
 
 # Guides, Resources & Links
 

@@ -6,10 +6,10 @@
 
 # Database Schema & Description
 
-*[data updated as of January, 2025]*
+_[data updated as of January, 2025]_
 
 | Field Name  | Example          | Data Type | Description                                                               |
-|-------------|------------------|-----------|---------------------------------------------------------------------------|
+| ----------- | ---------------- | --------- | ------------------------------------------------------------------------- |
 | **network** | `115.76.56.0/23` | TEXT      | CIDR or single IP address of the IP address block                         |
 | **asn**     | `AS7552`         | TEXT      | Autonomous System Number (ASN)                                            |
 | **domain**  | `viettel.com.vn` | TEXT      | Organization domain name of the ASN                                       |
@@ -22,6 +22,7 @@
 - [CSV Database] [ASN Database Sample](/ASN%20Database/ipinfo_asn_sample.csv)
 - [JSON Database] [ASN Database Sample](/ASN%20Database/ipinfo_asn_sample.json)
 - [MMDB Database] [ASN Database Sample](/ASN%20Database/ipinfo_asn_sample.mmdb)
+- [Parquet Database] [ASN Database Sample](/ASN%20Database/ipinfo_asn_sample.parquet)
 
 <details>
 
@@ -29,18 +30,16 @@
 
 The `standard_asn` data download is structured based on IP ranges (`start_ip` and `end_ip`) and includes the `join_key` column. Our default data downloads has been updated (January, 2025) to use the `network`-based schema which also does not include the `join_key` column. However, we will continue supporting the original IP range-based schema for existing customers, with no plans for deprecation. While the underlying data remains the same, the difference lies only in the schema.
 
-
-| Field Name | Example             | Data Type | Description                                              |
-|------------|---------------------|-----------|----------------------------------------------------------|
-| `start_ip` | 125.113.0.0         | TEXT      | Starting IP address of the ASN IP address block          |
-| `end_ip`   | 125.113.255.255     | TEXT      | Ending IP address of the ASN IP address block            |
-| `join_key` | 125.113.0.0         | TEXT      | Special variable to facilitate database `join` operation |
-| `asn`      | AS4134              | TEXT      | Autonomous System Number (ASN)                           |
-| `domain`   | chinatelecom.com.cn | TEXT      | Domain name of the AS                                    |
-| `name`     | CHINANET-BACKBONE   | TEXT      | Name of the ASN                                          |
-| `type`     | isp                 | TEXT      | ASN Type: ISP, Hosting, Education, Government or Business|
-| `country`  | CN                  | TEXT      | ISO 3166 country code of the ASN from the WHOIS records  |
-
+| Field Name | Example             | Data Type | Description                                               |
+| ---------- | ------------------- | --------- | --------------------------------------------------------- |
+| `start_ip` | 125.113.0.0         | TEXT      | Starting IP address of the ASN IP address block           |
+| `end_ip`   | 125.113.255.255     | TEXT      | Ending IP address of the ASN IP address block             |
+| `join_key` | 125.113.0.0         | TEXT      | Special variable to facilitate database `join` operation  |
+| `asn`      | AS4134              | TEXT      | Autonomous System Number (ASN)                            |
+| `domain`   | chinatelecom.com.cn | TEXT      | Domain name of the AS                                     |
+| `name`     | CHINANET-BACKBONE   | TEXT      | Name of the ASN                                           |
+| `type`     | isp                 | TEXT      | ASN Type: ISP, Hosting, Education, Government or Business |
+| `country`  | CN                  | TEXT      | ISO 3166 country code of the ASN from the WHOIS records   |
 
 > Includes IP range columns (`start_ip` and `end_ip`) instead of a network or CIDR based column (`network`).
 > `join_key` represents the Class C network each IP address is part of, allowing you to filter the result set significantly before `join`ing. Learn more about `join_key` [here](https://community.ipinfo.io/t/ipinfos-join-key-column-explained/5526).
@@ -50,10 +49,9 @@ The `standard_asn` data download is structured based on IP ranges (`start_ip` an
 - [CSV Database] [ASN Database Sample](/ASN%20Database/asn_sample.csv)
 - [JSON Database] [ASN Database Sample](/ASN%20Database/asn_sample.json)
 - [MMDB Database] [ASN Database Sample](/ASN%20Database/asn_sample.mmdb)
-
+- [Parquet Database] [ASN Database Sample](/ASN%20Database/asn_sample.parquet)
 
 </details>
-
 
 ## Downloadable File Formats
 
@@ -68,14 +66,12 @@ The `standard_asn` data download is structured based on IP ranges (`start_ip` an
 
 ## Filename references:
 
-
 | File Format | Filename / Slug    | Terminal Command                                                                            |
-|-------------|--------------------|---------------------------------------------------------------------------------------------|
+| ----------- | ------------------ | ------------------------------------------------------------------------------------------- |
 | CSV         | ipinfo_asn.csv.gz  | `curl -L https://ipinfo.io/data/ipinfo_asn.csv.gz?token=$YOUR_TOKEN -o ipinfo_asn.csv.gz`   |
 | MMDB        | ipinfo_asn.mmdb    | `curl -L https://ipinfo.io/data/ipinfo_asn.mmdb?token=$YOUR_TOKEN -o ipinfo_asn.mmdb`       |
 | JSON        | ipinfo_asn.json.gz | `curl -L https://ipinfo.io/data/ipinfo_asn.json.gz?token=$YOUR_TOKEN -o ipinfo_asn.json.gz` |
 | Parquet     | ipinfo_asn.parquet | `curl -L https://ipinfo.io/data/ipinfo_asn.parquet?token=$YOUR_TOKEN -o ipinfo_asn.parquet` |
-
 
 ## Difference among the ASN Database, the free IP to ASN Database and the free IP to Country ASN Database
 
@@ -87,6 +83,7 @@ Compared to the [IP to ASN (Free) Database](https://ipinfo.io/developers/ip-to-a
 # ASN API
 
 Along with our ASN database product, IPinfo also provides a robust API service. ASN data is available in two ways:
+
 - [ASN information for an IP address](https://ipinfo.io/developers/data-types#asn-data)
 - [ASN lookup](https://ipinfo.io/developers/asn)
 
@@ -106,11 +103,11 @@ Response:
 
 ```json
 {
-    "asn": "AS1221",
-    "name": "Telstra Limited",
-    "domain": "telstra.com.au",
-    "route": "58.160.0.0/12",
-    "type": "isp"
+  "asn": "AS1221",
+  "name": "Telstra Limited",
+  "domain": "telstra.com.au",
+  "route": "58.160.0.0/12",
+  "type": "isp"
 }
 ```
 

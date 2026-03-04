@@ -15,12 +15,12 @@ The IP to Country database is part of our [free IP data downloads offering](http
 
 # Database Schema & Description
 
-*[data updated as of May, 2024]*
+_[data updated as of May, 2024]_
 
 The following database schema represents the CSV database. We also provide JSON and MMDB format data.
 
 | Field Name       | Example         | Data Type | Description                                |
-|------------------|-----------------|-----------|--------------------------------------------|
+| ---------------- | --------------- | --------- | ------------------------------------------ |
 | `start_ip`       | 217.220.0.0     | TEXT      | Starting IP address of an IP address range |
 | `end_ip`         | 217.223.255.255 | TEXT      | Ending IP address of an IP address range   |
 | `country`        | IT              | TEXT      | ISO 3166 country code of the IP address    |
@@ -28,12 +28,12 @@ The following database schema represents the CSV database. We also provide JSON 
 | `continent`      | EU              | TEXT      | Continent code of the country              |
 | `continent_name` | Europe          | TEXT      | Name of the continent                      |
 
-
 # Samples
 
 - [CSV Database] [IP to Country Database Sample](/IP%20to%20Country/ip_country_sample.csv)
 - [JSON Database] [IP to Country Database Sample](/IP%20to%20Country/ip_country_sample.json)
 - [MMDB Database] [IP to Database Sample](/IP%20to%20Country/ip_country_sample.mmdb)
+- [Parquet Database] [IP to Database Sample](/IP%20to%20Country/ip_country_sample.parquet)
 
 # Guides, Resources & Links
 

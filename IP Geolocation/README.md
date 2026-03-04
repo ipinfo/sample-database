@@ -6,10 +6,10 @@ Our IP geolocation data is our primary data product and is considered one of the
 
 # Database Schema & Description
 
-*[data updated as of January, 2025]*
+_[data updated as of January, 2025]_
 
 | Field Name         | Example            | Data Type | Description                                    |
-|--------------------|--------------------|-----------|------------------------------------------------|
+| ------------------ | ------------------ | --------- | ---------------------------------------------- |
 | **network**        | `71.50.174.48/28`  | TEXT      | CIDR or single Address of the IP address block |
 | **city**           | `Spring Lake`      | TEXT      | City of the IP address                         |
 | **region**         | `North Carolina`   | TEXT      | Region/State of the IP address                 |
@@ -23,12 +23,12 @@ Our IP geolocation data is our primary data product and is considered one of the
 | **timezone**       | `America/New_York` | TEXT      | Local timezone of the IP address location      |
 | **postal_code**    | `28390`            | TEXT      | Postal code or zip code of the IP address      |
 
-
 ## Samples
 
 - [CSV Database] [IP Location Database Sample](/IP%20Geolocation/ipinfo_location_sample.csv)
 - [JSON Database] [IP Location Database Sample](/IP%20Geolocation/ipinfo_location_sample.json)
 - [MMDB Database] [IP Location Database Sample](/IP%20Geolocation/ipinfo_location_sample.mmdb)
+- [Parquet Database] [IP Location Database Sample](/IP%20Geolocation/ipinfo_location_sample.parquet)
 
 <details>
 
@@ -39,7 +39,7 @@ The `standard_location` data download is structured based on IP ranges (`start_i
 Our default data downloads has been updated (January, 2025) to use the `network`-based schema which also does not include the `join_key` column. However, we will continue supporting the original IP range-based schema for existing customers, with no plans for deprecation. While the underlying data remains the same, the difference lies only in the schema.
 
 | Field Name      | Example            | Data Type | Description                                              |
-|-----------------|--------------------|-----------|----------------------------------------------------------|
+| --------------- | ------------------ | --------- | -------------------------------------------------------- |
 | **start_ip**    | `1.253.242.0`      | TEXT      | Starting IP address of an IP address range               |
 | **end_ip**      | `1.253.242.255`    | TEXT      | Ending IP address of an IP address range                 |
 | **join_key**    | `1.253.0.0`        | TEXT      | Special variable to facilitate database `join` operation |
@@ -54,12 +54,12 @@ Our default data downloads has been updated (January, 2025) to use the `network`
 > Includes IP range columns (`start_ip` and `end_ip`) instead of a network or CIDR based column (`network`).
 > `join_key` represents the Class C network each IP address is part of, allowing you to filter the result set significantly before `join`ing. Learn more about `join_key` [here](https://community.ipinfo.io/t/ipinfos-join-key-column-explained/5526).
 
-
 #### Samples
 
 - [CSV Database] [IP Geolocation Database Sample](/IP%20Geolocation/ip_geolocation_sample.csv)
 - [JSON Database] [IP Geolocation Database Sample](/IP%20Geolocation/ip_geolocation_sample.json)
 - [MMDB Database] [IP Geolocation Database Sample](/IP%20Geolocation/ip_geolocation_sample.mmdb)
+- [Parquet Database] [IP Geolocation Database Sample](/IP%20Geolocation/ip_geolocation_sample.parquet)
 
 </details>
 
@@ -70,7 +70,7 @@ Our default data downloads has been updated (January, 2025) to use the `network`
 The `standard_location_mmcompat` database schema is a custom database that provides easier migration from alternative providers by offering the `geonames_id` field and other location data. Even though the migration process will not be plug and play from an alternative provider, we provide all the necessary information for users to account for only the schema.
 
 | Field Name         | Example           | Data Type | Descrption                                           |
-|--------------------|-------------------|-----------|------------------------------------------------------|
+| ------------------ | ----------------- | --------- | ---------------------------------------------------- |
 | **Network**        | `50.62.0.0/15`    | TEXT      | CIDR or IP network of the IP address block           |
 | **City**           | `Tempe`           | TEXT      | City of the IP address                               |
 | **Continent**      | `NA`              | TEXT      | Continent name code in two-letter format             |
@@ -85,7 +85,6 @@ The `standard_location_mmcompat` database schema is a custom database that provi
 | **Subregion**      | `013`             | INTEGER   | Subregion code                                       |
 | **Subregion_name** | `Maricopa County` | TEXT      | Subregion name                                       |
 | **Timezone**       | `America/Phoenix` | TEXT      | Local timezone of the IP address location            |
-
 
 #### Samples
 
@@ -107,12 +106,11 @@ The `standard_location_mmcompat` database schema is a custom database that provi
 ## Filename references:
 
 | File Format | Filename / Slug         | Terminal Command                                                                                      |
-|-------------|-------------------------|-------------------------------------------------------------------------------------------------------|
+| ----------- | ----------------------- | ----------------------------------------------------------------------------------------------------- |
 | CSV         | ipinfo_location.csv.gz  | `curl -L https://ipinfo.io/data/ipinfo_location.csv.gz?token=$YOUR_TOKEN -o ipinfo_location.csv.gz`   |
 | MMDB        | ipinfo_location.mmdb    | `curl -L https://ipinfo.io/data/ipinfo_location.mmdb?token=$YOUR_TOKEN -o ipinfo_location.mmdb`       |
 | JSON        | ipinfo_location.json.gz | `curl -L https://ipinfo.io/data/ipinfo_location.json.gz?token=$YOUR_TOKEN -o ipinfo_location.json.gz` |
 | Parquet     | ipinfo_location.parquet | `curl -L https://ipinfo.io/data/ipinfo_location.parquet?token=$YOUR_TOKEN -o ipinfo_location.parquet` |
-
 
 # API Response
 
@@ -128,14 +126,14 @@ Response:
 
 ```json
 {
-    "ip": "77.224.89.172",
-    "hostname": "static-172-89-224-77.ipcom.comunitel.net",
-    "city": "Vigo",
-    "region": "Galicia",
-    "country": "ES",
-    "loc": "42.2328,-8.7226",
-    "postal": "36201",
-    "timezone": "Europe/Madrid"
+  "ip": "77.224.89.172",
+  "hostname": "static-172-89-224-77.ipcom.comunitel.net",
+  "city": "Vigo",
+  "region": "Galicia",
+  "country": "ES",
+  "loc": "42.2328,-8.7226",
+  "postal": "36201",
+  "timezone": "Europe/Madrid"
 }
 ```
 

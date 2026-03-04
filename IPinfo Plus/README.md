@@ -5,7 +5,7 @@
 # Database Schema & Description
 
 | Field Name         | Example                          | Data Type | Descrption                                                                                   |
-|--------------------|----------------------------------|-----------|----------------------------------------------------------------------------------------------|
+| ------------------ | -------------------------------- | --------- | -------------------------------------------------------------------------------------------- |
 | **network**        | `86.179.219.192/29`              | TEXT      | CIDR/IP range or single IP address                                                           |
 | **city**           | `Weymouth`                       | TEXT      | City of the IP address                                                                       |
 | **region**         | `England`                        | TEXT      | Region/State of the IP address                                                               |
@@ -41,13 +41,12 @@
 | **is_vpn**         | `false`                          | BOOLEAN   | Indicates Virtual Private Network (VPN) service exit node IP address                         |
 | **privacy_name**   |                                  | TEXT      | The name of the privacy service provider includes VPN, Proxy, or Relay service provider name |
 
-
-
 ## Samples
 
 - [CSV Database] [IPinfo Plus Sample](/IPinfo%20Plus/ipinfo_plus_sample.csv)
 - [JSON Database] [IPinfo Plus Sample](/IPinfo%20Plus/ipinfo_plus_sample.json)
 - [MMDB Database] [IPinfo Plus Sample](/IPinfo%20Plus/ipinfo_plus_sample.mmdb)
+- [Parquet Database] [IPinfo Plus Sample](/IPinfo%20Plus/ipinfo_plus_sample.parquet)
 
 ## Downloadable File Formats
 

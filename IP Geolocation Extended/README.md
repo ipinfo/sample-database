@@ -38,12 +38,7 @@ The following database schema represents the CSV database. We also provide JSON 
 - [CSV Database] [IP Geolocation (Extended) Database Sample](/IP%20Geolocation%20Extended/ip_geolocation_extended_sample.csv)
 - [JSON Database] [IP Geolocation (Extended) Database Sample](/IP%20Geolocation%20Extended/ip_geolocation_extended_sample.json)
 - [MMDB Database] [IP Geolocation (Extended) Database Sample](/IP%20Geolocation%20Extended/ip_geolocation_extended_sample.mmdb)
-- [CSV Database] [IP Geolocation (Extended) Database - IPv4 Sample](/IP%20Geolocation%20Extended/ip_geolocation_extended_ipv4_sample.csv)
-- [JSON Database] [IP Geolocation (Extended) Database - IPv4 Sample](/IP%20Geolocation%20Extended/ip_geolocation_extended_ipv4_sample.json)
-- [MMDB Database] [IP Geolocation (Extended) Database - IPv4 Sample](/IP%20Geolocation%20Extended/ip_geolocation_extended_ipv4_sample.mmdb)
-- [CSV Database] [IP Geolocation (Extended) Database - IPv6 Sample](/IP%20Geolocation%20Extended/ip_geolocation_extended_ipv6_sample.csv)
-- [JSON Database] [IP Geolocation (Extended) Database - IPv6 Sample](/IP%20Geolocation%20Extended/ip_geolocation_extended_ipv6_sample.json)
-- [MMDB Database] [IP Geolocation (Extended) Database - IPv6 Sample](/IP%20Geolocation%20Extended/ip_geolocation_extended_ipv6_sample.mmdb)
+- [Parquet Database] [IP Geolocation (Extended) Database Sample](/IP%20Geolocation%20Extended/ip_geolocation_extended_sample.parquet)
 
 ## Links
 

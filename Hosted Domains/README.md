@@ -2,16 +2,16 @@
 
 ## Hosted Domain Database facilitates reverse IP lookup and shows how many and which domains are hosted on which IP Addresses.
 
-*If you are interested in Domain Name API / Database check out: [host.io](https://host.io/)*
+_If you are interested in Domain Name API / Database check out: [host.io](https://host.io/)_
 
 # Database Schema & Description
 
-*[data updated as of May, 2024]*
+_[data updated as of May, 2024]_
 
 The following database schema represents the CSV database. We also provide JSON and MMDB format data.
 
 | Field Name | Example                                  | Data Type | Notes                                          |
-|------------|------------------------------------------|-----------|------------------------------------------------|
+| ---------- | ---------------------------------------- | --------- | ---------------------------------------------- |
 | `ip`       | 135.125.236.225                          | TEXT      | IP address for reverse IP lookup               |
 | `total`    | 3                                        | INTEGER   | Number of domains registered to the IP Address |
 | `domains`  | farmanaut.com,pharmanaut.be,farmanaut.be | TEXT      | Name of the domain(s) under the IP address     |
@@ -34,16 +34,16 @@ Response:
 
 ```json
 {
-    "ip": "34.168.30.71",
-    "total": 1994,
-    "domains": [
-        "3stadt.com",
-        "flytfrem.no",
-        "aptalis-pharma.ca",
-        "nftevening.xyz",
-        "sub.quest"
-        // ...
-    ]
+  "ip": "34.168.30.71",
+  "total": 1994,
+  "domains": [
+    "3stadt.com",
+    "flytfrem.no",
+    "aptalis-pharma.ca",
+    "nftevening.xyz",
+    "sub.quest"
+    // ...
+  ]
 }
 ```
 
@@ -54,6 +54,7 @@ Response:
 - [CSV Database] [Hosted Domains Database Sample](/Hosted%20Domains/hosted_domains_sample.csv)
 - [JSON Database] [Hosted Domains Database Sample](/Hosted%20Domains/hosted_domains_sample.json)
 - [MMDB Database] [Hosted Domains Database Sample](/Hosted%20Domains/hosted_domains_sample.mmdb)
+- [Parquet Database] [Hosted Domains Database Sample](/Hosted%20Domains/hosted_domains_sample.parquet)
 - [API] [Hosted Domains API Response Sample](/Hosted%20Domains/hosted_domains_api_sample.json)
 
 # Guides, Resources & Links

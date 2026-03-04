@@ -6,7 +6,7 @@ IPinfo's IP Address to Privacy Detection (Extended) database includes IP address
 
 # Database Schema & Description
 
-*[data updated as of January, 2025]*
+_[data updated as of January, 2025]_
 
 | Field Name          | Example         | Data Type | Descrption                                                                                                                                                                                                                                                                                                                            |
 | ------------------- | --------------- | --------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -20,9 +20,9 @@ IPinfo's IP Address to Privacy Detection (Extended) database includes IP address
 | **first_seen**      | `2024-10-31`    | DATE      | Date when the activity on an anonymous IP address was first observed: Date in YYYY-MM-DD format, ISO-8601. Within the 3-month lookback period.                                                                                                                                                                                        |
 | **last_seen**       | `2025-01-03`    | DATE      | Date when the activity on an anonymous IP address was last/recently observed: Date in YYYY-MM-DD format, ISO-8601.                                                                                                                                                                                                                    |
 | **confidence**      | `3`             | INTEGER   | The level (from 1 to 3) of confidence attributed to the best source associated with this range                                                                                                                                                                                                                                        |
-| **coverage**        | `1.0`             | FLOAT   | For inferred ranges (see `inferred` flag), represents the proportion of the range (in IP count) that we saw direct evidence of VPN activity on; the remaining percentage of the range (1 - coverage) is composed of IPs we did not directly observe. For IPs/ranges we've fully directly observed VPN evidence on, this value is 1.0. |
+| **coverage**        | `1.0`           | FLOAT     | For inferred ranges (see `inferred` flag), represents the proportion of the range (in IP count) that we saw direct evidence of VPN activity on; the remaining percentage of the range (1 - coverage) is composed of IPs we did not directly observe. For IPs/ranges we've fully directly observed VPN evidence on, this value is 1.0. |
 | **census**          | `false`         | BOOLEAN   | Ranges where we've observed VPN software/ports on; we run scans on ports and protocols commonly associated with VPN software. Ranges with the census flag are those where these scans obtained positive results                                                                                                                       |
-| **census_ports**    |               | INTEGER   | The ports we've gotten positive results for when running our VPN detection census                                                                                                                                                                                                                                                     |
+| **census_ports**    |                 | INTEGER   | The ports we've gotten positive results for when running our VPN detection census                                                                                                                                                                                                                                                     |
 | **device_activity** | `false`         | BOOLEAN   | Ranges on which we've observed device activity compatible with VPN usage (outside of known infrastructure area; simultaneous use around a large area; pingable and/or associated with hosting providers)                                                                                                                              |
 | **inferred**        | `false`         | BOOLEAN   | Whether the range associated with the record is the result of direct observation or inference based on neighboring IPs                                                                                                                                                                                                                |
 | **vpn_config**      | `true`          | BOOLEAN   | Ranges where we confirmed VPN activity by directly running VPN software from almost 200 different providers and collecting exit IPs                                                                                                                                                                                                   |
@@ -43,9 +43,11 @@ Confidence intervals defined:
 - [CSV Database] [Privacy Extended Detection Database Sample](/Privacy%20Detection%20Extended/ipinfo_privacy_extended_sample.csv)
 - [JSON Database] [Privacy Extended Detection Database Sample](/Privacy%20Detection%20Extended/ipinfo_privacy_extended_sample.json)
 - [MMDB Database] [Privacy Extended Detection Database Sample](/Privacy%20Detection%20Extended/ipinfo_privacy_extended_sample.mmdb)
+- [Parquet Database] [Privacy Extended Detection Database Sample](/Privacy%20Detection%20Extended/ipinfo_privacy_extended_sample.parquet)
 - [CSV Database] [Privacy Extended Detection Database (Older Version) Sample](/Privacy%20Detection%20Extended/privacy_detection_extended_sample.csv)
 - [JSON Database] [Privacy Extended Detection Database (Older Version) Sample](/Privacy%20Detection%20Extended/privacy_detection_extended_sample.json)
 - [MMDB Database] [Privacy Extended Detection Database (Older Version) Sample](/Privacy%20Detection%20Extended/privacy_detection_extended_sample.mmdb)
+- [Parquet Database] [Privacy Extended Detection Database (Older Version) Sample](/Privacy%20Detection%20Extended/privacy_detection_extended_sample.parquet)
 
 ## Downloadable File Formats
 
@@ -59,7 +61,6 @@ Confidence intervals defined:
 > The usage of the IP data downloads relies on the software or application of the data. Check out our [documentation](https://ipinfo.io/developers/database-download), [community](https://community.ipinfo.io/c/docs/8), and our [integrations](https://ipinfo.io/integrations) pages to find the best path forward.
 
 ## Filename references:
-
 
 | File Format | Filename / Slug                 | Terminal Command                                                                                                      |
 | ----------- | ------------------------------- | --------------------------------------------------------------------------------------------------------------------- |

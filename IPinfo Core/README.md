@@ -5,7 +5,7 @@
 # Database Schema & Description
 
 | Field Name         | Example                         | Data Type | Descrption                                                                  |
-|--------------------|---------------------------------|-----------|-----------------------------------------------------------------------------|
+| ------------------ | ------------------------------- | --------- | --------------------------------------------------------------------------- |
 | **network**        | `66.202.64.131`                 | TEXT      | CIDR/IP range or single IP address                                          |
 | **city**           | `Chicago`                       | TEXT      | City of the IP address                                                      |
 | **region**         | `Illinois`                      | TEXT      | Region/State of the IP address                                              |
@@ -22,19 +22,18 @@
 | **as_name**        | `Windstream Communications LLC` | TEXT      | Organization domain name of the ASN                                         |
 | **as_domain**      | `windstream.com`                | TEXT      | Name of the ASN organization                                                |
 | **as_type**        | `isp`                           | TEXT      | ASN Type: ISP, Hosting, Education, Government or Business                   |
-| **is_anonymous**        | `false`                         | BOOLEAN   | Indicates whether the IP address is anonymous.                              |
+| **is_anonymous**   | `false`                         | BOOLEAN   | Indicates whether the IP address is anonymous.                              |
 | **is_anycast**     | `false`                         | BOOLEAN   | dicates whether the IP address is an internet service hosting IP address    |
 | **is_hosting**     | `false`                         | BOOLEAN   | Indicates whether the IP address is an hosting/cloud/data center IP address |
 | **is_mobile**      | `false`                         | BOOLEAN   | Indicates whether the IP address belongs to a mobile network                |
 | **is_satellite**   | `false`                         | BOOLEAN   | Indicates whether the IP address is part of a satellite internet connection |
-
-
 
 ## Samples
 
 - [CSV Database] [IPinfo Core Sample](/IPinfo%20Core/ipinfo_standard_sample.csv)
 - [JSON Database] [IPinfo Core Sample](/IPinfo%20Core/ipinfo_standard_sample.json)
 - [MMDB Database] [IPinfo Core Sample](/IPinfo%20Core/ipinfo_standard_sample.mmdb)
+- [Parquet Database] [IPinfo Core Sample](/IPinfo%20Core/ipinfo_standard_sample.parquet)
 
 ## Downloadable File Formats
 
@@ -49,8 +48,8 @@
 
 ## Filename references:
 
-| File Format | Filename / Slug        | Terminal Command                                                                                    |
-|-------------|------------------------|-----------------------------------------------------------------------------------------------------|
+| File Format | Filename / Slug         | Terminal Command                                                                                      |
+| ----------- | ----------------------- | ----------------------------------------------------------------------------------------------------- |
 | CSV         | ipinfo_standard.csv.gz  | `curl -L https://ipinfo.io/data/ipinfo_standard.csv.gz?token=$YOUR_TOKEN -o ipinfo_standard.csv.gz`   |
 | MMDB        | ipinfo_standard.mmdb    | `curl -L https://ipinfo.io/data/ipinfo_standard.mmdb?token=$YOUR_TOKEN -o ipinfo_standard.mmdb`       |
 | JSON        | ipinfo_standard.json.gz | `curl -L https://ipinfo.io/data/ipinfo_standard.json.gz?token=$YOUR_TOKEN -o ipinfo_standard.json.gz` |

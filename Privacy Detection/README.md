@@ -4,10 +4,10 @@
 
 # Database Schema & Description
 
-*[data updated as of January, 2025]*
+_[data updated as of January, 2025]_
 
 | Field Name  | Example             | Data Type | Descrption                                                           |
-|-------------|---------------------|-----------|----------------------------------------------------------------------|
+| ----------- | ------------------- | --------- | -------------------------------------------------------------------- |
 | **network** | `146.70.174.112/31` | TEXT      | CIDR or single IP address of the IP address block                    |
 | **hosting** | `true`              | BOOLEAN   | Indicates a hosting/cloud service/data center IP address             |
 | **proxy**   | `false`             | BOOLEAN   | Indicates a open web proxy IP address                                |
@@ -21,6 +21,7 @@
 - [CSV Database] [Privacy Detection Database Sample](/Privacy%20Detection/ipinfo_privacy_sample.csv)
 - [JSON Database] [Privacy Detection Database Sample](/Privacy%20Detection/ipinfo_privacy_sample.json)
 - [MMDB Database] [Privacy Detection Database Sample](/Privacy%20Detection/ipinfo_privacy_sample.mmdb)
+- [Parquet Database] [Privacy Detection Database Sample](/Privacy%20Detection/ipinfo_privacy_sample.parquet)
 
 <details>
 
@@ -28,9 +29,8 @@
 
 The `standard_privacy` data download is structured based on IP ranges (`start_ip` and `end_ip`) and includes the `join_key` column. Our default data downloads has been updated (January, 2025) to use the `network`-based schema which also does not include the `join_key` column. However, we will continue supporting the original IP range-based schema for existing customers, with no plans for deprecation. While the underlying data remains the same, the difference lies only in the schema.
 
-
 | Field Name   | Example          | Data Type | Description                                                          |
-|--------------|------------------|-----------|----------------------------------------------------------------------|
+| ------------ | ---------------- | --------- | -------------------------------------------------------------------- |
 | **start_ip** | `89.187.171.147` | TEXT      | Starting IP address of an IP address range                           |
 | **end_ip**   | `89.187.171.147` | TEXT      | Ending IP address of an IP address range                             |
 | **join_key** | `89.187.0.0`     | TEXT      | Special variable to facilitate databas `join` operation              |
@@ -41,7 +41,6 @@ The `standard_privacy` data download is structured based on IP ranges (`start_ip
 | **relay**    |                  | BOOLEAN   | Indicates location preserving anonymous relay service                |
 | **service**  | `CyberGhost`     | TEXT      | Name of the anonymous IP service provider                            |
 
-
 > Includes IP range columns (`start_ip` and `end_ip`) instead of a network or CIDR based column (`network`).
 > `join_key` represents the Class C network each IP address is part of, allowing you to filter the result set significantly before `join`ing. Learn more about `join_key` [here](https://community.ipinfo.io/t/ipinfos-join-key-column-explained/5526).
 
@@ -50,15 +49,14 @@ The `standard_privacy` data download is structured based on IP ranges (`start_ip
 - [CSV Database] [Privacy Detection Database Sample](/Privacy%20Detection/privacy_detection_sample.csv)
 - [JSON Database] [Privacy Detection Database Sample](/Privacy%20Detection/privacy_detection_sample.json)
 - [MMDB Database] [Privacy Detection Database Sample](/Privacy%20Detection/privacy_detection_sample.mmdb)
-
+- [Parquet Database] [Privacy Detection Database Sample](/Privacy%20Detection/privacy_detection_sample.parquet)
 
 The schema for Boolean values is different between these two databases.
 
 | Boolean Value | standard_privacy | ipinfo_privacy |
-|---------------|------------------|----------------|
+| ------------- | ---------------- | -------------- |
 | **TRUE**      | `true`           | `true`         |
 | **FALSE**     |                  | `false`        |
-
 
 </details>
 
@@ -76,12 +74,11 @@ The schema for Boolean values is different between these two databases.
 ## Filename references:
 
 | File Format | Filename / Slug        | Terminal Command                                                                                    |
-|-------------|------------------------|-----------------------------------------------------------------------------------------------------|
+| ----------- | ---------------------- | --------------------------------------------------------------------------------------------------- |
 | CSV         | ipinfo_privacy.csv.gz  | `curl -L https://ipinfo.io/data/ipinfo_privacy.csv.gz?token=$YOUR_TOKEN -o ipinfo_privacy.csv.gz`   |
 | MMDB        | ipinfo_privacy.mmdb    | `curl -L https://ipinfo.io/data/ipinfo_privacy.mmdb?token=$YOUR_TOKEN -o ipinfo_privacy.mmdb`       |
 | JSON        | ipinfo_privacy.json.gz | `curl -L https://ipinfo.io/data/ipinfo_privacy.json.gz?token=$YOUR_TOKEN -o ipinfo_privacy.json.gz` |
 | Parquet     | ipinfo_privacy.parquet | `curl -L https://ipinfo.io/data/ipinfo_privacy.parquet?token=$YOUR_TOKEN -o ipinfo_privacy.parquet` |
-
 
 # API Response
 
@@ -97,21 +94,21 @@ Reponse:
 
 ```json
 {
-    "vpn": true,
-    "proxy": false,
-    "tor": false,
-    "relay": false,
-    "hosting": false,
-    "service": "NordVPN"
+  "vpn": true,
+  "proxy": false,
+  "tor": false,
+  "relay": false,
+  "hosting": false,
+  "service": "NordVPN"
 }
 ```
-
 
 🔗 [Privacy Data Documentation](https://ipinfo.io/developers/data-types#privacy-data)
 
 ![privacy detection API response.png](../assets/privacy_detection_api_response.png)
 
 ## API Samples
+
 - [API] [Privacy Detection API Response Sample](/Privacy%20Detection/privacy_detection_api_sample.json)
 
 # Guides, Resources & Links

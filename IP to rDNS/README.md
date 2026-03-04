@@ -30,8 +30,10 @@ The IP to rDNS dataset contain two datasets.
 - [CSV Database] [IP to rDNS - Domains Database Sample](/IP%20to%20rDNS/ip_rdns_domains_sample.csv)
 - [JSON Database] [IP to rDNS - Domains Database Sample](/IP%20to%20rDNS/ip_rdns_domains_sample.json)
 - [MMDB Database] [IP to rDNS - Domains Database Sample](/IP%20to%20rDNS/ip_rdns_domains_sample.mmdb)
+- [Parquet Database] [IP to rDNS - Domains Database Sample](/IP%20to%20rDNS/ip_rdns_domains_sample.parquet)
 - [CSV Database] [IP to rDNS - Hostnames Database Sample](/IP%20to%20rDNS/ip_rdns_hostnames_sample.csv)
 - [JSON Database] [IP to rDNS - Hostnames Database Sample](/IP%20to%20rDNS/ip_rdns_hostnames_sample.json)
+- [Parquet Database] [IP to rDNS - Hostnames Database Sample](/IP%20to%20rDNS/ip_rdns_hostnames_sample.parquet)
 
 ---
 

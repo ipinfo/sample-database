@@ -1,4 +1,4 @@
-# IP to Country  ASN
+# IP to Country ASN
 
 ## Joined database of our free IP to Country and IP to ASN Database
 
@@ -14,13 +14,12 @@ The IP to Country ASN database is part of our [free IP data downloads offering](
 
 # Database Schema & Description
 
-*[data updated as of February, 2023]*
+_[data updated as of February, 2023]_
 
 The following database schema represents the CSV database. We also provide JSON and MMDB format data.
 
-
 | Field Name       | Example                      | Data Type | Description                                       |
-|------------------|------------------------------|-----------|---------------------------------------------------|
+| ---------------- | ---------------------------- | --------- | ------------------------------------------------- |
 | `start_ip`       | 1.0.16.0                     | TEXT      | Starting IP address of an IP address range        |
 | `end_ip`         | 1.0.31.255                   | TEXT      | Ending IP address of an IP address range          |
 | `country`        | JP                           | TEXT      | ISO 3166 country code of the IP addresses         |
@@ -31,13 +30,12 @@ The following database schema represents the CSV database. We also provide JSON 
 | `as_name`        | ARTERIA Networks Corporation | TEXT      | Name of the AS (Autonomous System) organization   |
 | `as_domain`      | arteria-net.com              | TEXT      | Official domain or website of the AS organization |
 
-
-
 # Samples
 
 - [CSV Database] [IP to Country + ASN Database Sample](/IP%20to%20Country%20ASN/ip_country_asn_sample.csv)
 - [JSON Database] [IP to Country + ASN Database Sample](/IP%20to%20Country%20ASN/ip_country_asn_sample.json)
 - [MMDB Database] [IP to Database + ASN Sample](/IP%20to%20Country%20ASN/ip_country_asn_sample.mmdb)
+- [Parquet Database] [IP to Database + ASN Sample](/IP%20to%20Country%20ASN/ip_country_asn_sample.parquet)
 
 # Guides, Resources & Links
 
