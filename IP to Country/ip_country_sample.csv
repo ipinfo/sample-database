@@ -21,8 +21,8 @@ start_ip,end_ip,country,country_name,continent,continent_name
 1.4.1.0,1.4.127.255,CN,China,AS,Asia
 1.4.128.0,1.4.255.255,TH,Thailand,AS,Asia
 1.5.0.0,1.5.255.255,JP,Japan,AS,Asia
-1.6.0.0,1.7.168.173,IN,India,AS,Asia
-1.7.168.174,1.7.168.174,SG,Singapore,AS,Asia
+1.6.0.0,1.7.168.172,IN,India,AS,Asia
+1.7.168.173,1.7.168.174,SG,Singapore,AS,Asia
 1.7.168.175,1.7.255.255,IN,India,AS,Asia
 1.8.0.0,1.8.255.255,CN,China,AS,Asia
 1.9.0.0,1.9.71.8,MY,Malaysia,AS,Asia
@@ -39,15 +39,13 @@ start_ip,end_ip,country,country_name,continent,continent_name
 1.9.241.230,1.9.241.230,RE,Reunion,AF,Africa
 1.9.241.231,1.9.243.33,MY,Malaysia,AS,Asia
 1.9.243.34,1.9.243.34,ID,Indonesia,AS,Asia
-1.9.243.35,1.9.244.12,MY,Malaysia,AS,Asia
-1.9.244.13,1.9.244.13,HK,Hong Kong,AS,Asia
-1.9.244.14,1.9.244.48,MY,Malaysia,AS,Asia
+1.9.243.35,1.9.244.48,MY,Malaysia,AS,Asia
 1.9.244.49,1.9.244.50,HK,Hong Kong,AS,Asia
 1.9.244.51,1.9.244.89,MY,Malaysia,AS,Asia
 1.9.244.90,1.9.244.90,RE,Reunion,AF,Africa
 1.9.244.91,1.9.244.144,MY,Malaysia,AS,Asia
-1.9.244.145,1.9.244.145,LA,Laos,AS,Asia
-1.9.244.146,1.9.249.255,MY,Malaysia,AS,Asia
+1.9.244.145,1.9.244.146,LA,Laos,AS,Asia
+1.9.244.147,1.9.249.255,MY,Malaysia,AS,Asia
 1.9.250.0,1.9.250.31,JP,Japan,AS,Asia
 1.9.250.32,1.9.255.255,MY,Malaysia,AS,Asia
 1.10.0.0,1.10.9.255,CN,China,AS,Asia
@@ -58,14 +56,20 @@ start_ip,end_ip,country,country_name,continent,continent_name
 1.12.0.0,1.15.255.255,CN,China,AS,Asia
 1.16.0.0,1.16.63.255,KR,South Korea,AS,Asia
 1.16.64.0,1.18.115.255,AU,Australia,OC,Oceania
-1.18.116.0,1.18.127.255,KR,South Korea,AS,Asia
-1.18.128.0,1.18.128.7,CN,China,AS,Asia
-1.18.128.8,1.18.128.27,KR,South Korea,AS,Asia
-1.18.128.28,1.18.128.31,CN,China,AS,Asia
+1.18.116.0,1.18.128.1,KR,South Korea,AS,Asia
+1.18.128.2,1.18.128.7,CN,China,AS,Asia
+1.18.128.8,1.18.128.15,KR,South Korea,AS,Asia
+1.18.128.16,1.18.128.31,CN,China,AS,Asia
 1.18.128.32,1.18.128.75,KR,South Korea,AS,Asia
-1.18.128.76,1.18.128.95,CN,China,AS,Asia
-1.18.128.96,1.18.128.127,KR,South Korea,AS,Asia
-1.18.128.128,1.18.128.255,CN,China,AS,Asia
+1.18.128.76,1.18.128.76,CN,China,AS,Asia
+1.18.128.77,1.18.128.77,KR,South Korea,AS,Asia
+1.18.128.78,1.18.128.79,CN,China,AS,Asia
+1.18.128.80,1.18.128.89,KR,South Korea,AS,Asia
+1.18.128.90,1.18.128.91,CN,China,AS,Asia
+1.18.128.92,1.18.128.127,KR,South Korea,AS,Asia
+1.18.128.128,1.18.128.129,CN,China,AS,Asia
+1.18.128.130,1.18.128.191,KR,South Korea,AS,Asia
+1.18.128.192,1.18.128.255,CN,China,AS,Asia
 1.18.129.0,1.19.255.255,KR,South Korea,AS,Asia
 1.20.0.0,1.20.255.255,TH,Thailand,AS,Asia
 1.21.0.0,1.21.223.255,JP,Japan,AS,Asia
@@ -74,28 +78,24 @@ start_ip,end_ip,country,country_name,continent,continent_name
 1.24.0.0,1.31.255.255,CN,China,AS,Asia
 1.32.0.0,1.32.127.255,MY,Malaysia,AS,Asia
 1.32.128.0,1.32.191.255,SG,Singapore,AS,Asia
-1.32.192.0,1.32.199.255,HK,Hong Kong,AS,Asia
-1.32.200.0,1.32.204.255,SG,Singapore,AS,Asia
+1.32.192.0,1.32.200.255,HK,Hong Kong,AS,Asia
+1.32.201.0,1.32.204.255,SG,Singapore,AS,Asia
 1.32.205.0,1.32.205.255,HK,Hong Kong,AS,Asia
 1.32.206.0,1.32.207.255,SG,Singapore,AS,Asia
-1.32.208.0,1.32.208.127,TW,Taiwan,AS,Asia
-1.32.208.128,1.32.208.255,HK,Hong Kong,AS,Asia
-1.32.209.0,1.32.210.15,TW,Taiwan,AS,Asia
-1.32.210.16,1.32.210.19,HK,Hong Kong,AS,Asia
-1.32.210.20,1.32.210.43,TW,Taiwan,AS,Asia
-1.32.210.44,1.32.210.47,HK,Hong Kong,AS,Asia
-1.32.210.48,1.32.210.52,TW,Taiwan,AS,Asia
-1.32.210.53,1.32.210.53,HK,Hong Kong,AS,Asia
-1.32.210.54,1.32.210.58,TW,Taiwan,AS,Asia
-1.32.210.59,1.32.210.59,HK,Hong Kong,AS,Asia
-1.32.210.60,1.32.210.63,TW,Taiwan,AS,Asia
-1.32.210.64,1.32.210.65,HK,Hong Kong,AS,Asia
-1.32.210.66,1.32.210.107,TW,Taiwan,AS,Asia
-1.32.210.108,1.32.210.111,HK,Hong Kong,AS,Asia
-1.32.210.112,1.32.210.191,TW,Taiwan,AS,Asia
-1.32.210.192,1.32.210.193,HK,Hong Kong,AS,Asia
-1.32.210.194,1.32.210.194,TW,Taiwan,AS,Asia
-1.32.210.195,1.32.210.207,HK,Hong Kong,AS,Asia
-1.32.210.208,1.32.211.35,TW,Taiwan,AS,Asia
-1.32.211.36,1.32.211.37,HK,Hong Kong,AS,Asia
-1.32.211.38,1.32.211.39,TW,Taiwan,AS,Asia
+1.32.208.0,1.32.212.191,TW,Taiwan,AS,Asia
+1.32.212.192,1.32.212.195,HK,Hong Kong,AS,Asia
+1.32.212.196,1.32.213.138,TW,Taiwan,AS,Asia
+1.32.213.139,1.32.213.139,HK,Hong Kong,AS,Asia
+1.32.213.140,1.32.213.159,TW,Taiwan,AS,Asia
+1.32.213.160,1.32.213.161,HK,Hong Kong,AS,Asia
+1.32.213.162,1.32.213.189,TW,Taiwan,AS,Asia
+1.32.213.190,1.32.213.191,HK,Hong Kong,AS,Asia
+1.32.213.192,1.32.214.127,TW,Taiwan,AS,Asia
+1.32.214.128,1.32.214.131,HK,Hong Kong,AS,Asia
+1.32.214.132,1.32.215.55,TW,Taiwan,AS,Asia
+1.32.215.56,1.32.215.59,HK,Hong Kong,AS,Asia
+1.32.215.60,1.32.215.255,TW,Taiwan,AS,Asia
+1.32.216.0,1.32.219.255,HK,Hong Kong,AS,Asia
+1.32.220.0,1.32.220.255,TW,Taiwan,AS,Asia
+1.32.221.0,1.32.225.255,HK,Hong Kong,AS,Asia
+1.32.226.0,1.32.226.255,JP,Japan,AS,Asia
