@@ -41,7 +41,7 @@
 {"start_ip": "1.8.1.0", "end_ip": "1.8.1.255", "join_key": "1.8.0.0", "asn": "AS38345", "domain": "knet.cn", "name": "Internet Domain Name System Beijing Engineering Resrarch Center Ltd.", "type": "hosting", "country": "CN"}
 {"start_ip": "1.8.8.0", "end_ip": "1.8.8.255", "join_key": "1.8.0.0", "asn": "AS38345", "domain": "knet.cn", "name": "Internet Domain Name System Beijing Engineering Resrarch Center Ltd.", "type": "hosting", "country": "CN"}
 {"start_ip": "1.9.0.0", "end_ip": "1.9.255.255", "join_key": "1.9.0.0", "asn": "AS4788", "domain": "tm.com.my", "name": "TM TECHNOLOGY SERVICES SDN. BHD.", "type": "isp", "country": "MY"}
-{"start_ip": "1.10.10.0", "end_ip": "1.10.10.255", "join_key": "1.10.0.0", "asn": "AS148000", "domain": "dns.nic.in", "name": "BHARAT PUBLIC DNS (1.10.10.10)", "type": "business", "country": "IN"}
+{"start_ip": "1.10.10.0", "end_ip": "1.10.10.255", "join_key": "1.10.0.0", "asn": "AS148000", "domain": "dns.nic.in", "name": "BHARAT PUBLIC DNS (1.10.10.10)", "type": "hosting", "country": "IN"}
 {"start_ip": "1.10.128.0", "end_ip": "1.10.134.255", "join_key": "1.10.0.0", "asn": "AS23969", "domain": "ntplc.co.th", "name": "TOT Public Company Limited", "type": "isp", "country": "TH"}
 {"start_ip": "1.10.135.0", "end_ip": "1.10.135.255", "join_key": "1.10.0.0", "asn": "AS23974", "domain": "moe.go.th", "name": "Ministry of education", "type": "government", "country": "TH"}
 {"start_ip": "1.10.136.0", "end_ip": "1.10.255.255", "join_key": "1.10.0.0", "asn": "AS23969", "domain": "ntplc.co.th", "name": "TOT Public Company Limited", "type": "isp", "country": "TH"}

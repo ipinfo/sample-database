@@ -15,10 +15,10 @@ range,id,name,country,status,tech,maintainer,admin,source,whois_domain,updated,o
 1.0.17.0/24,I2TS-MTK-NET,i2ts inc.,JP,,JP00078611,,JP00078611,jpnic,i2ts.com,2025-06-25,,i2ts.com,i2ts.com,,,,,,
 1.0.32.0/19,CHINANET-GD,CHINANET Guangdong province network,CN,ALLOCATED PORTABLE,IC83-AP,MAINT-CHINANET-GD,CH93-AP,apnic,chinatelecom.cn,2023-12-21,,,chinatelecom.cn,,,,,,
 1.0.64.0/18,MEGAEGG-CIDR-BLK-JP,"Enecom,Inc.",JP,ALLOCATED PORTABLE,JP00065730,MAINT-JPNIC,JP00076967,jpnic,megaegg.ne.jp,2017-04-06,,,megaegg.ne.jp,,,AS18144,"Enecom,Inc.",enecom.co.jp,business
-1.0.64.0/20,MEGAEGG,"Enecom,Inc.",JP,,JP00076967,,JP00076967,jpnic,,2024-05-15,,,eneco.nl,,,AS18144,"Enecom,Inc.",enecom.co.jp,business
-1.0.80.0/20,MEGAEGG,"Enecom,Inc.",JP,,JP00076967,,JP00076967,jpnic,,2024-05-15,,,eneco.nl,,,AS18144,"Enecom,Inc.",enecom.co.jp,business
-1.0.96.0/20,MEGAEGG,"Enecom,Inc.",JP,,JP00076967,,JP00076967,jpnic,,2024-05-15,,,eneco.nl,,,AS18144,"Enecom,Inc.",enecom.co.jp,business
-1.0.112.0/20,MEGAEGG,"Enecom,Inc.",JP,,JP00076967,,JP00076967,jpnic,,2024-05-15,,,eneco.nl,,,AS18144,"Enecom,Inc.",enecom.co.jp,business
+1.0.64.0/20,MEGAEGG,"Enecom,Inc.",JP,,JP00076967,,JP00076967,jpnic,,2026-03-10,,,eneco.nl,,,AS18144,"Enecom,Inc.",enecom.co.jp,business
+1.0.80.0/20,MEGAEGG,"Enecom,Inc.",JP,,JP00076967,,JP00076967,jpnic,,2026-03-10,,,eneco.nl,,,AS18144,"Enecom,Inc.",enecom.co.jp,business
+1.0.96.0/20,MEGAEGG,"Enecom,Inc.",JP,,JP00076967,,JP00076967,jpnic,,2026-03-10,,,eneco.nl,,,AS18144,"Enecom,Inc.",enecom.co.jp,business
+1.0.112.0/20,MEGAEGG,"Enecom,Inc.",JP,,JP00076967,,JP00076967,jpnic,,2026-03-10,,,eneco.nl,,,AS18144,"Enecom,Inc.",enecom.co.jp,business
 1.0.128.0/17,TOT-AS-AP,TOT Public Company Limited,TH,ALLOCATED PORTABLE,AG100-AP,MAINT-TH-TOT,PA82-AP,apnic,totidc.net,2020-07-09,ORG-TPCL1-AP,,totidc.net,,********\n********\n********\n********,AS23969,TOT Public Company Limited,ntplc.co.th,isp
 1.0.128.0/18,TOTNET,Dynamic IP Address for residential Broadband Customers,TH,ASSIGNED NON-PORTABLE,AG100-AP,MAINT-TH-TOT,AG100-AP,apnic,ntplc.co.th,2021-01-27,,,totidc.net,,,AS23969,TOT Public Company Limited,ntplc.co.th,isp
 1.0.192.0/18,TOTNET,Dynamic IP Address for residential Broadband Customers,TH,ASSIGNED NON-PORTABLE,AG100-AP,MAINT-TH-TOT,AG100-AP,apnic,ntplc.co.th,2021-01-27,,,totidc.net,,,AS23969,TOT Public Company Limited,ntplc.co.th,isp

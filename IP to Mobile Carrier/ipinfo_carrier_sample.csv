@@ -21,9 +21,7 @@ network,name,country,mcc,mnc
 1.38.40.0/23,Vi India,IN,404,22
 1.38.42.0/24,Vi India,IN,404,22
 1.38.43.0/24,Vi India,IN,404,22
-1.38.44.0/24,Vi India,IN,404,22
-1.38.45.0/24,Vi India,IN,404,22
-1.38.46.0/23,Vi India,IN,404,22
+1.38.44.0/22,Vi India,IN,404,22
 1.38.48.0/21,Vi India,IN,404,22
 1.38.65.0/24,Vi India,IN,404,22
 1.38.66.0/24,Vi India,IN,404,22
@@ -99,3 +97,5 @@ network,name,country,mcc,mnc
 1.39.233.0/24,Vi India,IN,404,22
 1.39.234.0/24,Vi India,IN,404,22
 1.39.236.0/23,Vi India,IN,404,22
+1.39.242.0/24,Vi India,IN,404,22
+1.39.245.0/24,Vi India,IN,404,22

@@ -42,7 +42,7 @@ start_ip,end_ip,join_key,asn,domain,name,type,country
 1.8.1.0,1.8.1.255,1.8.0.0,AS38345,knet.cn,Internet Domain Name System Beijing Engineering Resrarch Center Ltd.,hosting,CN
 1.8.8.0,1.8.8.255,1.8.0.0,AS38345,knet.cn,Internet Domain Name System Beijing Engineering Resrarch Center Ltd.,hosting,CN
 1.9.0.0,1.9.255.255,1.9.0.0,AS4788,tm.com.my,TM TECHNOLOGY SERVICES SDN. BHD.,isp,MY
-1.10.10.0,1.10.10.255,1.10.0.0,AS148000,dns.nic.in,BHARAT PUBLIC DNS (1.10.10.10),business,IN
+1.10.10.0,1.10.10.255,1.10.0.0,AS148000,dns.nic.in,BHARAT PUBLIC DNS (1.10.10.10),hosting,IN
 1.10.128.0,1.10.134.255,1.10.0.0,AS23969,ntplc.co.th,TOT Public Company Limited,isp,TH
 1.10.135.0,1.10.135.255,1.10.0.0,AS23974,moe.go.th,Ministry of education,government,TH
 1.10.136.0,1.10.255.255,1.10.0.0,AS23969,ntplc.co.th,TOT Public Company Limited,isp,TH

@@ -94,7 +94,7 @@ start_ip,end_ip,join_key,name,domain,type,asn,as_name,as_domain,as_type,country
 1.9.206.0,1.9.255.255,1.9.0.0,TM TECHNOLOGY SERVICES SDN. BHD.,tm.com.my,isp,AS4788,TM TECHNOLOGY SERVICES SDN. BHD.,tm.com.my,isp,MY
 1.10.0.0,1.10.7.255,1.10.0.0,CHINANET Guangdong province network,chinatelecom.cn,isp,,,,,CN
 1.10.8.0,1.10.9.255,1.10.0.0,CHINANET FUJIAN PROVINCE NETWORK,chinatelecom.cn,isp,,,,,CN
-1.10.10.0,1.10.10.255,1.10.0.0,National Internet Exchange of India,nixi.in,isp,AS148000,BHARAT PUBLIC DNS (1.10.10.10),dns.nic.in,business,IN
+1.10.10.0,1.10.10.255,1.10.0.0,National Internet Exchange of India,nixi.in,isp,AS148000,BHARAT PUBLIC DNS (1.10.10.10),dns.nic.in,hosting,IN
 1.10.11.0,1.10.15.255,1.10.0.0,CHINANET FUJIAN PROVINCE NETWORK,chinatelecom.cn,isp,,,,,CN
 1.10.16.0,1.10.127.255,1.10.0.0,CHINANET Guangdong province network,chinatelecom.cn,isp,,,,,CN
 1.10.128.0,1.10.139.255,1.10.0.0,Shared Dynamic IP Address for Residential Broadband Services,totbb.net,isp,AS23969,TOT Public Company Limited,ntplc.co.th,isp,TH
