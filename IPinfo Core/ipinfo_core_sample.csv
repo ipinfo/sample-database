@@ -4,7 +4,11 @@ network,city,region,region_code,country,country_code,continent,continent_code,la
 1.0.0.3,Sydney,New South Wales,NSW,Australia,AU,Oceania,OC,-33.86785,151.20732,Australia/Sydney,1001,AS13335,"Cloudflare, Inc.",cloudflare.com,hosting,false,true,true,false,false
 1.0.0.4/30,Sydney,New South Wales,NSW,Australia,AU,Oceania,OC,-33.86785,151.20732,Australia/Sydney,1001,AS13335,"Cloudflare, Inc.",cloudflare.com,hosting,false,true,true,false,false
 1.0.0.8/29,Sydney,New South Wales,NSW,Australia,AU,Oceania,OC,-33.86785,151.20732,Australia/Sydney,1001,AS13335,"Cloudflare, Inc.",cloudflare.com,hosting,false,true,true,false,false
-1.0.0.16/28,Sydney,New South Wales,NSW,Australia,AU,Oceania,OC,-33.86785,151.20732,Australia/Sydney,1001,AS13335,"Cloudflare, Inc.",cloudflare.com,hosting,false,true,true,false,false
+1.0.0.16/29,Sydney,New South Wales,NSW,Australia,AU,Oceania,OC,-33.86785,151.20732,Australia/Sydney,1001,AS13335,"Cloudflare, Inc.",cloudflare.com,hosting,false,true,true,false,false
+1.0.0.24/31,Sydney,New South Wales,NSW,Australia,AU,Oceania,OC,-33.86785,151.20732,Australia/Sydney,1001,AS13335,"Cloudflare, Inc.",cloudflare.com,hosting,false,true,true,false,false
+1.0.0.26,Sydney,New South Wales,NSW,Australia,AU,Oceania,OC,-33.86785,151.20732,Australia/Sydney,1001,AS13335,"Cloudflare, Inc.",cloudflare.com,hosting,true,true,true,false,false
+1.0.0.27,Sydney,New South Wales,NSW,Australia,AU,Oceania,OC,-33.86785,151.20732,Australia/Sydney,1001,AS13335,"Cloudflare, Inc.",cloudflare.com,hosting,false,true,true,false,false
+1.0.0.28/30,Sydney,New South Wales,NSW,Australia,AU,Oceania,OC,-33.86785,151.20732,Australia/Sydney,1001,AS13335,"Cloudflare, Inc.",cloudflare.com,hosting,false,true,true,false,false
 1.0.0.32/27,Sydney,New South Wales,NSW,Australia,AU,Oceania,OC,-33.86785,151.20732,Australia/Sydney,1001,AS13335,"Cloudflare, Inc.",cloudflare.com,hosting,false,true,true,false,false
 1.0.0.64/26,Sydney,New South Wales,NSW,Australia,AU,Oceania,OC,-33.86785,151.20732,Australia/Sydney,1001,AS13335,"Cloudflare, Inc.",cloudflare.com,hosting,false,true,true,false,false
 1.0.0.128/25,Sydney,New South Wales,NSW,Australia,AU,Oceania,OC,-33.86785,151.20732,Australia/Sydney,1001,AS13335,"Cloudflare, Inc.",cloudflare.com,hosting,false,true,true,false,false
@@ -41,7 +45,11 @@ network,city,region,region_code,country,country_code,continent,continent_code,la
 1.0.64.130/31,Iwakuni,Yamaguchi,35,Japan,JP,Asia,AS,34.16297,132.22,Asia/Tokyo,741-0062,AS18144,"Enecom,Inc.",enecom.co.jp,business,false,false,false,false,false
 1.0.64.132/30,Iwakuni,Yamaguchi,35,Japan,JP,Asia,AS,34.16297,132.22,Asia/Tokyo,741-0062,AS18144,"Enecom,Inc.",enecom.co.jp,business,false,false,false,false,false
 1.0.64.136/29,Iwakuni,Yamaguchi,35,Japan,JP,Asia,AS,34.16297,132.22,Asia/Tokyo,741-0062,AS18144,"Enecom,Inc.",enecom.co.jp,business,false,false,false,false,false
-1.0.64.144/28,Iwakuni,Yamaguchi,35,Japan,JP,Asia,AS,34.16297,132.22,Asia/Tokyo,741-0062,AS18144,"Enecom,Inc.",enecom.co.jp,business,false,false,false,false,false
+1.0.64.144,Iwakuni,Yamaguchi,35,Japan,JP,Asia,AS,34.16297,132.22,Asia/Tokyo,741-0062,AS18144,"Enecom,Inc.",enecom.co.jp,business,true,false,false,false,false
+1.0.64.145,Iwakuni,Yamaguchi,35,Japan,JP,Asia,AS,34.16297,132.22,Asia/Tokyo,741-0062,AS18144,"Enecom,Inc.",enecom.co.jp,business,false,false,false,false,false
+1.0.64.146/31,Iwakuni,Yamaguchi,35,Japan,JP,Asia,AS,34.16297,132.22,Asia/Tokyo,741-0062,AS18144,"Enecom,Inc.",enecom.co.jp,business,false,false,false,false,false
+1.0.64.148/30,Iwakuni,Yamaguchi,35,Japan,JP,Asia,AS,34.16297,132.22,Asia/Tokyo,741-0062,AS18144,"Enecom,Inc.",enecom.co.jp,business,false,false,false,false,false
+1.0.64.152/29,Iwakuni,Yamaguchi,35,Japan,JP,Asia,AS,34.16297,132.22,Asia/Tokyo,741-0062,AS18144,"Enecom,Inc.",enecom.co.jp,business,false,false,false,false,false
 1.0.64.160/28,Iwakuni,Yamaguchi,35,Japan,JP,Asia,AS,34.16297,132.22,Asia/Tokyo,741-0062,AS18144,"Enecom,Inc.",enecom.co.jp,business,false,false,false,false,false
 1.0.64.176/30,Iwakuni,Yamaguchi,35,Japan,JP,Asia,AS,34.16297,132.22,Asia/Tokyo,741-0062,AS18144,"Enecom,Inc.",enecom.co.jp,business,false,false,false,false,false
 1.0.64.180,Iwakuni,Yamaguchi,35,Japan,JP,Asia,AS,34.16297,132.22,Asia/Tokyo,741-0062,AS18144,"Enecom,Inc.",enecom.co.jp,business,false,false,false,false,false
@@ -91,11 +99,3 @@ network,city,region,region_code,country,country_code,continent,continent_code,la
 1.0.67.160/30,Hiroshima,Hiroshima,34,Japan,JP,Asia,AS,34.4,132.45,Asia/Tokyo,730-0011,AS18144,"Enecom,Inc.",enecom.co.jp,business,false,false,false,false,false
 1.0.67.164,Hiroshima,Hiroshima,34,Japan,JP,Asia,AS,34.4,132.45,Asia/Tokyo,730-0011,AS18144,"Enecom,Inc.",enecom.co.jp,business,false,false,false,false,false
 1.0.67.165,Hiroshima,Hiroshima,34,Japan,JP,Asia,AS,34.4,132.45,Asia/Tokyo,730-0011,AS18144,"Enecom,Inc.",enecom.co.jp,business,true,false,false,false,false
-1.0.67.166/31,Hiroshima,Hiroshima,34,Japan,JP,Asia,AS,34.4,132.45,Asia/Tokyo,730-0011,AS18144,"Enecom,Inc.",enecom.co.jp,business,false,false,false,false,false
-1.0.67.168/29,Hiroshima,Hiroshima,34,Japan,JP,Asia,AS,34.4,132.45,Asia/Tokyo,730-0011,AS18144,"Enecom,Inc.",enecom.co.jp,business,false,false,false,false,false
-1.0.67.176/28,Hiroshima,Hiroshima,34,Japan,JP,Asia,AS,34.4,132.45,Asia/Tokyo,730-0011,AS18144,"Enecom,Inc.",enecom.co.jp,business,false,false,false,false,false
-1.0.67.192/26,Hiroshima,Hiroshima,34,Japan,JP,Asia,AS,34.4,132.45,Asia/Tokyo,730-0011,AS18144,"Enecom,Inc.",enecom.co.jp,business,false,false,false,false,false
-1.0.68.0/26,Hiroshima,Hiroshima,34,Japan,JP,Asia,AS,34.4,132.45,Asia/Tokyo,730-0011,AS18144,"Enecom,Inc.",enecom.co.jp,business,false,false,false,false,false
-1.0.68.64/28,Hiroshima,Hiroshima,34,Japan,JP,Asia,AS,34.4,132.45,Asia/Tokyo,730-0011,AS18144,"Enecom,Inc.",enecom.co.jp,business,false,false,false,false,false
-1.0.68.80/30,Hiroshima,Hiroshima,34,Japan,JP,Asia,AS,34.4,132.45,Asia/Tokyo,730-0011,AS18144,"Enecom,Inc.",enecom.co.jp,business,false,false,false,false,false
-1.0.68.84,Hiroshima,Hiroshima,34,Japan,JP,Asia,AS,34.4,132.45,Asia/Tokyo,730-0011,AS18144,"Enecom,Inc.",enecom.co.jp,business,false,false,false,false,false

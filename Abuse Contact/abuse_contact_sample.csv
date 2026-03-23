@@ -9,8 +9,7 @@ start_ip,end_ip,join_key,name,email,address,country,phone
 1.0.128.0,1.0.255.255,1.0.0.0,ABUSE TOTTH,abuse@totisp.net,"TOT Public Company Limited, 89/2 Moo 3 Chaengwattana Rd, Laksi,Bangkok 10210 THAILAND",TH,+000000000
 1.1.0.0,1.1.0.255,1.1.0.0,ABUSE CHINANETCN,anti-spam@chinatelecom.cn,"No.31 ,jingrong street,beijing, 100032",CN,+000000000
 1.1.1.0,1.1.1.255,1.1.0.0,ABUSE APNICRANDNETAU,helpdesk@apnic.net,"PO Box 3646, South Brisbane, QLD 4101, Australia",AU,+000000000
-1.1.2.0,1.1.3.255,1.1.0.0,ABUSE CHINANETCN,anti-spam@chinatelecom.cn,"No.31 ,jingrong street,beijing, 100032",CN,+000000000
-1.1.4.0,1.1.7.255,1.1.0.0,CHINANETFJ IP ADMIN,anti-spam@chinatelecom.cn,"No.31 ,jingrong street,beijing, 100032",CN,+86-591-83309761
+1.1.2.0,1.1.7.255,1.1.0.0,ABUSE CHINANETCN,anti-spam@chinatelecom.cn,"No.31 ,jingrong street,beijing, 100032",CN,+000000000
 1.1.8.0,1.1.8.255,1.1.0.0,ABUSE YNCLCN,hch.xie@yamu.com,"No.180 Yizhou Road, Xuhui District, Shanghai, Shanghai Shanghai 200030",CN,+000000000
 1.1.9.0,1.1.63.255,1.1.0.0,ABUSE CHINANETCN,anti-spam@chinatelecom.cn,"No.31 ,jingrong street,beijing, 100032",CN,+000000000
 1.1.64.0,1.1.127.255,1.1.0.0,,hostmaster@nic.ad.jp,"Uchikanda OS Bldg 4F, 2-12-6 Uchi-Kanda, Chiyoda-ku, Tokyo 101-0047, japan",JP,+81-3-5297-2311
@@ -64,7 +63,7 @@ start_ip,end_ip,join_key,name,email,address,country,phone
 1.19.0.0,1.19.255.255,1.19.0.0,IP Manager,irt@nic.or.kr,"9, Jinheung-gil, Naju-si, Jeollanam-do",KR,+82-2-405-5118
 1.20.0.0,1.20.255.255,1.20.0.0,ABUSE TOTMOBILETH,abuse@totidc.net,"TOT Public Company Limited, 89/2 Moo 3 Chaengwattana Rd, Laksi,Bangkok 10210 THAILAND",TH,+000000000
 1.21.0.0,1.21.223.255,1.21.0.0,,hostmaster@nic.ad.jp,"Uchikanda OS Bldg 4F, 2-12-6 Uchi-Kanda, Chiyoda-ku, Tokyo 101-0047, japan",JP,+81-3-5297-2311
-1.21.224.0,1.21.255.255,1.21.0.0,ABUSE BYTEPLUSSG,bd_abuse@bytedance.com,"1 Raffles Quay, # 26-10, South Tower, Singapore Singapore 048583",SG,+000000000
+1.21.224.0,1.21.255.255,1.21.0.0,ABUSE BYTEPLUSSG,bd_abuse@bytedance.com,"1 Raffles Quay,",SG,+000000000
 1.22.0.0,1.22.156.191,1.22.0.0,NOC Manager,Sudhir.Kumar@tikona.in,"C69, Sector 58, Noida,NOIDA,Uttar Pradesh-201307",IN,+91 01204580519
 1.22.156.192,1.22.156.255,1.22.0.0,Jaydeep Sampat,abuse@tikona.in,"Tikona Digital Networks, Corpora,Office No 3A, 3rd Floor, LBS Marg, Bhandup (W), Mumbai 400 078",IN,+91-22-6784-0000
 1.22.157.0,1.22.255.255,1.22.0.0,NOC Manager,Sudhir.Kumar@tikona.in,"C69, Sector 58, Noida,NOIDA,Uttar Pradesh-201307",IN,+91 01204580519
@@ -99,3 +98,4 @@ start_ip,end_ip,join_key,name,email,address,country,phone
 1.32.224.0,1.32.227.255,1.32.0.0,ABUSE RCPLSG,abuse@bgp.net,"399 Chai Wan Road, Chai Wan, Hong Kong",HK,+000000000
 1.32.228.0,1.32.229.255,1.32.0.0,ABUSE CTGHK,cs.mail@ctgserver.com,"202 ,2/F Kam Sang BLDG 257,Des Voeux RD Central Hong Kong",HK,+000000000
 1.32.230.0,1.32.245.255,1.32.0.0,ABUSE RCPLSG,abuse@bgp.net,"399 Chai Wan Road, Chai Wan, Hong Kong",HK,+000000000
+1.32.246.0,1.32.255.255,1.32.0.0,ABUSE CTGHK,cs.mail@ctgserver.com,"202 ,2/F Kam Sang BLDG 257,Des Voeux RD Central Hong Kong",HK,+000000000

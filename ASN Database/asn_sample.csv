@@ -4,7 +4,7 @@ start_ip,end_ip,join_key,asn,domain,name,type,country
 1.0.16.0,1.0.16.255,1.0.0.0,AS2519,arteria-net.com,ARTERIA Networks Corporation,isp,JP
 1.0.64.0,1.0.127.255,1.0.0.0,AS18144,enecom.co.jp,"Enecom,Inc.",business,JP
 1.0.128.0,1.0.196.255,1.0.0.0,AS23969,ntplc.co.th,TOT Public Company Limited,isp,TH
-1.0.197.0,1.0.197.255,1.0.0.0,AS23974,moe.go.th,Ministry of education,government,TH
+1.0.197.0,1.0.197.255,1.0.0.0,AS23974,moe.go.th,Ministry of education,education,TH
 1.0.198.0,1.0.255.255,1.0.0.0,AS23969,ntplc.co.th,TOT Public Company Limited,isp,TH
 1.1.1.0,1.1.1.255,1.1.0.0,AS13335,cloudflare.com,"Cloudflare, Inc.",hosting,US
 1.1.8.0,1.1.8.255,1.1.0.0,AS149511,yamu.com,"Yamu Technologies Co., Ltd.",hosting,CN
@@ -44,7 +44,7 @@ start_ip,end_ip,join_key,asn,domain,name,type,country
 1.9.0.0,1.9.255.255,1.9.0.0,AS4788,tm.com.my,TM TECHNOLOGY SERVICES SDN. BHD.,isp,MY
 1.10.10.0,1.10.10.255,1.10.0.0,AS148000,dns.nic.in,BHARAT PUBLIC DNS (1.10.10.10),hosting,IN
 1.10.128.0,1.10.134.255,1.10.0.0,AS23969,ntplc.co.th,TOT Public Company Limited,isp,TH
-1.10.135.0,1.10.135.255,1.10.0.0,AS23974,moe.go.th,Ministry of education,government,TH
+1.10.135.0,1.10.135.255,1.10.0.0,AS23974,moe.go.th,Ministry of education,education,TH
 1.10.136.0,1.10.255.255,1.10.0.0,AS23969,ntplc.co.th,TOT Public Company Limited,isp,TH
 1.11.0.0,1.11.7.255,1.11.0.0,AS18313,lghellovision.net,LG HelloVision Corp.,isp,KR
 1.11.8.0,1.11.19.255,1.11.0.0,AS18318,lghellovision.net,LG HelloVision Corp.,isp,KR

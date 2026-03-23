@@ -3,7 +3,7 @@
 {"start_ip": "1.0.16.0", "end_ip": "1.0.16.255", "join_key": "1.0.0.0", "asn": "AS2519", "domain": "arteria-net.com", "name": "ARTERIA Networks Corporation", "type": "isp", "country": "JP"}
 {"start_ip": "1.0.64.0", "end_ip": "1.0.127.255", "join_key": "1.0.0.0", "asn": "AS18144", "domain": "enecom.co.jp", "name": "Enecom,Inc.", "type": "business", "country": "JP"}
 {"start_ip": "1.0.128.0", "end_ip": "1.0.196.255", "join_key": "1.0.0.0", "asn": "AS23969", "domain": "ntplc.co.th", "name": "TOT Public Company Limited", "type": "isp", "country": "TH"}
-{"start_ip": "1.0.197.0", "end_ip": "1.0.197.255", "join_key": "1.0.0.0", "asn": "AS23974", "domain": "moe.go.th", "name": "Ministry of education", "type": "government", "country": "TH"}
+{"start_ip": "1.0.197.0", "end_ip": "1.0.197.255", "join_key": "1.0.0.0", "asn": "AS23974", "domain": "moe.go.th", "name": "Ministry of education", "type": "education", "country": "TH"}
 {"start_ip": "1.0.198.0", "end_ip": "1.0.255.255", "join_key": "1.0.0.0", "asn": "AS23969", "domain": "ntplc.co.th", "name": "TOT Public Company Limited", "type": "isp", "country": "TH"}
 {"start_ip": "1.1.1.0", "end_ip": "1.1.1.255", "join_key": "1.1.0.0", "asn": "AS13335", "domain": "cloudflare.com", "name": "Cloudflare, Inc.", "type": "hosting", "country": "US"}
 {"start_ip": "1.1.8.0", "end_ip": "1.1.8.255", "join_key": "1.1.0.0", "asn": "AS149511", "domain": "yamu.com", "name": "Yamu Technologies Co., Ltd.", "type": "hosting", "country": "CN"}
@@ -43,7 +43,7 @@
 {"start_ip": "1.9.0.0", "end_ip": "1.9.255.255", "join_key": "1.9.0.0", "asn": "AS4788", "domain": "tm.com.my", "name": "TM TECHNOLOGY SERVICES SDN. BHD.", "type": "isp", "country": "MY"}
 {"start_ip": "1.10.10.0", "end_ip": "1.10.10.255", "join_key": "1.10.0.0", "asn": "AS148000", "domain": "dns.nic.in", "name": "BHARAT PUBLIC DNS (1.10.10.10)", "type": "hosting", "country": "IN"}
 {"start_ip": "1.10.128.0", "end_ip": "1.10.134.255", "join_key": "1.10.0.0", "asn": "AS23969", "domain": "ntplc.co.th", "name": "TOT Public Company Limited", "type": "isp", "country": "TH"}
-{"start_ip": "1.10.135.0", "end_ip": "1.10.135.255", "join_key": "1.10.0.0", "asn": "AS23974", "domain": "moe.go.th", "name": "Ministry of education", "type": "government", "country": "TH"}
+{"start_ip": "1.10.135.0", "end_ip": "1.10.135.255", "join_key": "1.10.0.0", "asn": "AS23974", "domain": "moe.go.th", "name": "Ministry of education", "type": "education", "country": "TH"}
 {"start_ip": "1.10.136.0", "end_ip": "1.10.255.255", "join_key": "1.10.0.0", "asn": "AS23969", "domain": "ntplc.co.th", "name": "TOT Public Company Limited", "type": "isp", "country": "TH"}
 {"start_ip": "1.11.0.0", "end_ip": "1.11.7.255", "join_key": "1.11.0.0", "asn": "AS18313", "domain": "lghellovision.net", "name": "LG HelloVision Corp.", "type": "isp", "country": "KR"}
 {"start_ip": "1.11.8.0", "end_ip": "1.11.19.255", "join_key": "1.11.0.0", "asn": "AS18318", "domain": "lghellovision.net", "name": "LG HelloVision Corp.", "type": "isp", "country": "KR"}
