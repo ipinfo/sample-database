@@ -10,8 +10,8 @@ range,id,name,country,status,tech,maintainer,admin,source,whois_domain,updated,o
 1.0.6.0/24,GTELECOM-AU,Gtelecom Pty Ltd,AU,ALLOCATED NON-PORTABLE,GPLA15-AP,MAINT-GTELECOM2-AU,GPLA15-AP,apnic,gtelecom.com.au,2024-09-18,,,gtelecom.com.au,,,AS38803,Gtelecom Pty Ltd,gtelecom.com.au,isp
 1.0.7.0/24,GTELECOM-AU,Gtelecom Pty Ltd,AU,ALLOCATED NON-PORTABLE,GPLA15-AP,MAINT-GTELECOM2-AU,GPLA15-AP,apnic,gtelecom.com.au,2024-09-18,,,gtelecom.com.au,,,AS38803,Gtelecom Pty Ltd,gtelecom.com.au,isp
 1.0.8.0/21,CHINANET-GD,CHINANET Guangdong province network,CN,ALLOCATED PORTABLE,IC83-AP,MAINT-CHINANET-GD,CH93-AP,apnic,chinatelecom.cn,2023-12-21,,,chinatelecom.cn,,,,,,
-1.0.16.0/20,I2TS-CIDR-BLK-JP,"i2ts,inc.",JP,ALLOCATED PORTABLE,JP00078611,MAINT-JPNIC,JP00078611,jpnic,i2ts.com,2012-03-23,,i2ts.com,i2ts.com,,,AS2519,ARTERIA Networks Corporation,arteria-net.com,isp
-1.0.16.0/24,I2TS-MTK-NET,"i2ts,inc.",JP,,JP00078611,,JP00078611,jpnic,i2ts.com,2018-01-23,,i2ts.com,i2ts.com,,,AS2519,ARTERIA Networks Corporation,arteria-net.com,isp
+1.0.16.0/20,I2TS-CIDR-BLK-JP,"i2ts,inc.",JP,ALLOCATED PORTABLE,JP00078611,MAINT-JPNIC,JP00078611,jpnic,i2ts.com,2012-03-23,,i2ts.com,i2ts.com,,,AS2519,ARTERIA Networks Corporation,arteria-net.com,hosting
+1.0.16.0/24,I2TS-MTK-NET,"i2ts,inc.",JP,,JP00078611,,JP00078611,jpnic,i2ts.com,2018-01-23,,i2ts.com,i2ts.com,,,AS2519,ARTERIA Networks Corporation,arteria-net.com,hosting
 1.0.17.0/24,I2TS-MTK-NET,i2ts inc.,JP,,JP00078611,,JP00078611,jpnic,i2ts.com,2025-06-25,,i2ts.com,i2ts.com,,,,,,
 1.0.32.0/19,CHINANET-GD,CHINANET Guangdong province network,CN,ALLOCATED PORTABLE,IC83-AP,MAINT-CHINANET-GD,CH93-AP,apnic,chinatelecom.cn,2023-12-21,,,chinatelecom.cn,,,,,,
 1.0.64.0/18,MEGAEGG-CIDR-BLK-JP,"Enecom,Inc.",JP,ALLOCATED PORTABLE,JP00065730,MAINT-JPNIC,JP00076967,jpnic,megaegg.ne.jp,2017-04-06,,,megaegg.ne.jp,,,AS18144,"Enecom,Inc.",enecom.co.jp,business
@@ -30,51 +30,51 @@ range,id,name,country,status,tech,maintainer,admin,source,whois_domain,updated,o
 1.1.9.0-1.1.15.255,CHINANET-GD,CHINANET Guangdong province network,CN,ALLOCATED PORTABLE,IC83-AP,MAINT-CHINANET-GD,CH93-AP,apnic,chinatelecom.cn,2023-12-21,,,chinatelecom.cn,,,,,,
 1.1.16.0/20,CHINANET-GD,CHINANET Guangdong province network,CN,ALLOCATED PORTABLE,IC83-AP,MAINT-CHINANET-GD,CH93-AP,apnic,chinatelecom.cn,2023-12-21,,,chinatelecom.cn,,,,,,
 1.1.32.0/19,CHINANET-GD,CHINANET Guangdong province network,CN,ALLOCATED PORTABLE,IC83-AP,MAINT-CHINANET-GD,CH93-AP,apnic,chinatelecom.cn,2023-12-21,,,chinatelecom.cn,,,,,,
-1.1.64.0/18,I2TS-CIDR-BLK-JP,"i2ts,inc.",JP,ALLOCATED PORTABLE,JP00078611,MAINT-JPNIC,JP00078611,jpnic,i2ts.com,2012-03-23,,i2ts.com,i2ts.com,,,AS2519,ARTERIA Networks Corporation,arteria-net.com,isp
-1.1.64.0/24,I2TS-MTK-NET,"i2ts,inc.",JP,,JP00078611,,JP00078611,jpnic,i2ts.com,2012-03-31,,i2ts.com,i2ts.com,,,AS2519,ARTERIA Networks Corporation,arteria-net.com,isp
-1.1.65.0/24,I2TS-MTK-NET,"i2ts,inc.",JP,,JP00078611,,JP00078611,jpnic,i2ts.com,2012-03-31,,i2ts.com,i2ts.com,,,AS2519,ARTERIA Networks Corporation,arteria-net.com,isp
-1.1.66.0/24,I2TS-MTK-NET,"i2ts,inc.",JP,,JP00078611,,JP00078611,jpnic,i2ts.com,2012-03-31,,i2ts.com,i2ts.com,,,AS2519,ARTERIA Networks Corporation,arteria-net.com,isp
-1.1.67.0/24,I2TS-MTK-NET,"i2ts,inc.",JP,,JP00078611,,JP00078611,jpnic,i2ts.com,2012-03-31,,i2ts.com,i2ts.com,,,AS2519,ARTERIA Networks Corporation,arteria-net.com,isp
-1.1.68.0/24,I2TS-MTK-NET,"i2ts,inc.",JP,,JP00078611,,JP00078611,jpnic,i2ts.com,2012-03-31,,i2ts.com,i2ts.com,,,AS2519,ARTERIA Networks Corporation,arteria-net.com,isp
-1.1.69.0/24,I2TS-MTK-NET,"i2ts,inc.",JP,,JP00078611,,JP00078611,jpnic,i2ts.com,2012-03-31,,i2ts.com,i2ts.com,,,AS2519,ARTERIA Networks Corporation,arteria-net.com,isp
-1.1.70.0/24,I2TS-MTK-NET,"i2ts,inc.",JP,,JP00078611,,JP00078611,jpnic,i2ts.com,2012-03-31,,i2ts.com,i2ts.com,,,AS2519,ARTERIA Networks Corporation,arteria-net.com,isp
-1.1.71.0/24,I2TS-MTK-NET,"i2ts,inc.",JP,,JP00078611,,JP00078611,jpnic,i2ts.com,2012-03-31,,i2ts.com,i2ts.com,,,AS2519,ARTERIA Networks Corporation,arteria-net.com,isp
-1.1.72.0/24,I2TS-MTK-NET,"i2ts,inc.",JP,,JP00078611,,JP00078611,jpnic,i2ts.com,2012-03-31,,i2ts.com,i2ts.com,,,AS2519,ARTERIA Networks Corporation,arteria-net.com,isp
-1.1.73.0/24,I2TS-MTK-NET,"i2ts,inc.",JP,,JP00078611,,JP00078611,jpnic,i2ts.com,2012-04-20,,i2ts.com,i2ts.com,,,AS2519,ARTERIA Networks Corporation,arteria-net.com,isp
-1.1.74.0/24,I2TS-MTK-NET,"i2ts,inc.",JP,,JP00078611,,JP00078611,jpnic,i2ts.com,2012-03-31,,i2ts.com,i2ts.com,,,AS2519,ARTERIA Networks Corporation,arteria-net.com,isp
-1.1.75.0/24,I2TS-MTK-NET,"i2ts,inc.",JP,,JP00078611,,JP00078611,jpnic,i2ts.com,2012-03-31,,i2ts.com,i2ts.com,,,AS2519,ARTERIA Networks Corporation,arteria-net.com,isp
-1.1.76.0/24,I2TS-MTK-NET,"i2ts,inc.",JP,,JP00078611,,JP00078611,jpnic,i2ts.com,2012-03-31,,i2ts.com,i2ts.com,,,AS2519,ARTERIA Networks Corporation,arteria-net.com,isp
-1.1.77.0/24,I2TS-MTK-NET,"i2ts,inc.",JP,,JP00078611,,JP00078611,jpnic,i2ts.com,2012-03-31,,i2ts.com,i2ts.com,,,AS2519,ARTERIA Networks Corporation,arteria-net.com,isp
-1.1.78.0/24,I2TS-MTK-NET,"i2ts,inc.",JP,,JP00078611,,JP00078611,jpnic,i2ts.com,2012-03-31,,i2ts.com,i2ts.com,,,AS2519,ARTERIA Networks Corporation,arteria-net.com,isp
-1.1.79.0/24,I2TS-MTK-NET,"i2ts,inc.",JP,,JP00078611,,JP00078611,jpnic,i2ts.com,2012-12-12,,i2ts.com,i2ts.com,,,AS2519,ARTERIA Networks Corporation,arteria-net.com,isp
-1.1.80.0/24,I2TS-MTK-NET,"i2ts,inc.",JP,,JP00078611,,JP00078611,jpnic,i2ts.com,2012-04-20,,i2ts.com,i2ts.com,,,AS2519,ARTERIA Networks Corporation,arteria-net.com,isp
-1.1.81.0/24,I2TS-MTK-NET,"i2ts,inc.",JP,,JP00078611,,JP00078611,jpnic,i2ts.com,2012-04-20,,i2ts.com,i2ts.com,,,AS2519,ARTERIA Networks Corporation,arteria-net.com,isp
-1.1.82.0/24,I2TS-MTK-NET,"i2ts,inc.",JP,,JP00078611,,JP00078611,jpnic,i2ts.com,2012-04-20,,i2ts.com,i2ts.com,,,AS2519,ARTERIA Networks Corporation,arteria-net.com,isp
-1.1.83.0/24,I2TS-MTK-NET,"i2ts,inc.",JP,,JP00078611,,JP00078611,jpnic,i2ts.com,2012-04-20,,i2ts.com,i2ts.com,,,AS2519,ARTERIA Networks Corporation,arteria-net.com,isp
-1.1.84.0/24,I2TS-MTK-NET,"i2ts,inc.",JP,,JP00078611,,JP00078611,jpnic,i2ts.com,2012-04-20,,i2ts.com,i2ts.com,,,AS2519,ARTERIA Networks Corporation,arteria-net.com,isp
-1.1.85.0/24,I2TS-MTK-NET,"i2ts,inc.",JP,,JP00078611,,JP00078611,jpnic,i2ts.com,2012-04-20,,i2ts.com,i2ts.com,,,AS2519,ARTERIA Networks Corporation,arteria-net.com,isp
-1.1.86.0/24,I2TS-MTK-NET,"i2ts,inc.",JP,,JP00078611,,JP00078611,jpnic,i2ts.com,2012-04-20,,i2ts.com,i2ts.com,,,AS2519,ARTERIA Networks Corporation,arteria-net.com,isp
-1.1.87.0/24,I2TS-MTK-NET,"i2ts,inc.",JP,,JP00078611,,JP00078611,jpnic,i2ts.com,2012-04-20,,i2ts.com,i2ts.com,,,AS2519,ARTERIA Networks Corporation,arteria-net.com,isp
-1.1.88.0/24,I2TS-MTK-NET,"i2ts,inc.",JP,,JP00078611,,JP00078611,jpnic,i2ts.com,2012-04-20,,i2ts.com,i2ts.com,,,AS2519,ARTERIA Networks Corporation,arteria-net.com,isp
-1.1.89.0/24,I2TS-MTK-NET,"i2ts,inc.",JP,,JP00078611,,JP00078611,jpnic,i2ts.com,2012-04-20,,i2ts.com,i2ts.com,,,AS2519,ARTERIA Networks Corporation,arteria-net.com,isp
-1.1.90.0/24,I2TS-MTK-NET,"i2ts,inc.",JP,,JP00078611,,JP00078611,jpnic,i2ts.com,2012-04-20,,i2ts.com,i2ts.com,,,AS2519,ARTERIA Networks Corporation,arteria-net.com,isp
-1.1.91.0/24,I2TS-MTK-NET,"i2ts,inc.",JP,,JP00078611,,JP00078611,jpnic,i2ts.com,2012-04-20,,i2ts.com,i2ts.com,,,AS2519,ARTERIA Networks Corporation,arteria-net.com,isp
-1.1.92.0/24,I2TS-MTK-NET,"i2ts,inc.",JP,,JP00078611,,JP00078611,jpnic,i2ts.com,2012-04-20,,i2ts.com,i2ts.com,,,AS2519,ARTERIA Networks Corporation,arteria-net.com,isp
-1.1.93.0/24,I2TS-MTK-NET,"i2ts,inc.",JP,,JP00078611,,JP00078611,jpnic,i2ts.com,2012-04-20,,i2ts.com,i2ts.com,,,AS2519,ARTERIA Networks Corporation,arteria-net.com,isp
-1.1.94.0/24,I2TS-MTK-NET,"i2ts,inc.",JP,,JP00078611,,JP00078611,jpnic,i2ts.com,2012-04-20,,i2ts.com,i2ts.com,,,AS2519,ARTERIA Networks Corporation,arteria-net.com,isp
-1.1.95.0/24,I2TS-MTK-NET,"i2ts,inc.",JP,,JP00078611,,JP00078611,jpnic,i2ts.com,2012-04-20,,i2ts.com,i2ts.com,,,AS2519,ARTERIA Networks Corporation,arteria-net.com,isp
-1.1.96.0/24,I2TS-NET,"i2ts,inc.",JP,,JP00078611,,JP00078611,jpnic,i2ts.com,2020-09-26,,i2ts.com,i2ts.com,,,AS2519,ARTERIA Networks Corporation,arteria-net.com,isp
-1.1.97.0/24,I2TS-NET,"i2ts,inc.",JP,,JP00078611,,JP00078611,jpnic,i2ts.com,2020-09-26,,i2ts.com,i2ts.com,,,AS2519,ARTERIA Networks Corporation,arteria-net.com,isp
-1.1.98.0/24,I2TS-NET,"i2ts,inc.",JP,,JP00078611,,JP00078611,jpnic,i2ts.com,2020-09-26,,i2ts.com,i2ts.com,,,AS2519,ARTERIA Networks Corporation,arteria-net.com,isp
-1.1.99.0/24,I2TS-NET,"i2ts,inc.",JP,,JP00078611,,JP00078611,jpnic,i2ts.com,2020-09-26,,i2ts.com,i2ts.com,,,AS2519,ARTERIA Networks Corporation,arteria-net.com,isp
-1.1.100.0/24,I2TS-NET,"i2ts,inc.",JP,,JP00078611,,JP00078611,jpnic,i2ts.com,2020-09-26,,i2ts.com,i2ts.com,,,AS2519,ARTERIA Networks Corporation,arteria-net.com,isp
-1.1.101.0/24,I2TS-NET,"i2ts,inc.",JP,,JP00078611,,JP00078611,jpnic,i2ts.com,2020-09-26,,i2ts.com,i2ts.com,,,AS2519,ARTERIA Networks Corporation,arteria-net.com,isp
-1.1.102.0/24,I2TS-NET,"i2ts,inc.",JP,,JP00078611,,JP00078611,jpnic,i2ts.com,2020-09-26,,i2ts.com,i2ts.com,,,AS2519,ARTERIA Networks Corporation,arteria-net.com,isp
-1.1.113.0/24,I2TS-NET,"i2ts,inc.",JP,,JP00078611,,JP00078611,jpnic,i2ts.com,2015-05-15,,i2ts.com,i2ts.com,,,AS2519,ARTERIA Networks Corporation,arteria-net.com,isp
-1.1.114.0/24,I2TS-NET,"i2ts,inc.",JP,,JP00078611,,JP00078611,jpnic,i2ts.com,2015-05-15,,i2ts.com,i2ts.com,,,AS2519,ARTERIA Networks Corporation,arteria-net.com,isp
-1.1.115.0/24,I2TS-NET,"i2ts,inc.",JP,,JP00078611,,JP00078611,jpnic,i2ts.com,2015-05-15,,i2ts.com,i2ts.com,,,AS2519,ARTERIA Networks Corporation,arteria-net.com,isp
-1.1.116.0/24,I2TS-NET,"i2ts,inc.",JP,,JP00078611,,JP00078611,jpnic,i2ts.com,2015-05-15,,i2ts.com,i2ts.com,,,AS2519,ARTERIA Networks Corporation,arteria-net.com,isp
-1.1.126.0/24,I2TS-NET,"i2ts,inc.",JP,,JP00078611,,JP00078611,jpnic,i2ts.com,2015-06-30,,i2ts.com,i2ts.com,,,AS2519,ARTERIA Networks Corporation,arteria-net.com,isp
+1.1.64.0/18,I2TS-CIDR-BLK-JP,"i2ts,inc.",JP,ALLOCATED PORTABLE,JP00078611,MAINT-JPNIC,JP00078611,jpnic,i2ts.com,2012-03-23,,i2ts.com,i2ts.com,,,AS2519,ARTERIA Networks Corporation,arteria-net.com,hosting
+1.1.64.0/24,I2TS-MTK-NET,"i2ts,inc.",JP,,JP00078611,,JP00078611,jpnic,i2ts.com,2012-03-31,,i2ts.com,i2ts.com,,,AS2519,ARTERIA Networks Corporation,arteria-net.com,hosting
+1.1.65.0/24,I2TS-MTK-NET,"i2ts,inc.",JP,,JP00078611,,JP00078611,jpnic,i2ts.com,2012-03-31,,i2ts.com,i2ts.com,,,AS2519,ARTERIA Networks Corporation,arteria-net.com,hosting
+1.1.66.0/24,I2TS-MTK-NET,"i2ts,inc.",JP,,JP00078611,,JP00078611,jpnic,i2ts.com,2012-03-31,,i2ts.com,i2ts.com,,,AS2519,ARTERIA Networks Corporation,arteria-net.com,hosting
+1.1.67.0/24,I2TS-MTK-NET,"i2ts,inc.",JP,,JP00078611,,JP00078611,jpnic,i2ts.com,2012-03-31,,i2ts.com,i2ts.com,,,AS2519,ARTERIA Networks Corporation,arteria-net.com,hosting
+1.1.68.0/24,I2TS-MTK-NET,"i2ts,inc.",JP,,JP00078611,,JP00078611,jpnic,i2ts.com,2012-03-31,,i2ts.com,i2ts.com,,,AS2519,ARTERIA Networks Corporation,arteria-net.com,hosting
+1.1.69.0/24,I2TS-MTK-NET,"i2ts,inc.",JP,,JP00078611,,JP00078611,jpnic,i2ts.com,2012-03-31,,i2ts.com,i2ts.com,,,AS2519,ARTERIA Networks Corporation,arteria-net.com,hosting
+1.1.70.0/24,I2TS-MTK-NET,"i2ts,inc.",JP,,JP00078611,,JP00078611,jpnic,i2ts.com,2012-03-31,,i2ts.com,i2ts.com,,,AS2519,ARTERIA Networks Corporation,arteria-net.com,hosting
+1.1.71.0/24,I2TS-MTK-NET,"i2ts,inc.",JP,,JP00078611,,JP00078611,jpnic,i2ts.com,2012-03-31,,i2ts.com,i2ts.com,,,AS2519,ARTERIA Networks Corporation,arteria-net.com,hosting
+1.1.72.0/24,I2TS-MTK-NET,"i2ts,inc.",JP,,JP00078611,,JP00078611,jpnic,i2ts.com,2012-03-31,,i2ts.com,i2ts.com,,,AS2519,ARTERIA Networks Corporation,arteria-net.com,hosting
+1.1.73.0/24,I2TS-MTK-NET,"i2ts,inc.",JP,,JP00078611,,JP00078611,jpnic,i2ts.com,2012-04-20,,i2ts.com,i2ts.com,,,AS2519,ARTERIA Networks Corporation,arteria-net.com,hosting
+1.1.74.0/24,I2TS-MTK-NET,"i2ts,inc.",JP,,JP00078611,,JP00078611,jpnic,i2ts.com,2012-03-31,,i2ts.com,i2ts.com,,,AS2519,ARTERIA Networks Corporation,arteria-net.com,hosting
+1.1.75.0/24,I2TS-MTK-NET,"i2ts,inc.",JP,,JP00078611,,JP00078611,jpnic,i2ts.com,2012-03-31,,i2ts.com,i2ts.com,,,AS2519,ARTERIA Networks Corporation,arteria-net.com,hosting
+1.1.76.0/24,I2TS-MTK-NET,"i2ts,inc.",JP,,JP00078611,,JP00078611,jpnic,i2ts.com,2012-03-31,,i2ts.com,i2ts.com,,,AS2519,ARTERIA Networks Corporation,arteria-net.com,hosting
+1.1.77.0/24,I2TS-MTK-NET,"i2ts,inc.",JP,,JP00078611,,JP00078611,jpnic,i2ts.com,2012-03-31,,i2ts.com,i2ts.com,,,AS2519,ARTERIA Networks Corporation,arteria-net.com,hosting
+1.1.78.0/24,I2TS-MTK-NET,"i2ts,inc.",JP,,JP00078611,,JP00078611,jpnic,i2ts.com,2012-03-31,,i2ts.com,i2ts.com,,,AS2519,ARTERIA Networks Corporation,arteria-net.com,hosting
+1.1.79.0/24,I2TS-MTK-NET,"i2ts,inc.",JP,,JP00078611,,JP00078611,jpnic,i2ts.com,2012-12-12,,i2ts.com,i2ts.com,,,AS2519,ARTERIA Networks Corporation,arteria-net.com,hosting
+1.1.80.0/24,I2TS-MTK-NET,"i2ts,inc.",JP,,JP00078611,,JP00078611,jpnic,i2ts.com,2012-04-20,,i2ts.com,i2ts.com,,,AS2519,ARTERIA Networks Corporation,arteria-net.com,hosting
+1.1.81.0/24,I2TS-MTK-NET,"i2ts,inc.",JP,,JP00078611,,JP00078611,jpnic,i2ts.com,2012-04-20,,i2ts.com,i2ts.com,,,AS2519,ARTERIA Networks Corporation,arteria-net.com,hosting
+1.1.82.0/24,I2TS-MTK-NET,"i2ts,inc.",JP,,JP00078611,,JP00078611,jpnic,i2ts.com,2012-04-20,,i2ts.com,i2ts.com,,,AS2519,ARTERIA Networks Corporation,arteria-net.com,hosting
+1.1.83.0/24,I2TS-MTK-NET,"i2ts,inc.",JP,,JP00078611,,JP00078611,jpnic,i2ts.com,2012-04-20,,i2ts.com,i2ts.com,,,AS2519,ARTERIA Networks Corporation,arteria-net.com,hosting
+1.1.84.0/24,I2TS-MTK-NET,"i2ts,inc.",JP,,JP00078611,,JP00078611,jpnic,i2ts.com,2012-04-20,,i2ts.com,i2ts.com,,,AS2519,ARTERIA Networks Corporation,arteria-net.com,hosting
+1.1.85.0/24,I2TS-MTK-NET,"i2ts,inc.",JP,,JP00078611,,JP00078611,jpnic,i2ts.com,2012-04-20,,i2ts.com,i2ts.com,,,AS2519,ARTERIA Networks Corporation,arteria-net.com,hosting
+1.1.86.0/24,I2TS-MTK-NET,"i2ts,inc.",JP,,JP00078611,,JP00078611,jpnic,i2ts.com,2012-04-20,,i2ts.com,i2ts.com,,,AS2519,ARTERIA Networks Corporation,arteria-net.com,hosting
+1.1.87.0/24,I2TS-MTK-NET,"i2ts,inc.",JP,,JP00078611,,JP00078611,jpnic,i2ts.com,2012-04-20,,i2ts.com,i2ts.com,,,AS2519,ARTERIA Networks Corporation,arteria-net.com,hosting
+1.1.88.0/24,I2TS-MTK-NET,"i2ts,inc.",JP,,JP00078611,,JP00078611,jpnic,i2ts.com,2012-04-20,,i2ts.com,i2ts.com,,,AS2519,ARTERIA Networks Corporation,arteria-net.com,hosting
+1.1.89.0/24,I2TS-MTK-NET,"i2ts,inc.",JP,,JP00078611,,JP00078611,jpnic,i2ts.com,2012-04-20,,i2ts.com,i2ts.com,,,AS2519,ARTERIA Networks Corporation,arteria-net.com,hosting
+1.1.90.0/24,I2TS-MTK-NET,"i2ts,inc.",JP,,JP00078611,,JP00078611,jpnic,i2ts.com,2012-04-20,,i2ts.com,i2ts.com,,,AS2519,ARTERIA Networks Corporation,arteria-net.com,hosting
+1.1.91.0/24,I2TS-MTK-NET,"i2ts,inc.",JP,,JP00078611,,JP00078611,jpnic,i2ts.com,2012-04-20,,i2ts.com,i2ts.com,,,AS2519,ARTERIA Networks Corporation,arteria-net.com,hosting
+1.1.92.0/24,I2TS-MTK-NET,"i2ts,inc.",JP,,JP00078611,,JP00078611,jpnic,i2ts.com,2012-04-20,,i2ts.com,i2ts.com,,,AS2519,ARTERIA Networks Corporation,arteria-net.com,hosting
+1.1.93.0/24,I2TS-MTK-NET,"i2ts,inc.",JP,,JP00078611,,JP00078611,jpnic,i2ts.com,2012-04-20,,i2ts.com,i2ts.com,,,AS2519,ARTERIA Networks Corporation,arteria-net.com,hosting
+1.1.94.0/24,I2TS-MTK-NET,"i2ts,inc.",JP,,JP00078611,,JP00078611,jpnic,i2ts.com,2012-04-20,,i2ts.com,i2ts.com,,,AS2519,ARTERIA Networks Corporation,arteria-net.com,hosting
+1.1.95.0/24,I2TS-MTK-NET,"i2ts,inc.",JP,,JP00078611,,JP00078611,jpnic,i2ts.com,2012-04-20,,i2ts.com,i2ts.com,,,AS2519,ARTERIA Networks Corporation,arteria-net.com,hosting
+1.1.96.0/24,I2TS-NET,"i2ts,inc.",JP,,JP00078611,,JP00078611,jpnic,i2ts.com,2020-09-26,,i2ts.com,i2ts.com,,,AS2519,ARTERIA Networks Corporation,arteria-net.com,hosting
+1.1.97.0/24,I2TS-NET,"i2ts,inc.",JP,,JP00078611,,JP00078611,jpnic,i2ts.com,2020-09-26,,i2ts.com,i2ts.com,,,AS2519,ARTERIA Networks Corporation,arteria-net.com,hosting
+1.1.98.0/24,I2TS-NET,"i2ts,inc.",JP,,JP00078611,,JP00078611,jpnic,i2ts.com,2020-09-26,,i2ts.com,i2ts.com,,,AS2519,ARTERIA Networks Corporation,arteria-net.com,hosting
+1.1.99.0/24,I2TS-NET,"i2ts,inc.",JP,,JP00078611,,JP00078611,jpnic,i2ts.com,2020-09-26,,i2ts.com,i2ts.com,,,AS2519,ARTERIA Networks Corporation,arteria-net.com,hosting
+1.1.100.0/24,I2TS-NET,"i2ts,inc.",JP,,JP00078611,,JP00078611,jpnic,i2ts.com,2020-09-26,,i2ts.com,i2ts.com,,,AS2519,ARTERIA Networks Corporation,arteria-net.com,hosting
+1.1.101.0/24,I2TS-NET,"i2ts,inc.",JP,,JP00078611,,JP00078611,jpnic,i2ts.com,2020-09-26,,i2ts.com,i2ts.com,,,AS2519,ARTERIA Networks Corporation,arteria-net.com,hosting
+1.1.102.0/24,I2TS-NET,"i2ts,inc.",JP,,JP00078611,,JP00078611,jpnic,i2ts.com,2020-09-26,,i2ts.com,i2ts.com,,,AS2519,ARTERIA Networks Corporation,arteria-net.com,hosting
+1.1.113.0/24,I2TS-NET,"i2ts,inc.",JP,,JP00078611,,JP00078611,jpnic,i2ts.com,2015-05-15,,i2ts.com,i2ts.com,,,AS2519,ARTERIA Networks Corporation,arteria-net.com,hosting
+1.1.114.0/24,I2TS-NET,"i2ts,inc.",JP,,JP00078611,,JP00078611,jpnic,i2ts.com,2015-05-15,,i2ts.com,i2ts.com,,,AS2519,ARTERIA Networks Corporation,arteria-net.com,hosting
+1.1.115.0/24,I2TS-NET,"i2ts,inc.",JP,,JP00078611,,JP00078611,jpnic,i2ts.com,2015-05-15,,i2ts.com,i2ts.com,,,AS2519,ARTERIA Networks Corporation,arteria-net.com,hosting
+1.1.116.0/24,I2TS-NET,"i2ts,inc.",JP,,JP00078611,,JP00078611,jpnic,i2ts.com,2015-05-15,,i2ts.com,i2ts.com,,,AS2519,ARTERIA Networks Corporation,arteria-net.com,hosting
+1.1.126.0/24,I2TS-NET,"i2ts,inc.",JP,,JP00078611,,JP00078611,jpnic,i2ts.com,2015-06-30,,i2ts.com,i2ts.com,,,AS2519,ARTERIA Networks Corporation,arteria-net.com,hosting
 1.1.127.0/24,I2TS-NET,"i2ts,inc.",JP,,JP00078611,,JP00078611,jpnic,i2ts.com,2012-05-24,,i2ts.com,i2ts.com,,,,,,
 1.1.128.0/17,TOT-AS-AP,TOT Public Company Limited,TH,ALLOCATED PORTABLE,AG100-AP,MAINT-TH-TOT,PA82-AP,apnic,totidc.net,2020-07-09,ORG-TPCL1-AP,,totidc.net,,********\n********\n********\n********,AS23969,TOT Public Company Limited,ntplc.co.th,isp
 1.1.128.0/18,TOTNET,Dynamic IP Address for residential Broadband Customers,TH,ASSIGNED NON-PORTABLE,AG100-AP,MAINT-TH-TOT,AG100-AP,apnic,ntplc.co.th,2021-01-27,,,totidc.net,,,AS23969,TOT Public Company Limited,ntplc.co.th,isp
