@@ -3,9 +3,9 @@ start_ip,end_ip,join_key,name,domain,type,asn,as_name,as_domain,as_type,country
 1.0.1.0,1.0.3.255,1.0.0.0,CHINANET FUJIAN PROVINCE NETWORK,chinatelecom.cn,isp,,,,,CN
 1.0.4.0,1.0.7.255,1.0.0.0,Gtelecom Pty Ltd,gtelecom.com.au,isp,AS38803,Gtelecom Pty Ltd,gtelecom.com.au,isp,AU
 1.0.8.0,1.0.15.255,1.0.0.0,CHINANET Guangdong province network,chinatelecom.cn,isp,,,,,CN
-1.0.16.0,1.0.16.255,1.0.0.0,"i2ts,inc.",i2ts.com,business,AS2519,ARTERIA Networks Corporation,arteria-net.com,isp,JP
+1.0.16.0,1.0.16.255,1.0.0.0,"i2ts,inc.",i2ts.com,business,AS2519,ARTERIA Networks Corporation,arteria-net.com,hosting,JP
 1.0.17.0,1.0.17.255,1.0.0.0,i2ts inc.,i2ts.com,business,,,,,JP
-1.0.18.0,1.0.31.255,1.0.0.0,"i2ts,inc.",i2ts.com,business,AS2519,ARTERIA Networks Corporation,arteria-net.com,isp,JP
+1.0.18.0,1.0.31.255,1.0.0.0,"i2ts,inc.",i2ts.com,business,AS2519,ARTERIA Networks Corporation,arteria-net.com,hosting,JP
 1.0.32.0,1.0.63.255,1.0.0.0,CHINANET Guangdong province network,chinatelecom.cn,isp,,,,,CN
 1.0.64.0,1.0.127.255,1.0.0.0,"Enecom,Inc.",eneco.nl,business,AS18144,"Enecom,Inc.",enecom.co.jp,business,JP
 1.0.128.0,1.0.255.255,1.0.0.0,Dynamic IP Address for residential Broadband Customers,totidc.net,business,AS23969,TOT Public Company Limited,ntplc.co.th,isp,TH
@@ -15,7 +15,7 @@ start_ip,end_ip,join_key,name,domain,type,asn,as_name,as_domain,as_type,country
 1.1.3.0,1.1.7.255,1.1.0.0,CHINANET FUJIAN PROVINCE NETWORK,chinatelecom.cn,isp,,,,,CN
 1.1.8.0,1.1.8.255,1.1.0.0,"Yamu Technologies Co., Ltd.",yamu.com,hosting,AS149511,"Yamu Technologies Co., Ltd.",yamu.com,hosting,CN
 1.1.9.0,1.1.63.255,1.1.0.0,CHINANET Guangdong province network,chinatelecom.cn,isp,,,,,CN
-1.1.64.0,1.1.126.255,1.1.0.0,"i2ts,inc.",i2ts.com,business,AS2519,ARTERIA Networks Corporation,arteria-net.com,isp,JP
+1.1.64.0,1.1.126.255,1.1.0.0,"i2ts,inc.",i2ts.com,business,AS2519,ARTERIA Networks Corporation,arteria-net.com,hosting,JP
 1.1.127.0,1.1.127.255,1.1.0.0,"i2ts,inc.",i2ts.com,business,,,,,JP
 1.1.128.0,1.1.255.255,1.1.0.0,Dynamic IP Address for residential Broadband Customers,totidc.net,business,AS23969,TOT Public Company Limited,ntplc.co.th,isp,TH
 1.2.0.0,1.2.1.255,1.2.0.0,CHINANET FUJIAN PROVINCE NETWORK,chinatelecom.cn,isp,,,,,CN
@@ -40,7 +40,7 @@ start_ip,end_ip,join_key,name,domain,type,asn,as_name,as_domain,as_type,country
 1.6.70.154,1.6.70.155,1.6.0.0,LITMUS7 SYSTEMS CONSULTING PVT LTD,litmus7.com,business,AS9583,Sify Limited,sifycorp.com,isp,IN
 1.6.70.156,1.6.255.255,1.6.0.0,Sify Limited,sifycorp.com,isp,AS9583,Sify Limited,sifycorp.com,isp,IN
 1.7.0.0,1.7.255.255,1.7.0.0,Sify Limited,sifycorp.com,isp,AS9583,Sify Limited,sifycorp.com,isp,IN
-1.8.0.0,1.8.17.255,1.8.0.0,"KNET Techonlogy (BeiJing) Co.,Ltd.",knet.cn,hosting,AS38345,Internet Domain Name System Beijing Engineering Resrarch Center Ltd.,knet.cn,hosting,CN
+1.8.0.0,1.8.17.255,1.8.0.0,"KNET Techonlogy (BeiJing) Co.,Ltd.",knet.cn,isp,AS38345,Internet Domain Name System Beijing Engineering Resrarch Center Ltd.,knet.cn,isp,CN
 1.8.18.0,1.8.18.255,1.8.0.0,Internet Domain Name System Beijing Engineering Resrarch Center Ltd.,knet.cn,business,,,,,CN
 1.8.19.0,1.8.255.255,1.8.0.0,"KNET Techonlogy (BeiJing) Co.,Ltd.",knet.cn,business,,,,,CN
 1.9.0.0,1.9.0.127,1.9.0.0,TM TECHNOLOGY SERVICES SDN. BHD.,tm.com.my,isp,AS4788,TM TECHNOLOGY SERVICES SDN. BHD.,tm.com.my,isp,MY

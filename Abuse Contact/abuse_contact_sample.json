@@ -40,7 +40,8 @@
 {"start_ip": "1.11.8.0", "end_ip": "1.11.19.255", "join_key": "1.11.0.0", "name": "IP Manager", "email": "jerim@lghv.net", "address": "", "country": "KR", "phone": "+82-70-7373-3726"}
 {"start_ip": "1.11.20.0", "end_ip": "1.11.23.255", "join_key": "1.11.0.0", "name": "IP Manager", "email": "itx9005@hyosung.com", "address": "", "country": "KR", "phone": "+82-2-6288-6508"}
 {"start_ip": "1.11.24.0", "end_ip": "1.11.31.255", "join_key": "1.11.0.0", "name": "IP Manager", "email": "garion@lghv.net", "address": "", "country": "KR", "phone": "+82-70-7373-1948"}
-{"start_ip": "1.11.32.0", "end_ip": "1.11.39.255", "join_key": "1.11.0.0", "name": "IP Manager", "email": "godhunter@lghv.net", "address": "", "country": "KR", "phone": "+82-70-7373-3635"}
+{"start_ip": "1.11.32.0", "end_ip": "1.11.32.255", "join_key": "1.11.0.0", "name": "IP Manager", "email": "net@inet.co.kr", "address": "", "country": "KR", "phone": "+82-2-1566-6757"}
+{"start_ip": "1.11.33.0", "end_ip": "1.11.39.255", "join_key": "1.11.0.0", "name": "IP Manager", "email": "godhunter@lghv.net", "address": "", "country": "KR", "phone": "+82-70-7373-3635"}
 {"start_ip": "1.11.40.0", "end_ip": "1.11.47.255", "join_key": "1.11.0.0", "name": "IP Manager", "email": "garion@lghv.net", "address": "", "country": "KR", "phone": "+82-70-7373-1948"}
 {"start_ip": "1.11.48.0", "end_ip": "1.11.48.255", "join_key": "1.11.0.0", "name": "IP Manager", "email": "godhunter@lghv.net", "address": "", "country": "KR", "phone": "+82-70-7373-3635"}
 {"start_ip": "1.11.49.0", "end_ip": "1.11.55.255", "join_key": "1.11.0.0", "name": "IP Manager", "email": "lghvnoc@LGHelloVision365.onmicrosoft.com", "address": "", "country": "KR", "phone": "+82-70-7373-1751"}
@@ -97,4 +98,3 @@
 {"start_ip": "1.32.224.0", "end_ip": "1.32.227.255", "join_key": "1.32.0.0", "name": "ABUSE RCPLSG", "email": "abuse@bgp.net", "address": "399 Chai Wan Road, Chai Wan, Hong Kong", "country": "HK", "phone": "+000000000"}
 {"start_ip": "1.32.228.0", "end_ip": "1.32.229.255", "join_key": "1.32.0.0", "name": "ABUSE CTGHK", "email": "cs.mail@ctgserver.com", "address": "202 ,2/F Kam Sang BLDG 257,Des Voeux RD Central Hong Kong", "country": "HK", "phone": "+000000000"}
 {"start_ip": "1.32.230.0", "end_ip": "1.32.245.255", "join_key": "1.32.0.0", "name": "ABUSE RCPLSG", "email": "abuse@bgp.net", "address": "399 Chai Wan Road, Chai Wan, Hong Kong", "country": "HK", "phone": "+000000000"}
-{"start_ip": "1.32.246.0", "end_ip": "1.32.255.255", "join_key": "1.32.0.0", "name": "ABUSE CTGHK", "email": "cs.mail@ctgserver.com", "address": "202 ,2/F Kam Sang BLDG 257,Des Voeux RD Central Hong Kong", "country": "HK", "phone": "+000000000"}

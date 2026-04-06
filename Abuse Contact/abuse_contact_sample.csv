@@ -41,7 +41,8 @@ start_ip,end_ip,join_key,name,email,address,country,phone
 1.11.8.0,1.11.19.255,1.11.0.0,IP Manager,jerim@lghv.net,,KR,+82-70-7373-3726
 1.11.20.0,1.11.23.255,1.11.0.0,IP Manager,itx9005@hyosung.com,,KR,+82-2-6288-6508
 1.11.24.0,1.11.31.255,1.11.0.0,IP Manager,garion@lghv.net,,KR,+82-70-7373-1948
-1.11.32.0,1.11.39.255,1.11.0.0,IP Manager,godhunter@lghv.net,,KR,+82-70-7373-3635
+1.11.32.0,1.11.32.255,1.11.0.0,IP Manager,net@inet.co.kr,,KR,+82-2-1566-6757
+1.11.33.0,1.11.39.255,1.11.0.0,IP Manager,godhunter@lghv.net,,KR,+82-70-7373-3635
 1.11.40.0,1.11.47.255,1.11.0.0,IP Manager,garion@lghv.net,,KR,+82-70-7373-1948
 1.11.48.0,1.11.48.255,1.11.0.0,IP Manager,godhunter@lghv.net,,KR,+82-70-7373-3635
 1.11.49.0,1.11.55.255,1.11.0.0,IP Manager,lghvnoc@LGHelloVision365.onmicrosoft.com,,KR,+82-70-7373-1751
@@ -98,4 +99,3 @@ start_ip,end_ip,join_key,name,email,address,country,phone
 1.32.224.0,1.32.227.255,1.32.0.0,ABUSE RCPLSG,abuse@bgp.net,"399 Chai Wan Road, Chai Wan, Hong Kong",HK,+000000000
 1.32.228.0,1.32.229.255,1.32.0.0,ABUSE CTGHK,cs.mail@ctgserver.com,"202 ,2/F Kam Sang BLDG 257,Des Voeux RD Central Hong Kong",HK,+000000000
 1.32.230.0,1.32.245.255,1.32.0.0,ABUSE RCPLSG,abuse@bgp.net,"399 Chai Wan Road, Chai Wan, Hong Kong",HK,+000000000
-1.32.246.0,1.32.255.255,1.32.0.0,ABUSE CTGHK,cs.mail@ctgserver.com,"202 ,2/F Kam Sang BLDG 257,Des Voeux RD Central Hong Kong",HK,+000000000
