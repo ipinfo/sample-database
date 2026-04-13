@@ -77,7 +77,9 @@ start_ip,end_ip,country,country_name,continent,continent_name,asn,as_name,as_dom
 1.9.241.226,1.9.241.226,ID,Indonesia,AS,Asia,AS4788,TM TECHNOLOGY SERVICES SDN. BHD.,tm.com.my
 1.9.241.227,1.9.241.229,MY,Malaysia,AS,Asia,AS4788,TM TECHNOLOGY SERVICES SDN. BHD.,tm.com.my
 1.9.241.230,1.9.241.230,RE,Reunion,AF,Africa,AS4788,TM TECHNOLOGY SERVICES SDN. BHD.,tm.com.my
-1.9.241.231,1.9.244.12,MY,Malaysia,AS,Asia,AS4788,TM TECHNOLOGY SERVICES SDN. BHD.,tm.com.my
+1.9.241.231,1.9.243.33,MY,Malaysia,AS,Asia,AS4788,TM TECHNOLOGY SERVICES SDN. BHD.,tm.com.my
+1.9.243.34,1.9.243.34,ID,Indonesia,AS,Asia,AS4788,TM TECHNOLOGY SERVICES SDN. BHD.,tm.com.my
+1.9.243.35,1.9.244.12,MY,Malaysia,AS,Asia,AS4788,TM TECHNOLOGY SERVICES SDN. BHD.,tm.com.my
 1.9.244.13,1.9.244.13,HK,Hong Kong,AS,Asia,AS4788,TM TECHNOLOGY SERVICES SDN. BHD.,tm.com.my
 1.9.244.14,1.9.244.24,MY,Malaysia,AS,Asia,AS4788,TM TECHNOLOGY SERVICES SDN. BHD.,tm.com.my
 1.9.244.25,1.9.244.25,TH,Thailand,AS,Asia,AS4788,TM TECHNOLOGY SERVICES SDN. BHD.,tm.com.my
@@ -97,5 +99,3 @@ start_ip,end_ip,country,country_name,continent,continent_name,asn,as_name,as_dom
 1.10.135.0,1.10.135.255,TH,Thailand,AS,Asia,AS23974,Ministry of education,moe.go.th
 1.10.136.0,1.10.255.255,TH,Thailand,AS,Asia,AS23969,TOT Public Company Limited,ntplc.co.th
 1.11.0.0,1.11.7.255,KR,South Korea,AS,Asia,AS18313,LG HelloVision Corp.,lghellovision.net
-1.11.8.0,1.11.19.255,KR,South Korea,AS,Asia,AS18318,LG HelloVision Corp.,lghellovision.net
-1.11.20.0,1.11.23.255,KR,South Korea,AS,Asia,AS38091,LG HelloVision Corp.,lghellovision.net
