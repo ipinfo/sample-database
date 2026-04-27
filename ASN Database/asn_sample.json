@@ -6,7 +6,7 @@
 {"start_ip": "1.0.197.0", "end_ip": "1.0.197.255", "join_key": "1.0.0.0", "asn": "AS23974", "domain": "moe.go.th", "name": "Ministry of education", "type": "education", "country": "TH"}
 {"start_ip": "1.0.198.0", "end_ip": "1.0.255.255", "join_key": "1.0.0.0", "asn": "AS23969", "domain": "ntplc.co.th", "name": "TOT Public Company Limited", "type": "isp", "country": "TH"}
 {"start_ip": "1.1.1.0", "end_ip": "1.1.1.255", "join_key": "1.1.0.0", "asn": "AS13335", "domain": "cloudflare.com", "name": "Cloudflare, Inc.", "type": "hosting", "country": "US"}
-{"start_ip": "1.1.8.0", "end_ip": "1.1.8.255", "join_key": "1.1.0.0", "asn": "AS149511", "domain": "yamu.com", "name": "Yamu Technologies Co., Ltd.", "type": "isp", "country": "CN"}
+{"start_ip": "1.1.8.0", "end_ip": "1.1.8.255", "join_key": "1.1.0.0", "asn": "AS149511", "domain": "yamu.com", "name": "Yamu Technologies Co., Ltd.", "type": "hosting", "country": "CN"}
 {"start_ip": "1.1.64.0", "end_ip": "1.1.126.255", "join_key": "1.1.0.0", "asn": "AS2519", "domain": "arteria-net.com", "name": "ARTERIA Networks Corporation", "type": "isp", "country": "JP"}
 {"start_ip": "1.1.128.0", "end_ip": "1.1.255.255", "join_key": "1.1.0.0", "asn": "AS23969", "domain": "ntplc.co.th", "name": "TOT Public Company Limited", "type": "isp", "country": "TH"}
 {"start_ip": "1.2.4.0", "end_ip": "1.2.4.255", "join_key": "1.2.0.0", "asn": "AS24151", "domain": "cnnic.cn", "name": "China Internet Network Infomation Center", "type": "business", "country": "CN"}
@@ -36,12 +36,12 @@
 {"start_ip": "1.7.181.0", "end_ip": "1.7.199.255", "join_key": "1.7.0.0", "asn": "AS9583", "domain": "sifycorp.com", "name": "Sify Limited", "type": "isp", "country": "IN"}
 {"start_ip": "1.7.200.0", "end_ip": "1.7.202.255", "join_key": "1.7.0.0", "asn": "AS132215", "domain": "powergrid.in", "name": "Powergrid Teleservices Limited", "type": "business", "country": "IN"}
 {"start_ip": "1.7.204.0", "end_ip": "1.7.224.255", "join_key": "1.7.0.0", "asn": "AS9583", "domain": "sifycorp.com", "name": "Sify Limited", "type": "isp", "country": "IN"}
-{"start_ip": "1.7.225.0", "end_ip": "1.7.225.255", "join_key": "1.7.0.0", "asn": "AS396421", "domain": "paloaltonetworks.com", "name": "PALO ALTO NETWORKS", "type": "business", "country": "US"}
+{"start_ip": "1.7.225.0", "end_ip": "1.7.225.255", "join_key": "1.7.0.0", "asn": "AS396421", "domain": "paloaltonetworks.com", "name": "PALO ALTO NETWORKS", "type": "hosting", "country": "US"}
 {"start_ip": "1.7.226.0", "end_ip": "1.7.245.255", "join_key": "1.7.0.0", "asn": "AS9583", "domain": "sifycorp.com", "name": "Sify Limited", "type": "isp", "country": "IN"}
 {"start_ip": "1.8.1.0", "end_ip": "1.8.1.255", "join_key": "1.8.0.0", "asn": "AS38345", "domain": "knet.cn", "name": "Internet Domain Name System Beijing Engineering Resrarch Center Ltd.", "type": "hosting", "country": "CN"}
 {"start_ip": "1.8.8.0", "end_ip": "1.8.8.255", "join_key": "1.8.0.0", "asn": "AS38345", "domain": "knet.cn", "name": "Internet Domain Name System Beijing Engineering Resrarch Center Ltd.", "type": "hosting", "country": "CN"}
 {"start_ip": "1.9.0.0", "end_ip": "1.9.255.255", "join_key": "1.9.0.0", "asn": "AS4788", "domain": "tm.com.my", "name": "TM TECHNOLOGY SERVICES SDN. BHD.", "type": "isp", "country": "MY"}
-{"start_ip": "1.10.10.0", "end_ip": "1.10.10.255", "join_key": "1.10.0.0", "asn": "AS148000", "domain": "dns.nic.in", "name": "BHARAT PUBLIC DNS (1.10.10.10)", "type": "hosting", "country": "IN"}
+{"start_ip": "1.10.10.0", "end_ip": "1.10.10.255", "join_key": "1.10.0.0", "asn": "AS148000", "domain": "dns.nic.in", "name": "BHARAT PUBLIC DNS (1.10.10.10)", "type": "business", "country": "IN"}
 {"start_ip": "1.10.128.0", "end_ip": "1.10.134.255", "join_key": "1.10.0.0", "asn": "AS23969", "domain": "ntplc.co.th", "name": "TOT Public Company Limited", "type": "isp", "country": "TH"}
 {"start_ip": "1.10.135.0", "end_ip": "1.10.135.255", "join_key": "1.10.0.0", "asn": "AS23974", "domain": "moe.go.th", "name": "Ministry of education", "type": "education", "country": "TH"}
 {"start_ip": "1.10.136.0", "end_ip": "1.10.255.255", "join_key": "1.10.0.0", "asn": "AS23969", "domain": "ntplc.co.th", "name": "TOT Public Company Limited", "type": "isp", "country": "TH"}
@@ -66,8 +66,8 @@
 {"start_ip": "1.14.0.0", "end_ip": "1.14.255.255", "join_key": "1.14.0.0", "asn": "AS45090", "domain": "tencent.com", "name": "Shenzhen Tencent Computer Systems Company Limited", "type": "hosting", "country": "CN"}
 {"start_ip": "1.15.0.0", "end_ip": "1.15.255.255", "join_key": "1.15.0.0", "asn": "AS45090", "domain": "tencent.com", "name": "Shenzhen Tencent Computer Systems Company Limited", "type": "hosting", "country": "CN"}
 {"start_ip": "1.16.0.0", "end_ip": "1.16.63.255", "join_key": "1.16.0.0", "asn": "AS45996", "domain": "daou.co.kr", "name": "DAOU TECHNOLOGY", "type": "hosting", "country": "KR"}
-{"start_ip": "1.18.116.0", "end_ip": "1.18.116.255", "join_key": "1.18.0.0", "asn": "AS131098", "domain": "", "name": "Korea Internet Security Agency", "type": "isp", "country": "KR"}
-{"start_ip": "1.18.118.0", "end_ip": "1.18.118.255", "join_key": "1.18.0.0", "asn": "AS131099", "domain": "", "name": "Korea Internet Security Agency", "type": "isp", "country": "KR"}
+{"start_ip": "1.18.116.0", "end_ip": "1.18.116.255", "join_key": "1.18.0.0", "asn": "AS131098", "domain": "", "name": "Korea Internet Security Agency", "type": "business", "country": "KR"}
+{"start_ip": "1.18.118.0", "end_ip": "1.18.118.255", "join_key": "1.18.0.0", "asn": "AS131099", "domain": "", "name": "Korea Internet Security Agency", "type": "business", "country": "KR"}
 {"start_ip": "1.18.119.0", "end_ip": "1.18.119.255", "join_key": "1.18.0.0", "asn": "AS131100", "domain": "", "name": "Korea Internet Security Agency", "type": "business", "country": "KR"}
 {"start_ip": "1.18.123.0", "end_ip": "1.18.123.255", "join_key": "1.18.0.0", "asn": "AS23599", "domain": "", "name": "Korea Internet Security Agency", "type": "hosting", "country": "KR"}
 {"start_ip": "1.18.125.0", "end_ip": "1.18.126.255", "join_key": "1.18.0.0", "asn": "AS23599", "domain": "", "name": "Korea Internet Security Agency", "type": "hosting", "country": "KR"}

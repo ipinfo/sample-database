@@ -76,7 +76,7 @@
 {"network": "1.0.240.0/21", "asn": "AS23969", "domain": "ntplc.co.th", "name": "TOT Public Company Limited", "type": "isp", "country": "TH"}
 {"network": "1.0.248.0/21", "asn": "AS23969", "domain": "ntplc.co.th", "name": "TOT Public Company Limited", "type": "isp", "country": "TH"}
 {"network": "1.1.1.0/24", "asn": "AS13335", "domain": "cloudflare.com", "name": "Cloudflare, Inc.", "type": "hosting", "country": "US"}
-{"network": "1.1.8.0/24", "asn": "AS149511", "domain": "yamu.com", "name": "Yamu Technologies Co., Ltd.", "type": "isp", "country": "CN"}
+{"network": "1.1.8.0/24", "asn": "AS149511", "domain": "yamu.com", "name": "Yamu Technologies Co., Ltd.", "type": "hosting", "country": "CN"}
 {"network": "1.1.64.0/19", "asn": "AS2519", "domain": "arteria-net.com", "name": "ARTERIA Networks Corporation", "type": "isp", "country": "JP"}
 {"network": "1.1.96.0/24", "asn": "AS2519", "domain": "arteria-net.com", "name": "ARTERIA Networks Corporation", "type": "isp", "country": "JP"}
 {"network": "1.1.97.0/24", "asn": "AS2519", "domain": "arteria-net.com", "name": "ARTERIA Networks Corporation", "type": "isp", "country": "JP"}
