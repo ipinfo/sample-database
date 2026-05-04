@@ -1,10 +1,10 @@
 {"start_ip": "1.0.0.0", "end_ip": "1.0.0.1", "join_key": "1.0.0.0", "hosting": "true", "proxy": "", "tor": "", "vpn": "", "relay": "", "service": ""}
 {"start_ip": "1.0.0.2", "end_ip": "1.0.0.2", "join_key": "1.0.0.0", "hosting": "true", "proxy": "", "tor": "", "vpn": "true", "relay": "", "service": ""}
-{"start_ip": "1.0.0.3", "end_ip": "1.0.0.83", "join_key": "1.0.0.0", "hosting": "true", "proxy": "", "tor": "", "vpn": "", "relay": "", "service": ""}
-{"start_ip": "1.0.0.84", "end_ip": "1.0.0.84", "join_key": "1.0.0.0", "hosting": "true", "proxy": "true", "tor": "", "vpn": "", "relay": "", "service": ""}
-{"start_ip": "1.0.0.85", "end_ip": "1.0.0.122", "join_key": "1.0.0.0", "hosting": "true", "proxy": "", "tor": "", "vpn": "", "relay": "", "service": ""}
-{"start_ip": "1.0.0.123", "end_ip": "1.0.0.123", "join_key": "1.0.0.0", "hosting": "true", "proxy": "true", "tor": "", "vpn": "", "relay": "", "service": ""}
-{"start_ip": "1.0.0.124", "end_ip": "1.0.0.255", "join_key": "1.0.0.0", "hosting": "true", "proxy": "", "tor": "", "vpn": "", "relay": "", "service": ""}
+{"start_ip": "1.0.0.3", "end_ip": "1.0.0.25", "join_key": "1.0.0.0", "hosting": "true", "proxy": "", "tor": "", "vpn": "", "relay": "", "service": ""}
+{"start_ip": "1.0.0.26", "end_ip": "1.0.0.26", "join_key": "1.0.0.0", "hosting": "true", "proxy": "true", "tor": "", "vpn": "", "relay": "", "service": ""}
+{"start_ip": "1.0.0.27", "end_ip": "1.0.0.186", "join_key": "1.0.0.0", "hosting": "true", "proxy": "", "tor": "", "vpn": "", "relay": "", "service": ""}
+{"start_ip": "1.0.0.187", "end_ip": "1.0.0.187", "join_key": "1.0.0.0", "hosting": "true", "proxy": "true", "tor": "", "vpn": "", "relay": "", "service": ""}
+{"start_ip": "1.0.0.188", "end_ip": "1.0.0.255", "join_key": "1.0.0.0", "hosting": "true", "proxy": "", "tor": "", "vpn": "", "relay": "", "service": ""}
 {"start_ip": "1.0.64.181", "end_ip": "1.0.64.181", "join_key": "1.0.0.0", "hosting": "", "proxy": "", "tor": "", "vpn": "true", "relay": "", "service": ""}
 {"start_ip": "1.0.67.152", "end_ip": "1.0.67.152", "join_key": "1.0.0.0", "hosting": "", "proxy": "", "tor": "", "vpn": "true", "relay": "", "service": ""}
 {"start_ip": "1.0.72.13", "end_ip": "1.0.72.13", "join_key": "1.0.0.0", "hosting": "", "proxy": "", "tor": "", "vpn": "true", "relay": "", "service": ""}
