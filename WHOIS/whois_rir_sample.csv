@@ -26,7 +26,7 @@ range,id,name,country,status,tech,maintainer,admin,source,whois_domain,updated,o
 1.1.1.0/24,APNIC-LABS,APNIC and Cloudflare DNS Resolver project,AU,ASSIGNED PORTABLE,AIC3-AP,MAINT-APNICRANDNET,AIC3-AP,apnic,cloudflare.com,2023-04-26,ORG-ARAD1-AP,,cloudflare.com,,********,AS13335,"Cloudflare, Inc.",cloudflare.com,hosting
 1.1.2.0/23,CHINANET-FJ,CHINANET FUJIAN PROVINCE NETWORK,CN,ALLOCATED PORTABLE,CA67-AP,MAINT-CHINANET-FJ,CA67-AP,apnic,chinatelecom.cn,2021-06-15,,,chinatelecom.cn,,,,,,
 1.1.4.0/22,CHINANET-FJ,CHINANET FUJIAN PROVINCE NETWORK,CN,ALLOCATED PORTABLE,CA67-AP,MAINT-CHINANET-FJ,CA67-AP,apnic,chinatelecom.cn,2021-06-15,,,chinatelecom.cn,,,,,,
-1.1.8.0/24,YNCL-CN,"Yamu Technologies Co., Ltd.",CN,ALLOCATED PORTABLE,YTCL3-AP,MAINT-YNCL-CN,YTCL3-AP,apnic,yamu.com,2021-10-26,ORG-YNCL1-AP,,yamu.com,,********,AS149511,"Yamu Technologies Co., Ltd.",yamu.com,isp
+1.1.8.0/24,YNCL-CN,"Yamu Technologies Co., Ltd.",CN,ALLOCATED PORTABLE,YTCL3-AP,MAINT-YNCL-CN,YTCL3-AP,apnic,yamu.com,2021-10-26,ORG-YNCL1-AP,,yamu.com,,********,AS149511,"Yamu Technologies Co., Ltd.",yamu.com,hosting
 1.1.9.0-1.1.15.255,CHINANET-GD,CHINANET Guangdong province network,CN,ALLOCATED PORTABLE,IC83-AP,MAINT-CHINANET-GD,CH93-AP,apnic,chinatelecom.cn,2023-12-21,,,chinatelecom.cn,,,,,,
 1.1.16.0/20,CHINANET-GD,CHINANET Guangdong province network,CN,ALLOCATED PORTABLE,IC83-AP,MAINT-CHINANET-GD,CH93-AP,apnic,chinatelecom.cn,2023-12-21,,,chinatelecom.cn,,,,,,
 1.1.32.0/19,CHINANET-GD,CHINANET Guangdong province network,CN,ALLOCATED PORTABLE,IC83-AP,MAINT-CHINANET-GD,CH93-AP,apnic,chinatelecom.cn,2023-12-21,,,chinatelecom.cn,,,,,,

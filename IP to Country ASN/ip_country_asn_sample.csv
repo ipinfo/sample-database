@@ -9,7 +9,9 @@ start_ip,end_ip,country,country_name,continent,continent_name,asn,as_name,as_dom
 1.0.64.0,1.0.127.255,JP,Japan,AS,Asia,AS18144,"Enecom,Inc.",enecom.co.jp
 1.0.128.0,1.0.196.255,TH,Thailand,AS,Asia,AS23969,TOT Public Company Limited,ntplc.co.th
 1.0.197.0,1.0.197.255,TH,Thailand,AS,Asia,AS23974,Ministry of education,moe.go.th
-1.0.198.0,1.0.255.255,TH,Thailand,AS,Asia,AS23969,TOT Public Company Limited,ntplc.co.th
+1.0.198.0,1.0.255.212,TH,Thailand,AS,Asia,AS23969,TOT Public Company Limited,ntplc.co.th
+1.0.255.213,1.0.255.213,MY,Malaysia,AS,Asia,AS23969,TOT Public Company Limited,ntplc.co.th
+1.0.255.214,1.0.255.255,TH,Thailand,AS,Asia,AS23969,TOT Public Company Limited,ntplc.co.th
 1.1.0.0,1.1.0.255,CN,China,AS,Asia,,,
 1.1.1.0,1.1.1.255,AU,Australia,OC,Oceania,AS13335,"Cloudflare, Inc.",cloudflare.com
 1.1.2.0,1.1.7.255,CN,China,AS,Asia,,,
@@ -17,7 +19,9 @@ start_ip,end_ip,country,country_name,continent,continent_name,asn,as_name,as_dom
 1.1.9.0,1.1.63.255,CN,China,AS,Asia,,,
 1.1.64.0,1.1.126.255,JP,Japan,AS,Asia,AS2519,ARTERIA Networks Corporation,arteria-net.com
 1.1.127.0,1.1.127.255,JP,Japan,AS,Asia,,,
-1.1.128.0,1.1.255.255,TH,Thailand,AS,Asia,AS23969,TOT Public Company Limited,ntplc.co.th
+1.1.128.0,1.1.182.153,TH,Thailand,AS,Asia,AS23969,TOT Public Company Limited,ntplc.co.th
+1.1.182.154,1.1.182.154,US,United States,NA,North America,AS23969,TOT Public Company Limited,ntplc.co.th
+1.1.182.155,1.1.255.255,TH,Thailand,AS,Asia,AS23969,TOT Public Company Limited,ntplc.co.th
 1.2.0.0,1.2.2.255,CN,China,AS,Asia,,,
 1.2.3.0,1.2.3.255,UA,Ukraine,EU,Europe,,,
 1.2.4.0,1.2.4.255,CN,China,AS,Asia,AS24151,China Internet Network Infomation Center,cnnic.cn
@@ -28,7 +32,9 @@ start_ip,end_ip,country,country_name,continent,continent_name,asn,as_name,as_dom
 1.4.1.0,1.4.127.255,CN,China,AS,Asia,,,
 1.4.128.0,1.4.255.255,TH,Thailand,AS,Asia,AS23969,TOT Public Company Limited,ntplc.co.th
 1.5.0.0,1.5.255.255,JP,Japan,AS,Asia,AS4725,SoftBank Corp.,softbank.jp
-1.6.0.0,1.6.135.255,IN,India,AS,Asia,AS9583,Sify Limited,sifycorp.com
+1.6.0.0,1.6.2.229,IN,India,AS,Asia,AS9583,Sify Limited,sifycorp.com
+1.6.2.230,1.6.2.230,BR,Brazil,SA,South America,AS9583,Sify Limited,sifycorp.com
+1.6.2.231,1.6.135.255,IN,India,AS,Asia,AS9583,Sify Limited,sifycorp.com
 1.6.136.0,1.6.136.255,IN,India,AS,Asia,AS132215,Powergrid Teleservices Limited,powergrid.in
 1.6.137.0,1.6.225.255,IN,India,AS,Asia,AS9583,Sify Limited,sifycorp.com
 1.6.226.0,1.6.228.255,IN,India,AS,Asia,AS132215,Powergrid Teleservices Limited,powergrid.in
@@ -91,11 +97,5 @@ start_ip,end_ip,country,country_name,continent,continent_name,asn,as_name,as_dom
 1.10.11.0,1.10.127.255,CN,China,AS,Asia,,,
 1.10.128.0,1.10.134.255,TH,Thailand,AS,Asia,AS23969,TOT Public Company Limited,ntplc.co.th
 1.10.135.0,1.10.135.255,TH,Thailand,AS,Asia,AS23974,Ministry of education,moe.go.th
-1.10.136.0,1.10.255.255,TH,Thailand,AS,Asia,AS23969,TOT Public Company Limited,ntplc.co.th
-1.11.0.0,1.11.7.255,KR,South Korea,AS,Asia,AS18313,LG HelloVision Corp.,lghellovision.net
-1.11.8.0,1.11.19.255,KR,South Korea,AS,Asia,AS18318,LG HelloVision Corp.,lghellovision.net
-1.11.20.0,1.11.23.255,KR,South Korea,AS,Asia,AS38091,LG HelloVision Corp.,lghellovision.net
-1.11.24.0,1.11.31.255,KR,South Korea,AS,Asia,AS18313,LG HelloVision Corp.,lghellovision.net
-1.11.32.0,1.11.39.255,KR,South Korea,AS,Asia,AS38091,LG HelloVision Corp.,lghellovision.net
-1.11.40.0,1.11.47.255,KR,South Korea,AS,Asia,AS18313,LG HelloVision Corp.,lghellovision.net
-1.11.48.0,1.11.55.255,KR,South Korea,AS,Asia,AS38091,LG HelloVision Corp.,lghellovision.net
+1.10.136.0,1.10.222.130,TH,Thailand,AS,Asia,AS23969,TOT Public Company Limited,ntplc.co.th
+1.10.222.131,1.10.222.131,MY,Malaysia,AS,Asia,AS23969,TOT Public Company Limited,ntplc.co.th
