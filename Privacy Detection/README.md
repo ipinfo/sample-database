@@ -2,6 +2,9 @@
 
 ## IP Addresses associated with identity hiding services such as VPN, Tor, Proxies, Relays and Hosting service.
 
+Tor detection covers all relay subtypes: Exit nodes, Entry (Guard) nodes, Middle relays, and Bridges.
+A single entity can have multiple roles at the same time. The current Tor boolean is collapsed and indicates whether any Tor role is detected, not which role(s). Role-specific flags are not currently exposed.
+
 # Database Schema & Description
 
 _[data updated as of January, 2025]_
@@ -11,7 +14,7 @@ _[data updated as of January, 2025]_
 | **network** | `146.70.174.112/31` | TEXT      | CIDR or single IP address of the IP address block                    |
 | **hosting** | `true`              | BOOLEAN   | Indicates a hosting/cloud service/data center IP address             |
 | **proxy**   | `false`             | BOOLEAN   | Indicates a open web proxy IP address                                |
-| **tor**     | `false`             | BOOLEAN   | Indicates a TOR (The Onion Router) exit node IP address              |
+| **tor**     | `false`             | BOOLEAN   | Indicates TOR (The Onion Router) detection across all relay subtypes (Exit nodes, Entry (Guard) nodes, Middle relays, and Bridges); one entity can have multiple roles, and this collapsed boolean indicates whether any role is detected, not which role(s). Role-specific flags are not currently exposed. |
 | **relay**   | `false`             | BOOLEAN   | Indicates Virtual Private Network (VPN) service exit node IP address |
 | **vpn**     | `true`              | BOOLEAN   | Indicates location preserving anonymous relay service                |
 | **service** | `ProtonVPN`         | TEXT      | Name of the anonymous IP service provider                            |
@@ -36,7 +39,7 @@ The `standard_privacy` data download is structured based on IP ranges (`start_ip
 | **join_key** | `89.187.0.0`     | TEXT      | Special variable to facilitate databas `join` operation              |
 | **hosting**  | `true`           | BOOLEAN   | Indicates a hosting/cloud service/data center IP address             |
 | **proxy**    |                  | BOOLEAN   | Indicates a open web proxy IP address                                |
-| **tor**      |                  | BOOLEAN   | Indicates a TOR (The Onion Router) exit node IP address              |
+| **tor**      |                  | BOOLEAN   | Indicates TOR (The Onion Router) detection across all relay subtypes (Exit nodes, Entry (Guard) nodes, Middle relays, and Bridges); one entity can have multiple roles, and this collapsed boolean indicates whether any role is detected, not which role(s). Role-specific flags are not currently exposed. |
 | **vpn**      | `true`           | BOOLEAN   | Indicates Virtual Private Network (VPN) service exit node IP address |
 | **relay**    |                  | BOOLEAN   | Indicates location preserving anonymous relay service                |
 | **service**  | `CyberGhost`     | TEXT      | Name of the anonymous IP service provider                            |
@@ -83,6 +86,8 @@ The schema for Boolean values is different between these two databases.
 # API Response
 
 As well as the database product, IPinfo also provides a robust API service. Please visit the [IPinfo Documentation](https://ipinfo.io/developers/data-types#privacy-data) portal to learn more. The Privacy Detection API service is available as part of our [Standard Tier](https://ipinfo.io/developers/responses#standard-plan) plan.
+
+For the `tor` flag in API responses, detection is across all relay subtypes (Exit nodes, Entry (Guard) nodes, Middle relays, and Bridges). A single entity may have multiple roles, and the boolean is collapsed to indicate whether any role is detected rather than exposing role-specific flags.
 
 API Query:
 

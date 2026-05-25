@@ -37,7 +37,7 @@
 | **is_satellite**   | `false`                          | BOOLEAN   | Indicates whether the IP address is part of a satellite internet connection                  |
 | **is_proxy**       | `false`                          | BOOLEAN   | Indicates a open web proxy IP address                                                        |
 | **is_relay**       | `false`                          | BOOLEAN   | Indicates location preserving anonymous relay service like iCloud private relay.             |
-| **is_tor**         | `false`                          | BOOLEAN   | Indicates a TOR (The Onion Router) exit node IP address                                      |
+| **is_tor**         | `false`                          | BOOLEAN   | Indicates TOR (The Onion Router) detection across all relay types                            |
 | **is_vpn**         | `false`                          | BOOLEAN   | Indicates Virtual Private Network (VPN) service exit node IP address                         |
 | **privacy_name**   |                                  | TEXT      | The name of the privacy service provider includes VPN, Proxy, or Relay service provider name |
 

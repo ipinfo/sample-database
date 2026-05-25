@@ -26,7 +26,7 @@ The legacy IP database products from [IPinfo](https://ipinfo.io) include:
 | [IP to Company Database](https://ipinfo.io/products/ip-company-database)       | [IP to Company Sample](../IP%20to%20Company)         | Company associated with IP address           |
 | [ASN Database](https://ipinfo.io/products/asn-database)                        | [ASN Database Sample](../ASN%20Database)             | IP range and ASN information                 |
 | [IP to Mobile Carrier Database](https://ipinfo.io/products/mobile-ip-database) | [IP to Mobile Carrier Sample](../IP%20to%20Mobile%20Carrier) | Mobile carrier and country information       |
-| [Privacy Detection Database](https://ipinfo.io/products/anonymous-ip-database) | [Privacy Detection Sample](../Privacy%20Detection)   | VPN, proxy, Tor, relay detection             |
+| [Privacy Detection Database](https://ipinfo.io/products/anonymous-ip-database) | [Privacy Detection Sample](../Privacy%20Detection)   | VPN, proxy, Tor (across all relay types), relay detection |
 | IP Geolocation Extended Database                                              | [IP Geolocation Extended Sample](../IP%20Geolocation%20Extended)          | IP geolocation database with accuracy radius |
 
 **All of these products are available in CSV, JSON, Parquet, and MMDB formats.**
@@ -142,7 +142,7 @@ You can find the schema, database sample, API response sample, and other informa
 | **network** | `146.70.174.112/31` | CIDR or single IP address of the IP address block                    |
 | **hosting** | `true`              | Indicates a hosting/cloud service/data center IP address             |
 | **proxy**   | `false`             | Indicates an open web proxy IP address                               |
-| **tor**     | `false`             | Indicates a Tor (The Onion Router) exit node IP address              |
+| **tor**     | `false`             | Indicates Tor (The Onion Router) detection across all relay types    |
 | **relay**   | `false`             | Indicates a Virtual Private Network (VPN) service exit node IP address |
 | **vpn**     | `true`              | Indicates a location-preserving anonymous relay service              |
 | **service** | `ProtonVPN`         | Name of the anonymous IP service provider                            |
