@@ -2,9 +2,7 @@ network,city,region,region_code,country,country_code,continent,continent_code,la
 1.0.0.0/31,Sydney,New South Wales,NSW,Australia,AU,Oceania,OC,-33.86785,151.20732,Australia/Sydney,1001,AS13335,"Cloudflare, Inc.",cloudflare.com,hosting,false,true,true,false,false
 1.0.0.2,Sydney,New South Wales,NSW,Australia,AU,Oceania,OC,-33.86785,151.20732,Australia/Sydney,1001,AS13335,"Cloudflare, Inc.",cloudflare.com,hosting,true,true,true,false,false
 1.0.0.3,Sydney,New South Wales,NSW,Australia,AU,Oceania,OC,-33.86785,151.20732,Australia/Sydney,1001,AS13335,"Cloudflare, Inc.",cloudflare.com,hosting,false,true,true,false,false
-1.0.0.4,Sydney,New South Wales,NSW,Australia,AU,Oceania,OC,-33.86785,151.20732,Australia/Sydney,1001,AS13335,"Cloudflare, Inc.",cloudflare.com,hosting,true,true,true,false,false
-1.0.0.5,Sydney,New South Wales,NSW,Australia,AU,Oceania,OC,-33.86785,151.20732,Australia/Sydney,1001,AS13335,"Cloudflare, Inc.",cloudflare.com,hosting,false,true,true,false,false
-1.0.0.6/31,Sydney,New South Wales,NSW,Australia,AU,Oceania,OC,-33.86785,151.20732,Australia/Sydney,1001,AS13335,"Cloudflare, Inc.",cloudflare.com,hosting,false,true,true,false,false
+1.0.0.4/30,Sydney,New South Wales,NSW,Australia,AU,Oceania,OC,-33.86785,151.20732,Australia/Sydney,1001,AS13335,"Cloudflare, Inc.",cloudflare.com,hosting,false,true,true,false,false
 1.0.0.8/29,Sydney,New South Wales,NSW,Australia,AU,Oceania,OC,-33.86785,151.20732,Australia/Sydney,1001,AS13335,"Cloudflare, Inc.",cloudflare.com,hosting,false,true,true,false,false
 1.0.0.16/28,Sydney,New South Wales,NSW,Australia,AU,Oceania,OC,-33.86785,151.20732,Australia/Sydney,1001,AS13335,"Cloudflare, Inc.",cloudflare.com,hosting,false,true,true,false,false
 1.0.0.32/27,Sydney,New South Wales,NSW,Australia,AU,Oceania,OC,-33.86785,151.20732,Australia/Sydney,1001,AS13335,"Cloudflare, Inc.",cloudflare.com,hosting,false,true,true,false,false
@@ -54,7 +52,13 @@ network,city,region,region_code,country,country_code,continent,continent_code,la
 1.0.64.181,Iwakuni,Yamaguchi,35,Japan,JP,Asia,AS,34.16297,132.22,Asia/Tokyo,741-0062,AS18144,"Enecom,Inc.",enecom.co.jp,business,true,false,false,false,false
 1.0.64.182/31,Iwakuni,Yamaguchi,35,Japan,JP,Asia,AS,34.16297,132.22,Asia/Tokyo,741-0062,AS18144,"Enecom,Inc.",enecom.co.jp,business,false,false,false,false,false
 1.0.64.184/29,Iwakuni,Yamaguchi,35,Japan,JP,Asia,AS,34.16297,132.22,Asia/Tokyo,741-0062,AS18144,"Enecom,Inc.",enecom.co.jp,business,false,false,false,false,false
-1.0.64.192/26,Iwakuni,Yamaguchi,35,Japan,JP,Asia,AS,34.16297,132.22,Asia/Tokyo,741-0062,AS18144,"Enecom,Inc.",enecom.co.jp,business,false,false,false,false,false
+1.0.64.192/27,Iwakuni,Yamaguchi,35,Japan,JP,Asia,AS,34.16297,132.22,Asia/Tokyo,741-0062,AS18144,"Enecom,Inc.",enecom.co.jp,business,false,false,false,false,false
+1.0.64.224/29,Iwakuni,Yamaguchi,35,Japan,JP,Asia,AS,34.16297,132.22,Asia/Tokyo,741-0062,AS18144,"Enecom,Inc.",enecom.co.jp,business,false,false,false,false,false
+1.0.64.232/31,Iwakuni,Yamaguchi,35,Japan,JP,Asia,AS,34.16297,132.22,Asia/Tokyo,741-0062,AS18144,"Enecom,Inc.",enecom.co.jp,business,false,false,false,false,false
+1.0.64.234,Iwakuni,Yamaguchi,35,Japan,JP,Asia,AS,34.16297,132.22,Asia/Tokyo,741-0062,AS18144,"Enecom,Inc.",enecom.co.jp,business,true,false,false,false,false
+1.0.64.235,Iwakuni,Yamaguchi,35,Japan,JP,Asia,AS,34.16297,132.22,Asia/Tokyo,741-0062,AS18144,"Enecom,Inc.",enecom.co.jp,business,false,false,false,false,false
+1.0.64.236/30,Iwakuni,Yamaguchi,35,Japan,JP,Asia,AS,34.16297,132.22,Asia/Tokyo,741-0062,AS18144,"Enecom,Inc.",enecom.co.jp,business,false,false,false,false,false
+1.0.64.240/28,Iwakuni,Yamaguchi,35,Japan,JP,Asia,AS,34.16297,132.22,Asia/Tokyo,741-0062,AS18144,"Enecom,Inc.",enecom.co.jp,business,false,false,false,false,false
 1.0.65.0/30,Hiroshima,Hiroshima,34,Japan,JP,Asia,AS,34.4,132.45,Asia/Tokyo,730-0011,AS18144,"Enecom,Inc.",enecom.co.jp,business,false,false,false,false,false
 1.0.65.4/31,Hiroshima,Hiroshima,34,Japan,JP,Asia,AS,34.4,132.45,Asia/Tokyo,730-0011,AS18144,"Enecom,Inc.",enecom.co.jp,business,false,false,false,false,false
 1.0.65.6,Hiroshima,Hiroshima,34,Japan,JP,Asia,AS,34.4,132.45,Asia/Tokyo,730-0011,AS18144,"Enecom,Inc.",enecom.co.jp,business,true,false,false,false,false
@@ -71,31 +75,27 @@ network,city,region,region_code,country,country_code,continent,continent_code,la
 1.0.65.144/28,Hiroshima,Hiroshima,34,Japan,JP,Asia,AS,34.4,132.45,Asia/Tokyo,730-0011,AS18144,"Enecom,Inc.",enecom.co.jp,business,false,false,false,false,false
 1.0.65.160/27,Hiroshima,Hiroshima,34,Japan,JP,Asia,AS,34.4,132.45,Asia/Tokyo,730-0011,AS18144,"Enecom,Inc.",enecom.co.jp,business,false,false,false,false,false
 1.0.65.192/26,Hiroshima,Hiroshima,34,Japan,JP,Asia,AS,34.4,132.45,Asia/Tokyo,730-0011,AS18144,"Enecom,Inc.",enecom.co.jp,business,false,false,false,false,false
-1.0.66.0/25,Hiroshima,Hiroshima,34,Japan,JP,Asia,AS,34.4,132.45,Asia/Tokyo,730-0011,AS18144,"Enecom,Inc.",enecom.co.jp,business,false,false,false,false,false
-1.0.66.128/26,Hiroshima,Hiroshima,34,Japan,JP,Asia,AS,34.4,132.45,Asia/Tokyo,730-0011,AS18144,"Enecom,Inc.",enecom.co.jp,business,false,false,false,false,false
-1.0.66.192/27,Hiroshima,Hiroshima,34,Japan,JP,Asia,AS,34.4,132.45,Asia/Tokyo,730-0011,AS18144,"Enecom,Inc.",enecom.co.jp,business,false,false,false,false,false
-1.0.66.224/30,Hiroshima,Hiroshima,34,Japan,JP,Asia,AS,34.4,132.45,Asia/Tokyo,730-0011,AS18144,"Enecom,Inc.",enecom.co.jp,business,false,false,false,false,false
-1.0.66.228/31,Hiroshima,Hiroshima,34,Japan,JP,Asia,AS,34.4,132.45,Asia/Tokyo,730-0011,AS18144,"Enecom,Inc.",enecom.co.jp,business,false,false,false,false,false
-1.0.66.230/31,Hiroshima,Hiroshima,34,Japan,JP,Asia,AS,34.4,132.45,Asia/Tokyo,730-0011,AS18144,"Enecom,Inc.",enecom.co.jp,business,true,false,false,false,false
-1.0.66.232/29,Hiroshima,Hiroshima,34,Japan,JP,Asia,AS,34.4,132.45,Asia/Tokyo,730-0011,AS18144,"Enecom,Inc.",enecom.co.jp,business,false,false,false,false,false
-1.0.66.240/28,Hiroshima,Hiroshima,34,Japan,JP,Asia,AS,34.4,132.45,Asia/Tokyo,730-0011,AS18144,"Enecom,Inc.",enecom.co.jp,business,false,false,false,false,false
-1.0.67.0/26,Hiroshima,Hiroshima,34,Japan,JP,Asia,AS,34.4,132.45,Asia/Tokyo,730-0011,AS18144,"Enecom,Inc.",enecom.co.jp,business,false,false,false,false,false
-1.0.67.64/28,Hiroshima,Hiroshima,34,Japan,JP,Asia,AS,34.4,132.45,Asia/Tokyo,730-0011,AS18144,"Enecom,Inc.",enecom.co.jp,business,false,false,false,false,false
-1.0.67.80/29,Hiroshima,Hiroshima,34,Japan,JP,Asia,AS,34.4,132.45,Asia/Tokyo,730-0011,AS18144,"Enecom,Inc.",enecom.co.jp,business,false,false,false,false,false
-1.0.67.88/30,Hiroshima,Hiroshima,34,Japan,JP,Asia,AS,34.4,132.45,Asia/Tokyo,730-0011,AS18144,"Enecom,Inc.",enecom.co.jp,business,false,false,false,false,false
-1.0.67.92/31,Hiroshima,Hiroshima,34,Japan,JP,Asia,AS,34.4,132.45,Asia/Tokyo,730-0011,AS18144,"Enecom,Inc.",enecom.co.jp,business,false,false,false,false,false
-1.0.67.94,Hiroshima,Hiroshima,34,Japan,JP,Asia,AS,34.4,132.45,Asia/Tokyo,730-0011,AS18144,"Enecom,Inc.",enecom.co.jp,business,true,false,false,false,false
-1.0.67.95,Hiroshima,Hiroshima,34,Japan,JP,Asia,AS,34.4,132.45,Asia/Tokyo,730-0011,AS18144,"Enecom,Inc.",enecom.co.jp,business,false,false,false,false,false
-1.0.67.96/27,Hiroshima,Hiroshima,34,Japan,JP,Asia,AS,34.4,132.45,Asia/Tokyo,730-0011,AS18144,"Enecom,Inc.",enecom.co.jp,business,false,false,false,false,false
-1.0.67.128/28,Hiroshima,Hiroshima,34,Japan,JP,Asia,AS,34.4,132.45,Asia/Tokyo,730-0011,AS18144,"Enecom,Inc.",enecom.co.jp,business,false,false,false,false,false
-1.0.67.144/30,Hiroshima,Hiroshima,34,Japan,JP,Asia,AS,34.4,132.45,Asia/Tokyo,730-0011,AS18144,"Enecom,Inc.",enecom.co.jp,business,false,false,false,false,false
-1.0.67.148/31,Hiroshima,Hiroshima,34,Japan,JP,Asia,AS,34.4,132.45,Asia/Tokyo,730-0011,AS18144,"Enecom,Inc.",enecom.co.jp,business,false,false,false,false,false
-1.0.67.150,Hiroshima,Hiroshima,34,Japan,JP,Asia,AS,34.4,132.45,Asia/Tokyo,730-0011,AS18144,"Enecom,Inc.",enecom.co.jp,business,false,false,false,false,false
-1.0.67.151,Hiroshima,Hiroshima,34,Japan,JP,Asia,AS,34.4,132.45,Asia/Tokyo,730-0011,AS18144,"Enecom,Inc.",enecom.co.jp,business,true,false,false,false,false
-1.0.67.152,Hiroshima,Hiroshima,34,Japan,JP,Asia,AS,34.4,132.45,Asia/Tokyo,730-0011,AS18144,"Enecom,Inc.",enecom.co.jp,business,true,false,false,false,false
-1.0.67.153,Hiroshima,Hiroshima,34,Japan,JP,Asia,AS,34.4,132.45,Asia/Tokyo,730-0011,AS18144,"Enecom,Inc.",enecom.co.jp,business,false,false,false,false,false
-1.0.67.154/31,Hiroshima,Hiroshima,34,Japan,JP,Asia,AS,34.4,132.45,Asia/Tokyo,730-0011,AS18144,"Enecom,Inc.",enecom.co.jp,business,false,false,false,false,false
-1.0.67.156/30,Hiroshima,Hiroshima,34,Japan,JP,Asia,AS,34.4,132.45,Asia/Tokyo,730-0011,AS18144,"Enecom,Inc.",enecom.co.jp,business,false,false,false,false,false
-1.0.67.160/30,Hiroshima,Hiroshima,34,Japan,JP,Asia,AS,34.4,132.45,Asia/Tokyo,730-0011,AS18144,"Enecom,Inc.",enecom.co.jp,business,false,false,false,false,false
-1.0.67.164,Hiroshima,Hiroshima,34,Japan,JP,Asia,AS,34.4,132.45,Asia/Tokyo,730-0011,AS18144,"Enecom,Inc.",enecom.co.jp,business,false,false,false,false,false
-1.0.67.165,Hiroshima,Hiroshima,34,Japan,JP,Asia,AS,34.4,132.45,Asia/Tokyo,730-0011,AS18144,"Enecom,Inc.",enecom.co.jp,business,true,false,false,false,false
+1.0.66.0/27,Hiroshima,Hiroshima,34,Japan,JP,Asia,AS,34.4,132.45,Asia/Tokyo,730-0011,AS18144,"Enecom,Inc.",enecom.co.jp,business,false,false,false,false,false
+1.0.66.32/30,Hiroshima,Hiroshima,34,Japan,JP,Asia,AS,34.4,132.45,Asia/Tokyo,730-0011,AS18144,"Enecom,Inc.",enecom.co.jp,business,false,false,false,false,false
+1.0.66.36/31,Hiroshima,Hiroshima,34,Japan,JP,Asia,AS,34.4,132.45,Asia/Tokyo,730-0011,AS18144,"Enecom,Inc.",enecom.co.jp,business,false,false,false,false,false
+1.0.66.38,Sasayama,Hyōgo,28,Japan,JP,Asia,AS,35.06667,135.21667,Asia/Tokyo,669-2324,AS18144,"Enecom,Inc.",enecom.co.jp,business,false,false,false,false,false
+1.0.66.39,Hiroshima,Hiroshima,34,Japan,JP,Asia,AS,34.4,132.45,Asia/Tokyo,730-0011,AS18144,"Enecom,Inc.",enecom.co.jp,business,false,false,false,false,false
+1.0.66.40/31,Chichibu,Saitama,11,Japan,JP,Asia,AS,35.99028,139.07639,Asia/Tokyo,368-0033,AS18144,"Enecom,Inc.",enecom.co.jp,business,false,false,false,false,false
+1.0.66.42/31,Hiroshima,Hiroshima,34,Japan,JP,Asia,AS,34.4,132.45,Asia/Tokyo,730-0011,AS18144,"Enecom,Inc.",enecom.co.jp,business,false,false,false,false,false
+1.0.66.44/30,Hiroshima,Hiroshima,34,Japan,JP,Asia,AS,34.4,132.45,Asia/Tokyo,730-0011,AS18144,"Enecom,Inc.",enecom.co.jp,business,false,false,false,false,false
+1.0.66.48/28,Hiroshima,Hiroshima,34,Japan,JP,Asia,AS,34.4,132.45,Asia/Tokyo,730-0011,AS18144,"Enecom,Inc.",enecom.co.jp,business,false,false,false,false,false
+1.0.66.64/27,Hiroshima,Hiroshima,34,Japan,JP,Asia,AS,34.4,132.45,Asia/Tokyo,730-0011,AS18144,"Enecom,Inc.",enecom.co.jp,business,false,false,false,false,false
+1.0.66.96/28,Hiroshima,Hiroshima,34,Japan,JP,Asia,AS,34.4,132.45,Asia/Tokyo,730-0011,AS18144,"Enecom,Inc.",enecom.co.jp,business,false,false,false,false,false
+1.0.66.112/30,Hiroshima,Hiroshima,34,Japan,JP,Asia,AS,34.4,132.45,Asia/Tokyo,730-0011,AS18144,"Enecom,Inc.",enecom.co.jp,business,false,false,false,false,false
+1.0.66.116/30,Onomichi,Hiroshima,34,Japan,JP,Asia,AS,34.41667,133.2,Asia/Tokyo,722-0023,AS18144,"Enecom,Inc.",enecom.co.jp,business,false,false,false,false,false
+1.0.66.120/29,Hiroshima,Hiroshima,34,Japan,JP,Asia,AS,34.4,132.45,Asia/Tokyo,730-0011,AS18144,"Enecom,Inc.",enecom.co.jp,business,false,false,false,false,false
+1.0.66.128/29,Kaitaichi,Hiroshima,34,Japan,JP,Asia,AS,34.36667,132.53333,Asia/Tokyo,736-0026,AS18144,"Enecom,Inc.",enecom.co.jp,business,false,false,false,false,false
+1.0.66.136,Hatsukaichi,Hiroshima,34,Japan,JP,Asia,AS,34.35,132.33333,Asia/Tokyo,738-0013,AS18144,"Enecom,Inc.",enecom.co.jp,business,false,false,false,false,false
+1.0.66.137,Hiroshima,Hiroshima,34,Japan,JP,Asia,AS,34.4,132.45,Asia/Tokyo,730-0011,AS18144,"Enecom,Inc.",enecom.co.jp,business,false,false,false,false,false
+1.0.66.138/31,Hiroshima,Hiroshima,34,Japan,JP,Asia,AS,34.4,132.45,Asia/Tokyo,730-0011,AS18144,"Enecom,Inc.",enecom.co.jp,business,false,false,false,false,false
+1.0.66.140/30,Hiroshima,Hiroshima,34,Japan,JP,Asia,AS,34.4,132.45,Asia/Tokyo,730-0011,AS18144,"Enecom,Inc.",enecom.co.jp,business,false,false,false,false,false
+1.0.66.144/28,Hiroshima,Hiroshima,34,Japan,JP,Asia,AS,34.4,132.45,Asia/Tokyo,730-0011,AS18144,"Enecom,Inc.",enecom.co.jp,business,false,false,false,false,false
+1.0.66.160/29,Hiroshima,Hiroshima,34,Japan,JP,Asia,AS,34.4,132.45,Asia/Tokyo,730-0011,AS18144,"Enecom,Inc.",enecom.co.jp,business,false,false,false,false,false
+1.0.66.168/29,Kōnan,Aichi,23,Japan,JP,Asia,AS,35.33165,136.87042,Asia/Tokyo,465-0004,AS18144,"Enecom,Inc.",enecom.co.jp,business,false,false,false,false,false
+1.0.66.176/28,Hiroshima,Hiroshima,34,Japan,JP,Asia,AS,34.4,132.45,Asia/Tokyo,730-0011,AS18144,"Enecom,Inc.",enecom.co.jp,business,false,false,false,false,false
+1.0.66.192/30,Hiroshima,Hiroshima,34,Japan,JP,Asia,AS,34.4,132.45,Asia/Tokyo,730-0011,AS18144,"Enecom,Inc.",enecom.co.jp,business,false,false,false,false,false
