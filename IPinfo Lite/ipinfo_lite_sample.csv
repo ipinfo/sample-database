@@ -72,22 +72,7 @@ network,country,country_code,continent,continent_code,asn,as_name,as_domain
 1.4.64.0/18,China,CN,Asia,AS,,,
 1.4.128.0/17,Thailand,TH,Asia,AS,AS23969,TOT Public Company Limited,ntplc.co.th
 1.5.0.0/16,Japan,JP,Asia,AS,AS4725,SoftBank Corp.,softbank.jp
-1.6.0.0/18,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
-1.6.64.0/20,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
-1.6.80.0/21,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
-1.6.88.0,United Kingdom,GB,Europe,EU,AS9583,Sify Limited,sifycorp.com
-1.6.88.1,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
-1.6.88.2/31,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
-1.6.88.4/30,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
-1.6.88.8/29,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
-1.6.88.16/28,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
-1.6.88.32/27,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
-1.6.88.64/26,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
-1.6.88.128/25,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
-1.6.89.0/24,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
-1.6.90.0/23,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
-1.6.92.0/22,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
-1.6.96.0/19,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.0.0/17,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
 1.6.128.0/21,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
 1.6.136.0/24,India,IN,Asia,AS,AS132215,Powergrid Teleservices Limited,powergrid.in
 1.6.137.0/24,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
@@ -99,3 +84,18 @@ network,country,country_code,continent,continent_code,asn,as_name,as_domain
 1.6.224.0/23,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
 1.6.226.0/23,India,IN,Asia,AS,AS132215,Powergrid Teleservices Limited,powergrid.in
 1.6.228.0/24,India,IN,Asia,AS,AS132215,Powergrid Teleservices Limited,powergrid.in
+1.6.229.0/24,India,IN,Asia,AS,AS4755,TATA Communications formerly VSNL is Leading ISP,tatacommunications.com
+1.6.230.0/24,India,IN,Asia,AS,AS4755,TATA Communications formerly VSNL is Leading ISP,tatacommunications.com
+1.6.231.0/24,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.232.0/21,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.240.0/20,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.0.0/24,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.1.0/24,India,IN,Asia,AS,,,
+1.7.2.0/24,India,IN,Asia,AS,,,
+1.7.3.0/24,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.4.0/22,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.8.0/21,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.16.0/21,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.24.0/24,India,IN,Asia,AS,AS133388,IMS Health India Pvt Ltd,imshealth.com
+1.7.25.0/24,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.26.0/23,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com

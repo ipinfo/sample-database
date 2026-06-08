@@ -17,7 +17,7 @@
 {"start_ip": "1.6.136.0", "end_ip": "1.6.136.255", "join_key": "1.6.0.0", "asn": "AS132215", "domain": "powergrid.in", "name": "Powergrid Teleservices Limited", "type": "isp", "country": "IN"}
 {"start_ip": "1.6.137.0", "end_ip": "1.6.225.255", "join_key": "1.6.0.0", "asn": "AS9583", "domain": "sifycorp.com", "name": "Sify Limited", "type": "isp", "country": "IN"}
 {"start_ip": "1.6.226.0", "end_ip": "1.6.228.255", "join_key": "1.6.0.0", "asn": "AS132215", "domain": "powergrid.in", "name": "Powergrid Teleservices Limited", "type": "isp", "country": "IN"}
-{"start_ip": "1.6.229.0", "end_ip": "1.6.230.255", "join_key": "1.6.0.0", "asn": "AS4755", "domain": "tatacommunications.com", "name": "TATA Communications formerly VSNL is Leading ISP", "type": "hosting", "country": "IN"}
+{"start_ip": "1.6.229.0", "end_ip": "1.6.230.255", "join_key": "1.6.0.0", "asn": "AS4755", "domain": "tatacommunications.com", "name": "TATA Communications formerly VSNL is Leading ISP", "type": "isp", "country": "IN"}
 {"start_ip": "1.6.231.0", "end_ip": "1.6.255.255", "join_key": "1.6.0.0", "asn": "AS9583", "domain": "sifycorp.com", "name": "Sify Limited", "type": "isp", "country": "IN"}
 {"start_ip": "1.7.0.0", "end_ip": "1.7.0.255", "join_key": "1.7.0.0", "asn": "AS9583", "domain": "sifycorp.com", "name": "Sify Limited", "type": "isp", "country": "IN"}
 {"start_ip": "1.7.3.0", "end_ip": "1.7.23.255", "join_key": "1.7.0.0", "asn": "AS9583", "domain": "sifycorp.com", "name": "Sify Limited", "type": "isp", "country": "IN"}

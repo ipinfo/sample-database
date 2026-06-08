@@ -30,9 +30,7 @@ start_ip,end_ip,country,country_name,continent,continent_name,asn,as_name,as_dom
 1.4.1.0,1.4.127.255,CN,China,AS,Asia,,,
 1.4.128.0,1.4.255.255,TH,Thailand,AS,Asia,AS23969,TOT Public Company Limited,ntplc.co.th
 1.5.0.0,1.5.255.255,JP,Japan,AS,Asia,AS4725,SoftBank Corp.,softbank.jp
-1.6.0.0,1.6.87.255,IN,India,AS,Asia,AS9583,Sify Limited,sifycorp.com
-1.6.88.0,1.6.88.0,GB,United Kingdom,EU,Europe,AS9583,Sify Limited,sifycorp.com
-1.6.88.1,1.6.135.255,IN,India,AS,Asia,AS9583,Sify Limited,sifycorp.com
+1.6.0.0,1.6.135.255,IN,India,AS,Asia,AS9583,Sify Limited,sifycorp.com
 1.6.136.0,1.6.136.255,IN,India,AS,Asia,AS132215,Powergrid Teleservices Limited,powergrid.in
 1.6.137.0,1.6.225.255,IN,India,AS,Asia,AS9583,Sify Limited,sifycorp.com
 1.6.226.0,1.6.228.255,IN,India,AS,Asia,AS132215,Powergrid Teleservices Limited,powergrid.in
@@ -89,13 +87,15 @@ start_ip,end_ip,country,country_name,continent,continent_name,asn,as_name,as_dom
 1.9.244.90,1.9.244.90,RE,Reunion,AF,Africa,AS4788,TM TECHNOLOGY SERVICES SDN. BHD.,tm.com.my
 1.9.244.91,1.9.244.144,MY,Malaysia,AS,Asia,AS4788,TM TECHNOLOGY SERVICES SDN. BHD.,tm.com.my
 1.9.244.145,1.9.244.145,TH,Thailand,AS,Asia,AS4788,TM TECHNOLOGY SERVICES SDN. BHD.,tm.com.my
-1.9.244.146,1.9.255.255,MY,Malaysia,AS,Asia,AS4788,TM TECHNOLOGY SERVICES SDN. BHD.,tm.com.my
+1.9.244.146,1.9.244.157,MY,Malaysia,AS,Asia,AS4788,TM TECHNOLOGY SERVICES SDN. BHD.,tm.com.my
+1.9.244.158,1.9.244.158,TH,Thailand,AS,Asia,AS4788,TM TECHNOLOGY SERVICES SDN. BHD.,tm.com.my
+1.9.244.159,1.9.255.255,MY,Malaysia,AS,Asia,AS4788,TM TECHNOLOGY SERVICES SDN. BHD.,tm.com.my
 1.10.0.0,1.10.9.255,CN,China,AS,Asia,,,
 1.10.10.0,1.10.10.255,IN,India,AS,Asia,AS148000,BHARAT PUBLIC DNS (1.10.10.10),dns.nic.in
 1.10.11.0,1.10.127.255,CN,China,AS,Asia,,,
 1.10.128.0,1.10.134.255,TH,Thailand,AS,Asia,AS23969,TOT Public Company Limited,ntplc.co.th
 1.10.135.0,1.10.135.255,TH,Thailand,AS,Asia,AS23974,Ministry of education,moe.go.th
-1.10.136.0,1.10.255.255,TH,Thailand,AS,Asia,AS23969,TOT Public Company Limited,ntplc.co.th
+1.10.136.0,1.10.222.251,TH,Thailand,AS,Asia,AS23969,TOT Public Company Limited,ntplc.co.th
+1.10.222.252,1.10.222.252,MY,Malaysia,AS,Asia,AS23969,TOT Public Company Limited,ntplc.co.th
+1.10.222.253,1.10.255.255,TH,Thailand,AS,Asia,AS23969,TOT Public Company Limited,ntplc.co.th
 1.11.0.0,1.11.7.255,KR,South Korea,AS,Asia,AS18313,LG HelloVision Corp.,lghellovision.net
-1.11.8.0,1.11.19.255,KR,South Korea,AS,Asia,AS18318,LG HelloVision Corp.,lghellovision.net
-1.11.20.0,1.11.23.255,KR,South Korea,AS,Asia,AS38091,LG HelloVision Corp.,lghellovision.net

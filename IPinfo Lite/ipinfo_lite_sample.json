@@ -71,22 +71,7 @@
 {"network": "1.4.64.0/18", "country": "China", "country_code": "CN", "continent": "Asia", "continent_code": "AS", "asn": null, "as_name": null, "as_domain": null}
 {"network": "1.4.128.0/17", "country": "Thailand", "country_code": "TH", "continent": "Asia", "continent_code": "AS", "asn": "AS23969", "as_name": "TOT Public Company Limited", "as_domain": "ntplc.co.th"}
 {"network": "1.5.0.0/16", "country": "Japan", "country_code": "JP", "continent": "Asia", "continent_code": "AS", "asn": "AS4725", "as_name": "SoftBank Corp.", "as_domain": "softbank.jp"}
-{"network": "1.6.0.0/18", "country": "India", "country_code": "IN", "continent": "Asia", "continent_code": "AS", "asn": "AS9583", "as_name": "Sify Limited", "as_domain": "sifycorp.com"}
-{"network": "1.6.64.0/20", "country": "India", "country_code": "IN", "continent": "Asia", "continent_code": "AS", "asn": "AS9583", "as_name": "Sify Limited", "as_domain": "sifycorp.com"}
-{"network": "1.6.80.0/21", "country": "India", "country_code": "IN", "continent": "Asia", "continent_code": "AS", "asn": "AS9583", "as_name": "Sify Limited", "as_domain": "sifycorp.com"}
-{"network": "1.6.88.0", "country": "United Kingdom", "country_code": "GB", "continent": "Europe", "continent_code": "EU", "asn": "AS9583", "as_name": "Sify Limited", "as_domain": "sifycorp.com"}
-{"network": "1.6.88.1", "country": "India", "country_code": "IN", "continent": "Asia", "continent_code": "AS", "asn": "AS9583", "as_name": "Sify Limited", "as_domain": "sifycorp.com"}
-{"network": "1.6.88.2/31", "country": "India", "country_code": "IN", "continent": "Asia", "continent_code": "AS", "asn": "AS9583", "as_name": "Sify Limited", "as_domain": "sifycorp.com"}
-{"network": "1.6.88.4/30", "country": "India", "country_code": "IN", "continent": "Asia", "continent_code": "AS", "asn": "AS9583", "as_name": "Sify Limited", "as_domain": "sifycorp.com"}
-{"network": "1.6.88.8/29", "country": "India", "country_code": "IN", "continent": "Asia", "continent_code": "AS", "asn": "AS9583", "as_name": "Sify Limited", "as_domain": "sifycorp.com"}
-{"network": "1.6.88.16/28", "country": "India", "country_code": "IN", "continent": "Asia", "continent_code": "AS", "asn": "AS9583", "as_name": "Sify Limited", "as_domain": "sifycorp.com"}
-{"network": "1.6.88.32/27", "country": "India", "country_code": "IN", "continent": "Asia", "continent_code": "AS", "asn": "AS9583", "as_name": "Sify Limited", "as_domain": "sifycorp.com"}
-{"network": "1.6.88.64/26", "country": "India", "country_code": "IN", "continent": "Asia", "continent_code": "AS", "asn": "AS9583", "as_name": "Sify Limited", "as_domain": "sifycorp.com"}
-{"network": "1.6.88.128/25", "country": "India", "country_code": "IN", "continent": "Asia", "continent_code": "AS", "asn": "AS9583", "as_name": "Sify Limited", "as_domain": "sifycorp.com"}
-{"network": "1.6.89.0/24", "country": "India", "country_code": "IN", "continent": "Asia", "continent_code": "AS", "asn": "AS9583", "as_name": "Sify Limited", "as_domain": "sifycorp.com"}
-{"network": "1.6.90.0/23", "country": "India", "country_code": "IN", "continent": "Asia", "continent_code": "AS", "asn": "AS9583", "as_name": "Sify Limited", "as_domain": "sifycorp.com"}
-{"network": "1.6.92.0/22", "country": "India", "country_code": "IN", "continent": "Asia", "continent_code": "AS", "asn": "AS9583", "as_name": "Sify Limited", "as_domain": "sifycorp.com"}
-{"network": "1.6.96.0/19", "country": "India", "country_code": "IN", "continent": "Asia", "continent_code": "AS", "asn": "AS9583", "as_name": "Sify Limited", "as_domain": "sifycorp.com"}
+{"network": "1.6.0.0/17", "country": "India", "country_code": "IN", "continent": "Asia", "continent_code": "AS", "asn": "AS9583", "as_name": "Sify Limited", "as_domain": "sifycorp.com"}
 {"network": "1.6.128.0/21", "country": "India", "country_code": "IN", "continent": "Asia", "continent_code": "AS", "asn": "AS9583", "as_name": "Sify Limited", "as_domain": "sifycorp.com"}
 {"network": "1.6.136.0/24", "country": "India", "country_code": "IN", "continent": "Asia", "continent_code": "AS", "asn": "AS132215", "as_name": "Powergrid Teleservices Limited", "as_domain": "powergrid.in"}
 {"network": "1.6.137.0/24", "country": "India", "country_code": "IN", "continent": "Asia", "continent_code": "AS", "asn": "AS9583", "as_name": "Sify Limited", "as_domain": "sifycorp.com"}
@@ -98,3 +83,18 @@
 {"network": "1.6.224.0/23", "country": "India", "country_code": "IN", "continent": "Asia", "continent_code": "AS", "asn": "AS9583", "as_name": "Sify Limited", "as_domain": "sifycorp.com"}
 {"network": "1.6.226.0/23", "country": "India", "country_code": "IN", "continent": "Asia", "continent_code": "AS", "asn": "AS132215", "as_name": "Powergrid Teleservices Limited", "as_domain": "powergrid.in"}
 {"network": "1.6.228.0/24", "country": "India", "country_code": "IN", "continent": "Asia", "continent_code": "AS", "asn": "AS132215", "as_name": "Powergrid Teleservices Limited", "as_domain": "powergrid.in"}
+{"network": "1.6.229.0/24", "country": "India", "country_code": "IN", "continent": "Asia", "continent_code": "AS", "asn": "AS4755", "as_name": "TATA Communications formerly VSNL is Leading ISP", "as_domain": "tatacommunications.com"}
+{"network": "1.6.230.0/24", "country": "India", "country_code": "IN", "continent": "Asia", "continent_code": "AS", "asn": "AS4755", "as_name": "TATA Communications formerly VSNL is Leading ISP", "as_domain": "tatacommunications.com"}
+{"network": "1.6.231.0/24", "country": "India", "country_code": "IN", "continent": "Asia", "continent_code": "AS", "asn": "AS9583", "as_name": "Sify Limited", "as_domain": "sifycorp.com"}
+{"network": "1.6.232.0/21", "country": "India", "country_code": "IN", "continent": "Asia", "continent_code": "AS", "asn": "AS9583", "as_name": "Sify Limited", "as_domain": "sifycorp.com"}
+{"network": "1.6.240.0/20", "country": "India", "country_code": "IN", "continent": "Asia", "continent_code": "AS", "asn": "AS9583", "as_name": "Sify Limited", "as_domain": "sifycorp.com"}
+{"network": "1.7.0.0/24", "country": "India", "country_code": "IN", "continent": "Asia", "continent_code": "AS", "asn": "AS9583", "as_name": "Sify Limited", "as_domain": "sifycorp.com"}
+{"network": "1.7.1.0/24", "country": "India", "country_code": "IN", "continent": "Asia", "continent_code": "AS", "asn": null, "as_name": null, "as_domain": null}
+{"network": "1.7.2.0/24", "country": "India", "country_code": "IN", "continent": "Asia", "continent_code": "AS", "asn": null, "as_name": null, "as_domain": null}
+{"network": "1.7.3.0/24", "country": "India", "country_code": "IN", "continent": "Asia", "continent_code": "AS", "asn": "AS9583", "as_name": "Sify Limited", "as_domain": "sifycorp.com"}
+{"network": "1.7.4.0/22", "country": "India", "country_code": "IN", "continent": "Asia", "continent_code": "AS", "asn": "AS9583", "as_name": "Sify Limited", "as_domain": "sifycorp.com"}
+{"network": "1.7.8.0/21", "country": "India", "country_code": "IN", "continent": "Asia", "continent_code": "AS", "asn": "AS9583", "as_name": "Sify Limited", "as_domain": "sifycorp.com"}
+{"network": "1.7.16.0/21", "country": "India", "country_code": "IN", "continent": "Asia", "continent_code": "AS", "asn": "AS9583", "as_name": "Sify Limited", "as_domain": "sifycorp.com"}
+{"network": "1.7.24.0/24", "country": "India", "country_code": "IN", "continent": "Asia", "continent_code": "AS", "asn": "AS133388", "as_name": "IMS Health India Pvt Ltd", "as_domain": "imshealth.com"}
+{"network": "1.7.25.0/24", "country": "India", "country_code": "IN", "continent": "Asia", "continent_code": "AS", "asn": "AS9583", "as_name": "Sify Limited", "as_domain": "sifycorp.com"}
+{"network": "1.7.26.0/23", "country": "India", "country_code": "IN", "continent": "Asia", "continent_code": "AS", "asn": "AS9583", "as_name": "Sify Limited", "as_domain": "sifycorp.com"}
