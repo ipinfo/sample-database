@@ -57,10 +57,7 @@
 {"start_ip": "1.11.95.0", "end_ip": "1.11.95.255", "asn": "AS38091", "name": "LG HelloVision Corp.", "domain": "lghellovision.net"}
 {"start_ip": "1.11.96.0", "end_ip": "1.11.127.255", "asn": "AS38669", "name": "LG HelloVision Corp.", "domain": "lghellovision.net"}
 {"start_ip": "1.11.128.0", "end_ip": "1.11.255.255", "asn": "AS17839", "name": "LG HelloVision Corp.", "domain": "lghellovision.net"}
-{"start_ip": "1.12.0.0", "end_ip": "1.12.15.255", "asn": "AS132203", "name": "Tencent Building, Kejizhongyi Avenue", "domain": "tencent.com"}
-{"start_ip": "1.12.16.0", "end_ip": "1.12.33.255", "asn": "AS45090", "name": "Shenzhen Tencent Computer Systems Company Limited", "domain": "tencent.com"}
-{"start_ip": "1.12.34.0", "end_ip": "1.12.35.255", "asn": "AS132203", "name": "Tencent Building, Kejizhongyi Avenue", "domain": "tencent.com"}
-{"start_ip": "1.12.36.0", "end_ip": "1.15.255.255", "asn": "AS45090", "name": "Shenzhen Tencent Computer Systems Company Limited", "domain": "tencent.com"}
+{"start_ip": "1.12.0.0", "end_ip": "1.15.255.255", "asn": "AS45090", "name": "Shenzhen Tencent Computer Systems Company Limited", "domain": "tencent.com"}
 {"start_ip": "1.16.0.0", "end_ip": "1.16.63.255", "asn": "AS45996", "name": "DAOU TECHNOLOGY", "domain": "daou.co.kr"}
 {"start_ip": "1.18.116.0", "end_ip": "1.18.116.255", "asn": "AS131098", "name": "Korea Internet Security Agency", "domain": ""}
 {"start_ip": "1.18.118.0", "end_ip": "1.18.118.255", "asn": "AS131099", "name": "Korea Internet Security Agency", "domain": ""}
@@ -98,3 +95,6 @@
 {"start_ip": "1.22.145.0", "end_ip": "1.22.161.255", "asn": "AS45528", "name": "Tikona Infinet Ltd.", "domain": "tikona.in"}
 {"start_ip": "1.22.163.0", "end_ip": "1.22.189.255", "asn": "AS45528", "name": "Tikona Infinet Ltd.", "domain": "tikona.in"}
 {"start_ip": "1.22.192.0", "end_ip": "1.22.201.255", "asn": "AS45528", "name": "Tikona Infinet Ltd.", "domain": "tikona.in"}
+{"start_ip": "1.22.206.0", "end_ip": "1.22.210.255", "asn": "AS45528", "name": "Tikona Infinet Ltd.", "domain": "tikona.in"}
+{"start_ip": "1.22.212.0", "end_ip": "1.22.224.255", "asn": "AS45528", "name": "Tikona Infinet Ltd.", "domain": "tikona.in"}
+{"start_ip": "1.22.228.0", "end_ip": "1.22.236.255", "asn": "AS45528", "name": "Tikona Infinet Ltd.", "domain": "tikona.in"}
