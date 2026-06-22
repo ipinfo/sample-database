@@ -1,7 +1,7 @@
 start_ip,end_ip,join_key,name,domain,type,asn,as_name,as_domain,as_type,country
 1.0.0.0,1.0.0.255,1.0.0.0,APNIC and Cloudflare DNS Resolver project,cloudflare.com,hosting,AS13335,"Cloudflare, Inc.",cloudflare.com,hosting,AU
 1.0.1.0,1.0.3.255,1.0.0.0,CHINANET FUJIAN PROVINCE NETWORK,chinatelecom.cn,isp,,,,,CN
-1.0.4.0,1.0.7.255,1.0.0.0,Gtelecom Pty Ltd,gtelecom.com.au,isp,AS38803,Gtelecom Pty Ltd,gtelecom.com.au,isp,AU
+1.0.4.0,1.0.7.255,1.0.0.0,Gtelecom Pty Ltd,gtelecom.com.au,hosting,AS38803,Gtelecom Pty Ltd,gtelecom.com.au,hosting,AU
 1.0.8.0,1.0.15.255,1.0.0.0,CHINANET Guangdong province network,chinatelecom.cn,isp,,,,,CN
 1.0.16.0,1.0.16.255,1.0.0.0,"i2ts,inc.",i2ts.com,business,AS2519,ARTERIA Networks Corporation,arteria-net.com,isp,JP
 1.0.17.0,1.0.17.255,1.0.0.0,i2ts inc.,i2ts.com,business,,,,,JP
@@ -21,7 +21,7 @@ start_ip,end_ip,join_key,name,domain,type,asn,as_name,as_domain,as_type,country
 1.2.0.0,1.2.1.255,1.2.0.0,CHINANET FUJIAN PROVINCE NETWORK,chinatelecom.cn,isp,,,,,CN
 1.2.2.0,1.2.2.255,1.2.0.0,"KNET Techonlogy (BeiJing) Co.,Ltd.",knet.cn,business,,,,,CN
 1.2.3.0,1.2.3.255,1.2.0.0,APNIC Debogon Project,,business,,,,,AU
-1.2.4.0,1.2.4.255,1.2.0.0,"Saiyu Technology (Beijing) Co., Ltd.",saiyutech.cn,hosting,AS24151,China Internet Network Infomation Center,cnnic.cn,business,CN
+1.2.4.0,1.2.4.255,1.2.0.0,"Saiyu Technology (Beijing) Co., Ltd.",saiyutech.cn,business,AS24409,China Internet Network Infomation Center,cnnic.cn,hosting,CN
 1.2.5.0,1.2.7.255,1.2.0.0,CHINANET FUJIAN PROVINCE NETWORK,chinatelecom.cn,isp,,,,,CN
 1.2.8.0,1.2.8.255,1.2.0.0,China Network Information Center,cnnic.cn,business,,,,,CN
 1.2.9.0,1.2.127.255,1.2.0.0,CHINANET Guangdong province network,chinatelecom.cn,isp,,,,,CN
@@ -44,7 +44,7 @@ start_ip,end_ip,join_key,name,domain,type,asn,as_name,as_domain,as_type,country
 1.8.18.0,1.8.18.255,1.8.0.0,Internet Domain Name System Beijing Engineering Resrarch Center Ltd.,knet.cn,business,,,,,CN
 1.8.19.0,1.8.255.255,1.8.0.0,"KNET Techonlogy (BeiJing) Co.,Ltd.",knet.cn,business,,,,,CN
 1.9.0.0,1.9.0.127,1.9.0.0,TM TECHNOLOGY SERVICES SDN. BHD.,tm.com.my,isp,AS4788,TM TECHNOLOGY SERVICES SDN. BHD.,tm.com.my,isp,MY
-1.9.0.128,1.9.0.159,1.9.0.0,mollogistics kelana jaya,mol-logistics.com.my,business,AS4788,TM TECHNOLOGY SERVICES SDN. BHD.,tm.com.my,isp,MY
+1.9.0.128,1.9.0.159,1.9.0.0,mollogistics kelana jaya,mol-logistics.com.my,isp,AS4788,TM TECHNOLOGY SERVICES SDN. BHD.,tm.com.my,isp,MY
 1.9.0.160,1.9.1.255,1.9.0.0,TM TECHNOLOGY SERVICES SDN. BHD.,tm.com.my,isp,AS4788,TM TECHNOLOGY SERVICES SDN. BHD.,tm.com.my,isp,MY
 1.9.2.0,1.9.2.255,1.9.0.0,Kementerian Pengajian Tinggi Malaysia,myren.net.my,education,AS4788,TM TECHNOLOGY SERVICES SDN. BHD.,tm.com.my,isp,MY
 1.9.3.0,1.9.11.255,1.9.0.0,TM TECHNOLOGY SERVICES SDN. BHD.,tm.com.my,isp,AS4788,TM TECHNOLOGY SERVICES SDN. BHD.,tm.com.my,isp,MY
@@ -94,7 +94,7 @@ start_ip,end_ip,join_key,name,domain,type,asn,as_name,as_domain,as_type,country
 1.9.206.0,1.9.255.255,1.9.0.0,TM TECHNOLOGY SERVICES SDN. BHD.,tm.com.my,isp,AS4788,TM TECHNOLOGY SERVICES SDN. BHD.,tm.com.my,isp,MY
 1.10.0.0,1.10.7.255,1.10.0.0,CHINANET Guangdong province network,chinatelecom.cn,isp,,,,,CN
 1.10.8.0,1.10.9.255,1.10.0.0,CHINANET FUJIAN PROVINCE NETWORK,chinatelecom.cn,isp,,,,,CN
-1.10.10.0,1.10.10.255,1.10.0.0,National Internet Exchange of India,nixi.in,isp,AS148000,BHARAT PUBLIC DNS (1.10.10.10),dns.nic.in,isp,IN
+1.10.10.0,1.10.10.255,1.10.0.0,National Internet Exchange of India,nixi.in,isp,AS148000,BHARAT PUBLIC DNS (1.10.10.10),dns.nic.in,business,IN
 1.10.11.0,1.10.15.255,1.10.0.0,CHINANET FUJIAN PROVINCE NETWORK,chinatelecom.cn,isp,,,,,CN
 1.10.16.0,1.10.127.255,1.10.0.0,CHINANET Guangdong province network,chinatelecom.cn,isp,,,,,CN
 1.10.128.0,1.10.139.255,1.10.0.0,Shared Dynamic IP Address for Residential Broadband Services,totbb.net,isp,AS23969,TOT Public Company Limited,ntplc.co.th,isp,TH

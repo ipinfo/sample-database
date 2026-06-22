@@ -20,7 +20,7 @@ start_ip,end_ip,country,country_name,continent,continent_name,asn,as_name,as_dom
 1.1.128.0,1.1.255.255,TH,Thailand,AS,Asia,AS23969,TOT Public Company Limited,ntplc.co.th
 1.2.0.0,1.2.2.255,CN,China,AS,Asia,,,
 1.2.3.0,1.2.3.255,UA,Ukraine,EU,Europe,,,
-1.2.4.0,1.2.4.255,CN,China,AS,Asia,AS24151,China Internet Network Infomation Center,cnnic.cn
+1.2.4.0,1.2.4.255,CN,China,AS,Asia,AS24409,China Internet Network Infomation Center,cnnic.cn
 1.2.5.0,1.2.127.255,CN,China,AS,Asia,,,
 1.2.128.0,1.2.255.255,TH,Thailand,AS,Asia,AS23969,TOT Public Company Limited,ntplc.co.th
 1.3.0.0,1.3.255.255,CN,China,AS,Asia,,,
@@ -57,7 +57,7 @@ start_ip,end_ip,country,country_name,continent,continent_name,asn,as_name,as_dom
 1.7.200.0,1.7.202.255,IN,India,AS,Asia,AS132215,Powergrid Teleservices Limited,powergrid.in
 1.7.203.0,1.7.203.255,IN,India,AS,Asia,,,
 1.7.204.0,1.7.224.255,IN,India,AS,Asia,AS9583,Sify Limited,sifycorp.com
-1.7.225.0,1.7.225.255,IN,India,AS,Asia,AS396421,PALO ALTO NETWORKS,paloaltonetworks.com
+1.7.225.0,1.7.225.255,US,United States,NA,North America,AS396421,PALO ALTO NETWORKS,paloaltonetworks.com
 1.7.226.0,1.7.245.255,IN,India,AS,Asia,AS9583,Sify Limited,sifycorp.com
 1.7.246.0,1.7.255.255,IN,India,AS,Asia,,,
 1.8.0.0,1.8.0.255,CN,China,AS,Asia,,,
@@ -71,21 +71,21 @@ start_ip,end_ip,country,country_name,continent,continent_name,asn,as_name,as_dom
 1.9.241.32,1.9.241.39,HK,Hong Kong,AS,Asia,AS4788,TM TECHNOLOGY SERVICES SDN. BHD.,tm.com.my
 1.9.241.40,1.9.241.87,MY,Malaysia,AS,Asia,AS4788,TM TECHNOLOGY SERVICES SDN. BHD.,tm.com.my
 1.9.241.88,1.9.241.95,HK,Hong Kong,AS,Asia,AS4788,TM TECHNOLOGY SERVICES SDN. BHD.,tm.com.my
-1.9.241.96,1.9.241.159,MY,Malaysia,AS,Asia,AS4788,TM TECHNOLOGY SERVICES SDN. BHD.,tm.com.my
-1.9.241.160,1.9.241.175,HK,Hong Kong,AS,Asia,AS4788,TM TECHNOLOGY SERVICES SDN. BHD.,tm.com.my
-1.9.241.176,1.9.241.225,MY,Malaysia,AS,Asia,AS4788,TM TECHNOLOGY SERVICES SDN. BHD.,tm.com.my
+1.9.241.96,1.9.241.225,MY,Malaysia,AS,Asia,AS4788,TM TECHNOLOGY SERVICES SDN. BHD.,tm.com.my
 1.9.241.226,1.9.241.227,ID,Indonesia,AS,Asia,AS4788,TM TECHNOLOGY SERVICES SDN. BHD.,tm.com.my
 1.9.241.228,1.9.241.229,MY,Malaysia,AS,Asia,AS4788,TM TECHNOLOGY SERVICES SDN. BHD.,tm.com.my
 1.9.241.230,1.9.241.231,RE,Reunion,AF,Africa,AS4788,TM TECHNOLOGY SERVICES SDN. BHD.,tm.com.my
-1.9.241.232,1.9.243.255,MY,Malaysia,AS,Asia,AS4788,TM TECHNOLOGY SERVICES SDN. BHD.,tm.com.my
+1.9.241.232,1.9.243.33,MY,Malaysia,AS,Asia,AS4788,TM TECHNOLOGY SERVICES SDN. BHD.,tm.com.my
+1.9.243.34,1.9.243.34,ID,Indonesia,AS,Asia,AS4788,TM TECHNOLOGY SERVICES SDN. BHD.,tm.com.my
+1.9.243.35,1.9.243.255,MY,Malaysia,AS,Asia,AS4788,TM TECHNOLOGY SERVICES SDN. BHD.,tm.com.my
 1.9.244.0,1.9.244.15,HK,Hong Kong,AS,Asia,AS4788,TM TECHNOLOGY SERVICES SDN. BHD.,tm.com.my
 1.9.244.16,1.9.244.31,MY,Malaysia,AS,Asia,AS4788,TM TECHNOLOGY SERVICES SDN. BHD.,tm.com.my
 1.9.244.32,1.9.244.63,HK,Hong Kong,AS,Asia,AS4788,TM TECHNOLOGY SERVICES SDN. BHD.,tm.com.my
 1.9.244.64,1.9.244.89,MY,Malaysia,AS,Asia,AS4788,TM TECHNOLOGY SERVICES SDN. BHD.,tm.com.my
 1.9.244.90,1.9.244.91,RE,Reunion,AF,Africa,AS4788,TM TECHNOLOGY SERVICES SDN. BHD.,tm.com.my
-1.9.244.92,1.9.244.144,MY,Malaysia,AS,Asia,AS4788,TM TECHNOLOGY SERVICES SDN. BHD.,tm.com.my
-1.9.244.145,1.9.244.145,TH,Thailand,AS,Asia,AS4788,TM TECHNOLOGY SERVICES SDN. BHD.,tm.com.my
-1.9.244.146,1.9.255.255,MY,Malaysia,AS,Asia,AS4788,TM TECHNOLOGY SERVICES SDN. BHD.,tm.com.my
+1.9.244.92,1.9.253.37,MY,Malaysia,AS,Asia,AS4788,TM TECHNOLOGY SERVICES SDN. BHD.,tm.com.my
+1.9.253.38,1.9.253.38,PK,Pakistan,AS,Asia,AS4788,TM TECHNOLOGY SERVICES SDN. BHD.,tm.com.my
+1.9.253.39,1.9.255.255,MY,Malaysia,AS,Asia,AS4788,TM TECHNOLOGY SERVICES SDN. BHD.,tm.com.my
 1.10.0.0,1.10.9.255,CN,China,AS,Asia,,,
 1.10.10.0,1.10.10.255,IN,India,AS,Asia,AS148000,BHARAT PUBLIC DNS (1.10.10.10),dns.nic.in
 1.10.11.0,1.10.127.255,CN,China,AS,Asia,,,

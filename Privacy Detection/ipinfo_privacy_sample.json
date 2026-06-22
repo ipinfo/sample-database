@@ -1,9 +1,7 @@
 {"network": "1.0.0.0/31", "hosting": true, "proxy": false, "tor": false, "relay": false, "vpn": false, "service": null}
 {"network": "1.0.0.2", "hosting": true, "proxy": false, "tor": false, "relay": false, "vpn": true, "service": null}
 {"network": "1.0.0.3", "hosting": true, "proxy": false, "tor": false, "relay": false, "vpn": false, "service": null}
-{"network": "1.0.0.4", "hosting": true, "proxy": true, "tor": false, "relay": false, "vpn": false, "service": null}
-{"network": "1.0.0.5", "hosting": true, "proxy": false, "tor": false, "relay": false, "vpn": false, "service": null}
-{"network": "1.0.0.6/31", "hosting": true, "proxy": false, "tor": false, "relay": false, "vpn": false, "service": null}
+{"network": "1.0.0.4/30", "hosting": true, "proxy": false, "tor": false, "relay": false, "vpn": false, "service": null}
 {"network": "1.0.0.8/29", "hosting": true, "proxy": false, "tor": false, "relay": false, "vpn": false, "service": null}
 {"network": "1.0.0.16/28", "hosting": true, "proxy": false, "tor": false, "relay": false, "vpn": false, "service": null}
 {"network": "1.0.0.32/27", "hosting": true, "proxy": false, "tor": false, "relay": false, "vpn": false, "service": null}
@@ -18,8 +16,7 @@
 {"network": "1.0.7.228/31", "hosting": true, "proxy": false, "tor": false, "relay": false, "vpn": false, "service": null}
 {"network": "1.0.7.230", "hosting": true, "proxy": false, "tor": false, "relay": false, "vpn": false, "service": null}
 {"network": "1.0.7.231", "hosting": true, "proxy": false, "tor": false, "relay": false, "vpn": true, "service": null}
-{"network": "1.0.7.232", "hosting": true, "proxy": false, "tor": false, "relay": false, "vpn": true, "service": null}
-{"network": "1.0.7.233", "hosting": true, "proxy": false, "tor": false, "relay": false, "vpn": false, "service": null}
+{"network": "1.0.7.232/31", "hosting": true, "proxy": false, "tor": false, "relay": false, "vpn": false, "service": null}
 {"network": "1.0.7.234", "hosting": true, "proxy": false, "tor": false, "relay": false, "vpn": true, "service": null}
 {"network": "1.0.7.235", "hosting": true, "proxy": false, "tor": false, "relay": false, "vpn": false, "service": null}
 {"network": "1.0.7.236/30", "hosting": true, "proxy": false, "tor": false, "relay": false, "vpn": false, "service": null}
@@ -52,7 +49,6 @@
 {"network": "1.0.79.91", "hosting": false, "proxy": false, "tor": false, "relay": false, "vpn": true, "service": null}
 {"network": "1.0.79.193", "hosting": false, "proxy": false, "tor": false, "relay": false, "vpn": true, "service": null}
 {"network": "1.0.80.52", "hosting": false, "proxy": false, "tor": false, "relay": false, "vpn": true, "service": null}
-{"network": "1.0.80.59", "hosting": false, "proxy": false, "tor": false, "relay": false, "vpn": true, "service": null}
 {"network": "1.0.82.39", "hosting": false, "proxy": false, "tor": false, "relay": false, "vpn": true, "service": null}
 {"network": "1.0.82.158", "hosting": false, "proxy": false, "tor": false, "relay": false, "vpn": true, "service": null}
 {"network": "1.0.83.43", "hosting": false, "proxy": false, "tor": false, "relay": false, "vpn": true, "service": null}
@@ -60,13 +56,17 @@
 {"network": "1.0.83.68", "hosting": false, "proxy": false, "tor": false, "relay": false, "vpn": true, "service": null}
 {"network": "1.0.85.177", "hosting": false, "proxy": false, "tor": false, "relay": false, "vpn": true, "service": null}
 {"network": "1.0.86.101", "hosting": false, "proxy": false, "tor": false, "relay": false, "vpn": true, "service": null}
+{"network": "1.0.87.143", "hosting": false, "proxy": false, "tor": false, "relay": false, "vpn": true, "service": null}
+{"network": "1.0.87.168", "hosting": false, "proxy": false, "tor": false, "relay": false, "vpn": true, "service": null}
 {"network": "1.0.87.224", "hosting": false, "proxy": false, "tor": false, "relay": false, "vpn": true, "service": null}
 {"network": "1.0.88.50", "hosting": false, "proxy": false, "tor": false, "relay": false, "vpn": true, "service": null}
 {"network": "1.0.88.251", "hosting": false, "proxy": false, "tor": false, "relay": false, "vpn": true, "service": null}
+{"network": "1.0.89.217", "hosting": false, "proxy": false, "tor": false, "relay": false, "vpn": true, "service": null}
 {"network": "1.0.90.25", "hosting": false, "proxy": false, "tor": false, "relay": false, "vpn": true, "service": null}
 {"network": "1.0.92.10", "hosting": false, "proxy": false, "tor": false, "relay": false, "vpn": true, "service": null}
 {"network": "1.0.92.22", "hosting": false, "proxy": false, "tor": false, "relay": false, "vpn": true, "service": null}
 {"network": "1.0.92.68", "hosting": false, "proxy": false, "tor": false, "relay": false, "vpn": true, "service": null}
+{"network": "1.0.93.200", "hosting": false, "proxy": false, "tor": false, "relay": false, "vpn": true, "service": null}
 {"network": "1.0.93.233", "hosting": false, "proxy": false, "tor": false, "relay": false, "vpn": true, "service": null}
 {"network": "1.0.94.23", "hosting": false, "proxy": false, "tor": false, "relay": false, "vpn": true, "service": null}
 {"network": "1.0.94.91", "hosting": false, "proxy": false, "tor": false, "relay": false, "vpn": true, "service": null}
@@ -74,7 +74,6 @@
 {"network": "1.0.95.35", "hosting": false, "proxy": false, "tor": false, "relay": false, "vpn": true, "service": null}
 {"network": "1.0.95.118", "hosting": false, "proxy": false, "tor": false, "relay": false, "vpn": true, "service": null}
 {"network": "1.0.95.226/31", "hosting": false, "proxy": false, "tor": false, "relay": false, "vpn": true, "service": null}
-{"network": "1.0.96.17", "hosting": false, "proxy": false, "tor": false, "relay": false, "vpn": true, "service": null}
 {"network": "1.0.96.22", "hosting": false, "proxy": false, "tor": false, "relay": false, "vpn": true, "service": null}
 {"network": "1.0.96.130", "hosting": false, "proxy": false, "tor": false, "relay": false, "vpn": true, "service": null}
 {"network": "1.0.96.212", "hosting": false, "proxy": false, "tor": false, "relay": false, "vpn": true, "service": null}
@@ -98,3 +97,4 @@
 {"network": "1.0.106.67", "hosting": false, "proxy": false, "tor": false, "relay": false, "vpn": true, "service": null}
 {"network": "1.0.107.86", "hosting": false, "proxy": false, "tor": false, "relay": false, "vpn": true, "service": null}
 {"network": "1.0.108.4", "hosting": false, "proxy": false, "tor": false, "relay": false, "vpn": true, "service": null}
+{"network": "1.0.108.102", "hosting": false, "proxy": false, "tor": false, "relay": false, "vpn": true, "service": null}
