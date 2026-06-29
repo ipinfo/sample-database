@@ -71,7 +71,9 @@ start_ip,end_ip,country,country_name,continent,continent_name,asn,as_name,as_dom
 1.9.241.32,1.9.241.39,HK,Hong Kong,AS,Asia,AS4788,TM TECHNOLOGY SERVICES SDN. BHD.,tm.com.my
 1.9.241.40,1.9.241.87,MY,Malaysia,AS,Asia,AS4788,TM TECHNOLOGY SERVICES SDN. BHD.,tm.com.my
 1.9.241.88,1.9.241.95,HK,Hong Kong,AS,Asia,AS4788,TM TECHNOLOGY SERVICES SDN. BHD.,tm.com.my
-1.9.241.96,1.9.241.225,MY,Malaysia,AS,Asia,AS4788,TM TECHNOLOGY SERVICES SDN. BHD.,tm.com.my
+1.9.241.96,1.9.241.167,MY,Malaysia,AS,Asia,AS4788,TM TECHNOLOGY SERVICES SDN. BHD.,tm.com.my
+1.9.241.168,1.9.241.175,HK,Hong Kong,AS,Asia,AS4788,TM TECHNOLOGY SERVICES SDN. BHD.,tm.com.my
+1.9.241.176,1.9.241.225,MY,Malaysia,AS,Asia,AS4788,TM TECHNOLOGY SERVICES SDN. BHD.,tm.com.my
 1.9.241.226,1.9.241.227,ID,Indonesia,AS,Asia,AS4788,TM TECHNOLOGY SERVICES SDN. BHD.,tm.com.my
 1.9.241.228,1.9.241.229,MY,Malaysia,AS,Asia,AS4788,TM TECHNOLOGY SERVICES SDN. BHD.,tm.com.my
 1.9.241.230,1.9.241.231,RE,Reunion,AF,Africa,AS4788,TM TECHNOLOGY SERVICES SDN. BHD.,tm.com.my
@@ -83,7 +85,9 @@ start_ip,end_ip,country,country_name,continent,continent_name,asn,as_name,as_dom
 1.9.244.32,1.9.244.63,HK,Hong Kong,AS,Asia,AS4788,TM TECHNOLOGY SERVICES SDN. BHD.,tm.com.my
 1.9.244.64,1.9.244.89,MY,Malaysia,AS,Asia,AS4788,TM TECHNOLOGY SERVICES SDN. BHD.,tm.com.my
 1.9.244.90,1.9.244.91,RE,Reunion,AF,Africa,AS4788,TM TECHNOLOGY SERVICES SDN. BHD.,tm.com.my
-1.9.244.92,1.9.253.37,MY,Malaysia,AS,Asia,AS4788,TM TECHNOLOGY SERVICES SDN. BHD.,tm.com.my
+1.9.244.92,1.9.244.143,MY,Malaysia,AS,Asia,AS4788,TM TECHNOLOGY SERVICES SDN. BHD.,tm.com.my
+1.9.244.144,1.9.244.145,LA,Laos,AS,Asia,AS4788,TM TECHNOLOGY SERVICES SDN. BHD.,tm.com.my
+1.9.244.146,1.9.253.37,MY,Malaysia,AS,Asia,AS4788,TM TECHNOLOGY SERVICES SDN. BHD.,tm.com.my
 1.9.253.38,1.9.253.38,PK,Pakistan,AS,Asia,AS4788,TM TECHNOLOGY SERVICES SDN. BHD.,tm.com.my
 1.9.253.39,1.9.255.255,MY,Malaysia,AS,Asia,AS4788,TM TECHNOLOGY SERVICES SDN. BHD.,tm.com.my
 1.10.0.0,1.10.9.255,CN,China,AS,Asia,,,
@@ -95,7 +99,3 @@ start_ip,end_ip,country,country_name,continent,continent_name,asn,as_name,as_dom
 1.11.0.0,1.11.7.255,KR,South Korea,AS,Asia,AS18313,LG HelloVision Corp.,lghellovision.net
 1.11.8.0,1.11.19.255,KR,South Korea,AS,Asia,AS18318,LG HelloVision Corp.,lghellovision.net
 1.11.20.0,1.11.23.255,KR,South Korea,AS,Asia,AS38091,LG HelloVision Corp.,lghellovision.net
-1.11.24.0,1.11.31.255,KR,South Korea,AS,Asia,AS18313,LG HelloVision Corp.,lghellovision.net
-1.11.32.0,1.11.39.255,KR,South Korea,AS,Asia,AS38091,LG HelloVision Corp.,lghellovision.net
-1.11.40.0,1.11.47.255,KR,South Korea,AS,Asia,AS18313,LG HelloVision Corp.,lghellovision.net
-1.11.48.0,1.11.55.255,KR,South Korea,AS,Asia,AS38091,LG HelloVision Corp.,lghellovision.net
