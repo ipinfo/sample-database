@@ -58,7 +58,10 @@ start_ip,end_ip,asn,name,domain
 1.11.95.0,1.11.95.255,AS38091,LG HelloVision Corp.,lghellovision.net
 1.11.96.0,1.11.127.255,AS38669,LG HelloVision Corp.,lghellovision.net
 1.11.128.0,1.11.255.255,AS17839,LG HelloVision Corp.,lghellovision.net
-1.12.0.0,1.15.255.255,AS45090,Shenzhen Tencent Computer Systems Company Limited,tencent.com
+1.12.0.0,1.12.15.255,AS132203,"Tencent Building, Kejizhongyi Avenue",tencent.com
+1.12.16.0,1.12.33.255,AS45090,Shenzhen Tencent Computer Systems Company Limited,tencent.com
+1.12.34.0,1.12.35.255,AS132203,"Tencent Building, Kejizhongyi Avenue",tencent.com
+1.12.36.0,1.15.255.255,AS45090,Shenzhen Tencent Computer Systems Company Limited,tencent.com
 1.16.0.0,1.16.63.255,AS45996,DAOU TECHNOLOGY,daou.co.kr
 1.18.116.0,1.18.116.255,AS131098,Korea Internet Security Agency,
 1.18.118.0,1.18.118.255,AS131099,Korea Internet Security Agency,
@@ -71,7 +74,9 @@ start_ip,end_ip,asn,name,domain
 1.20.67.0,1.20.116.255,AS23969,TOT Public Company Limited,ntplc.co.th
 1.20.117.0,1.20.117.255,AS56120,TOT Public Company Limited,totidc.net
 1.20.118.0,1.20.118.255,AS23969,TOT Public Company Limited,ntplc.co.th
-1.20.119.0,1.20.123.255,AS56120,TOT Public Company Limited,totidc.net
+1.20.119.0,1.20.120.255,AS56120,TOT Public Company Limited,totidc.net
+1.20.121.0,1.20.121.255,AS23969,TOT Public Company Limited,ntplc.co.th
+1.20.122.0,1.20.123.255,AS56120,TOT Public Company Limited,totidc.net
 1.20.124.0,1.20.124.255,AS23969,TOT Public Company Limited,ntplc.co.th
 1.20.125.0,1.20.127.255,AS56120,TOT Public Company Limited,totidc.net
 1.20.128.0,1.20.255.255,AS23969,TOT Public Company Limited,ntplc.co.th
@@ -94,8 +99,3 @@ start_ip,end_ip,asn,name,domain
 1.22.88.0,1.22.107.255,AS45528,Tikona Infinet Ltd.,tikona.in
 1.22.112.0,1.22.140.255,AS45528,Tikona Infinet Ltd.,tikona.in
 1.22.145.0,1.22.161.255,AS45528,Tikona Infinet Ltd.,tikona.in
-1.22.163.0,1.22.189.255,AS45528,Tikona Infinet Ltd.,tikona.in
-1.22.192.0,1.22.201.255,AS45528,Tikona Infinet Ltd.,tikona.in
-1.22.206.0,1.22.210.255,AS45528,Tikona Infinet Ltd.,tikona.in
-1.22.212.0,1.22.224.255,AS45528,Tikona Infinet Ltd.,tikona.in
-1.22.228.0,1.22.236.255,AS45528,Tikona Infinet Ltd.,tikona.in

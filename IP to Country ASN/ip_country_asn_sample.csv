@@ -49,9 +49,7 @@ start_ip,end_ip,country,country_name,continent,continent_name,asn,as_name,as_dom
 1.7.151.0,1.7.151.255,IN,India,AS,Asia,AS132215,Powergrid Teleservices Limited,powergrid.in
 1.7.152.0,1.7.160.255,IN,India,AS,Asia,AS9583,Sify Limited,sifycorp.com
 1.7.161.0,1.7.162.255,IN,India,AS,Asia,AS132215,Powergrid Teleservices Limited,powergrid.in
-1.7.163.0,1.7.168.167,IN,India,AS,Asia,AS9583,Sify Limited,sifycorp.com
-1.7.168.168,1.7.168.175,SG,Singapore,AS,Asia,AS9583,Sify Limited,sifycorp.com
-1.7.168.176,1.7.179.255,IN,India,AS,Asia,AS9583,Sify Limited,sifycorp.com
+1.7.163.0,1.7.179.255,IN,India,AS,Asia,AS9583,Sify Limited,sifycorp.com
 1.7.180.0,1.7.180.255,IN,India,AS,Asia,AS132215,Powergrid Teleservices Limited,powergrid.in
 1.7.181.0,1.7.199.255,IN,India,AS,Asia,AS9583,Sify Limited,sifycorp.com
 1.7.200.0,1.7.202.255,IN,India,AS,Asia,AS132215,Powergrid Teleservices Limited,powergrid.in
@@ -99,3 +97,5 @@ start_ip,end_ip,country,country_name,continent,continent_name,asn,as_name,as_dom
 1.11.0.0,1.11.7.255,KR,South Korea,AS,Asia,AS18313,LG HelloVision Corp.,lghellovision.net
 1.11.8.0,1.11.19.255,KR,South Korea,AS,Asia,AS18318,LG HelloVision Corp.,lghellovision.net
 1.11.20.0,1.11.23.255,KR,South Korea,AS,Asia,AS38091,LG HelloVision Corp.,lghellovision.net
+1.11.24.0,1.11.31.255,KR,South Korea,AS,Asia,AS18313,LG HelloVision Corp.,lghellovision.net
+1.11.32.0,1.11.39.255,KR,South Korea,AS,Asia,AS38091,LG HelloVision Corp.,lghellovision.net
