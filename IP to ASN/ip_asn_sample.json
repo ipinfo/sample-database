@@ -48,9 +48,10 @@
 {"start_ip": "1.11.8.0", "end_ip": "1.11.19.255", "asn": "AS18318", "name": "LG HelloVision Corp.", "domain": "lghellovision.net"}
 {"start_ip": "1.11.20.0", "end_ip": "1.11.23.255", "asn": "AS38091", "name": "LG HelloVision Corp.", "domain": "lghellovision.net"}
 {"start_ip": "1.11.24.0", "end_ip": "1.11.31.255", "asn": "AS18313", "name": "LG HelloVision Corp.", "domain": "lghellovision.net"}
-{"start_ip": "1.11.32.0", "end_ip": "1.11.39.255", "asn": "AS38091", "name": "LG HelloVision Corp.", "domain": "lghellovision.net"}
+{"start_ip": "1.11.32.0", "end_ip": "1.11.32.255", "asn": "AS38091", "name": "LG HelloVision Corp.", "domain": "lghellovision.net"}
+{"start_ip": "1.11.33.0", "end_ip": "1.11.39.255", "asn": "AS38120", "name": "LG HelloVision Corp.", "domain": "lghellovision.net"}
 {"start_ip": "1.11.40.0", "end_ip": "1.11.47.255", "asn": "AS18313", "name": "LG HelloVision Corp.", "domain": "lghellovision.net"}
-{"start_ip": "1.11.48.0", "end_ip": "1.11.55.255", "asn": "AS38091", "name": "LG HelloVision Corp.", "domain": "lghellovision.net"}
+{"start_ip": "1.11.48.0", "end_ip": "1.11.55.255", "asn": "AS38120", "name": "LG HelloVision Corp.", "domain": "lghellovision.net"}
 {"start_ip": "1.11.56.0", "end_ip": "1.11.63.255", "asn": "AS18313", "name": "LG HelloVision Corp.", "domain": "lghellovision.net"}
 {"start_ip": "1.11.64.0", "end_ip": "1.11.91.255", "asn": "AS38091", "name": "LG HelloVision Corp.", "domain": "lghellovision.net"}
 {"start_ip": "1.11.92.0", "end_ip": "1.11.94.255", "asn": "AS45996", "name": "DAOU TECHNOLOGY", "domain": "daou.co.kr"}
@@ -69,16 +70,7 @@
 {"start_ip": "1.18.125.0", "end_ip": "1.18.126.255", "asn": "AS23599", "name": "Korea Internet Security Agency", "domain": ""}
 {"start_ip": "1.18.127.0", "end_ip": "1.18.130.255", "asn": "AS23596", "name": "Korea Internet Security Agency", "domain": ""}
 {"start_ip": "1.18.132.0", "end_ip": "1.18.135.255", "asn": "AS23600", "name": "Korea Internet Security Agency", "domain": ""}
-{"start_ip": "1.20.0.0", "end_ip": "1.20.66.255", "asn": "AS56120", "name": "TOT Public Company Limited", "domain": "totidc.net"}
-{"start_ip": "1.20.67.0", "end_ip": "1.20.116.255", "asn": "AS23969", "name": "TOT Public Company Limited", "domain": "ntplc.co.th"}
-{"start_ip": "1.20.117.0", "end_ip": "1.20.117.255", "asn": "AS56120", "name": "TOT Public Company Limited", "domain": "totidc.net"}
-{"start_ip": "1.20.118.0", "end_ip": "1.20.118.255", "asn": "AS23969", "name": "TOT Public Company Limited", "domain": "ntplc.co.th"}
-{"start_ip": "1.20.119.0", "end_ip": "1.20.120.255", "asn": "AS56120", "name": "TOT Public Company Limited", "domain": "totidc.net"}
-{"start_ip": "1.20.121.0", "end_ip": "1.20.121.255", "asn": "AS23969", "name": "TOT Public Company Limited", "domain": "ntplc.co.th"}
-{"start_ip": "1.20.122.0", "end_ip": "1.20.123.255", "asn": "AS56120", "name": "TOT Public Company Limited", "domain": "totidc.net"}
-{"start_ip": "1.20.124.0", "end_ip": "1.20.124.255", "asn": "AS23969", "name": "TOT Public Company Limited", "domain": "ntplc.co.th"}
-{"start_ip": "1.20.125.0", "end_ip": "1.20.127.255", "asn": "AS56120", "name": "TOT Public Company Limited", "domain": "totidc.net"}
-{"start_ip": "1.20.128.0", "end_ip": "1.20.255.255", "asn": "AS23969", "name": "TOT Public Company Limited", "domain": "ntplc.co.th"}
+{"start_ip": "1.20.0.0", "end_ip": "1.20.255.255", "asn": "AS23969", "name": "TOT Public Company Limited", "domain": "ntplc.co.th"}
 {"start_ip": "1.21.0.0", "end_ip": "1.21.95.255", "asn": "AS2519", "name": "ARTERIA Networks Corporation", "domain": "arteria-net.com"}
 {"start_ip": "1.21.96.0", "end_ip": "1.21.111.255", "asn": "AS59125", "name": "FAMILY NET JAPAN INCORPORATED", "domain": "fnj.co.jp"}
 {"start_ip": "1.21.112.0", "end_ip": "1.21.127.255", "asn": "AS2519", "name": "ARTERIA Networks Corporation", "domain": "arteria-net.com"}
@@ -98,3 +90,11 @@
 {"start_ip": "1.22.88.0", "end_ip": "1.22.107.255", "asn": "AS45528", "name": "Tikona Infinet Ltd.", "domain": "tikona.in"}
 {"start_ip": "1.22.112.0", "end_ip": "1.22.140.255", "asn": "AS45528", "name": "Tikona Infinet Ltd.", "domain": "tikona.in"}
 {"start_ip": "1.22.145.0", "end_ip": "1.22.161.255", "asn": "AS45528", "name": "Tikona Infinet Ltd.", "domain": "tikona.in"}
+{"start_ip": "1.22.163.0", "end_ip": "1.22.189.255", "asn": "AS45528", "name": "Tikona Infinet Ltd.", "domain": "tikona.in"}
+{"start_ip": "1.22.192.0", "end_ip": "1.22.201.255", "asn": "AS45528", "name": "Tikona Infinet Ltd.", "domain": "tikona.in"}
+{"start_ip": "1.22.206.0", "end_ip": "1.22.210.255", "asn": "AS45528", "name": "Tikona Infinet Ltd.", "domain": "tikona.in"}
+{"start_ip": "1.22.212.0", "end_ip": "1.22.224.255", "asn": "AS45528", "name": "Tikona Infinet Ltd.", "domain": "tikona.in"}
+{"start_ip": "1.22.228.0", "end_ip": "1.22.236.255", "asn": "AS45528", "name": "Tikona Infinet Ltd.", "domain": "tikona.in"}
+{"start_ip": "1.22.240.0", "end_ip": "1.23.6.255", "asn": "AS45528", "name": "Tikona Infinet Ltd.", "domain": "tikona.in"}
+{"start_ip": "1.23.10.0", "end_ip": "1.23.13.255", "asn": "AS45528", "name": "Tikona Infinet Ltd.", "domain": "tikona.in"}
+{"start_ip": "1.23.16.0", "end_ip": "1.23.23.255", "asn": "AS45528", "name": "Tikona Infinet Ltd.", "domain": "tikona.in"}

@@ -49,9 +49,10 @@ start_ip,end_ip,asn,name,domain
 1.11.8.0,1.11.19.255,AS18318,LG HelloVision Corp.,lghellovision.net
 1.11.20.0,1.11.23.255,AS38091,LG HelloVision Corp.,lghellovision.net
 1.11.24.0,1.11.31.255,AS18313,LG HelloVision Corp.,lghellovision.net
-1.11.32.0,1.11.39.255,AS38091,LG HelloVision Corp.,lghellovision.net
+1.11.32.0,1.11.32.255,AS38091,LG HelloVision Corp.,lghellovision.net
+1.11.33.0,1.11.39.255,AS38120,LG HelloVision Corp.,lghellovision.net
 1.11.40.0,1.11.47.255,AS18313,LG HelloVision Corp.,lghellovision.net
-1.11.48.0,1.11.55.255,AS38091,LG HelloVision Corp.,lghellovision.net
+1.11.48.0,1.11.55.255,AS38120,LG HelloVision Corp.,lghellovision.net
 1.11.56.0,1.11.63.255,AS18313,LG HelloVision Corp.,lghellovision.net
 1.11.64.0,1.11.91.255,AS38091,LG HelloVision Corp.,lghellovision.net
 1.11.92.0,1.11.94.255,AS45996,DAOU TECHNOLOGY,daou.co.kr
@@ -70,16 +71,7 @@ start_ip,end_ip,asn,name,domain
 1.18.125.0,1.18.126.255,AS23599,Korea Internet Security Agency,
 1.18.127.0,1.18.130.255,AS23596,Korea Internet Security Agency,
 1.18.132.0,1.18.135.255,AS23600,Korea Internet Security Agency,
-1.20.0.0,1.20.66.255,AS56120,TOT Public Company Limited,totidc.net
-1.20.67.0,1.20.116.255,AS23969,TOT Public Company Limited,ntplc.co.th
-1.20.117.0,1.20.117.255,AS56120,TOT Public Company Limited,totidc.net
-1.20.118.0,1.20.118.255,AS23969,TOT Public Company Limited,ntplc.co.th
-1.20.119.0,1.20.120.255,AS56120,TOT Public Company Limited,totidc.net
-1.20.121.0,1.20.121.255,AS23969,TOT Public Company Limited,ntplc.co.th
-1.20.122.0,1.20.123.255,AS56120,TOT Public Company Limited,totidc.net
-1.20.124.0,1.20.124.255,AS23969,TOT Public Company Limited,ntplc.co.th
-1.20.125.0,1.20.127.255,AS56120,TOT Public Company Limited,totidc.net
-1.20.128.0,1.20.255.255,AS23969,TOT Public Company Limited,ntplc.co.th
+1.20.0.0,1.20.255.255,AS23969,TOT Public Company Limited,ntplc.co.th
 1.21.0.0,1.21.95.255,AS2519,ARTERIA Networks Corporation,arteria-net.com
 1.21.96.0,1.21.111.255,AS59125,FAMILY NET JAPAN INCORPORATED,fnj.co.jp
 1.21.112.0,1.21.127.255,AS2519,ARTERIA Networks Corporation,arteria-net.com
@@ -99,3 +91,11 @@ start_ip,end_ip,asn,name,domain
 1.22.88.0,1.22.107.255,AS45528,Tikona Infinet Ltd.,tikona.in
 1.22.112.0,1.22.140.255,AS45528,Tikona Infinet Ltd.,tikona.in
 1.22.145.0,1.22.161.255,AS45528,Tikona Infinet Ltd.,tikona.in
+1.22.163.0,1.22.189.255,AS45528,Tikona Infinet Ltd.,tikona.in
+1.22.192.0,1.22.201.255,AS45528,Tikona Infinet Ltd.,tikona.in
+1.22.206.0,1.22.210.255,AS45528,Tikona Infinet Ltd.,tikona.in
+1.22.212.0,1.22.224.255,AS45528,Tikona Infinet Ltd.,tikona.in
+1.22.228.0,1.22.236.255,AS45528,Tikona Infinet Ltd.,tikona.in
+1.22.240.0,1.23.6.255,AS45528,Tikona Infinet Ltd.,tikona.in
+1.23.10.0,1.23.13.255,AS45528,Tikona Infinet Ltd.,tikona.in
+1.23.16.0,1.23.23.255,AS45528,Tikona Infinet Ltd.,tikona.in
