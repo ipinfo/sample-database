@@ -1,6 +1,6 @@
 # IP to Company Database
 
-## Identify organizatios, their type, domain, ASN information, and the IP addresses they operate.
+## Identify organizations, their type, domain, ASN information, and the IP addresses they operate.
 
 The core dataset for the IP to Company data is the WHOIS records. We parse and match domains from WHOIS records and provide a standardized document that can be used to identify companies and related information from IP addresses and vice-versa.
 
