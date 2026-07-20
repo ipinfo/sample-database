@@ -18,7 +18,7 @@ start_ip,end_ip,join_key,asn,domain,name,type,country
 1.6.136.0,1.6.136.255,1.6.0.0,AS132215,powergrid.in,Powergrid Teleservices Limited,isp,IN
 1.6.137.0,1.6.225.255,1.6.0.0,AS9583,sifycorp.com,Sify Limited,isp,IN
 1.6.226.0,1.6.228.255,1.6.0.0,AS132215,powergrid.in,Powergrid Teleservices Limited,isp,IN
-1.6.229.0,1.6.230.255,1.6.0.0,AS4755,tatacommunications.com,TATA Communications formerly VSNL is Leading ISP,isp,IN
+1.6.229.0,1.6.230.255,1.6.0.0,AS4755,tatacommunications.com,TATA Communications formerly VSNL is Leading ISP,hosting,IN
 1.6.231.0,1.6.255.255,1.6.0.0,AS9583,sifycorp.com,Sify Limited,isp,IN
 1.7.0.0,1.7.0.255,1.7.0.0,AS9583,sifycorp.com,Sify Limited,isp,IN
 1.7.3.0,1.7.23.255,1.7.0.0,AS9583,sifycorp.com,Sify Limited,isp,IN

@@ -2,11 +2,11 @@ ip,ssid,category,name,brand,latitude,longitude
 1.0.75.3,RANDOR-WiFi704_5g,hotel,Randor Hotel Hiroshima Prestage,,34.3937,132.4766
 1.0.75.12,RANDOR-WiFi203,hotel,Randor Hotel Hiroshima Prestage,,34.3937,132.4766
 1.0.136.23,BKR002_2.4G,hotel,Ban Krut Resort,บ้านกรูดรีสอร์ท,11.3582,99.5719
-1.0.136.82,narong,college_university,"Silpakorn University, Sanam Chandra Palace Campus",MATSE,13.819,100.04
+1.0.136.82,narong,university,"Silpakorn University, Sanam Chandra Palace Campus",MATSE,13.819,100.04
 1.0.136.84,BKBF,hotel,Ban Good Beach Front Hotel,,11.3341,99.558
-1.0.136.93,R0000  5G,bank_financial,Krung Thai Bank,ธนาคารกรุงไทย,15.155,98.4506
+1.0.136.93,R0000  5G,bank,Krung Thai Bank,ธนาคารกรุงไทย,15.155,98.4506
 1.0.140.55,Rimnan4,hotel,Ruean Rim Nan เรือนริมน่าน,,16.225,100.4188
-1.0.141.14,API Property fl1,bank_financial,API Property Pattaya,API PROPERTY PATTAYA,12.8827,100.8863
+1.0.141.14,API Property fl1,real_estate,API Property Pattaya,API PROPERTY PATTAYA,12.8827,100.8863
 1.0.141.36,Sunshine Vista,hotel,Sunshine Vista,Sunshine Vista Hotel,12.9452,100.8876
 1.0.141.43,Chaletcustomer 2.4GHz,hotel,Chalet Guesthouse,,12.9368,100.8845
 1.0.141.45,Lisaguesthouse,hotel,Lisa's Guesthouse,,12.8873,100.8802
@@ -16,7 +16,7 @@ ip,ssid,category,name,brand,latitude,longitude
 1.0.141.74,CONDO376_5G,hotel,Jomtien Plaza Condotel,,12.899,100.8681
 1.0.141.85,JH05 2.4Ghz,hotel,Jomtien Hostel,Jomtien Hostel,12.8836,100.8836
 1.0.141.89,Chaletcustomer 2.4GHz,hotel,Chalet Guesthouse,,12.9368,100.8845
-1.0.141.97,KARIENGSAK23-5G,electronics_store,Keng Shop,,12.925,100.8837
+1.0.141.97,KARIENGSAK23-5G,retail,Keng Shop,,12.925,100.8837
 1.0.141.129,Chaletcustomer 2.4GHz,hotel,Chalet Guesthouse,,12.9368,100.8845
 1.0.141.130,Chaletcustomer 2.4GHz,hotel,Chalet Guesthouse,,12.9368,100.8845
 1.0.141.137,Sunshine Vista,hotel,Sunshine Vista,Sunshine Vista Hotel,12.9452,100.8876
@@ -25,77 +25,77 @@ ip,ssid,category,name,brand,latitude,longitude
 1.0.141.157,JH01 (2.4G),hotel,Jomtien Hostel,Jomtien Hostel,12.8836,100.8836
 1.0.141.160,@SunshineVista,hotel,Sunshine Vista,Sunshine Vista Hotel,12.9452,100.8876
 1.0.141.169,Sunshine Vista,hotel,Sunshine Vista,Sunshine Vista Hotel,12.9452,100.8876
-1.0.141.183,KARIENGSAK23-5G,electronics_store,Keng Shop,,12.925,100.8837
-1.0.141.185,KARIENGSAK23-5G,electronics_store,Keng Shop,,12.925,100.8837
+1.0.141.183,KARIENGSAK23-5G,retail,Keng Shop,,12.925,100.8837
+1.0.141.185,KARIENGSAK23-5G,retail,Keng Shop,,12.925,100.8837
 1.0.141.187,BLU MONKEY,hotel,Blu Monkey Hub and Hotel Chanthaburi,,12.6386,102.0957
-1.0.141.213,Toyota_Sure_Free_WiFi,home_services,Toyota Sure Chachoengsao & Coffee F By Sure,,13.6694,101.0511
+1.0.141.213,Toyota_Sure_Free_WiFi,real_estate,Toyota Sure Chachoengsao & Coffee F By Sure,,13.6694,101.0511
 1.0.141.214,Lisaguesthouse,hotel,Lisa's Guesthouse,,12.8873,100.8802
 1.0.141.222,Sunshine Vista,hotel,Sunshine Vista,Sunshine Vista Hotel,12.9452,100.8876
 1.0.141.228,Lisaguesthouse 5G,hotel,Lisa's Guesthouse,,12.8873,100.8802
 1.0.141.230,CONDO376_5G,hotel,Jomtien Plaza Condotel,,12.899,100.8681
-1.0.141.238,KARIENGSAK23-5G,electronics_store,Keng Shop,,12.925,100.8837
+1.0.141.238,KARIENGSAK23-5G,retail,Keng Shop,,12.925,100.8837
 1.0.141.242,STARHOTEL,hotel,Star Convention Hotel Rayong,Novotel,12.6863,101.2706
 1.0.141.253,STARHOTEL,gym,สตาร์ฟิตเนส ระยอง : Star Fitness Rayong,StarFitness Singapore,12.6864,101.2703
-1.0.144.4,JuJu_nails,beauty_salon,JuJu Nails & Spa & Eyelash,,8.3545,100.1998
+1.0.144.4,JuJu_nails,personal_care,JuJu Nails & Spa & Eyelash,,8.3545,100.1998
 1.0.144.50,Wanlee,restaurant,Panyee,,8.3354,98.5042
-1.0.144.56,nisaclinic,beauty_salon,Nisa Clinic Beauty Skin & Laser Center,,9.5335,99.9356
+1.0.144.56,nisaclinic,personal_care,Nisa Clinic Beauty Skin & Laser Center,,9.5335,99.9356
 1.0.144.73,SK Resort,hotel,OYO 75524 SK Resort,,8.0427,99.0752
-1.0.144.97,nisaclinic,beauty_salon,Nisa Clinic Beauty Skin & Laser Center,,9.5335,99.9356
+1.0.144.97,nisaclinic,personal_care,Nisa Clinic Beauty Skin & Laser Center,,9.5335,99.9356
 1.0.144.118,Klongnoy_5G,community_center,หน่วยกู้ชีพ อบต.คลองน้อย,หน่วยกู้ชีพ อบต.คลองน้อย,8.3308,100.1099
-1.0.144.123,Kee Guest WiFi,spa_wellness,Kee Spa,,7.8953,98.2971
+1.0.144.123,Kee Guest WiFi,personal_care,Kee Spa,,7.8953,98.2971
 1.0.144.168,Amonhouse 4_5G,hotel,Amon House,,9.5242,100.0557
 1.0.144.219,cousin,hotel,Cousin Resort,,8.669,98.2445
 1.0.144.253,PaDA_Shop@WiFi,mall,ร้านป้าดาช็อป,,8.494,98.5148
 1.0.145.74,Kung Seafood,restaurant,Kung Seafood,Kung Thai restaurant,8.6428,98.2514
-1.0.145.82,nisaclinic,beauty_salon,Nisa Clinic Beauty Skin & Laser Center,,9.5335,99.9356
+1.0.145.82,nisaclinic,personal_care,Nisa Clinic Beauty Skin & Laser Center,,9.5335,99.9356
 1.0.145.132,Tong Chang Resort,hotel,Tong Chang Resort,,10.5338,99.1222
 1.0.145.172,Amonhouse 4_5G,hotel,Amon House,,9.5242,100.0557
 1.0.145.220,Thelookoutsamui,hotel,The Lookout Koh Samui,,9.5716,99.9274
-1.0.145.246,BAANPLA,bar_pub,The southern,Southern Bar Maenam,9.5706,99.9971
-1.0.146.15,nisaclinic,beauty_salon,Nisa Clinic Beauty Skin & Laser Center,,9.5335,99.9356
+1.0.145.246,BAANPLA,bar,The southern,Southern Bar Maenam,9.5706,99.9971
+1.0.146.15,nisaclinic,personal_care,Nisa Clinic Beauty Skin & Laser Center,,9.5335,99.9356
 1.0.146.61,md_pizza2,restaurant,MD Pizza and Thai Food,md pizza,10.5741,99.2757
-1.0.146.137,NT-ANN-5G,college_university,"Rajamangala University of Technology Srivijaya, Nakhon Si Thammarat Campus, Sai Yai",,8.164,99.7271
-1.0.147.25,Green Mountain_5G,hotel,Green Mountain Resort,,8.0243,98.5917
-1.0.147.37,Kee Guest WiFi,spa_wellness,Kee Spa,,7.8953,98.2971
+1.0.146.137,NT-ANN-5G,university,"Rajamangala University of Technology Srivijaya, Nakhon Si Thammarat Campus, Sai Yai",,8.164,99.7271
+1.0.147.25,Green Mountain_5G,business_services,Green Mountain Resort,,8.0243,98.5917
+1.0.147.37,Kee Guest WiFi,personal_care,Kee Spa,,7.8953,98.2971
 1.0.147.53,CPN_BIRD_5G,restaurant,ชุมพร รังนก ร้าน,ชุมพรรังนก,10.5001,99.1836
 1.0.147.141,Kee Guest WiFi,hotel,The Kee Resort,"The Kee Resort & Spa, Patong",7.895,98.2974
 1.0.147.145,Kohyaoyaiseabreeze_5G,hotel,Koh Yao Yai Sea Breeze House,,8.0535,98.5982
-1.0.147.230,YouAndMeWIFI_2.4GHz,event_services,You&Me Wedding Studio,,8.0964,98.9115
-1.0.148.34,baantarn_5G,spa_wellness,บ้านตาล,,10.505,99.1977
+1.0.147.230,YouAndMeWIFI_2.4GHz,business_services,You&Me Wedding Studio,,8.0964,98.9115
+1.0.148.34,baantarn_5G,personal_care,บ้านตาล,,10.505,99.1977
 1.0.148.48,SUNSET_5G,restaurant,Sunset Boulevard Khao Lak - Deutsche und Thai Küche,,8.6654,98.245
-1.0.148.81,YouAndMeWIFI_2.4GHz,event_services,You&Me Wedding Studio,,8.0964,98.9115
-1.0.148.85,nisaclinic,beauty_salon,Nisa Clinic Beauty Skin & Laser Center,,9.5335,99.9356
+1.0.148.81,YouAndMeWIFI_2.4GHz,business_services,You&Me Wedding Studio,,8.0964,98.9115
+1.0.148.85,nisaclinic,personal_care,Nisa Clinic Beauty Skin & Laser Center,,9.5335,99.9356
 1.0.148.108,RanongGable,hotel,Ranong Gable Hotel,,9.9706,98.6434
-1.0.148.123,nisaclinic,beauty_salon,Nisa Clinic Beauty Skin & Laser Center,,9.5335,99.9356
-1.0.148.239,Thasalayangthong,car_parts_services,ร้านท่าศาลายางทอง,,8.6643,99.9193
+1.0.148.123,nisaclinic,personal_care,Nisa Clinic Beauty Skin & Laser Center,,9.5335,99.9356
+1.0.148.239,Thasalayangthong,car_services,ร้านท่าศาลายางทอง,,8.6643,99.9193
 1.0.149.132,J Mansion,hotel,J. Mansion,เจ แมนชั่น,8.0325,98.823
 1.0.149.133,BophuT Market,market,Bophut Food Market,,9.5537,100.0322
 1.0.149.141,Thelookoutsamui,hotel,The Lookout Koh Samui,,9.5716,99.9274
 1.0.149.229,Beach Mountain Club,restaurant,Beach Mountain Club Cafe & Restaurant Kanom,,9.1221,99.8928
-1.0.149.250,YouAndMeWIFI_2.4GHz,event_services,You&Me Wedding Studio,,8.0964,98.9115
+1.0.149.250,YouAndMeWIFI_2.4GHz,business_services,You&Me Wedding Studio,,8.0964,98.9115
 1.0.150.60,Amonhouse 4_5G,hotel,Amon House,,9.5242,100.0557
 1.0.150.108,SmileResort Bldg4,hotel,Smile Resort - Thungsong,Smile Resort - Thungsong,8.1588,99.6485
 1.0.150.136,GOLDENHILL WiFi,hotel,Golden Hill  | โรงแรม โกลเด้น ฮิลล์,,8.0564,98.9164
 1.0.150.150,BophuT Market,market,Bophut Food Market,,9.5537,100.0322
-1.0.150.244,nisaclinic,beauty_salon,Nisa Clinic Beauty Skin & Laser Center,,9.5335,99.9356
+1.0.150.244,nisaclinic,personal_care,Nisa Clinic Beauty Skin & Laser Center,,9.5335,99.9356
 1.0.151.1,Khanompoolvilla,hotel,Khanom Poolvilla,,9.2994,99.835
 1.0.151.102,Amonhouse 4_5G,hotel,Amon House,,9.5242,100.0557
 1.0.151.121,nt2.4G_chai coffee Beach,restaurant,Chay Coffee Beach,,10.4876,99.2282
-1.0.152.91,JuJu_nails_5G,beauty_salon,JuJu Nails & Spa & Eyelash,,8.3545,100.1998
+1.0.152.91,JuJu_nails_5G,personal_care,JuJu Nails & Spa & Eyelash,,8.3545,100.1998
 1.0.152.96,Kohyaoyaiseabreeze_5G,hotel,Koh Yao Yai Sea Breeze House,,8.0535,98.5982
-1.0.152.111,YouAndMeWIFI_5GHz,event_services,You&Me Wedding Studio,,8.0964,98.9115
-1.0.152.155,nisaclinic,beauty_salon,Nisa Clinic Beauty Skin & Laser Center,,9.5335,99.9356
-1.0.152.181,UNCLE JOES_5G,bar_pub,Uncle Joe’s khaolak,,8.6658,98.2461
-1.0.153.10,King Power,clothing_store,King Power Phuket International Airport,King Power,8.1078,98.3062
+1.0.152.111,YouAndMeWIFI_5GHz,business_services,You&Me Wedding Studio,,8.0964,98.9115
+1.0.152.155,nisaclinic,personal_care,Nisa Clinic Beauty Skin & Laser Center,,9.5335,99.9356
+1.0.152.181,UNCLE JOES_5G,bar,Uncle Joe’s khaolak,,8.6658,98.2461
+1.0.153.10,King Power,retail,King Power Phuket International Airport,King Power,8.1079,98.306
 1.0.153.76,BophuT Market,market,Bophut Food Market,,9.5537,100.0322
 1.0.153.93,Khumsawat2_AP6_5G,hotel,Khum Sawat Hotel,,8.6516,99.9172
 1.0.154.40,kk_park,hotel,K.K.Park Resort,,8.8907,98.658
 1.0.154.43,Amonhouse 4_5G,hotel,Amon House,,9.5242,100.0557
 1.0.154.54,THE BEACH WAY 3,hotel,The Beach Way,,10.5718,99.2616
 1.0.154.68,Koh Yao Candy House.2,hotel,Koh Yao Candy House,,8.0531,98.5973
-1.0.154.83,YouAndMeWIFI_2.4GHz,event_services,You&Me Wedding Studio,,8.0964,98.9115
-1.0.154.116,VgroupV,car_dealer,Ford V Group Cars Nakornsithammarat,Ford,8.4328,99.9514
-1.0.154.125,KAN_TOTWIFI5G,gas_convenience_store,7-Eleven,,10.5623,99.1152
+1.0.154.83,YouAndMeWIFI_2.4GHz,business_services,You&Me Wedding Studio,,8.0964,98.9115
+1.0.154.116,VgroupV,car_dealer,Ford V Group Cars Nakornsithammarat,Ford,8.4328,99.9515
+1.0.154.125,KAN_TOTWIFI5G,convenience_store,7-Eleven,,10.5623,99.1152
 1.0.154.187,Kata Bai D 5G,hotel,Kata Bai D Inn,,7.816,98.302
 1.0.154.225,cousin,hotel,Cousin Resort,,8.669,98.2445
-1.0.156.7,YouAndMeWIFI_5GHz,event_services,You&Me Wedding Studio,,8.0964,98.9115
+1.0.156.7,YouAndMeWIFI_5GHz,business_services,You&Me Wedding Studio,,8.0964,98.9115

@@ -1,11 +1,11 @@
 {"ip": "1.0.75.3", "ssid": "RANDOR-WiFi704_5g", "category": "hotel", "name": "Randor Hotel Hiroshima Prestage", "brand": null, "latitude": 34.3937, "longitude": 132.4766}
 {"ip": "1.0.75.12", "ssid": "RANDOR-WiFi203", "category": "hotel", "name": "Randor Hotel Hiroshima Prestage", "brand": null, "latitude": 34.3937, "longitude": 132.4766}
 {"ip": "1.0.136.23", "ssid": "BKR002_2.4G", "category": "hotel", "name": "Ban Krut Resort", "brand": "บ้านกรูดรีสอร์ท", "latitude": 11.3582, "longitude": 99.5719}
-{"ip": "1.0.136.82", "ssid": "narong", "category": "college_university", "name": "Silpakorn University, Sanam Chandra Palace Campus", "brand": "MATSE", "latitude": 13.819, "longitude": 100.04}
+{"ip": "1.0.136.82", "ssid": "narong", "category": "university", "name": "Silpakorn University, Sanam Chandra Palace Campus", "brand": "MATSE", "latitude": 13.819, "longitude": 100.04}
 {"ip": "1.0.136.84", "ssid": "BKBF", "category": "hotel", "name": "Ban Good Beach Front Hotel", "brand": null, "latitude": 11.3341, "longitude": 99.558}
-{"ip": "1.0.136.93", "ssid": "R0000  5G", "category": "bank_financial", "name": "Krung Thai Bank", "brand": "ธนาคารกรุงไทย", "latitude": 15.155, "longitude": 98.4506}
+{"ip": "1.0.136.93", "ssid": "R0000  5G", "category": "bank", "name": "Krung Thai Bank", "brand": "ธนาคารกรุงไทย", "latitude": 15.155, "longitude": 98.4506}
 {"ip": "1.0.140.55", "ssid": "Rimnan4", "category": "hotel", "name": "Ruean Rim Nan เรือนริมน่าน", "brand": null, "latitude": 16.225, "longitude": 100.4188}
-{"ip": "1.0.141.14", "ssid": "API Property fl1", "category": "bank_financial", "name": "API Property Pattaya", "brand": "API PROPERTY PATTAYA", "latitude": 12.8827, "longitude": 100.8863}
+{"ip": "1.0.141.14", "ssid": "API Property fl1", "category": "real_estate", "name": "API Property Pattaya", "brand": "API PROPERTY PATTAYA", "latitude": 12.8827, "longitude": 100.8863}
 {"ip": "1.0.141.36", "ssid": "Sunshine Vista", "category": "hotel", "name": "Sunshine Vista", "brand": "Sunshine Vista Hotel", "latitude": 12.9452, "longitude": 100.8876}
 {"ip": "1.0.141.43", "ssid": "Chaletcustomer 2.4GHz", "category": "hotel", "name": "Chalet Guesthouse", "brand": null, "latitude": 12.9368, "longitude": 100.8845}
 {"ip": "1.0.141.45", "ssid": "Lisaguesthouse", "category": "hotel", "name": "Lisa's Guesthouse", "brand": null, "latitude": 12.8873, "longitude": 100.8802}
@@ -15,7 +15,7 @@
 {"ip": "1.0.141.74", "ssid": "CONDO376_5G", "category": "hotel", "name": "Jomtien Plaza Condotel", "brand": null, "latitude": 12.899, "longitude": 100.8681}
 {"ip": "1.0.141.85", "ssid": "JH05 2.4Ghz", "category": "hotel", "name": "Jomtien Hostel", "brand": "Jomtien Hostel", "latitude": 12.8836, "longitude": 100.8836}
 {"ip": "1.0.141.89", "ssid": "Chaletcustomer 2.4GHz", "category": "hotel", "name": "Chalet Guesthouse", "brand": null, "latitude": 12.9368, "longitude": 100.8845}
-{"ip": "1.0.141.97", "ssid": "KARIENGSAK23-5G", "category": "electronics_store", "name": "Keng Shop", "brand": null, "latitude": 12.925, "longitude": 100.8837}
+{"ip": "1.0.141.97", "ssid": "KARIENGSAK23-5G", "category": "retail", "name": "Keng Shop", "brand": null, "latitude": 12.925, "longitude": 100.8837}
 {"ip": "1.0.141.129", "ssid": "Chaletcustomer 2.4GHz", "category": "hotel", "name": "Chalet Guesthouse", "brand": null, "latitude": 12.9368, "longitude": 100.8845}
 {"ip": "1.0.141.130", "ssid": "Chaletcustomer 2.4GHz", "category": "hotel", "name": "Chalet Guesthouse", "brand": null, "latitude": 12.9368, "longitude": 100.8845}
 {"ip": "1.0.141.137", "ssid": "Sunshine Vista", "category": "hotel", "name": "Sunshine Vista", "brand": "Sunshine Vista Hotel", "latitude": 12.9452, "longitude": 100.8876}
@@ -24,77 +24,77 @@
 {"ip": "1.0.141.157", "ssid": "JH01 (2.4G)", "category": "hotel", "name": "Jomtien Hostel", "brand": "Jomtien Hostel", "latitude": 12.8836, "longitude": 100.8836}
 {"ip": "1.0.141.160", "ssid": "@SunshineVista", "category": "hotel", "name": "Sunshine Vista", "brand": "Sunshine Vista Hotel", "latitude": 12.9452, "longitude": 100.8876}
 {"ip": "1.0.141.169", "ssid": "Sunshine Vista", "category": "hotel", "name": "Sunshine Vista", "brand": "Sunshine Vista Hotel", "latitude": 12.9452, "longitude": 100.8876}
-{"ip": "1.0.141.183", "ssid": "KARIENGSAK23-5G", "category": "electronics_store", "name": "Keng Shop", "brand": null, "latitude": 12.925, "longitude": 100.8837}
-{"ip": "1.0.141.185", "ssid": "KARIENGSAK23-5G", "category": "electronics_store", "name": "Keng Shop", "brand": null, "latitude": 12.925, "longitude": 100.8837}
+{"ip": "1.0.141.183", "ssid": "KARIENGSAK23-5G", "category": "retail", "name": "Keng Shop", "brand": null, "latitude": 12.925, "longitude": 100.8837}
+{"ip": "1.0.141.185", "ssid": "KARIENGSAK23-5G", "category": "retail", "name": "Keng Shop", "brand": null, "latitude": 12.925, "longitude": 100.8837}
 {"ip": "1.0.141.187", "ssid": "BLU MONKEY", "category": "hotel", "name": "Blu Monkey Hub and Hotel Chanthaburi", "brand": null, "latitude": 12.6386, "longitude": 102.0957}
-{"ip": "1.0.141.213", "ssid": "Toyota_Sure_Free_WiFi", "category": "home_services", "name": "Toyota Sure Chachoengsao & Coffee F By Sure", "brand": null, "latitude": 13.6694, "longitude": 101.0511}
+{"ip": "1.0.141.213", "ssid": "Toyota_Sure_Free_WiFi", "category": "real_estate", "name": "Toyota Sure Chachoengsao & Coffee F By Sure", "brand": null, "latitude": 13.6694, "longitude": 101.0511}
 {"ip": "1.0.141.214", "ssid": "Lisaguesthouse", "category": "hotel", "name": "Lisa's Guesthouse", "brand": null, "latitude": 12.8873, "longitude": 100.8802}
 {"ip": "1.0.141.222", "ssid": "Sunshine Vista", "category": "hotel", "name": "Sunshine Vista", "brand": "Sunshine Vista Hotel", "latitude": 12.9452, "longitude": 100.8876}
 {"ip": "1.0.141.228", "ssid": "Lisaguesthouse 5G", "category": "hotel", "name": "Lisa's Guesthouse", "brand": null, "latitude": 12.8873, "longitude": 100.8802}
 {"ip": "1.0.141.230", "ssid": "CONDO376_5G", "category": "hotel", "name": "Jomtien Plaza Condotel", "brand": null, "latitude": 12.899, "longitude": 100.8681}
-{"ip": "1.0.141.238", "ssid": "KARIENGSAK23-5G", "category": "electronics_store", "name": "Keng Shop", "brand": null, "latitude": 12.925, "longitude": 100.8837}
+{"ip": "1.0.141.238", "ssid": "KARIENGSAK23-5G", "category": "retail", "name": "Keng Shop", "brand": null, "latitude": 12.925, "longitude": 100.8837}
 {"ip": "1.0.141.242", "ssid": "STARHOTEL", "category": "hotel", "name": "Star Convention Hotel Rayong", "brand": "Novotel", "latitude": 12.6863, "longitude": 101.2706}
 {"ip": "1.0.141.253", "ssid": "STARHOTEL", "category": "gym", "name": "สตาร์ฟิตเนส ระยอง : Star Fitness Rayong", "brand": "StarFitness Singapore", "latitude": 12.6864, "longitude": 101.2703}
-{"ip": "1.0.144.4", "ssid": "JuJu_nails", "category": "beauty_salon", "name": "JuJu Nails & Spa & Eyelash", "brand": null, "latitude": 8.3545, "longitude": 100.1998}
+{"ip": "1.0.144.4", "ssid": "JuJu_nails", "category": "personal_care", "name": "JuJu Nails & Spa & Eyelash", "brand": null, "latitude": 8.3545, "longitude": 100.1998}
 {"ip": "1.0.144.50", "ssid": "Wanlee", "category": "restaurant", "name": "Panyee", "brand": null, "latitude": 8.3354, "longitude": 98.5042}
-{"ip": "1.0.144.56", "ssid": "nisaclinic", "category": "beauty_salon", "name": "Nisa Clinic Beauty Skin & Laser Center", "brand": null, "latitude": 9.5335, "longitude": 99.9356}
+{"ip": "1.0.144.56", "ssid": "nisaclinic", "category": "personal_care", "name": "Nisa Clinic Beauty Skin & Laser Center", "brand": null, "latitude": 9.5335, "longitude": 99.9356}
 {"ip": "1.0.144.73", "ssid": "SK Resort", "category": "hotel", "name": "OYO 75524 SK Resort", "brand": null, "latitude": 8.0427, "longitude": 99.0752}
-{"ip": "1.0.144.97", "ssid": "nisaclinic", "category": "beauty_salon", "name": "Nisa Clinic Beauty Skin & Laser Center", "brand": null, "latitude": 9.5335, "longitude": 99.9356}
+{"ip": "1.0.144.97", "ssid": "nisaclinic", "category": "personal_care", "name": "Nisa Clinic Beauty Skin & Laser Center", "brand": null, "latitude": 9.5335, "longitude": 99.9356}
 {"ip": "1.0.144.118", "ssid": "Klongnoy_5G", "category": "community_center", "name": "หน่วยกู้ชีพ อบต.คลองน้อย", "brand": "หน่วยกู้ชีพ อบต.คลองน้อย", "latitude": 8.3308, "longitude": 100.1099}
-{"ip": "1.0.144.123", "ssid": "Kee Guest WiFi", "category": "spa_wellness", "name": "Kee Spa", "brand": null, "latitude": 7.8953, "longitude": 98.2971}
+{"ip": "1.0.144.123", "ssid": "Kee Guest WiFi", "category": "personal_care", "name": "Kee Spa", "brand": null, "latitude": 7.8953, "longitude": 98.2971}
 {"ip": "1.0.144.168", "ssid": "Amonhouse 4_5G", "category": "hotel", "name": "Amon House", "brand": null, "latitude": 9.5242, "longitude": 100.0557}
 {"ip": "1.0.144.219", "ssid": "cousin", "category": "hotel", "name": "Cousin Resort", "brand": null, "latitude": 8.669, "longitude": 98.2445}
 {"ip": "1.0.144.253", "ssid": "PaDA_Shop@WiFi", "category": "mall", "name": "ร้านป้าดาช็อป", "brand": null, "latitude": 8.494, "longitude": 98.5148}
 {"ip": "1.0.145.74", "ssid": "Kung Seafood", "category": "restaurant", "name": "Kung Seafood", "brand": "Kung Thai restaurant", "latitude": 8.6428, "longitude": 98.2514}
-{"ip": "1.0.145.82", "ssid": "nisaclinic", "category": "beauty_salon", "name": "Nisa Clinic Beauty Skin & Laser Center", "brand": null, "latitude": 9.5335, "longitude": 99.9356}
+{"ip": "1.0.145.82", "ssid": "nisaclinic", "category": "personal_care", "name": "Nisa Clinic Beauty Skin & Laser Center", "brand": null, "latitude": 9.5335, "longitude": 99.9356}
 {"ip": "1.0.145.132", "ssid": "Tong Chang Resort", "category": "hotel", "name": "Tong Chang Resort", "brand": null, "latitude": 10.5338, "longitude": 99.1222}
 {"ip": "1.0.145.172", "ssid": "Amonhouse 4_5G", "category": "hotel", "name": "Amon House", "brand": null, "latitude": 9.5242, "longitude": 100.0557}
 {"ip": "1.0.145.220", "ssid": "Thelookoutsamui", "category": "hotel", "name": "The Lookout Koh Samui", "brand": null, "latitude": 9.5716, "longitude": 99.9274}
-{"ip": "1.0.145.246", "ssid": "BAANPLA", "category": "bar_pub", "name": "The southern", "brand": "Southern Bar Maenam", "latitude": 9.5706, "longitude": 99.9971}
-{"ip": "1.0.146.15", "ssid": "nisaclinic", "category": "beauty_salon", "name": "Nisa Clinic Beauty Skin & Laser Center", "brand": null, "latitude": 9.5335, "longitude": 99.9356}
+{"ip": "1.0.145.246", "ssid": "BAANPLA", "category": "bar", "name": "The southern", "brand": "Southern Bar Maenam", "latitude": 9.5706, "longitude": 99.9971}
+{"ip": "1.0.146.15", "ssid": "nisaclinic", "category": "personal_care", "name": "Nisa Clinic Beauty Skin & Laser Center", "brand": null, "latitude": 9.5335, "longitude": 99.9356}
 {"ip": "1.0.146.61", "ssid": "md_pizza2", "category": "restaurant", "name": "MD Pizza and Thai Food", "brand": "md pizza", "latitude": 10.5741, "longitude": 99.2757}
-{"ip": "1.0.146.137", "ssid": "NT-ANN-5G", "category": "college_university", "name": "Rajamangala University of Technology Srivijaya, Nakhon Si Thammarat Campus, Sai Yai", "brand": null, "latitude": 8.164, "longitude": 99.7271}
-{"ip": "1.0.147.25", "ssid": "Green Mountain_5G", "category": "hotel", "name": "Green Mountain Resort", "brand": null, "latitude": 8.0243, "longitude": 98.5917}
-{"ip": "1.0.147.37", "ssid": "Kee Guest WiFi", "category": "spa_wellness", "name": "Kee Spa", "brand": null, "latitude": 7.8953, "longitude": 98.2971}
+{"ip": "1.0.146.137", "ssid": "NT-ANN-5G", "category": "university", "name": "Rajamangala University of Technology Srivijaya, Nakhon Si Thammarat Campus, Sai Yai", "brand": null, "latitude": 8.164, "longitude": 99.7271}
+{"ip": "1.0.147.25", "ssid": "Green Mountain_5G", "category": "business_services", "name": "Green Mountain Resort", "brand": null, "latitude": 8.0243, "longitude": 98.5917}
+{"ip": "1.0.147.37", "ssid": "Kee Guest WiFi", "category": "personal_care", "name": "Kee Spa", "brand": null, "latitude": 7.8953, "longitude": 98.2971}
 {"ip": "1.0.147.53", "ssid": "CPN_BIRD_5G", "category": "restaurant", "name": "ชุมพร รังนก ร้าน", "brand": "ชุมพรรังนก", "latitude": 10.5001, "longitude": 99.1836}
 {"ip": "1.0.147.141", "ssid": "Kee Guest WiFi", "category": "hotel", "name": "The Kee Resort", "brand": "The Kee Resort & Spa, Patong", "latitude": 7.895, "longitude": 98.2974}
 {"ip": "1.0.147.145", "ssid": "Kohyaoyaiseabreeze_5G", "category": "hotel", "name": "Koh Yao Yai Sea Breeze House", "brand": null, "latitude": 8.0535, "longitude": 98.5982}
-{"ip": "1.0.147.230", "ssid": "YouAndMeWIFI_2.4GHz", "category": "event_services", "name": "You&Me Wedding Studio", "brand": null, "latitude": 8.0964, "longitude": 98.9115}
-{"ip": "1.0.148.34", "ssid": "baantarn_5G", "category": "spa_wellness", "name": "บ้านตาล", "brand": null, "latitude": 10.505, "longitude": 99.1977}
+{"ip": "1.0.147.230", "ssid": "YouAndMeWIFI_2.4GHz", "category": "business_services", "name": "You&Me Wedding Studio", "brand": null, "latitude": 8.0964, "longitude": 98.9115}
+{"ip": "1.0.148.34", "ssid": "baantarn_5G", "category": "personal_care", "name": "บ้านตาล", "brand": null, "latitude": 10.505, "longitude": 99.1977}
 {"ip": "1.0.148.48", "ssid": "SUNSET_5G", "category": "restaurant", "name": "Sunset Boulevard Khao Lak - Deutsche und Thai Küche", "brand": null, "latitude": 8.6654, "longitude": 98.245}
-{"ip": "1.0.148.81", "ssid": "YouAndMeWIFI_2.4GHz", "category": "event_services", "name": "You&Me Wedding Studio", "brand": null, "latitude": 8.0964, "longitude": 98.9115}
-{"ip": "1.0.148.85", "ssid": "nisaclinic", "category": "beauty_salon", "name": "Nisa Clinic Beauty Skin & Laser Center", "brand": null, "latitude": 9.5335, "longitude": 99.9356}
+{"ip": "1.0.148.81", "ssid": "YouAndMeWIFI_2.4GHz", "category": "business_services", "name": "You&Me Wedding Studio", "brand": null, "latitude": 8.0964, "longitude": 98.9115}
+{"ip": "1.0.148.85", "ssid": "nisaclinic", "category": "personal_care", "name": "Nisa Clinic Beauty Skin & Laser Center", "brand": null, "latitude": 9.5335, "longitude": 99.9356}
 {"ip": "1.0.148.108", "ssid": "RanongGable", "category": "hotel", "name": "Ranong Gable Hotel", "brand": null, "latitude": 9.9706, "longitude": 98.6434}
-{"ip": "1.0.148.123", "ssid": "nisaclinic", "category": "beauty_salon", "name": "Nisa Clinic Beauty Skin & Laser Center", "brand": null, "latitude": 9.5335, "longitude": 99.9356}
-{"ip": "1.0.148.239", "ssid": "Thasalayangthong", "category": "car_parts_services", "name": "ร้านท่าศาลายางทอง", "brand": null, "latitude": 8.6643, "longitude": 99.9193}
+{"ip": "1.0.148.123", "ssid": "nisaclinic", "category": "personal_care", "name": "Nisa Clinic Beauty Skin & Laser Center", "brand": null, "latitude": 9.5335, "longitude": 99.9356}
+{"ip": "1.0.148.239", "ssid": "Thasalayangthong", "category": "car_services", "name": "ร้านท่าศาลายางทอง", "brand": null, "latitude": 8.6643, "longitude": 99.9193}
 {"ip": "1.0.149.132", "ssid": "J Mansion", "category": "hotel", "name": "J. Mansion", "brand": "เจ แมนชั่น", "latitude": 8.0325, "longitude": 98.823}
 {"ip": "1.0.149.133", "ssid": "BophuT Market", "category": "market", "name": "Bophut Food Market", "brand": null, "latitude": 9.5537, "longitude": 100.0322}
 {"ip": "1.0.149.141", "ssid": "Thelookoutsamui", "category": "hotel", "name": "The Lookout Koh Samui", "brand": null, "latitude": 9.5716, "longitude": 99.9274}
 {"ip": "1.0.149.229", "ssid": "Beach Mountain Club", "category": "restaurant", "name": "Beach Mountain Club Cafe & Restaurant Kanom", "brand": null, "latitude": 9.1221, "longitude": 99.8928}
-{"ip": "1.0.149.250", "ssid": "YouAndMeWIFI_2.4GHz", "category": "event_services", "name": "You&Me Wedding Studio", "brand": null, "latitude": 8.0964, "longitude": 98.9115}
+{"ip": "1.0.149.250", "ssid": "YouAndMeWIFI_2.4GHz", "category": "business_services", "name": "You&Me Wedding Studio", "brand": null, "latitude": 8.0964, "longitude": 98.9115}
 {"ip": "1.0.150.60", "ssid": "Amonhouse 4_5G", "category": "hotel", "name": "Amon House", "brand": null, "latitude": 9.5242, "longitude": 100.0557}
 {"ip": "1.0.150.108", "ssid": "SmileResort Bldg4", "category": "hotel", "name": "Smile Resort - Thungsong", "brand": "Smile Resort - Thungsong", "latitude": 8.1588, "longitude": 99.6485}
 {"ip": "1.0.150.136", "ssid": "GOLDENHILL WiFi", "category": "hotel", "name": "Golden Hill  | โรงแรม โกลเด้น ฮิลล์", "brand": null, "latitude": 8.0564, "longitude": 98.9164}
 {"ip": "1.0.150.150", "ssid": "BophuT Market", "category": "market", "name": "Bophut Food Market", "brand": null, "latitude": 9.5537, "longitude": 100.0322}
-{"ip": "1.0.150.244", "ssid": "nisaclinic", "category": "beauty_salon", "name": "Nisa Clinic Beauty Skin & Laser Center", "brand": null, "latitude": 9.5335, "longitude": 99.9356}
+{"ip": "1.0.150.244", "ssid": "nisaclinic", "category": "personal_care", "name": "Nisa Clinic Beauty Skin & Laser Center", "brand": null, "latitude": 9.5335, "longitude": 99.9356}
 {"ip": "1.0.151.1", "ssid": "Khanompoolvilla", "category": "hotel", "name": "Khanom Poolvilla", "brand": null, "latitude": 9.2994, "longitude": 99.835}
 {"ip": "1.0.151.102", "ssid": "Amonhouse 4_5G", "category": "hotel", "name": "Amon House", "brand": null, "latitude": 9.5242, "longitude": 100.0557}
 {"ip": "1.0.151.121", "ssid": "nt2.4G_chai coffee Beach", "category": "restaurant", "name": "Chay Coffee Beach", "brand": null, "latitude": 10.4876, "longitude": 99.2282}
-{"ip": "1.0.152.91", "ssid": "JuJu_nails_5G", "category": "beauty_salon", "name": "JuJu Nails & Spa & Eyelash", "brand": null, "latitude": 8.3545, "longitude": 100.1998}
+{"ip": "1.0.152.91", "ssid": "JuJu_nails_5G", "category": "personal_care", "name": "JuJu Nails & Spa & Eyelash", "brand": null, "latitude": 8.3545, "longitude": 100.1998}
 {"ip": "1.0.152.96", "ssid": "Kohyaoyaiseabreeze_5G", "category": "hotel", "name": "Koh Yao Yai Sea Breeze House", "brand": null, "latitude": 8.0535, "longitude": 98.5982}
-{"ip": "1.0.152.111", "ssid": "YouAndMeWIFI_5GHz", "category": "event_services", "name": "You&Me Wedding Studio", "brand": null, "latitude": 8.0964, "longitude": 98.9115}
-{"ip": "1.0.152.155", "ssid": "nisaclinic", "category": "beauty_salon", "name": "Nisa Clinic Beauty Skin & Laser Center", "brand": null, "latitude": 9.5335, "longitude": 99.9356}
-{"ip": "1.0.152.181", "ssid": "UNCLE JOES_5G", "category": "bar_pub", "name": "Uncle Joe’s khaolak", "brand": null, "latitude": 8.6658, "longitude": 98.2461}
-{"ip": "1.0.153.10", "ssid": "King Power", "category": "clothing_store", "name": "King Power Phuket International Airport", "brand": "King Power", "latitude": 8.1078, "longitude": 98.3062}
+{"ip": "1.0.152.111", "ssid": "YouAndMeWIFI_5GHz", "category": "business_services", "name": "You&Me Wedding Studio", "brand": null, "latitude": 8.0964, "longitude": 98.9115}
+{"ip": "1.0.152.155", "ssid": "nisaclinic", "category": "personal_care", "name": "Nisa Clinic Beauty Skin & Laser Center", "brand": null, "latitude": 9.5335, "longitude": 99.9356}
+{"ip": "1.0.152.181", "ssid": "UNCLE JOES_5G", "category": "bar", "name": "Uncle Joe’s khaolak", "brand": null, "latitude": 8.6658, "longitude": 98.2461}
+{"ip": "1.0.153.10", "ssid": "King Power", "category": "retail", "name": "King Power Phuket International Airport", "brand": "King Power", "latitude": 8.1079, "longitude": 98.306}
 {"ip": "1.0.153.76", "ssid": "BophuT Market", "category": "market", "name": "Bophut Food Market", "brand": null, "latitude": 9.5537, "longitude": 100.0322}
 {"ip": "1.0.153.93", "ssid": "Khumsawat2_AP6_5G", "category": "hotel", "name": "Khum Sawat Hotel", "brand": null, "latitude": 8.6516, "longitude": 99.9172}
 {"ip": "1.0.154.40", "ssid": "kk_park", "category": "hotel", "name": "K.K.Park Resort", "brand": null, "latitude": 8.8907, "longitude": 98.658}
 {"ip": "1.0.154.43", "ssid": "Amonhouse 4_5G", "category": "hotel", "name": "Amon House", "brand": null, "latitude": 9.5242, "longitude": 100.0557}
 {"ip": "1.0.154.54", "ssid": "THE BEACH WAY 3", "category": "hotel", "name": "The Beach Way", "brand": null, "latitude": 10.5718, "longitude": 99.2616}
 {"ip": "1.0.154.68", "ssid": "Koh Yao Candy House.2", "category": "hotel", "name": "Koh Yao Candy House", "brand": null, "latitude": 8.0531, "longitude": 98.5973}
-{"ip": "1.0.154.83", "ssid": "YouAndMeWIFI_2.4GHz", "category": "event_services", "name": "You&Me Wedding Studio", "brand": null, "latitude": 8.0964, "longitude": 98.9115}
-{"ip": "1.0.154.116", "ssid": "VgroupV", "category": "car_dealer", "name": "Ford V Group Cars Nakornsithammarat", "brand": "Ford", "latitude": 8.4328, "longitude": 99.9514}
-{"ip": "1.0.154.125", "ssid": "KAN_TOTWIFI5G", "category": "gas_convenience_store", "name": "7-Eleven", "brand": null, "latitude": 10.5623, "longitude": 99.1152}
+{"ip": "1.0.154.83", "ssid": "YouAndMeWIFI_2.4GHz", "category": "business_services", "name": "You&Me Wedding Studio", "brand": null, "latitude": 8.0964, "longitude": 98.9115}
+{"ip": "1.0.154.116", "ssid": "VgroupV", "category": "car_dealer", "name": "Ford V Group Cars Nakornsithammarat", "brand": "Ford", "latitude": 8.4328, "longitude": 99.9515}
+{"ip": "1.0.154.125", "ssid": "KAN_TOTWIFI5G", "category": "convenience_store", "name": "7-Eleven", "brand": null, "latitude": 10.5623, "longitude": 99.1152}
 {"ip": "1.0.154.187", "ssid": "Kata Bai D 5G", "category": "hotel", "name": "Kata Bai D Inn", "brand": null, "latitude": 7.816, "longitude": 98.302}
 {"ip": "1.0.154.225", "ssid": "cousin", "category": "hotel", "name": "Cousin Resort", "brand": null, "latitude": 8.669, "longitude": 98.2445}
-{"ip": "1.0.156.7", "ssid": "YouAndMeWIFI_5GHz", "category": "event_services", "name": "You&Me Wedding Studio", "brand": null, "latitude": 8.0964, "longitude": 98.9115}
+{"ip": "1.0.156.7", "ssid": "YouAndMeWIFI_5GHz", "category": "business_services", "name": "You&Me Wedding Studio", "brand": null, "latitude": 8.0964, "longitude": 98.9115}
