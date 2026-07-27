@@ -1,101 +1,101 @@
 ip,bssid,ssid,category,name,brand,city,region,country_code,latitude,longitude
 1.0.75.3,"60:63:4c:31:db:33,e0:9d:b8:3f:a2:de",RANDOR-WiFi704_5g,hotel,Randor Hotel Hiroshima Prestage,,Hiroshima,Hiroshima,JP,34.3937,132.4766
 1.0.75.12,60:63:4c:31:dd:9f,RANDOR-WiFi203,hotel,Randor Hotel Hiroshima Prestage,,Hiroshima,Hiroshima,JP,34.3937,132.4766
-1.0.136.23,"40:ee:15:c4:8d:5c,74:da:38:ca:bd:85,c8:5a:9f:a2:85:dd",BKR002_2.4G,hotel,Ban Krut Resort,บ้านกรูดรีสอร์ท,Thap Sakae,Prachuap Khiri Khan,TH,11.3582,99.5719
-1.0.136.82,"d4:b7:09:fa:d1:2b,00:ad:24:5a:f1:0c,14:4d:67:33:e3:ac,14:4d:67:a0:dc:ac",narong,university,"Silpakorn University, Sanam Chandra Palace Campus",MATSE,Nakhon Pathom,Nakhon Pathom,TH,13.819,100.04
-1.0.136.84,"9c:14:63:e4:81:4f,64:d1:54:1f:3a:a2",BKBF,hotel,Ban Good Beach Front Hotel,,Bang Saphan,Prachuap Khiri Khan,TH,11.3341,99.558
-1.0.136.93,58:d3:12:56:f1:45,R0000  5G,bank,Krung Thai Bank,ธนาคารกรุงไทย,Sangkhla Buri,Kanchanaburi,TH,15.155,98.4506
+1.0.136.23,"40:ee:15:c4:8d:5c,74:da:38:ca:bd:85,c8:5a:9f:a2:85:dd",BKR002_2.4G,hotel,Ban Krut Resort,,Thap Sakae,Prachuap Khiri Khan,TH,11.3582,99.5719
 1.0.140.55,"14:4d:67:a1:45:bc,30:16:9d:75:3b:82",Rimnan4,hotel,Ruean Rim Nan เรือนริมน่าน,,Taphan Hin,Phichit,TH,16.225,100.4188
-1.0.141.14,"b4:fb:e4:35:7c:36,34:36:54:81:37:16",API Property fl1,real_estate,API Property Pattaya,API PROPERTY PATTAYA,Pattaya,Chon Buri,TH,12.8827,100.8863
-1.0.141.36,"48:81:d4:4e:b9:10,b4:fb:e4:35:7b:1a,48:81:d4:4e:bc:5d,4a:81:d4:8e:94:36",Sunshine Vista,hotel,Sunshine Vista,Sunshine Vista Hotel,Pattaya,Chon Buri,TH,12.9452,100.8876
+1.0.141.14,"b4:fb:e4:35:7c:36,34:36:54:81:37:16",API Property fl1,real_estate,API Property Pattaya,,Pattaya,Chon Buri,TH,12.8827,100.8863
+1.0.141.36,"48:81:d4:4e:b9:10,b4:fb:e4:35:7b:1a,48:81:d4:4e:bc:5d,4a:81:d4:8e:94:36",Sunshine Vista,hotel,Sunshine Vista,,Pattaya,Chon Buri,TH,12.9452,100.8876
 1.0.141.43,"08:f6:06:85:e0:70,14:4d:67:27:1e:c4",Chaletcustomer 2.4GHz,hotel,Chalet Guesthouse,,Pattaya,Chon Buri,TH,12.9368,100.8845
 1.0.141.45,34:36:54:81:37:16,Lisaguesthouse,hotel,Lisa's Guesthouse,,Pattaya,Chon Buri,TH,12.8873,100.8802
-1.0.141.51,"14:4d:67:c0:84:78,4a:81:d4:8e:be:2a,48:81:d4:4e:be:2a",Sunshine Vista,hotel,Sunshine Vista,Sunshine Vista Hotel,Pattaya,Chon Buri,TH,12.9452,100.8876
-1.0.141.57,"68:72:51:12:d4:af,44:d9:e7:c7:1f:e9",PEGGYS COVE,hotel,Peggy's Cove Resort,Peggy's Cove Resort,Tha Mai,Chanthaburi,TH,12.6051,101.8753
-1.0.141.66,"00:e0:20:1c:09:cf,74:ac:b9:98:b6:c2",BLU MONKEY,hotel,Blu Monkey Hub and Hotel Chanthaburi,,Chanthaburi,Chanthaburi,TH,12.6386,102.0957
-1.0.141.74,"08:f6:06:be:77:70,f4:b5:aa:8a:16:5d,14:4d:67:20:f7:9c",CONDO376_5G,hotel,Jomtien Plaza Condotel,,Pattaya,Chon Buri,TH,12.899,100.8681
-1.0.141.85,"ec:f0:fe:80:98:4d,b4:fb:e4:35:7c:36,02:00:00:00:00:00,f0:3e:90:70:78:e8,78:44:76:ee:50:dc,44:b2:95:96:c3:d3",JH05 2.4Ghz,hotel,Jomtien Hostel,Jomtien Hostel,Pattaya,Chon Buri,TH,12.8836,100.8836
+1.0.141.51,"14:4d:67:c0:84:78,4a:81:d4:8e:be:2a,48:81:d4:4e:be:2a",Sunshine Vista,hotel,Sunshine Vista,,Pattaya,Chon Buri,TH,12.9452,100.8876
+1.0.141.57,"68:72:51:12:d4:af,44:d9:e7:c7:1f:e9",PEGGYS COVE,hotel,Peggy's Cove Resort,,Tha Mai,Chanthaburi,TH,12.6051,101.8753
+1.0.141.85,"ec:f0:fe:80:98:4d,b4:fb:e4:35:7c:36,02:00:00:00:00:00,f0:3e:90:70:78:e8,78:44:76:ee:50:dc,44:b2:95:96:c3:d3",JH05 2.4Ghz,hotel,Jomtien hostel,,Pattaya,Chon Buri,TH,12.8836,100.8836
 1.0.141.89,08:f6:06:85:e0:70,Chaletcustomer 2.4GHz,hotel,Chalet Guesthouse,,Pattaya,Chon Buri,TH,12.9368,100.8845
-1.0.141.97,"60:63:4c:6e:f0:8a,98:00:6a:68:cb:82,9c:63:5b:fd:11:b4",KARIENGSAK23-5G,retail,Keng Shop,,Pattaya,Chon Buri,TH,12.925,100.8837
-1.0.141.129,"78:44:76:e3:35:88,08:f6:06:85:e0:70,c4:27:28:42:4f:09,c8:5a:9f:c6:a7:94",Chaletcustomer 2.4GHz,hotel,Chalet Guesthouse,,Pattaya,Chon Buri,TH,12.9368,100.8845
 1.0.141.130,08:f6:06:85:e0:70,Chaletcustomer 2.4GHz,hotel,Chalet Guesthouse,,Pattaya,Chon Buri,TH,12.9368,100.8845
-1.0.141.137,"e4:be:ed:a6:a5:bc,4a:81:d4:8e:be:2a",Sunshine Vista,hotel,Sunshine Vista,Sunshine Vista Hotel,Pattaya,Chon Buri,TH,12.9452,100.8876
-1.0.141.141,"a8:5e:45:61:89:d8,68:9e:29:56:4b:d2,68:9e:29:46:4b:d3",TDV4 S30_2.4G,hotel,TDV S15,,Ban Phe,Rayong,TH,12.6415,101.4762
+1.0.141.137,"e4:be:ed:a6:a5:bc,4a:81:d4:8e:be:2a",Sunshine Vista,hotel,Sunshine Vista,,Pattaya,Chon Buri,TH,12.9452,100.8876
 1.0.141.145,,STARHOTEL,hotel,Star Convention Hotel Rayong,Novotel,Rayong,Rayong,TH,12.6863,101.2706
-1.0.141.157,"14:4d:67:cc:84:2c,c8:5a:9f:c2:57:d0,00:ad:24:5b:19:50",JH01 (2.4G),hotel,Jomtien Hostel,Jomtien Hostel,Pattaya,Chon Buri,TH,12.8836,100.8836
-1.0.141.160,"4c:6b:b8:32:f9:a1,9c:63:5b:fd:11:b4,4c:6b:b8:33:02:05,4c:6b:b8:32:f9:c7",@SunshineVista,hotel,Sunshine Vista,Sunshine Vista Hotel,Pattaya,Chon Buri,TH,12.9452,100.8876
-1.0.141.169,"b4:fb:e4:35:7b:1a,48:81:d4:4e:c0:41,c0:25:2f:f7:41:4d,4a:81:d4:8e:bb:6e",Sunshine Vista,hotel,Sunshine Vista,Sunshine Vista Hotel,Pattaya,Chon Buri,TH,12.9452,100.8876
-1.0.141.183,98:00:6a:68:cb:82,KARIENGSAK23-5G,retail,Keng Shop,,Pattaya,Chon Buri,TH,12.925,100.8837
-1.0.141.185,98:00:6a:68:cb:82,KARIENGSAK23-5G,retail,Keng Shop,,Pattaya,Chon Buri,TH,12.925,100.8837
-1.0.141.187,"74:ac:b9:98:b7:97,78:11:dc:1b:41:f5",BLU MONKEY,hotel,Blu Monkey Hub and Hotel Chanthaburi,,Chanthaburi,Chanthaburi,TH,12.6386,102.0957
-1.0.141.213,"c8:5a:9f:c2:57:d0,f6:9f:c2:35:ca:8e,98:da:c4:6d:02:5d",Toyota_Sure_Free_WiFi,real_estate,Toyota Sure Chachoengsao & Coffee F By Sure,,Chachoengsao,Chachoengsao,TH,13.6694,101.0511
+1.0.141.157,"14:4d:67:cc:84:2c,c8:5a:9f:c2:57:d0,00:ad:24:5b:19:50",JH01 (2.4G),hotel,Jomtien hostel,,Pattaya,Chon Buri,TH,12.8836,100.8836
+1.0.141.169,"b4:fb:e4:35:7b:1a,48:81:d4:4e:c0:41,c0:25:2f:f7:41:4d,4a:81:d4:8e:bb:6e",Sunshine Vista,hotel,Sunshine Vista,,Pattaya,Chon Buri,TH,12.9452,100.8876
 1.0.141.214,"34:36:54:81:37:16,dc:f8:b9:fd:cc:67,14:4d:67:24:18:14",Lisaguesthouse,hotel,Lisa's Guesthouse,,Pattaya,Chon Buri,TH,12.8873,100.8802
-1.0.141.222,"18:31:bf:5b:b1:e4,4a:81:d4:8e:c0:41,14:4d:67:20:38:24",Sunshine Vista,hotel,Sunshine Vista,Sunshine Vista Hotel,Pattaya,Chon Buri,TH,12.9452,100.8876
+1.0.141.222,"18:31:bf:5b:b1:e4,4a:81:d4:8e:c0:41,14:4d:67:20:38:24",Sunshine Vista,hotel,Sunshine Vista,,Pattaya,Chon Buri,TH,12.9452,100.8876
 1.0.141.228,34:36:54:81:37:16,Lisaguesthouse 5G,hotel,Lisa's Guesthouse,,Pattaya,Chon Buri,TH,12.8873,100.8802
-1.0.141.230,08:f6:06:be:77:70,CONDO376_5G,hotel,Jomtien Plaza Condotel,,Pattaya,Chon Buri,TH,12.899,100.8681
-1.0.141.238,98:00:6a:68:cb:82,KARIENGSAK23-5G,retail,Keng Shop,,Pattaya,Chon Buri,TH,12.925,100.8837
 1.0.141.242,b4:fb:e4:db:32:71,STARHOTEL,hotel,Star Convention Hotel Rayong,Novotel,Rayong,Rayong,TH,12.6863,101.2706
-1.0.141.253,b4:fb:e4:11:2e:0b,STARHOTEL,gym,สตาร์ฟิตเนส ระยอง : Star Fitness Rayong,StarFitness Singapore,Rayong,Rayong,TH,12.6864,101.2703
-1.0.144.4,"14:1f:ba:81:85:68,08:f6:06:86:53:78,0c:b6:d2:3e:f6:5c",JuJu_nails,personal_care,JuJu Nails & Spa & Eyelash,,Pak Phanang,Nakhon Si Thammarat,TH,8.3545,100.1998
-1.0.144.50,"e8:de:27:d6:15:b0,c4:eb:ff:98:d4:ff,c4:eb:ff:58:d4:00,e4:47:b3:f9:d4:4c",Wanlee,restaurant,Panyee,,Takua Thung,Phang Nga,TH,8.3354,98.5042
-1.0.144.56,"08:3f:bc:c4:d9:50,00:00:00:00:00:00",nisaclinic,personal_care,Nisa Clinic Beauty Skin & Laser Center,,Ko Samui,Surat Thani,TH,9.5335,99.9356
-1.0.144.73,"18:a6:f7:b4:2f:e3,00:e0:20:7e:61:61",SK Resort,hotel,OYO 75524 SK Resort,,Nuea Khlong,Krabi,TH,8.0427,99.0752
-1.0.144.97,"08:3f:bc:c4:d9:50,00:72:63:26:2e:74",nisaclinic,personal_care,Nisa Clinic Beauty Skin & Laser Center,,Ko Samui,Surat Thani,TH,9.5335,99.9356
-1.0.144.118,"74:da:38:cf:4d:3f,68:ff:7b:41:63:fb",Klongnoy_5G,community_center,หน่วยกู้ชีพ อบต.คลองน้อย,หน่วยกู้ชีพ อบต.คลองน้อย,Pak Phanang,Nakhon Si Thammarat,TH,8.3308,100.1099
-1.0.144.123,"1c:3c:d4:0c:c6:20,1c:3c:d4:0c:c6:30,b8:ec:a3:e1:17:b5,74:da:88:ba:49:85",Kee Guest WiFi,personal_care,Kee Spa,,Kathu,Phuket,TH,7.8953,98.2971
-1.0.144.168,"88:dc:96:39:31:f0,98:da:c4:4d:6b:71",Amonhouse 4_5G,hotel,Amon House,,Ko Samui,Surat Thani,TH,9.5242,100.0557
-1.0.144.219,e4:60:4d:4f:c9:d2,cousin,hotel,Cousin Resort,,Ban Khao Lak,Phang Nga,TH,8.669,98.2445
-1.0.144.253,c8:3a:35:5d:02:a0,PaDA_Shop@WiFi,mall,ร้านป้าดาช็อป,,Phang Nga,Phang Nga,TH,8.494,98.5148
-1.0.145.74,"d8:0d:17:c1:37:a2,a4:bd:c4:07:04:8c,68:ff:7b:ff:51:33",Kung Seafood,restaurant,Kung Seafood,Kung Thai restaurant,Ban Khao Lak,Phang Nga,TH,8.6428,98.2514
-1.0.145.82,"d8:07:b6:45:ef:ac,74:da:88:7c:0c:57,08:3f:bc:c4:d9:50",nisaclinic,personal_care,Nisa Clinic Beauty Skin & Laser Center,,Ko Samui,Surat Thani,TH,9.5335,99.9356
+1.0.141.253,b4:fb:e4:11:2e:0b,STARHOTEL,hotel,Star Convention Hotel Rayong,Novotel,Rayong,Rayong,TH,12.6863,101.2706
 1.0.145.132,"14:1f:ba:74:e3:a8,dc:f8:b9:fd:ef:a7",Tong Chang Resort,hotel,Tong Chang Resort,,Chumphon,Chumphon,TH,10.5338,99.1222
-1.0.145.172,d8:0d:17:c1:7a:41,Amonhouse 4_5G,hotel,Amon House,,Ko Samui,Surat Thani,TH,9.5242,100.0557
-1.0.145.220,60:83:e7:65:55:fb,Thelookoutsamui,hotel,The Lookout Koh Samui,,Ko Samui,Surat Thani,TH,9.5716,99.9274
-1.0.145.246,14:eb:b6:bf:d4:da,BAANPLA,bar,The southern,Southern Bar Maenam,Ko Samui,Surat Thani,TH,9.5706,99.9971
-1.0.146.15,"08:3f:bc:c4:d9:50,dc:f8:b9:fd:b6:c6",nisaclinic,personal_care,Nisa Clinic Beauty Skin & Laser Center,,Ko Samui,Surat Thani,TH,9.5335,99.9356
-1.0.146.61,"ac:15:a2:65:73:26,98:da:c4:6c:f7:b0",md_pizza2,restaurant,MD Pizza and Thai Food,md pizza,Chumphon,Chumphon,TH,10.5741,99.2757
-1.0.146.137,ee:7c:2c:3f:68:10,NT-ANN-5G,university,"Rajamangala University of Technology Srivijaya, Nakhon Si Thammarat Campus, Sai Yai",,Thung Song,Nakhon Si Thammarat,TH,8.164,99.7271
-1.0.147.25,"88:d2:74:ca:b8:46,ec:f0:fe:80:8e:e7,f2:9f:c2:91:c7:57",Green Mountain_5G,business_services,Green Mountain Resort,,Ban Phru Nai,Phang Nga,TH,8.0243,98.5917
+1.0.146.61,"ac:15:a2:65:73:26,98:da:c4:6c:f7:b0",md_pizza2,restaurant,MD Pizza and Thai Food,,Chumphon,Chumphon,TH,10.5741,99.2757
 1.0.147.37,"1c:3c:d4:0c:d7:70,b8:ec:a3:e1:17:b5,b8:ec:a3:e1:17:d0,b8:ec:a3:e1:17:cd,1c:3c:d4:0d:2a:90,08:3f:bc:cc:ba:1a,78:44:76:a7:88:5c,1c:3c:d4:0c:d7:60,1c:3c:d4:0c:a6:30,1c:3c:d4:0c:c4:30,1c:3c:d4:0d:2a:80",Kee Guest WiFi,personal_care,Kee Spa,,Kathu,Phuket,TH,7.8953,98.2971
-1.0.147.53,"b0:a7:b9:1e:76:1b,24:d3:f2:e3:f5:59,cc:32:e5:c1:b0:c8",CPN_BIRD_5G,restaurant,ชุมพร รังนก ร้าน,ชุมพรรังนก,Chumphon,Chumphon,TH,10.5001,99.1836
-1.0.147.141,1c:3c:d4:0c:c6:20,Kee Guest WiFi,hotel,The Kee Resort,"The Kee Resort & Spa, Patong",Kathu,Phuket,TH,7.895,98.2974
 1.0.147.145,20:e8:82:c4:a1:96,Kohyaoyaiseabreeze_5G,hotel,Koh Yao Yai Sea Breeze House,,Ko Yao,Phang Nga,TH,8.0535,98.5982
-1.0.147.230,"08:aa:89:65:fe:b4,74:da:38:dd:5d:37",YouAndMeWIFI_2.4GHz,business_services,You&Me Wedding Studio,,Krabi,Krabi,TH,8.0964,98.9115
-1.0.148.34,b0:8b:92:42:12:d9,baantarn_5G,personal_care,บ้านตาล,,Chumphon,Chumphon,TH,10.505,99.1977
-1.0.148.48,"e8:81:75:16:80:4d,0c:b6:d2:3e:c9:38",SUNSET_5G,restaurant,Sunset Boulevard Khao Lak - Deutsche und Thai Küche,,Ban Khao Lak,Phang Nga,TH,8.6654,98.245
-1.0.148.81,08:aa:89:65:fe:b4,YouAndMeWIFI_2.4GHz,business_services,You&Me Wedding Studio,,Krabi,Krabi,TH,8.0964,98.9115
-1.0.148.85,"08:40:f3:57:88:91,08:3f:bc:c4:d9:50",nisaclinic,personal_care,Nisa Clinic Beauty Skin & Laser Center,,Ko Samui,Surat Thani,TH,9.5335,99.9356
 1.0.148.108,"88:dc:96:73:32:ad,00:ad:24:59:9b:d4",RanongGable,hotel,Ranong Gable Hotel,,Ranong,Ranong province,TH,9.9706,98.6434
-1.0.148.123,"08:3f:bc:c4:d9:50,00:ad:24:5b:75:fc",nisaclinic,personal_care,Nisa Clinic Beauty Skin & Laser Center,,Ko Samui,Surat Thani,TH,9.5335,99.9356
-1.0.148.239,"28:ff:3e:d6:8a:11,64:3e:8c:79:97:a4",Thasalayangthong,car_services,ร้านท่าศาลายางทอง,,Tha Sala,Nakhon Si Thammarat,TH,8.6643,99.9193
-1.0.149.132,"88:dc:96:73:2d:cd,b0:df:c1:1d:47:b5,88:dc:96:73:2d:d1,00:5f:67:d9:9d:e5,dc:f8:b9:d9:0a:f0",J Mansion,hotel,J. Mansion,เจ แมนชั่น,Ban Ao Nang,Krabi,TH,8.0325,98.823
-1.0.149.133,54:af:97:f0:3b:a5,BophuT Market,market,Bophut Food Market,,Ko Samui,Surat Thani,TH,9.5537,100.0322
-1.0.149.141,"14:4d:67:19:b2:18,60:83:e7:65:55:fb,b0:be:76:f2:10:82,74:da:38:72:8f:96,60:83:e7:65:30:ff",Thelookoutsamui,hotel,The Lookout Koh Samui,,Ko Samui,Surat Thani,TH,9.5716,99.9274
 1.0.149.229,fa:e2:c6:27:fe:e8,Beach Mountain Club,restaurant,Beach Mountain Club Cafe & Restaurant Kanom,,Don Sak,Surat Thani,TH,9.1221,99.8928
-1.0.149.250,"e0:19:54:e8:18:4f,14:4d:67:ac:8c:0c,08:aa:89:65:fe:b4",YouAndMeWIFI_2.4GHz,business_services,You&Me Wedding Studio,,Krabi,Krabi,TH,8.0964,98.9115
-1.0.150.60,"1c:3b:f3:b7:dc:b8,00:ad:24:63:ca:4c",Amonhouse 4_5G,hotel,Amon House,,Ko Samui,Surat Thani,TH,9.5242,100.0557
-1.0.150.108,"48:81:d4:14:9f:7c,70:85:c4:9e:3a:0b,72:85:c4:8e:3a:0b",SmileResort Bldg4,hotel,Smile Resort - Thungsong,Smile Resort - Thungsong,Thung Song,Nakhon Si Thammarat,TH,8.1588,99.6485
-1.0.150.136,"d8:b3:70:b2:50:61,d8:b3:70:b1:50:61,74:da:38:98:70:8b",GOLDENHILL WiFi,hotel,Golden Hill  | โรงแรม โกลเด้น ฮิลล์,,Krabi,Krabi,TH,8.0564,98.9164
-1.0.150.150,88:c3:97:61:9f:13,BophuT Market,market,Bophut Food Market,,Ko Samui,Surat Thani,TH,9.5537,100.0322
-1.0.150.244,08:3f:bc:c4:d9:50,nisaclinic,personal_care,Nisa Clinic Beauty Skin & Laser Center,,Ko Samui,Surat Thani,TH,9.5335,99.9356
+1.0.150.108,"48:81:d4:14:9f:7c,70:85:c4:9e:3a:0b,72:85:c4:8e:3a:0b",SmileResort Bldg4,hotel,Smile Resort - Thungsong,,Thung Song,Nakhon Si Thammarat,TH,8.1588,99.6485
 1.0.151.1,"3c:a3:7e:23:97:1c,28:ff:3e:e1:5a:4a",Khanompoolvilla,hotel,Khanom Poolvilla,,Don Sak,Surat Thani,TH,9.2994,99.835
-1.0.151.102,,Amonhouse 4_5G,hotel,Amon House,,Ko Samui,Surat Thani,TH,9.5242,100.0557
-1.0.151.121,"78:32:1b:c9:30:10,a8:42:a1:4a:4b:88,9a:dc:96:30:65:06",nt2.4G_chai coffee Beach,restaurant,Chay Coffee Beach,,Chumphon,Chumphon,TH,10.4876,99.2282
-1.0.152.91,"14:4d:67:24:3a:08,24:7e:51:8c:d9:cc,08:f6:06:86:53:7a,b0:df:c1:ca:7e:f8,dc:f8:b9:f9:27:d5",JuJu_nails_5G,personal_care,JuJu Nails & Spa & Eyelash,,Pak Phanang,Nakhon Si Thammarat,TH,8.3545,100.1998
 1.0.152.96,"ec:f0:fe:81:46:be,20:e8:82:c4:a1:96,20:e8:82:c3:c8:59",Kohyaoyaiseabreeze_5G,hotel,Koh Yao Yai Sea Breeze House,,Ko Yao,Phang Nga,TH,8.0535,98.5982
-1.0.152.111,"78:44:76:d9:85:38,ac:84:c6:0b:a2:5b,a2:1e:42:f2:44:e8",YouAndMeWIFI_5GHz,business_services,You&Me Wedding Studio,,Krabi,Krabi,TH,8.0964,98.9115
-1.0.152.155,"08:3f:bc:c4:d9:50,58:d5:6e:ac:f3:da",nisaclinic,personal_care,Nisa Clinic Beauty Skin & Laser Center,,Ko Samui,Surat Thani,TH,9.5335,99.9356
-1.0.152.181,74:6f:88:b1:7b:28,UNCLE JOES_5G,bar,Uncle Joe’s khaolak,,Ban Khao Lak,Phang Nga,TH,8.6658,98.2461
-1.0.153.10,"c8:5a:9f:c6:93:c0,80:e8:6f:d0:86:cd",King Power,retail,King Power Phuket International Airport,King Power,Ban Mai Khao,Phuket,TH,8.1079,98.306
-1.0.153.76,"54:af:97:f0:3b:a5,d8:47:32:ea:d1:84",BophuT Market,market,Bophut Food Market,,Ko Samui,Surat Thani,TH,9.5537,100.0322
-1.0.153.93,"78:44:76:ee:78:10,40:ed:00:2d:cf:df",Khumsawat2_AP6_5G,hotel,Khum Sawat Hotel,,Tha Sala,Nakhon Si Thammarat,TH,8.6516,99.9172
+1.0.153.10,"c8:5a:9f:c6:93:c0,80:e8:6f:d0:86:cd",King Power,retail,King Power Duty Free,,Ban Mai Khao,Phuket,TH,8.1087,98.3062
 1.0.154.40,,kk_park,hotel,K.K.Park Resort,,Phanom,Surat Thani,TH,8.8907,98.658
-1.0.154.43,"44:f0:34:cf:1a:2b,d8:0d:17:c1:30:68",Amonhouse 4_5G,hotel,Amon House,,Ko Samui,Surat Thani,TH,9.5242,100.0557
-1.0.154.54,"cc:32:e5:c1:bb:66,74:fe:ce:9e:eb:1c,18:45:93:cb:e5:69",THE BEACH WAY 3,hotel,The Beach Way,,Chumphon,Chumphon,TH,10.5718,99.2616
 1.0.154.68,"00:15:6d:3a:10:f7,00:ad:24:57:64:78",Koh Yao Candy House.2,hotel,Koh Yao Candy House,,Ko Yao,Phang Nga,TH,8.0531,98.5973
-1.0.154.83,"08:aa:89:65:fe:b4,1c:3b:f3:37:4a:8f,14:4d:67:3b:64:18,14:4d:67:a9:0b:f4",YouAndMeWIFI_2.4GHz,business_services,You&Me Wedding Studio,,Krabi,Krabi,TH,8.0964,98.9115
-1.0.154.116,"fc:ec:da:a1:a1:b5,fc:ec:da:a1:c0:0b",VgroupV,car_dealer,Ford V Group Cars Nakornsithammarat,Ford,Nakhon Si Thammarat,Nakhon Si Thammarat,TH,8.4328,99.9515
-1.0.154.125,"64:20:e0:19:1f:49,14:4d:67:27:3d:6c",KAN_TOTWIFI5G,convenience_store,7-Eleven,,Chumphon,Chumphon,TH,10.5623,99.1152
-1.0.154.187,b8:dd:71:bf:89:fa,Kata Bai D 5G,hotel,Kata Bai D Inn,,Phuket,Phuket,TH,7.816,98.302
-1.0.154.225,"ac:84:c6:f4:ac:69,e4:60:4d:4f:c9:d2",cousin,hotel,Cousin Resort,,Ban Khao Lak,Phang Nga,TH,8.669,98.2445
-1.0.156.7,"c8:3a:35:41:b6:e8,08:aa:89:65:fe:b5",YouAndMeWIFI_5GHz,business_services,You&Me Wedding Studio,,Krabi,Krabi,TH,8.0964,98.9115
+1.0.157.67,"dc:f8:b9:d9:06:c3,30:99:35:d8:ae:dc,b0:be:76:99:b1:65,00:27:22:82:1b:ba",sasitararesidence_Lobby_5G,hotel,Sasitara Residence,,Ko Samui,Surat Thani,TH,9.5449,100.0732
+1.0.159.83,"28:de:a8:eb:58:28,e4:be:ed:ab:8d:71",Tarn_restaurant,restaurant,Tarn Restaurant,,Ban Khao Lak,Phang Nga,TH,8.6859,98.2524
+1.0.159.112,ec:b9:70:5c:43:41,NavaNakhon,retail,LML Nakhon sri Thammarat,,Nakhon Si Thammarat,Nakhon Si Thammarat,TH,8.4427,99.9809
+1.0.160.3,"10:82:3d:47:8d:5c,a4:c6:4f:95:15:bc,28:41:c6:4c:30:cc,cc:32:e5:9d:30:db",Magical Villa-10,hotel,Magical Mountain View Resort,,Phanom,Surat Thani,TH,8.9018,98.6251
+1.0.160.38,"dc:f8:b9:e2:3a:55,b8:dd:71:bf:8e:72",MaMa jin1_2.4G,restaurant,Mama Jin Restaurant,,Phuket,Phuket,TH,7.8446,98.3004
+1.0.160.84,"dc:f8:b9:fe:61:ae,14:4d:67:ae:59:44,28:ff:3e:c7:68:fe",Playna Resort office 2.4G,hotel,ปรายนา รีสอร์ท,,Khuan Don,Satun,TH,6.7529,100.0395
+1.0.160.153,"d4:b7:09:d8:d9:6a,14:4d:67:1d:19:ec,dc:f8:b9:f9:73:f5,28:ff:3e:d7:22:33",ME CHALONG2.4G,retail,Robinson Lifestyle Chalong,Robinson Department Store,Phuket,Phuket,TH,7.8476,98.35
+1.0.160.216,64:20:e0:18:aa:68,Manao Tree,hotel,Manao Tree Villa,,Saladan,Krabi,TH,7.5666,99.0372
+1.0.161.62,dc:f8:b9:f9:44:31,TOT_SNI_F3,retail,NT Suratthani,,Surat Thani,Surat Thani,TH,9.1159,99.2796
+1.0.161.225,"72:85:c4:8a:ed:ae,94:a7:b7:de:a2:e8",MAEMANEE,restaurant,Maemanee,,Kathu,Phuket,TH,7.8902,98.2933
+1.0.162.25,54:ec:2f:08:c0:b8,Free WiFi By Lomprayah,restaurant,Lomprayah,,Ko Samui,Surat Thani,TH,9.5838,99.9837
+1.0.162.65,"48:81:d4:14:81:00,14:4d:67:9d:b3:60",Mookanda_Residence,hotel,Mookanda Residence Ao Nang,,Ban Ao Nang,Krabi,TH,8.0412,98.8385
+1.0.162.213,"cc:32:e5:7a:7e:9e,88:dc:96:8d:57:03,88:dc:96:8d:57:04",Mukanda_Residence,hotel,Mookanda Residence Ao Nang,,Ban Ao Nang,Krabi,TH,8.0412,98.8385
+1.0.163.48,74:da:38:b5:d3:ae,Krua_maungkhon,restaurant,ครัวเมืองคอน กระบี่,,Krabi,Krabi,TH,8.0812,98.903
+1.0.163.80,"c0:9f:e1:aa:bd:2b,24:2f:d0:de:ef:4b,24:2f:d0:de:ef:4a,18:e8:29:5a:a9:78",WIFI Guest - Kan Eang Restaurant,restaurant,Kan Eang Seafood,,Phuket,Phuket,TH,7.8199,98.3444
+1.0.163.176,"ac:15:a2:88:bd:a5,28:ff:3e:c8:72:ca",junglevillage1,hotel,Jungle Village Bungalows,,Ban Ao Nang,Krabi,TH,8.0473,98.8392
+1.0.164.12,"8c:86:dd:35:96:b7,d8:b3:70:cd:15:ba,10:5a:95:c2:ca:eb,10:5a:95:c2:cc:a2,10:5a:95:c2:d7:34,56:3d:d1:6a:18:8e,56:3d:d1:6a:2a:94,6c:4c:bc:53:ac:4e,6c:4c:bc:53:ac:4f,6c:4c:bc:53:ac:9c,6c:4c:bc:53:ac:9d,6c:4c:bc:53:af:e1,6c:4c:bc:53:b0:30,6c:4c:bc:53:b0:d6,6c:4c:bc:53:b0:d7,8c:86:dd:35:91:24,8c:86:dd:35:91:25,10:5a:95:c2:ca:ea,10:5a:95:c2:cc:a3,10:5a:95:c2:d7:35,56:3d:d1:6a:18:8f,56:3d:d1:6a:2a:95,b8:69:f4:22:61:fd,b8:69:f4:22:62:f6,64:d1:54:fe:d4:e9,7a:83:c2:cb:28:9f,7a:83:c2:cb:2a:f3,cc:2d:e0:b5:0b:0b,d8:b3:70:ce:15:ba",Tubkaak,hotel,The Tubkaak Krabi Boutique Resort,,Ban Ao Nang,Krabi,TH,8.0914,98.7477
+1.0.167.173,20:e8:82:c4:a3:88,Cozy Guesthouse_5G,restaurant,Cozy Restaurant,,Saladan,Krabi,TH,7.5985,99.0361
+1.0.167.248,"44:ff:ba:10:77:6a,14:4d:67:15:79:54",Siripornchai 1-2,hotel,Baan Siriponchai,,Takua Pa,Phang Nga,TH,8.8651,98.3416
+1.0.169.66,"2a:d0:f5:23:08:32,2a:d0:f5:23:06:fe,2a:d0:f5:23:11:42,2a:d0:f5:a3:11:42,d6:31:27:af:83:e8,2a:d0:f5:23:12:4e,14:4d:67:25:09:c0",HINTOK-WIFI,hotel,Hintok River Camp @ Kanchanaburi,,Si Sawat,Kanchanaburi,TH,14.3535,98.9296
+1.0.169.70,"2a:d0:f5:23:12:4e,d6:31:27:2f:83:e8,28:d0:f5:5a:06:0c,2a:d0:f5:a3:08:32,2a:d0:f5:23:06:fe",HINTOK-WIFI,hotel,Hintok River Camp @ Kanchanaburi,,Si Sawat,Kanchanaburi,TH,14.3535,98.9296
+1.0.169.209,"e4:8d:8c:47:27:01,90:a7:c1:02:e9:05",ITFOOD00,business_services,ไอ.ที. ฟูดส์อินดัสทรีส์ จำกัด,,Samut Sakhon,Samut Sakhon,TH,13.5446,100.2175
+1.0.169.235,"28:ee:52:47:52:72,9c:53:22:e6:82:2e,b8:16:5f:1d:63:8a,ac:84:c6:0b:ca:52,b8:16:5f:0d:41:7e",Grace-WiFi 2.4GHz,restaurant,The Grace,,Samut Songkhram,Samut Songkhram,TH,13.4005,99.9802
+1.0.170.22,"88:dc:96:0d:fd:22,88:dc:96:73:28:07",Toyota Free Wifi,car_dealer,Toyota,Toyota,Ang Thong,Ang Thong,TH,14.5785,100.4872
+1.0.170.132,c6:70:ab:8b:cb:b5,@TheScene FL2,hotel,The Scene สุพรรณบุรี,,Suphan Buri,Suphan Buri,TH,14.4748,100.1097
+1.0.172.98,"54:ec:2f:08:b5:4c,dc:f8:b9:fe:25:d1",Free WiFi By Lomprayah,restaurant,Lomprayah,,Ko Samui,Surat Thani,TH,9.5838,99.9837
+1.0.172.196,74:6f:88:b1:7b:78,Bestkhaolak_5G,hotel,Khaolak Mohin Tara,,Ban Khao Lak,Phang Nga,TH,8.6853,98.2525
+1.0.172.239,"c8:3a:35:3b:e4:28,e4:ca:12:ea:84:a2",Toki Krabi_5G,laundromat,Toki Wash & Dry 24 hrs,,Krabi,Krabi,TH,8.0659,98.916
+1.0.173.156,"14:4d:67:ae:f3:ec,14:4d:67:1a:35:fc",Playna Resort2,hotel,ปรายนา รีสอร์ท,,Khuan Don,Satun,TH,6.7529,100.0395
+1.0.175.86,d8:0d:17:c1:60:ce,Number1Restaurant,restaurant,Aroy d seafood Restaurant,,Ban Ao Nang,Krabi,TH,8.0343,98.8292
+1.0.175.91,"b0:4e:26:d8:84:f2,d4:b7:09:d9:d8:b2",Jinheng_Ranong1,car_dealer,นิสสัน ระนอง - Nissan Ranong,Nissan,Ranong,Ranong province,TH,9.9446,98.634
+1.0.175.214,"50:d4:f7:69:4b:42,0c:80:63:3e:9b:19",Atom Hotel,hotel,Atom Phuket Hotel,,Ban Mai Khao,Phuket,TH,8.0952,98.307
+1.0.202.7,08:3f:bc:d5:0a:02,CAT Pubpa hose,campground,พับผ้า วัลเล่ย์ pubpa valley,,Na Yong,Trang,TH,7.5755,99.7852
+1.0.202.187,"88:dc:96:39:d6:32,54:b8:0a:11:b7:d0,88:dc:96:39:d6:30",TheRoom-WiFi5,hotel,The Room Hotel & Service Apartment,,Trang,Trang,TH,7.5448,99.6116
+1.0.203.39,"72:85:c4:8e:4d:cf,72:85:c4:fe:35:73,72:85:c4:8e:54:8f,20:e8:82:c4:a1:5a,72:85:c4:86:58:aa",Tann staff,restaurant,Tannami by Tann Terrace,,Phuket,Phuket,TH,7.8298,98.2951
+1.0.203.154,"7e:8a:20:8b:27:dc,88:d2:74:ca:a2:b0",Coral Outdoor Lounge,restaurant,The Coral Executive Lounge,,Ban Mai Khao,Phuket,TH,8.1083,98.306
+1.0.203.204,,NEW ANONA BEACHFRONT,hotel,Mango Tree On The Beach,,Kathu,Phuket,TH,7.889,98.2926
+1.0.203.221,"78:44:76:9e:e4:a0,74:83:c2:37:14:6a,74:83:c2:37:29:e7,0c:37:47:98:69:0c,f0:9f:c2:f7:ec:92",PEARL HOTEL,hotel,Roof Top Restaurant @ Pearl Hotel,,Phuket,Phuket,TH,7.8819,98.3926
+1.0.212.84,"14:4d:67:20:cd:14,14:4d:67:20:cd:10,64:66:b3:b8:99:2a",River Bank #2,hotel,River Bank Guest House,,Ban Huai I Huak,Mae Hong Son,TH,18.1633,97.9311
+1.0.213.223,68:72:51:2c:0f:65,Above The Sea Hotel,hotel,Above the Sea,,Ban Huai I Huak,Mae Hong Son,TH,18.1615,97.9295
+1.0.216.14,74:4d:28:93:2c:de,Sino Maison,hotel,Sino Maison,,Kathu,Phuket,TH,7.8862,98.2982
+1.0.216.199,"a8:6e:84:98:fc:7f,70:a7:41:81:d2:61,ff:ff:ff:ff:ff:ff,ba:ca:26:ff:30:cb,ba:cc:26:ff:30:cd,f6:0d:5c:f9:dd:0e,f6:ea:5c:f9:dc:eb,d6:56:f3:ff:51:57,d6:57:f3:ff:51:58,f6:8a:5c:fb:95:8b,f6:d8:5c:f9:dc:de,f6:e1:5c:f9:dc:e2",ParadiseKohyao,hotel,The Paradise Koh Yao,,Ko Yao,Phang Nga,TH,8.1756,98.6338
+1.0.218.74,"78:45:58:4b:20:09,78:45:58:4b:20:0a,24:a4:3c:4f:4a:f1,1e:6a:1b:84:6b:06,78:45:58:4b:25:51,ac:8b:a9:be:81:c6",TBH,bank,TMBThanachart Bank,ธนาคารทหารไทย,Hat Yai,Songkhla,TH,7.0026,100.4702
+1.0.225.31,"f8:79:28:bb:90:98,24:7e:51:8d:1e:d2,14:4d:67:a9:2b:14",Ani_Ane_Cafe_2.4G,coffee_shop,Ani Ane Cafe,,Udon Thani,Udon Thani,TH,17.4002,102.795
+1.0.231.157,00:18:ae:cd:fe:56,Toyota_sure int,car_dealer,Toyota Sure Udonthani: โตโยต้า อุดรธานี ยูสคาร์,Toyota,Udon Thani,Udon Thani,TH,17.4308,102.7918
+1.0.234.229,"c8:3a:35:4b:00:b8,34:36:54:f7:88:4e,74:da:38:f9:34:31",Ruamros Riverside_5G,hotel,รวมรส ริเวอร์ไซด์,,Sangkhom,Nong Khai,TH,18.1868,102.1687
+1.0.236.66,"e0:d3:62:ac:c4:d2,88:5d:fb:aa:f0:4c,dc:f8:b9:d8:f4:03",SuratNa,home_improvement,Surat Home Center,,Kumphawapi,Udon Thani,TH,17.1152,102.9961
+1.0.237.20,60:a4:4c:45:25:7c,UD@Residenc 3.2,hotel,U D Residence,,Udon Thani,Udon Thani,TH,17.4038,102.8021
+1.0.237.156,"08:f6:06:96:8a:c6,14:4d:67:aa:79:cc",Pharadhevi3,hotel,Phara Devi,,Ban Dung,Udon Thani,TH,17.6891,103.2568
+1.0.240.156,"68:ff:7b:75:c1:23,c4:12:f5:79:df:6e",Pasai talaythong,hotel,เกาะยาว การ์เดน บังกะโล,,Ko Yao,Phang Nga,TH,8.0979,98.6182
+1.0.242.26,98:da:c4:85:57:ce,DOMTHONG RESORT 5G,hotel,รีสอร์ทโดมทอง อ.ทุ่งสง จ.นครศรีธรรมราช,,Thung Song,Nakhon Si Thammarat,TH,8.1726,99.7012
+1.0.244.120,d8:07:b6:40:9f:60,SaunKOKO2_5GHz,restaurant,สวนอาหารโกโก้,,Chumphon,Chumphon,TH,10.5337,99.2086
+1.0.244.175,"20:e8:82:c4:a1:96,00:23:69:2c:e9:6f",Kohyaoyaiseabreeze_5G,hotel,Koh Yao Yai Sea Breeze House,,Ko Yao,Phang Nga,TH,8.0535,98.5982
+1.0.245.2,"44:f4:36:db:9c:c0,9c:a2:f4:9d:df:21,c8:5a:9f:c2:22:8a,14:4d:67:38:e5:80",Tiffy1,restaurant,Tiffy's Cafe and Restaurant,,Ban Khao Lak,Phang Nga,TH,8.6495,98.2527
+1.0.245.8,"c4:eb:ff:99:e5:2d,74:da:38:d0:53:1a",TOT2.4G-SealineSairee,coffee_shop,Infinite Sairee Beach,,Ban I Let,Chumphon,TH,10.3979,99.2793
+1.0.245.98,"74:da:88:ba:49:85,5c:92:5e:64:10:f4,50:d4:f7:69:89:9d",WIFI FL3L@SIRINAKHON,hotel,Sirinakhon Hotel,,Nakhon Si Thammarat,Nakhon Si Thammarat,TH,8.4128,99.9709
+1.0.245.172,"98:da:c4:d2:bf:4f,dc:f8:b9:d8:e0:59,78:44:76:b4:67:48",The Tower Condo 39,real_estate,NOON Village Tower Office,,Phuket,Phuket,TH,7.824,98.3388
+1.0.246.133,"48:ee:0c:46:67:40,d0:59:19:c7:cd:91,ac:84:c6:0b:c5:3f,00:72:63:21:b9:c3",Dareen Garden Home_5G,hotel,Lanta Dareen Garden Home,@HOME,Ko Lanta,Krabi,TH,7.5445,99.05
+1.0.248.193,"e4:be:ed:ab:6b:e7,c4:eb:ff:98:9a:07,0c:b6:d2:3e:b0:b4",Fishtakbai_5G,pharmacy,Takbai Pharmacy,,Tak Bai,Narathiwat,TH,6.2592,102.0527
+1.0.252.155,"2c:30:33:31:f3:c0,ec:ad:e0:ae:8d:44",RueanRamResort 2.4g,hotel,เรือนแรม รีสอร์ท,,Narathiwat,Narathiwat,TH,6.4292,101.806
+1.0.253.29,"78:11:dc:1b:4b:ed,68:9e:29:46:c7:69,28:ff:3e:dc:3b:a5",NKT@5G,coffee_shop,NKT Coffee,,Hat Yai,Songkhla,TH,6.9793,100.4259
+1.0.254.253,ec:08:6b:5b:0b:48,@Phithan,car_dealer,บริษัท พิธานพาณิชย์,,Pattani,Pattani,TH,6.867,101.2584
+1.0.255.209,"24:a6:5e:11:6d:fa,78:32:1b:c9:34:10,74:da:38:f4:3f:73",Tinglee_2.4GHz,grocery_store,Big C,Big C,Hat Yai,Songkhla,TH,7.0381,100.4678
+1.1.152.17,"74:6f:88:b1:7b:27,78:44:76:bd:94:94",UNCLE JOES,bar,Uncle Joe’s khaolak,,Ban Khao Lak,Phang Nga,TH,8.6658,98.2461
+1.1.152.38,"74:da:38:db:6b:28,50:d4:f7:68:ff:f1",Aumpai Luxury A6,hotel,Aumpai Luxury,,Ko Samui,Surat Thani,TH,9.4675,100.0444
+1.1.152.100,"e0:19:54:e8:18:4f,dc:62:79:96:66:fa",Laguna villas,hotel,Villaguna Koh Yao Noi,,Ko Yao,Phang Nga,TH,8.1054,98.6224
