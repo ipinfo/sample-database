@@ -1,4 +1,4 @@
-{"start_ip": "1.5.151.0", "end_ip": "1.5.151.255", "join_key": "1.5.0.0", "name": "SoftBank", "country": "JP", "mcc": "440", "mnc": "20"}
+{"start_ip": "1.5.151.0", "end_ip": "1.5.152.255", "join_key": "1.5.0.0", "name": "SoftBank", "country": "JP", "mcc": "440", "mnc": "20"}
 {"start_ip": "1.5.183.0", "end_ip": "1.5.183.255", "join_key": "1.5.0.0", "name": "SoftBank", "country": "JP", "mcc": "440", "mnc": "20"}
 {"start_ip": "1.9.0.0", "end_ip": "1.9.0.255", "join_key": "1.9.0.0", "name": "unifi", "country": "MY", "mcc": "502", "mnc": "153"}
 {"start_ip": "1.9.3.0", "end_ip": "1.9.3.255", "join_key": "1.9.0.0", "name": "unifi", "country": "MY", "mcc": "502", "mnc": "153"}
@@ -10,15 +10,12 @@
 {"start_ip": "1.9.65.0", "end_ip": "1.9.65.255", "join_key": "1.9.0.0", "name": "unifi", "country": "MY", "mcc": "502", "mnc": "153"}
 {"start_ip": "1.9.70.0", "end_ip": "1.9.70.255", "join_key": "1.9.0.0", "name": "unifi", "country": "MY", "mcc": "502", "mnc": "153"}
 {"start_ip": "1.9.72.0", "end_ip": "1.9.74.255", "join_key": "1.9.0.0", "name": "unifi", "country": "MY", "mcc": "502", "mnc": "153"}
-{"start_ip": "1.9.79.0", "end_ip": "1.9.79.255", "join_key": "1.9.0.0", "name": "unifi", "country": "MY", "mcc": "502", "mnc": "153"}
 {"start_ip": "1.9.86.0", "end_ip": "1.9.86.255", "join_key": "1.9.0.0", "name": "unifi", "country": "MY", "mcc": "502", "mnc": "153"}
-{"start_ip": "1.9.88.0", "end_ip": "1.9.88.255", "join_key": "1.9.0.0", "name": "unifi", "country": "MY", "mcc": "502", "mnc": "153"}
 {"start_ip": "1.9.92.0", "end_ip": "1.9.92.255", "join_key": "1.9.0.0", "name": "unifi", "country": "MY", "mcc": "502", "mnc": "153"}
 {"start_ip": "1.9.94.0", "end_ip": "1.9.98.255", "join_key": "1.9.0.0", "name": "unifi", "country": "MY", "mcc": "502", "mnc": "153"}
-{"start_ip": "1.9.100.0", "end_ip": "1.9.101.255", "join_key": "1.9.0.0", "name": "unifi", "country": "MY", "mcc": "502", "mnc": "153"}
+{"start_ip": "1.9.100.0", "end_ip": "1.9.100.255", "join_key": "1.9.0.0", "name": "unifi", "country": "MY", "mcc": "502", "mnc": "153"}
 {"start_ip": "1.9.103.0", "end_ip": "1.9.104.255", "join_key": "1.9.0.0", "name": "unifi", "country": "MY", "mcc": "502", "mnc": "153"}
-{"start_ip": "1.9.106.0", "end_ip": "1.9.106.255", "join_key": "1.9.0.0", "name": "unifi", "country": "MY", "mcc": "502", "mnc": "153"}
-{"start_ip": "1.9.113.0", "end_ip": "1.9.113.255", "join_key": "1.9.0.0", "name": "unifi", "country": "MY", "mcc": "502", "mnc": "153"}
+{"start_ip": "1.9.112.0", "end_ip": "1.9.113.255", "join_key": "1.9.0.0", "name": "unifi", "country": "MY", "mcc": "502", "mnc": "153"}
 {"start_ip": "1.9.117.0", "end_ip": "1.9.117.255", "join_key": "1.9.0.0", "name": "unifi", "country": "MY", "mcc": "502", "mnc": "153"}
 {"start_ip": "1.9.122.0", "end_ip": "1.9.122.255", "join_key": "1.9.0.0", "name": "unifi", "country": "MY", "mcc": "502", "mnc": "153"}
 {"start_ip": "1.9.129.0", "end_ip": "1.9.132.255", "join_key": "1.9.0.0", "name": "unifi", "country": "MY", "mcc": "502", "mnc": "153"}
@@ -28,39 +25,31 @@
 {"start_ip": "1.9.164.0", "end_ip": "1.9.167.255", "join_key": "1.9.0.0", "name": "unifi", "country": "MY", "mcc": "502", "mnc": "153"}
 {"start_ip": "1.9.171.0", "end_ip": "1.9.171.255", "join_key": "1.9.0.0", "name": "unifi", "country": "MY", "mcc": "502", "mnc": "153"}
 {"start_ip": "1.9.177.0", "end_ip": "1.9.177.255", "join_key": "1.9.0.0", "name": "unifi", "country": "MY", "mcc": "502", "mnc": "153"}
+{"start_ip": "1.9.185.0", "end_ip": "1.9.185.255", "join_key": "1.9.0.0", "name": "unifi", "country": "MY", "mcc": "502", "mnc": "153"}
 {"start_ip": "1.9.188.0", "end_ip": "1.9.188.255", "join_key": "1.9.0.0", "name": "unifi", "country": "MY", "mcc": "502", "mnc": "153"}
 {"start_ip": "1.9.196.0", "end_ip": "1.9.196.255", "join_key": "1.9.0.0", "name": "unifi", "country": "MY", "mcc": "502", "mnc": "153"}
 {"start_ip": "1.9.198.0", "end_ip": "1.9.202.255", "join_key": "1.9.0.0", "name": "unifi", "country": "MY", "mcc": "502", "mnc": "153"}
-{"start_ip": "1.9.207.0", "end_ip": "1.9.207.255", "join_key": "1.9.0.0", "name": "unifi", "country": "MY", "mcc": "502", "mnc": "153"}
 {"start_ip": "1.9.209.0", "end_ip": "1.9.210.255", "join_key": "1.9.0.0", "name": "unifi", "country": "MY", "mcc": "502", "mnc": "153"}
-{"start_ip": "1.9.213.0", "end_ip": "1.9.213.255", "join_key": "1.9.0.0", "name": "unifi", "country": "MY", "mcc": "502", "mnc": "153"}
-{"start_ip": "1.9.222.0", "end_ip": "1.9.223.255", "join_key": "1.9.0.0", "name": "unifi", "country": "MY", "mcc": "502", "mnc": "153"}
-{"start_ip": "1.9.226.0", "end_ip": "1.9.226.255", "join_key": "1.9.0.0", "name": "unifi", "country": "MY", "mcc": "502", "mnc": "153"}
+{"start_ip": "1.9.212.0", "end_ip": "1.9.213.255", "join_key": "1.9.0.0", "name": "unifi", "country": "MY", "mcc": "502", "mnc": "153"}
+{"start_ip": "1.9.222.0", "end_ip": "1.9.222.255", "join_key": "1.9.0.0", "name": "unifi", "country": "MY", "mcc": "502", "mnc": "153"}
 {"start_ip": "1.9.230.0", "end_ip": "1.9.230.255", "join_key": "1.9.0.0", "name": "unifi", "country": "MY", "mcc": "502", "mnc": "153"}
 {"start_ip": "1.9.238.0", "end_ip": "1.9.238.255", "join_key": "1.9.0.0", "name": "unifi", "country": "MY", "mcc": "502", "mnc": "153"}
 {"start_ip": "1.9.242.0", "end_ip": "1.9.243.255", "join_key": "1.9.0.0", "name": "unifi", "country": "MY", "mcc": "502", "mnc": "153"}
 {"start_ip": "1.9.254.0", "end_ip": "1.9.254.255", "join_key": "1.9.0.0", "name": "unifi", "country": "MY", "mcc": "502", "mnc": "153"}
-{"start_ip": "1.32.6.0", "end_ip": "1.32.6.255", "join_key": "1.32.0.0", "name": "unifi", "country": "MY", "mcc": "502", "mnc": "153"}
-{"start_ip": "1.32.13.0", "end_ip": "1.32.13.255", "join_key": "1.32.0.0", "name": "unifi", "country": "MY", "mcc": "502", "mnc": "153"}
-{"start_ip": "1.32.15.0", "end_ip": "1.32.15.255", "join_key": "1.32.0.0", "name": "unifi", "country": "MY", "mcc": "502", "mnc": "153"}
+{"start_ip": "1.32.19.0", "end_ip": "1.32.19.255", "join_key": "1.32.0.0", "name": "unifi", "country": "MY", "mcc": "502", "mnc": "153"}
 {"start_ip": "1.32.25.0", "end_ip": "1.32.26.255", "join_key": "1.32.0.0", "name": "unifi", "country": "MY", "mcc": "502", "mnc": "153"}
 {"start_ip": "1.32.29.0", "end_ip": "1.32.29.255", "join_key": "1.32.0.0", "name": "unifi", "country": "MY", "mcc": "502", "mnc": "153"}
 {"start_ip": "1.32.32.0", "end_ip": "1.32.33.255", "join_key": "1.32.0.0", "name": "unifi", "country": "MY", "mcc": "502", "mnc": "153"}
-{"start_ip": "1.32.44.0", "end_ip": "1.32.45.255", "join_key": "1.32.0.0", "name": "unifi", "country": "MY", "mcc": "502", "mnc": "153"}
-{"start_ip": "1.32.48.0", "end_ip": "1.32.48.255", "join_key": "1.32.0.0", "name": "unifi", "country": "MY", "mcc": "502", "mnc": "153"}
 {"start_ip": "1.32.52.0", "end_ip": "1.32.52.255", "join_key": "1.32.0.0", "name": "unifi", "country": "MY", "mcc": "502", "mnc": "153"}
 {"start_ip": "1.32.56.0", "end_ip": "1.32.56.255", "join_key": "1.32.0.0", "name": "unifi", "country": "MY", "mcc": "502", "mnc": "153"}
 {"start_ip": "1.32.64.0", "end_ip": "1.32.65.255", "join_key": "1.32.0.0", "name": "unifi", "country": "MY", "mcc": "502", "mnc": "153"}
 {"start_ip": "1.32.70.0", "end_ip": "1.32.71.255", "join_key": "1.32.0.0", "name": "unifi", "country": "MY", "mcc": "502", "mnc": "153"}
-{"start_ip": "1.32.100.0", "end_ip": "1.32.100.255", "join_key": "1.32.0.0", "name": "unifi", "country": "MY", "mcc": "502", "mnc": "153"}
-{"start_ip": "1.32.105.0", "end_ip": "1.32.105.255", "join_key": "1.32.0.0", "name": "unifi", "country": "MY", "mcc": "502", "mnc": "153"}
-{"start_ip": "1.32.107.0", "end_ip": "1.32.107.255", "join_key": "1.32.0.0", "name": "unifi", "country": "MY", "mcc": "502", "mnc": "153"}
-{"start_ip": "1.32.110.0", "end_ip": "1.32.110.255", "join_key": "1.32.0.0", "name": "unifi", "country": "MY", "mcc": "502", "mnc": "153"}
+{"start_ip": "1.32.106.0", "end_ip": "1.32.107.255", "join_key": "1.32.0.0", "name": "unifi", "country": "MY", "mcc": "502", "mnc": "153"}
+{"start_ip": "1.32.112.0", "end_ip": "1.32.112.255", "join_key": "1.32.0.0", "name": "unifi", "country": "MY", "mcc": "502", "mnc": "153"}
 {"start_ip": "1.32.122.0", "end_ip": "1.32.123.255", "join_key": "1.32.0.0", "name": "unifi", "country": "MY", "mcc": "502", "mnc": "153"}
 {"start_ip": "1.37.0.0", "end_ip": "1.37.0.255", "join_key": "1.37.0.0", "name": "Globe", "country": "PH", "mcc": "515", "mnc": "02"}
 {"start_ip": "1.37.80.0", "end_ip": "1.37.84.255", "join_key": "1.37.0.0", "name": "Globe", "country": "PH", "mcc": "515", "mnc": "02"}
 {"start_ip": "1.37.86.0", "end_ip": "1.37.89.255", "join_key": "1.37.0.0", "name": "Globe", "country": "PH", "mcc": "515", "mnc": "02"}
-{"start_ip": "1.37.102.0", "end_ip": "1.37.103.255", "join_key": "1.37.0.0", "name": "Globe", "country": "PH", "mcc": "515", "mnc": "02"}
 {"start_ip": "1.38.0.0", "end_ip": "1.38.14.255", "join_key": "1.38.0.0", "name": "Vi India", "country": "IN", "mcc": "404", "mnc": "05"}
 {"start_ip": "1.38.16.0", "end_ip": "1.38.55.255", "join_key": "1.38.0.0", "name": "Vi India", "country": "IN", "mcc": "404", "mnc": "05"}
 {"start_ip": "1.38.65.0", "end_ip": "1.38.66.255", "join_key": "1.38.0.0", "name": "Vi India", "country": "IN", "mcc": "404", "mnc": "05"}
@@ -98,3 +87,14 @@
 {"start_ip": "1.39.222.0", "end_ip": "1.39.222.255", "join_key": "1.39.0.0", "name": "Vi India", "country": "IN", "mcc": "404", "mnc": "05"}
 {"start_ip": "1.39.226.0", "end_ip": "1.39.226.255", "join_key": "1.39.0.0", "name": "Vi India", "country": "IN", "mcc": "404", "mnc": "05"}
 {"start_ip": "1.39.229.0", "end_ip": "1.39.229.255", "join_key": "1.39.0.0", "name": "Vi India", "country": "IN", "mcc": "404", "mnc": "05"}
+{"start_ip": "1.39.233.0", "end_ip": "1.39.234.255", "join_key": "1.39.0.0", "name": "Vi India", "country": "IN", "mcc": "404", "mnc": "05"}
+{"start_ip": "1.39.236.0", "end_ip": "1.39.237.255", "join_key": "1.39.0.0", "name": "Vi India", "country": "IN", "mcc": "404", "mnc": "05"}
+{"start_ip": "1.39.242.0", "end_ip": "1.39.242.255", "join_key": "1.39.0.0", "name": "Vi India", "country": "IN", "mcc": "404", "mnc": "05"}
+{"start_ip": "1.39.245.0", "end_ip": "1.39.246.255", "join_key": "1.39.0.0", "name": "Vi India", "country": "IN", "mcc": "404", "mnc": "05"}
+{"start_ip": "1.39.248.0", "end_ip": "1.39.249.255", "join_key": "1.39.0.0", "name": "Vi India", "country": "IN", "mcc": "404", "mnc": "05"}
+{"start_ip": "1.46.0.0", "end_ip": "1.46.255.255", "join_key": "1.46.0.0", "name": "TrueMove H", "country": "TH", "mcc": "520", "mnc": "04"}
+{"start_ip": "1.47.0.0", "end_ip": "1.47.255.255", "join_key": "1.47.0.0", "name": "TrueMove H", "country": "TH", "mcc": "520", "mnc": "04"}
+{"start_ip": "1.66.33.0", "end_ip": "1.66.33.255", "join_key": "1.66.0.0", "name": "NTT docomo", "country": "JP", "mcc": "440", "mnc": "10"}
+{"start_ip": "1.66.35.0", "end_ip": "1.66.35.255", "join_key": "1.66.0.0", "name": "NTT docomo", "country": "JP", "mcc": "440", "mnc": "10"}
+{"start_ip": "1.66.90.0", "end_ip": "1.66.90.255", "join_key": "1.66.0.0", "name": "NTT docomo", "country": "JP", "mcc": "440", "mnc": "10"}
+{"start_ip": "1.66.96.0", "end_ip": "1.66.105.255", "join_key": "1.66.0.0", "name": "NTT docomo", "country": "JP", "mcc": "440", "mnc": "10"}

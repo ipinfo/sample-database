@@ -12,14 +12,15 @@
 {"ip": "1.0.141.89", "ssid": "Chaletcustomer 2.4GHz", "category": "hotel", "name": "Chalet Guesthouse", "brand": null, "latitude": 12.9368, "longitude": 100.8845}
 {"ip": "1.0.141.130", "ssid": "Chaletcustomer 2.4GHz", "category": "hotel", "name": "Chalet Guesthouse", "brand": null, "latitude": 12.9368, "longitude": 100.8845}
 {"ip": "1.0.141.137", "ssid": "Sunshine Vista", "category": "hotel", "name": "Sunshine Vista", "brand": null, "latitude": 12.9452, "longitude": 100.8876}
-{"ip": "1.0.141.145", "ssid": "STARHOTEL", "category": "hotel", "name": "Star Convention Hotel Rayong", "brand": "Novotel", "latitude": 12.6863, "longitude": 101.2706}
+{"ip": "1.0.141.145", "ssid": "STARHOTEL", "category": "hotel", "name": "Novotel Rayong Star Convention Centre", "brand": "Novotel", "latitude": 12.6863, "longitude": 101.2706}
 {"ip": "1.0.141.157", "ssid": "JH01 (2.4G)", "category": "hotel", "name": "Jomtien hostel", "brand": null, "latitude": 12.8836, "longitude": 100.8836}
 {"ip": "1.0.141.169", "ssid": "Sunshine Vista", "category": "hotel", "name": "Sunshine Vista", "brand": null, "latitude": 12.9452, "longitude": 100.8876}
+{"ip": "1.0.141.201", "ssid": "Parichap_5G", "category": "market", "name": "ตลาดเจริญสุข", "brand": null, "latitude": 12.6195, "longitude": 102.0953}
 {"ip": "1.0.141.214", "ssid": "Lisaguesthouse", "category": "hotel", "name": "Lisa's Guesthouse", "brand": null, "latitude": 12.8873, "longitude": 100.8802}
 {"ip": "1.0.141.222", "ssid": "Sunshine Vista", "category": "hotel", "name": "Sunshine Vista", "brand": null, "latitude": 12.9452, "longitude": 100.8876}
 {"ip": "1.0.141.228", "ssid": "Lisaguesthouse 5G", "category": "hotel", "name": "Lisa's Guesthouse", "brand": null, "latitude": 12.8873, "longitude": 100.8802}
-{"ip": "1.0.141.242", "ssid": "STARHOTEL", "category": "hotel", "name": "Star Convention Hotel Rayong", "brand": "Novotel", "latitude": 12.6863, "longitude": 101.2706}
-{"ip": "1.0.141.253", "ssid": "STARHOTEL", "category": "hotel", "name": "Star Convention Hotel Rayong", "brand": "Novotel", "latitude": 12.6863, "longitude": 101.2706}
+{"ip": "1.0.141.242", "ssid": "STARHOTEL", "category": "hotel", "name": "Novotel Rayong Star Convention Centre", "brand": "Novotel", "latitude": 12.6863, "longitude": 101.2706}
+{"ip": "1.0.141.253", "ssid": "STARHOTEL", "category": "hotel", "name": "Novotel Rayong Star Convention Centre", "brand": "Novotel", "latitude": 12.6863, "longitude": 101.2706}
 {"ip": "1.0.145.132", "ssid": "Tong Chang Resort", "category": "hotel", "name": "Tong Chang Resort", "brand": null, "latitude": 10.5338, "longitude": 99.1222}
 {"ip": "1.0.146.61", "ssid": "md_pizza2", "category": "restaurant", "name": "MD Pizza and Thai Food", "brand": null, "latitude": 10.5741, "longitude": 99.2757}
 {"ip": "1.0.147.37", "ssid": "Kee Guest WiFi", "category": "personal_care", "name": "Kee Spa", "brand": null, "latitude": 7.8953, "longitude": 98.2971}
@@ -34,21 +35,20 @@
 {"ip": "1.0.154.68", "ssid": "Koh Yao Candy House.2", "category": "hotel", "name": "Koh Yao Candy House", "brand": null, "latitude": 8.0531, "longitude": 98.5973}
 {"ip": "1.0.157.67", "ssid": "sasitararesidence_Lobby_5G", "category": "hotel", "name": "Sasitara Residence", "brand": null, "latitude": 9.5449, "longitude": 100.0732}
 {"ip": "1.0.159.83", "ssid": "Tarn_restaurant", "category": "restaurant", "name": "Tarn Restaurant", "brand": null, "latitude": 8.6859, "longitude": 98.2524}
-{"ip": "1.0.159.112", "ssid": "NavaNakhon", "category": "retail", "name": "LML Nakhon sri Thammarat", "brand": null, "latitude": 8.4427, "longitude": 99.9809}
-{"ip": "1.0.160.3", "ssid": "Magical Villa-10", "category": "hotel", "name": "Magical Mountain View Resort", "brand": null, "latitude": 8.9018, "longitude": 98.6251}
+{"ip": "1.0.160.3", "ssid": "Magical WiFi", "category": "hotel", "name": "Magical Mountain View Resort", "brand": null, "latitude": 8.9018, "longitude": 98.6251}
 {"ip": "1.0.160.38", "ssid": "MaMa jin1_2.4G", "category": "restaurant", "name": "Mama Jin Restaurant", "brand": null, "latitude": 7.8446, "longitude": 98.3004}
 {"ip": "1.0.160.84", "ssid": "Playna Resort office 2.4G", "category": "hotel", "name": "ปรายนา รีสอร์ท", "brand": null, "latitude": 6.7529, "longitude": 100.0395}
 {"ip": "1.0.160.153", "ssid": "ME CHALONG2.4G", "category": "retail", "name": "Robinson Lifestyle Chalong", "brand": "Robinson Department Store", "latitude": 7.8476, "longitude": 98.35}
 {"ip": "1.0.160.216", "ssid": "Manao Tree", "category": "hotel", "name": "Manao Tree Villa", "brand": null, "latitude": 7.5666, "longitude": 99.0372}
 {"ip": "1.0.161.62", "ssid": "TOT_SNI_F3", "category": "retail", "name": "NT Suratthani", "brand": null, "latitude": 9.1159, "longitude": 99.2796}
 {"ip": "1.0.161.225", "ssid": "MAEMANEE", "category": "restaurant", "name": "Maemanee", "brand": null, "latitude": 7.8902, "longitude": 98.2933}
-{"ip": "1.0.162.25", "ssid": "Free WiFi By Lomprayah", "category": "restaurant", "name": "Lomprayah", "brand": null, "latitude": 9.5838, "longitude": 99.9837}
 {"ip": "1.0.162.65", "ssid": "Mookanda_Residence", "category": "hotel", "name": "Mookanda Residence Ao Nang", "brand": null, "latitude": 8.0412, "longitude": 98.8385}
 {"ip": "1.0.162.213", "ssid": "Mukanda_Residence", "category": "hotel", "name": "Mookanda Residence Ao Nang", "brand": null, "latitude": 8.0412, "longitude": 98.8385}
 {"ip": "1.0.163.48", "ssid": "Krua_maungkhon", "category": "restaurant", "name": "ครัวเมืองคอน กระบี่", "brand": null, "latitude": 8.0812, "longitude": 98.903}
 {"ip": "1.0.163.80", "ssid": "WIFI Guest - Kan Eang Restaurant", "category": "restaurant", "name": "Kan Eang Seafood", "brand": null, "latitude": 7.8199, "longitude": 98.3444}
 {"ip": "1.0.163.176", "ssid": "junglevillage1", "category": "hotel", "name": "Jungle Village Bungalows", "brand": null, "latitude": 8.0473, "longitude": 98.8392}
 {"ip": "1.0.164.12", "ssid": "Tubkaak", "category": "hotel", "name": "The Tubkaak Krabi Boutique Resort", "brand": null, "latitude": 8.0914, "longitude": 98.7477}
+{"ip": "1.0.164.176", "ssid": "Purana WiFi", "category": "restaurant", "name": "Purina Restaurant", "brand": null, "latitude": 8.1552, "longitude": 98.6017}
 {"ip": "1.0.167.173", "ssid": "Cozy Guesthouse_5G", "category": "restaurant", "name": "Cozy Restaurant", "brand": null, "latitude": 7.5985, "longitude": 99.0361}
 {"ip": "1.0.167.248", "ssid": "Siripornchai 1-2", "category": "hotel", "name": "Baan Siriponchai", "brand": null, "latitude": 8.8651, "longitude": 98.3416}
 {"ip": "1.0.169.66", "ssid": "HINTOK-WIFI", "category": "hotel", "name": "Hintok River Camp @ Kanchanaburi", "brand": null, "latitude": 14.3535, "longitude": 98.9296}
@@ -57,7 +57,6 @@
 {"ip": "1.0.169.235", "ssid": "Grace-WiFi 2.4GHz", "category": "restaurant", "name": "The Grace", "brand": null, "latitude": 13.4005, "longitude": 99.9802}
 {"ip": "1.0.170.22", "ssid": "Toyota Free Wifi", "category": "car_dealer", "name": "Toyota", "brand": "Toyota", "latitude": 14.5785, "longitude": 100.4872}
 {"ip": "1.0.170.132", "ssid": "@TheScene FL2", "category": "hotel", "name": "The Scene สุพรรณบุรี", "brand": null, "latitude": 14.4748, "longitude": 100.1097}
-{"ip": "1.0.172.98", "ssid": "Free WiFi By Lomprayah", "category": "restaurant", "name": "Lomprayah", "brand": null, "latitude": 9.5838, "longitude": 99.9837}
 {"ip": "1.0.172.196", "ssid": "Bestkhaolak_5G", "category": "hotel", "name": "Khaolak Mohin Tara", "brand": null, "latitude": 8.6853, "longitude": 98.2525}
 {"ip": "1.0.172.239", "ssid": "Toki Krabi_5G", "category": "laundromat", "name": "Toki Wash & Dry 24 hrs", "brand": null, "latitude": 8.0659, "longitude": 98.916}
 {"ip": "1.0.173.156", "ssid": "Playna Resort2", "category": "hotel", "name": "ปรายนา รีสอร์ท", "brand": null, "latitude": 6.7529, "longitude": 100.0395}
@@ -70,8 +69,8 @@
 {"ip": "1.0.203.154", "ssid": "Coral Outdoor Lounge", "category": "restaurant", "name": "The Coral Executive Lounge", "brand": null, "latitude": 8.1083, "longitude": 98.306}
 {"ip": "1.0.203.204", "ssid": "NEW ANONA BEACHFRONT", "category": "hotel", "name": "Mango Tree On The Beach", "brand": null, "latitude": 7.889, "longitude": 98.2926}
 {"ip": "1.0.203.221", "ssid": "PEARL HOTEL", "category": "hotel", "name": "Roof Top Restaurant @ Pearl Hotel", "brand": null, "latitude": 7.8819, "longitude": 98.3926}
-{"ip": "1.0.212.84", "ssid": "River Bank #2", "category": "hotel", "name": "River Bank Guest House", "brand": null, "latitude": 18.1633, "longitude": 97.9311}
-{"ip": "1.0.213.223", "ssid": "Above The Sea Hotel", "category": "hotel", "name": "Above the Sea", "brand": null, "latitude": 18.1615, "longitude": 97.9295}
+{"ip": "1.0.209.138", "ssid": "Horizon", "category": "botanical_garden", "name": "Tweechol Botanical Garden", "brand": null, "latitude": 18.8598, "longitude": 99.0989}
+{"ip": "1.0.212.84", "ssid": "River Bank _5G", "category": "hotel", "name": "River Bank Guest House", "brand": null, "latitude": 18.1633, "longitude": 97.9311}
 {"ip": "1.0.216.14", "ssid": "Sino Maison", "category": "hotel", "name": "Sino Maison", "brand": null, "latitude": 7.8862, "longitude": 98.2982}
 {"ip": "1.0.216.199", "ssid": "ParadiseKohyao", "category": "hotel", "name": "The Paradise Koh Yao", "brand": null, "latitude": 8.1756, "longitude": 98.6338}
 {"ip": "1.0.218.74", "ssid": "TBH", "category": "bank", "name": "TMBThanachart Bank", "brand": "ธนาคารทหารไทย", "latitude": 7.0026, "longitude": 100.4702}
@@ -89,12 +88,13 @@
 {"ip": "1.0.245.8", "ssid": "TOT2.4G-SealineSairee", "category": "coffee_shop", "name": "Infinite Sairee Beach", "brand": null, "latitude": 10.3979, "longitude": 99.2793}
 {"ip": "1.0.245.98", "ssid": "WIFI FL3L@SIRINAKHON", "category": "hotel", "name": "Sirinakhon Hotel", "brand": null, "latitude": 8.4128, "longitude": 99.9709}
 {"ip": "1.0.245.172", "ssid": "The Tower Condo 39", "category": "real_estate", "name": "NOON Village Tower Office", "brand": null, "latitude": 7.824, "longitude": 98.3388}
-{"ip": "1.0.246.133", "ssid": "Dareen Garden Home_5G", "category": "hotel", "name": "Lanta Dareen Garden Home", "brand": "@HOME", "latitude": 7.5445, "longitude": 99.05}
+{"ip": "1.0.246.133", "ssid": "Dareen Garden Home_5G", "category": "hotel", "name": "Lanta Dareen Garden Home", "brand": null, "latitude": 7.5445, "longitude": 99.05}
 {"ip": "1.0.248.193", "ssid": "Fishtakbai_5G", "category": "pharmacy", "name": "Takbai Pharmacy", "brand": null, "latitude": 6.2592, "longitude": 102.0527}
 {"ip": "1.0.252.155", "ssid": "RueanRamResort 2.4g", "category": "hotel", "name": "เรือนแรม รีสอร์ท", "brand": null, "latitude": 6.4292, "longitude": 101.806}
-{"ip": "1.0.253.29", "ssid": "NKT@5G", "category": "coffee_shop", "name": "NKT Coffee", "brand": null, "latitude": 6.9793, "longitude": 100.4259}
 {"ip": "1.0.254.253", "ssid": "@Phithan", "category": "car_dealer", "name": "บริษัท พิธานพาณิชย์", "brand": null, "latitude": 6.867, "longitude": 101.2584}
 {"ip": "1.0.255.209", "ssid": "Tinglee_2.4GHz", "category": "grocery_store", "name": "Big C", "brand": "Big C", "latitude": 7.0381, "longitude": 100.4678}
 {"ip": "1.1.152.17", "ssid": "UNCLE JOES", "category": "bar", "name": "Uncle Joe’s khaolak", "brand": null, "latitude": 8.6658, "longitude": 98.2461}
 {"ip": "1.1.152.38", "ssid": "Aumpai Luxury A6", "category": "hotel", "name": "Aumpai Luxury", "brand": null, "latitude": 9.4675, "longitude": 100.0444}
 {"ip": "1.1.152.100", "ssid": "Laguna villas", "category": "hotel", "name": "Villaguna Koh Yao Noi", "brand": null, "latitude": 8.1054, "longitude": 98.6224}
+{"ip": "1.1.153.155", "ssid": "Jamesbond Bungalow", "category": "hotel", "name": "James Bond Bungalows", "brand": null, "latitude": 8.333, "longitude": 98.5032}
+{"ip": "1.1.154.255", "ssid": "Pradu seafood", "category": "restaurant", "name": "Pradu Seafood", "brand": null, "latitude": 8.1419, "longitude": 98.5984}
