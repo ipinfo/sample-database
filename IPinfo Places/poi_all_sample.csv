@@ -13,22 +13,17 @@ ip,ssid,category,name,brand,latitude,longitude
 1.0.141.89,Chaletcustomer 2.4GHz,hotel,Chalet Guesthouse,,12.9368,100.8845
 1.0.141.130,Chaletcustomer 2.4GHz,hotel,Chalet Guesthouse,,12.9368,100.8845
 1.0.141.137,Sunshine Vista,hotel,Sunshine Vista,,12.9452,100.8876
-1.0.141.145,STARHOTEL,hotel,Novotel Rayong Star Convention Centre,Novotel,12.6863,101.2706
 1.0.141.157,JH01 (2.4G),hotel,Jomtien hostel,,12.8836,100.8836
 1.0.141.169,Sunshine Vista,hotel,Sunshine Vista,,12.9452,100.8876
 1.0.141.201,Parichap_5G,market,ตลาดเจริญสุข,,12.6195,102.0953
 1.0.141.214,Lisaguesthouse,hotel,Lisa's Guesthouse,,12.8873,100.8802
 1.0.141.222,Sunshine Vista,hotel,Sunshine Vista,,12.9452,100.8876
 1.0.141.228,Lisaguesthouse 5G,hotel,Lisa's Guesthouse,,12.8873,100.8802
-1.0.141.242,STARHOTEL,hotel,Novotel Rayong Star Convention Centre,Novotel,12.6863,101.2706
-1.0.141.253,STARHOTEL,hotel,Novotel Rayong Star Convention Centre,Novotel,12.6863,101.2706
 1.0.145.132,Tong Chang Resort,hotel,Tong Chang Resort,,10.5338,99.1222
 1.0.146.61,md_pizza2,restaurant,MD Pizza and Thai Food,,10.5741,99.2757
-1.0.147.37,Kee Guest WiFi,personal_care,Kee Spa,,7.8953,98.2971
 1.0.147.145,Kohyaoyaiseabreeze_5G,hotel,Koh Yao Yai Sea Breeze House,,8.0535,98.5982
-1.0.148.108,RanongGable,hotel,Ranong Gable Hotel,,9.9706,98.6434
+1.0.148.108,RanongGable,hotel,Ranong Gable Hotel,,9.9705,98.6434
 1.0.149.229,Beach Mountain Club,restaurant,Beach Mountain Club Cafe & Restaurant Kanom,,9.1221,99.8928
-1.0.150.108,SmileResort Bldg4,hotel,Smile Resort - Thungsong,,8.1588,99.6485
 1.0.151.1,Khanompoolvilla,hotel,Khanom Poolvilla,,9.2994,99.835
 1.0.152.96,Kohyaoyaiseabreeze_5G,hotel,Koh Yao Yai Sea Breeze House,,8.0535,98.5982
 1.0.153.10,King Power,retail,King Power Duty Free,,8.1087,98.3062
@@ -49,7 +44,7 @@ ip,ssid,category,name,brand,latitude,longitude
 1.0.163.80,WIFI Guest - Kan Eang Restaurant,restaurant,Kan Eang Seafood,,7.8199,98.3444
 1.0.163.176,junglevillage1,hotel,Jungle Village Bungalows,,8.0473,98.8392
 1.0.164.12,Tubkaak,hotel,The Tubkaak Krabi Boutique Resort,,8.0914,98.7477
-1.0.164.176,Purana WiFi,restaurant,Purina Restaurant,,8.1552,98.6017
+1.0.164.176,Purana WiFi,hotel,Purana Resort Koh Yao Noi,,8.1549,98.6017
 1.0.167.173,Cozy Guesthouse_5G,restaurant,Cozy Restaurant,,7.5985,99.0361
 1.0.167.248,Siripornchai 1-2,hotel,Baan Siriponchai,,8.8651,98.3416
 1.0.169.66,HINTOK-WIFI,hotel,Hintok River Camp @ Kanchanaburi,,14.3535,98.9296
@@ -61,7 +56,7 @@ ip,ssid,category,name,brand,latitude,longitude
 1.0.172.196,Bestkhaolak_5G,hotel,Khaolak Mohin Tara,,8.6853,98.2525
 1.0.172.239,Toki Krabi_5G,laundromat,Toki Wash & Dry 24 hrs,,8.0659,98.916
 1.0.173.156,Playna Resort2,hotel,ปรายนา รีสอร์ท,,6.7529,100.0395
-1.0.175.86,Number1Restaurant,restaurant,Aroy d seafood Restaurant,,8.0343,98.8292
+1.0.175.86,Number1Restaurant,hotel,Monotel Aonang,,8.0342,98.8293
 1.0.175.91,Jinheng_Ranong1,car_dealer,นิสสัน ระนอง - Nissan Ranong,Nissan,9.9446,98.634
 1.0.175.214,Atom Hotel,hotel,Atom Phuket Hotel,,8.0952,98.307
 1.0.202.7,CAT Pubpa hose,campground,พับผ้า วัลเล่ย์ pubpa valley,,7.5755,99.7852
@@ -69,19 +64,20 @@ ip,ssid,category,name,brand,latitude,longitude
 1.0.203.39,Tann staff,restaurant,Tannami by Tann Terrace,,7.8298,98.2951
 1.0.203.154,Coral Outdoor Lounge,restaurant,The Coral Executive Lounge,,8.1083,98.306
 1.0.203.204,NEW ANONA BEACHFRONT,hotel,Mango Tree On The Beach,,7.889,98.2926
-1.0.203.221,PEARL HOTEL,hotel,Roof Top Restaurant @ Pearl Hotel,,7.8819,98.3926
 1.0.209.138,Horizon,botanical_garden,Tweechol Botanical Garden,,18.8598,99.0989
-1.0.212.84,River Bank #2,hotel,River Bank Guest House,,18.1633,97.9311
+1.0.212.84,River Bank _5G,hotel,River Bank Guest House,,18.1633,97.9311
 1.0.216.14,Sino Maison,hotel,Sino Maison,,7.8862,98.2982
 1.0.216.199,ParadiseKohyao,hotel,The Paradise Koh Yao,,8.1756,98.6338
+1.0.218.27,SinwaWiFi,bank,บริษัท Sinwa Marin.offshore Supply & Logistics,,7.2702,100.4931
 1.0.218.74,TBH,bank,TMBThanachart Bank,ธนาคารทหารไทย,7.0026,100.4702
 1.0.225.31,Ani_Ane_Cafe_2.4G,coffee_shop,Ani Ane Cafe,,17.4002,102.795
+1.0.225.213,Nongkhai_group2,restaurant,บ้านหนองคาย คนล่าฝัน,,17.8745,102.7139
 1.0.231.157,Toyota_sure int,car_dealer,Toyota Sure Udonthani: โตโยต้า อุดรธานี ยูสคาร์,Toyota,17.4308,102.7918
 1.0.234.229,Ruamros Riverside_5G,hotel,รวมรส ริเวอร์ไซด์,,18.1868,102.1687
 1.0.236.66,SuratNa,home_improvement,Surat Home Center,,17.1152,102.9961
 1.0.237.20,UD@Residenc 3.2,hotel,U D Residence,,17.4038,102.8021
 1.0.237.156,Pharadhevi3,hotel,Phara Devi,,17.6891,103.2568
-1.0.240.156,Pasai talaythong,hotel,เกาะยาว การ์เดน บังกะโล,,8.0979,98.6182
+1.0.240.156,Pasai talaythong,hotel,เกาะยาวบีช รีสอร์์ท,,8.0979,98.6181
 1.0.242.26,DOMTHONG RESORT 5G,hotel,รีสอร์ทโดมทอง อ.ทุ่งสง จ.นครศรีธรรมราช,,8.1726,99.7012
 1.0.244.120,SaunKOKO2_5GHz,restaurant,สวนอาหารโกโก้,,10.5337,99.2086
 1.0.244.175,Kohyaoyaiseabreeze_5G,hotel,Koh Yao Yai Sea Breeze House,,8.0535,98.5982
@@ -95,7 +91,11 @@ ip,ssid,category,name,brand,latitude,longitude
 1.0.252.191,NARA HOTEL F.1,hotel,Pairin Hotel,,6.0199,101.965
 1.0.254.253,@Phithan,car_dealer,บริษัท พิธานพาณิชย์,,6.867,101.2584
 1.0.255.209,Tinglee_2.4GHz,grocery_store,Big C,Big C,7.0381,100.4678
+1.1.130.87,anong,sports_center,หนองฝ่ายใหญ่ บ้านนามะเฟือง,,17.0692,102.4829
+1.1.135.94,Dontanfoto-2.4G,retail,ร้านพาวเวอร์โฟน สี่แยกดอนตาล,,16.3155,104.92
 1.1.138.3,.RU-WiFi,university,Ramkhamhaeng University,,16.0544,102.7909
 1.1.152.17,UNCLE JOES,bar,Uncle Joe’s khaolak,,8.6658,98.2461
 1.1.152.38,Aumpai Luxury A6,hotel,Aumpai Luxury,,9.4675,100.0444
-1.1.152.100,Laguna villas,hotel,Villaguna Koh Yao Noi,,8.1054,98.6224
+1.1.152.100,Laguna villas,hotel,Villaguna Koh Yao Noi,,8.1052,98.6224
+1.1.153.155,Jamesbond Bungalow,hotel,James Bond Bungalows,,8.333,98.5032
+1.1.154.255,Pradu seafood,restaurant,Pradu Seafood,,8.1419,98.5984

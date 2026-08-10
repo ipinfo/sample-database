@@ -21,7 +21,7 @@ start_ip,end_ip,join_key,name,domain,type,asn,as_name,as_domain,as_type,country
 1.2.0.0,1.2.1.255,1.2.0.0,CHINANET FUJIAN PROVINCE NETWORK,chinatelecom.cn,isp,,,,,CN
 1.2.2.0,1.2.2.255,1.2.0.0,"KNET Techonlogy (BeiJing) Co.,Ltd.",knet.cn,business,,,,,CN
 1.2.3.0,1.2.3.255,1.2.0.0,APNIC Debogon Project,,business,,,,,AU
-1.2.4.0,1.2.4.255,1.2.0.0,"Saiyu Technology (Beijing) Co., Ltd.",saiyutech.cn,business,AS24409,China Internet Network Infomation Center,cnnic.cn,government,CN
+1.2.4.0,1.2.4.255,1.2.0.0,"Saiyu Technology (Beijing) Co., Ltd.",saiyutech.cn,business,AS24406,China Internet Network Infomation Center,cnnic.cn,government,CN
 1.2.5.0,1.2.7.255,1.2.0.0,CHINANET FUJIAN PROVINCE NETWORK,chinatelecom.cn,isp,,,,,CN
 1.2.8.0,1.2.8.255,1.2.0.0,China Network Information Center,cnnic.cn,business,,,,,CN
 1.2.9.0,1.2.127.255,1.2.0.0,CHINANET Guangdong province network,chinatelecom.cn,isp,,,,,CN
