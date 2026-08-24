@@ -35,9 +35,7 @@ start_ip,end_ip,asn,name,domain
 1.7.180.0,1.7.180.255,AS132215,Powergrid Teleservices Limited,powergrid.in
 1.7.181.0,1.7.199.255,AS9583,Sify Limited,sifycorp.com
 1.7.200.0,1.7.202.255,AS132215,Powergrid Teleservices Limited,powergrid.in
-1.7.204.0,1.7.224.255,AS9583,Sify Limited,sifycorp.com
-1.7.225.0,1.7.225.255,AS396421,PALO ALTO NETWORKS,paloaltonetworks.com
-1.7.226.0,1.7.245.255,AS9583,Sify Limited,sifycorp.com
+1.7.204.0,1.7.245.255,AS9583,Sify Limited,sifycorp.com
 1.8.1.0,1.8.1.255,AS38345,Internet Domain Name System Beijing Engineering Resrarch Center Ltd.,knet.cn
 1.8.8.0,1.8.8.255,AS38345,Internet Domain Name System Beijing Engineering Resrarch Center Ltd.,knet.cn
 1.9.0.0,1.9.255.255,AS4788,TM TECHNOLOGY SERVICES SDN. BHD.,tm.com.my
@@ -99,3 +97,5 @@ start_ip,end_ip,asn,name,domain
 1.22.206.0,1.22.210.255,AS45528,Tikona Infinet Ltd.,tikona.in
 1.22.212.0,1.22.224.255,AS45528,Tikona Infinet Ltd.,tikona.in
 1.22.228.0,1.22.236.255,AS45528,Tikona Infinet Ltd.,tikona.in
+1.22.240.0,1.23.6.255,AS45528,Tikona Infinet Ltd.,tikona.in
+1.23.10.0,1.23.13.255,AS45528,Tikona Infinet Ltd.,tikona.in

@@ -3,7 +3,8 @@ network,name,country,mcc,mnc
 1.5.24.0/24,SoftBank,JP,440,20
 1.5.48.0/24,SoftBank,JP,440,20
 1.5.51.0/24,SoftBank,JP,440,20
-1.5.122.0/24,SoftBank,JP,440,20
+1.5.111.0/24,SoftBank,JP,440,20
+1.5.122.0/23,SoftBank,JP,440,20
 1.5.150.0/24,SoftBank,JP,440,20
 1.5.152.0/24,SoftBank,JP,440,20
 1.5.172.0/24,SoftBank,JP,440,20
@@ -14,11 +15,11 @@ network,name,country,mcc,mnc
 1.5.233.0/24,SoftBank,JP,440,20
 1.9.0.0/24,unifi,MY,502,153
 1.9.3.0/24,unifi,MY,502,153
-1.9.7.0/24,unifi,MY,502,153
 1.9.40.0/24,unifi,MY,502,153
 1.9.45.0/24,unifi,MY,502,153
 1.9.46.0/24,unifi,MY,502,153
 1.9.48.0/23,unifi,MY,502,153
+1.9.55.0/24,unifi,MY,502,153
 1.9.65.0/24,unifi,MY,502,153
 1.9.66.0/24,unifi,MY,502,153
 1.9.70.0/24,unifi,MY,502,153
@@ -40,6 +41,7 @@ network,name,country,mcc,mnc
 1.9.129.0/24,unifi,MY,502,153
 1.9.130.0/23,unifi,MY,502,153
 1.9.132.0/24,unifi,MY,502,153
+1.9.135.0/24,unifi,MY,502,153
 1.9.137.0/24,unifi,MY,502,153
 1.9.140.0/24,unifi,MY,502,153
 1.9.147.0/24,unifi,MY,502,153
@@ -48,7 +50,6 @@ network,name,country,mcc,mnc
 1.9.164.0/22,unifi,MY,502,153
 1.9.171.0/24,unifi,MY,502,153
 1.9.185.0/24,unifi,MY,502,153
-1.9.188.0/24,unifi,MY,502,153
 1.9.196.0/24,unifi,MY,502,153
 1.9.198.0/23,unifi,MY,502,153
 1.9.200.0/24,unifi,MY,502,153
@@ -60,9 +61,11 @@ network,name,country,mcc,mnc
 1.9.219.0/24,unifi,MY,502,153
 1.9.222.0/23,unifi,MY,502,153
 1.9.230.0/24,unifi,MY,502,153
+1.9.236.0/24,unifi,MY,502,153
 1.9.242.0/23,unifi,MY,502,153
+1.9.254.0/24,unifi,MY,502,153
 1.32.4.0/24,unifi,MY,502,153
-1.32.19.0/24,unifi,MY,502,153
+1.32.6.0/24,unifi,MY,502,153
 1.32.25.0/24,unifi,MY,502,153
 1.32.26.0/24,unifi,MY,502,153
 1.32.29.0/24,unifi,MY,502,153
@@ -71,10 +74,10 @@ network,name,country,mcc,mnc
 1.32.56.0/24,unifi,MY,502,153
 1.32.58.0/23,unifi,MY,502,153
 1.32.64.0/23,unifi,MY,502,153
-1.32.70.0/23,unifi,MY,502,153
+1.32.70.0/24,unifi,MY,502,153
 1.32.96.0/24,unifi,MY,502,153
 1.32.104.0/24,unifi,MY,502,153
-1.32.106.0/23,unifi,MY,502,153
+1.32.112.0/24,unifi,MY,502,153
 1.32.116.0/24,unifi,MY,502,153
 1.32.122.0/23,unifi,MY,502,153
 1.32.124.0/24,unifi,MY,502,153
@@ -83,6 +86,7 @@ network,name,country,mcc,mnc
 1.37.84.0/24,Globe,PH,515,02
 1.37.86.0/23,Globe,PH,515,02
 1.37.88.0/23,Globe,PH,515,02
+1.37.102.0/23,Globe,PH,515,02
 1.38.0.0/23,Vi India,IN,404,05
 1.38.2.0/23,Vi India,IN,404,05
 1.38.4.0/22,Vi India,IN,404,05
@@ -95,7 +99,3 @@ network,name,country,mcc,mnc
 1.38.29.0/24,Vi India,IN,404,05
 1.38.30.0/23,Vi India,IN,404,05
 1.38.32.0/22,Vi India,IN,404,05
-1.38.36.0/23,Vi India,IN,404,05
-1.38.38.0/24,Vi India,IN,404,05
-1.38.39.0/24,Vi India,IN,404,05
-1.38.40.0/21,Vi India,IN,404,05
