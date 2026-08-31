@@ -2,16 +2,21 @@
 {"network": "1.5.24.0/24", "name": "SoftBank", "country": "JP", "mcc": "440", "mnc": "20"}
 {"network": "1.5.48.0/24", "name": "SoftBank", "country": "JP", "mcc": "440", "mnc": "20"}
 {"network": "1.5.51.0/24", "name": "SoftBank", "country": "JP", "mcc": "440", "mnc": "20"}
+{"network": "1.5.73.0/24", "name": "SoftBank", "country": "JP", "mcc": "440", "mnc": "20"}
+{"network": "1.5.76.0/24", "name": "SoftBank", "country": "JP", "mcc": "440", "mnc": "20"}
+{"network": "1.5.86.0/24", "name": "SoftBank", "country": "JP", "mcc": "440", "mnc": "20"}
 {"network": "1.5.111.0/24", "name": "SoftBank", "country": "JP", "mcc": "440", "mnc": "20"}
 {"network": "1.5.122.0/23", "name": "SoftBank", "country": "JP", "mcc": "440", "mnc": "20"}
-{"network": "1.5.150.0/24", "name": "SoftBank", "country": "JP", "mcc": "440", "mnc": "20"}
+{"network": "1.5.150.0/23", "name": "SoftBank", "country": "JP", "mcc": "440", "mnc": "20"}
 {"network": "1.5.152.0/24", "name": "SoftBank", "country": "JP", "mcc": "440", "mnc": "20"}
+{"network": "1.5.163.0/24", "name": "SoftBank", "country": "JP", "mcc": "440", "mnc": "20"}
 {"network": "1.5.172.0/24", "name": "SoftBank", "country": "JP", "mcc": "440", "mnc": "20"}
 {"network": "1.5.183.0/24", "name": "SoftBank", "country": "JP", "mcc": "440", "mnc": "20"}
 {"network": "1.5.207.0/24", "name": "SoftBank", "country": "JP", "mcc": "440", "mnc": "20"}
 {"network": "1.5.208.0/24", "name": "SoftBank", "country": "JP", "mcc": "440", "mnc": "20"}
 {"network": "1.5.210.0/24", "name": "SoftBank", "country": "JP", "mcc": "440", "mnc": "20"}
 {"network": "1.5.233.0/24", "name": "SoftBank", "country": "JP", "mcc": "440", "mnc": "20"}
+{"network": "1.5.234.0/24", "name": "SoftBank", "country": "JP", "mcc": "440", "mnc": "20"}
 {"network": "1.9.0.0/24", "name": "unifi", "country": "MY", "mcc": "502", "mnc": "153"}
 {"network": "1.9.3.0/24", "name": "unifi", "country": "MY", "mcc": "502", "mnc": "153"}
 {"network": "1.9.40.0/24", "name": "unifi", "country": "MY", "mcc": "502", "mnc": "153"}
@@ -27,7 +32,7 @@
 {"network": "1.9.79.0/24", "name": "unifi", "country": "MY", "mcc": "502", "mnc": "153"}
 {"network": "1.9.86.0/24", "name": "unifi", "country": "MY", "mcc": "502", "mnc": "153"}
 {"network": "1.9.92.0/24", "name": "unifi", "country": "MY", "mcc": "502", "mnc": "153"}
-{"network": "1.9.94.0/23", "name": "unifi", "country": "MY", "mcc": "502", "mnc": "153"}
+{"network": "1.9.94.0/24", "name": "unifi", "country": "MY", "mcc": "502", "mnc": "153"}
 {"network": "1.9.96.0/24", "name": "unifi", "country": "MY", "mcc": "502", "mnc": "153"}
 {"network": "1.9.98.0/24", "name": "unifi", "country": "MY", "mcc": "502", "mnc": "153"}
 {"network": "1.9.103.0/24", "name": "unifi", "country": "MY", "mcc": "502", "mnc": "153"}
@@ -36,6 +41,7 @@
 {"network": "1.9.110.0/24", "name": "unifi", "country": "MY", "mcc": "502", "mnc": "153"}
 {"network": "1.9.112.0/23", "name": "unifi", "country": "MY", "mcc": "502", "mnc": "153"}
 {"network": "1.9.114.0/24", "name": "unifi", "country": "MY", "mcc": "502", "mnc": "153"}
+{"network": "1.9.116.0/24", "name": "unifi", "country": "MY", "mcc": "502", "mnc": "153"}
 {"network": "1.9.122.0/24", "name": "unifi", "country": "MY", "mcc": "502", "mnc": "153"}
 {"network": "1.9.129.0/24", "name": "unifi", "country": "MY", "mcc": "502", "mnc": "153"}
 {"network": "1.9.130.0/23", "name": "unifi", "country": "MY", "mcc": "502", "mnc": "153"}
@@ -49,7 +55,6 @@
 {"network": "1.9.164.0/22", "name": "unifi", "country": "MY", "mcc": "502", "mnc": "153"}
 {"network": "1.9.171.0/24", "name": "unifi", "country": "MY", "mcc": "502", "mnc": "153"}
 {"network": "1.9.185.0/24", "name": "unifi", "country": "MY", "mcc": "502", "mnc": "153"}
-{"network": "1.9.196.0/24", "name": "unifi", "country": "MY", "mcc": "502", "mnc": "153"}
 {"network": "1.9.198.0/23", "name": "unifi", "country": "MY", "mcc": "502", "mnc": "153"}
 {"network": "1.9.200.0/24", "name": "unifi", "country": "MY", "mcc": "502", "mnc": "153"}
 {"network": "1.9.202.0/24", "name": "unifi", "country": "MY", "mcc": "502", "mnc": "153"}
@@ -65,6 +70,7 @@
 {"network": "1.9.254.0/24", "name": "unifi", "country": "MY", "mcc": "502", "mnc": "153"}
 {"network": "1.32.4.0/24", "name": "unifi", "country": "MY", "mcc": "502", "mnc": "153"}
 {"network": "1.32.6.0/24", "name": "unifi", "country": "MY", "mcc": "502", "mnc": "153"}
+{"network": "1.32.20.0/24", "name": "unifi", "country": "MY", "mcc": "502", "mnc": "153"}
 {"network": "1.32.25.0/24", "name": "unifi", "country": "MY", "mcc": "502", "mnc": "153"}
 {"network": "1.32.26.0/24", "name": "unifi", "country": "MY", "mcc": "502", "mnc": "153"}
 {"network": "1.32.29.0/24", "name": "unifi", "country": "MY", "mcc": "502", "mnc": "153"}
@@ -76,6 +82,8 @@
 {"network": "1.32.70.0/24", "name": "unifi", "country": "MY", "mcc": "502", "mnc": "153"}
 {"network": "1.32.96.0/24", "name": "unifi", "country": "MY", "mcc": "502", "mnc": "153"}
 {"network": "1.32.104.0/24", "name": "unifi", "country": "MY", "mcc": "502", "mnc": "153"}
+{"network": "1.32.108.0/24", "name": "unifi", "country": "MY", "mcc": "502", "mnc": "153"}
+{"network": "1.32.111.0/24", "name": "unifi", "country": "MY", "mcc": "502", "mnc": "153"}
 {"network": "1.32.112.0/24", "name": "unifi", "country": "MY", "mcc": "502", "mnc": "153"}
 {"network": "1.32.116.0/24", "name": "unifi", "country": "MY", "mcc": "502", "mnc": "153"}
 {"network": "1.32.122.0/23", "name": "unifi", "country": "MY", "mcc": "502", "mnc": "153"}
@@ -85,16 +93,8 @@
 {"network": "1.37.84.0/24", "name": "Globe", "country": "PH", "mcc": "515", "mnc": "02"}
 {"network": "1.37.86.0/23", "name": "Globe", "country": "PH", "mcc": "515", "mnc": "02"}
 {"network": "1.37.88.0/23", "name": "Globe", "country": "PH", "mcc": "515", "mnc": "02"}
+{"network": "1.37.100.0/24", "name": "Globe", "country": "PH", "mcc": "515", "mnc": "02"}
 {"network": "1.37.102.0/23", "name": "Globe", "country": "PH", "mcc": "515", "mnc": "02"}
 {"network": "1.38.0.0/23", "name": "Vi India", "country": "IN", "mcc": "404", "mnc": "05"}
 {"network": "1.38.2.0/23", "name": "Vi India", "country": "IN", "mcc": "404", "mnc": "05"}
 {"network": "1.38.4.0/22", "name": "Vi India", "country": "IN", "mcc": "404", "mnc": "05"}
-{"network": "1.38.8.0/22", "name": "Vi India", "country": "IN", "mcc": "404", "mnc": "05"}
-{"network": "1.38.12.0/23", "name": "Vi India", "country": "IN", "mcc": "404", "mnc": "05"}
-{"network": "1.38.14.0/24", "name": "Vi India", "country": "IN", "mcc": "404", "mnc": "05"}
-{"network": "1.38.16.0/21", "name": "Vi India", "country": "IN", "mcc": "404", "mnc": "05"}
-{"network": "1.38.24.0/22", "name": "Vi India", "country": "IN", "mcc": "404", "mnc": "05"}
-{"network": "1.38.28.0/24", "name": "Vi India", "country": "IN", "mcc": "404", "mnc": "05"}
-{"network": "1.38.29.0/24", "name": "Vi India", "country": "IN", "mcc": "404", "mnc": "05"}
-{"network": "1.38.30.0/23", "name": "Vi India", "country": "IN", "mcc": "404", "mnc": "05"}
-{"network": "1.38.32.0/22", "name": "Vi India", "country": "IN", "mcc": "404", "mnc": "05"}

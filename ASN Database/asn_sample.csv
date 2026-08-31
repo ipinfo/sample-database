@@ -10,7 +10,7 @@ start_ip,end_ip,join_key,asn,domain,name,type,country
 1.1.8.0,1.1.8.255,1.1.0.0,AS149511,yamu.com,"Yamu Technologies Co., Ltd.",business,CN
 1.1.64.0,1.1.126.255,1.1.0.0,AS2519,arteria-net.com,ARTERIA Networks Corporation,isp,JP
 1.1.128.0,1.1.255.255,1.1.0.0,AS23969,ntplc.co.th,TOT Public Company Limited,isp,TH
-1.2.4.0,1.2.4.255,1.2.0.0,AS24406,cnnic.cn,China Internet Network Infomation Center,government,CN
+1.2.4.0,1.2.4.255,1.2.0.0,AS24406,,China Internet Network Infomation Center,government,CN
 1.2.128.0,1.2.255.255,1.2.0.0,AS23969,ntplc.co.th,TOT Public Company Limited,isp,TH
 1.4.128.0,1.4.255.255,1.4.0.0,AS23969,ntplc.co.th,TOT Public Company Limited,isp,TH
 1.5.0.0,1.5.255.255,1.5.0.0,AS4725,softbank.jp,SoftBank Corp.,isp,JP
@@ -36,7 +36,9 @@ start_ip,end_ip,join_key,asn,domain,name,type,country
 1.7.180.0,1.7.180.255,1.7.0.0,AS132215,powergrid.in,Powergrid Teleservices Limited,isp,IN
 1.7.181.0,1.7.199.255,1.7.0.0,AS9583,sifycorp.com,Sify Limited,isp,IN
 1.7.200.0,1.7.202.255,1.7.0.0,AS132215,powergrid.in,Powergrid Teleservices Limited,isp,IN
-1.7.204.0,1.7.245.255,1.7.0.0,AS9583,sifycorp.com,Sify Limited,isp,IN
+1.7.204.0,1.7.224.255,1.7.0.0,AS9583,sifycorp.com,Sify Limited,isp,IN
+1.7.225.0,1.7.225.255,1.7.0.0,AS396421,paloaltonetworks.com,PALO ALTO NETWORKS,business,US
+1.7.226.0,1.7.245.255,1.7.0.0,AS9583,sifycorp.com,Sify Limited,isp,IN
 1.8.1.0,1.8.1.255,1.8.0.0,AS38345,knet.cn,Internet Domain Name System Beijing Engineering Resrarch Center Ltd.,education,CN
 1.8.8.0,1.8.8.255,1.8.0.0,AS38345,knet.cn,Internet Domain Name System Beijing Engineering Resrarch Center Ltd.,education,CN
 1.9.0.0,1.9.255.255,1.9.0.0,AS4788,tm.com.my,TM TECHNOLOGY SERVICES SDN. BHD.,isp,MY
@@ -97,5 +99,3 @@ start_ip,end_ip,join_key,asn,domain,name,type,country
 1.22.112.0,1.22.140.255,1.22.0.0,AS45528,tikona.in,Tikona Infinet Ltd.,isp,IN
 1.22.145.0,1.22.161.255,1.22.0.0,AS45528,tikona.in,Tikona Infinet Ltd.,isp,IN
 1.22.163.0,1.22.189.255,1.22.0.0,AS45528,tikona.in,Tikona Infinet Ltd.,isp,IN
-1.22.192.0,1.22.201.255,1.22.0.0,AS45528,tikona.in,Tikona Infinet Ltd.,isp,IN
-1.22.206.0,1.22.210.255,1.22.0.0,AS45528,tikona.in,Tikona Infinet Ltd.,isp,IN

@@ -33,13 +33,15 @@ start_ip,end_ip,country,country_name,continent,continent_name
 1.9.241.226,1.9.241.226,ID,Indonesia,AS,Asia
 1.9.241.227,1.9.241.229,MY,Malaysia,AS,Asia
 1.9.241.230,1.9.241.230,RE,Reunion,AF,Africa
-1.9.241.231,1.9.244.49,MY,Malaysia,AS,Asia
+1.9.241.231,1.9.243.33,MY,Malaysia,AS,Asia
+1.9.243.34,1.9.243.34,ID,Indonesia,AS,Asia
+1.9.243.35,1.9.244.49,MY,Malaysia,AS,Asia
 1.9.244.50,1.9.244.50,HK,Hong Kong,AS,Asia
 1.9.244.51,1.9.244.89,MY,Malaysia,AS,Asia
 1.9.244.90,1.9.244.90,RE,Reunion,AF,Africa
-1.9.244.91,1.9.244.145,MY,Malaysia,AS,Asia
-1.9.244.146,1.9.244.146,TH,Thailand,AS,Asia
-1.9.244.147,1.9.253.37,MY,Malaysia,AS,Asia
+1.9.244.91,1.9.244.144,MY,Malaysia,AS,Asia
+1.9.244.145,1.9.244.145,TH,Thailand,AS,Asia
+1.9.244.146,1.9.253.37,MY,Malaysia,AS,Asia
 1.9.253.38,1.9.253.38,PK,Pakistan,AS,Asia
 1.9.253.39,1.9.255.255,MY,Malaysia,AS,Asia
 1.10.0.0,1.10.9.255,CN,China,AS,Asia
@@ -73,10 +75,13 @@ start_ip,end_ip,country,country_name,continent,continent_name
 1.32.230.0,1.32.231.255,JP,Japan,AS,Asia
 1.32.232.0,1.32.232.255,TW,Taiwan,AS,Asia
 1.32.233.0,1.32.233.255,US,United States,NA,North America
-1.32.234.0,1.32.234.63,TW,Taiwan,AS,Asia
-1.32.234.64,1.32.234.255,HK,Hong Kong,AS,Asia
+1.32.234.0,1.32.234.23,TW,Taiwan,AS,Asia
+1.32.234.24,1.32.234.31,HK,Hong Kong,AS,Asia
+1.32.234.32,1.32.234.127,TW,Taiwan,AS,Asia
+1.32.234.128,1.32.234.255,HK,Hong Kong,AS,Asia
 1.32.235.0,1.32.235.127,TW,Taiwan,AS,Asia
-1.32.235.128,1.32.236.255,HK,Hong Kong,AS,Asia
+1.32.235.128,1.32.235.255,US,United States,NA,North America
+1.32.236.0,1.32.236.255,HK,Hong Kong,AS,Asia
 1.32.237.0,1.32.237.255,JP,Japan,AS,Asia
 1.32.238.0,1.32.239.255,US,United States,NA,North America
 1.32.240.0,1.32.240.255,SG,Singapore,AS,Asia
@@ -90,12 +95,7 @@ start_ip,end_ip,country,country_name,continent,continent_name
 1.36.0.0,1.36.255.255,HK,Hong Kong,AS,Asia
 1.37.0.0,1.37.27.31,PH,Philippines,AS,Asia
 1.37.27.32,1.37.27.33,HK,Hong Kong,AS,Asia
-1.37.27.34,1.37.27.35,PH,Philippines,AS,Asia
-1.37.27.36,1.37.27.36,SG,Singapore,AS,Asia
+1.37.27.34,1.37.27.36,PH,Philippines,AS,Asia
 1.37.27.37,1.37.27.39,US,United States,NA,North America
-1.37.27.40,1.37.27.41,SG,Singapore,AS,Asia
-1.37.27.42,1.37.27.43,HK,Hong Kong,AS,Asia
-1.37.27.44,1.37.27.47,JP,Japan,AS,Asia
-1.37.27.48,1.37.29.63,PH,Philippines,AS,Asia
+1.37.27.40,1.37.29.63,PH,Philippines,AS,Asia
 1.37.29.64,1.37.29.67,HK,Hong Kong,AS,Asia
-1.37.29.68,1.37.34.179,PH,Philippines,AS,Asia

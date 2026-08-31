@@ -11,14 +11,12 @@ ip,ssid,category,name,brand,latitude,longitude
 1.0.141.157,JH01 (2.4G),hotel,Jomtien hostel,,12.8836,100.8836
 1.0.141.169,Sunshine Vista,hotel,Sunshine Vista,,12.9452,100.8876
 1.0.141.201,Parichap_5G,market,ตลาดเจริญสุข,,12.6195,102.0953
-1.0.141.221,LAURITZEN/148_2.4GHz,travel_agency,Grand Heritage Pattaya,,12.9069,100.8601
 1.0.141.222,Sunshine Vista,hotel,Sunshine Vista,,12.9452,100.8876
 1.0.141.228,Lisaguesthouse 5G,hotel,Lisa's Guesthouse,,12.8873,100.8802
 1.0.145.132,Tong Chang Resort,hotel,Tong Chang Resort,,10.5338,99.1222
 1.0.146.61,md_pizza2,restaurant,MD Pizza and Thai Food,,10.5741,99.2757
 1.0.147.145,Kohyaoyaiseabreeze_5G,hotel,Koh Yao Yai Sea Breeze House,,8.0535,98.5982
 1.0.148.108,RanongGable,hotel,Ranong Gable Hotel,,9.9705,98.6434
-1.0.149.17,NT-thanawat-2.4G,retail,บริษัท ทีโอที จำกัด,,8.1645,99.6777
 1.0.149.229,Beach Mountain Club,restaurant,Beach Mountain Club Cafe & Restaurant Kanom,,9.1221,99.8928
 1.0.150.108,SmileResort Bldg4,hotel,Smile Resort - Thungsong,,8.1588,99.6485
 1.0.151.1,Khanompoolvilla,hotel,Khanom Poolvilla,,9.2994,99.835
@@ -28,7 +26,7 @@ ip,ssid,category,name,brand,latitude,longitude
 1.0.159.83,Tarn_restaurant,restaurant,Tarn Restaurant,,8.6859,98.2524
 1.0.160.3,Magical Villa-10,hotel,Magical Mountain View Resort,,8.9018,98.6251
 1.0.160.84,Playna Resort office 2.4G,hotel,ปรายนา รีสอร์ท,,6.7529,100.0395
-1.0.160.153,ME CHALONG2.4G,retail,Robinson Lifestyle Chalong,Robinson Department Store,7.8476,98.35
+1.0.160.153,ME CHALONG2.4G,retail,BnB Home Phuket Chalong,,7.8487,98.3505
 1.0.160.216,Manao Tree,hotel,Manao Tree Villa,,7.5666,99.0372
 1.0.161.62,TOT_SNI_F3,retail,NT Suratthani,,9.1159,99.2796
 1.0.162.65,Mookanda_Residence,hotel,Mookanda Residence Ao Nang,,8.0412,98.8385
@@ -64,7 +62,6 @@ ip,ssid,category,name,brand,latitude,longitude
 1.0.218.74,TBH,bank,TMBThanachart Bank,ธนาคารทหารไทย,7.0026,100.4702
 1.0.219.77,12Phamacy_5G,restaurant,,,,
 1.0.225.31,Ani_Ane_Cafe_2.4G,coffee_shop,Ani Ane Cafe,,17.4002,102.795
-1.0.225.213,Nongkhai_group2,restaurant,บ้านหนองคาย คนล่าฝัน,,17.8745,102.7139
 1.0.231.157,Toyota_sure int,car_dealer,Toyota Motor Thailand,Toyota,17.4304,102.7914
 1.0.234.229,Ruamros Riverside_5G,hotel,รวมรส ริเวอร์ไซด์,,18.1868,102.1687
 1.0.236.66,SuratNa,home_improvement,Surat Home Center,,17.1152,102.9961
@@ -81,9 +78,8 @@ ip,ssid,category,name,brand,latitude,longitude
 1.0.248.193,Fishtakbai_5G,pharmacy,Takbai Pharmacy,,6.2592,102.0527
 1.0.252.155,RueanRamResort 2.4g,hotel,เรือนแรม รีสอร์ท,,6.4292,101.806
 1.0.252.191,NARA HOTEL F.1,hotel,Pairin Hotel,,6.0199,101.965
-1.0.254.253,@Phithan,car_dealer,บริษัท พิธานพาณิชย์,,6.867,101.2584
+1.0.254.253,@Phithan,car_services,บริษัท พิธานพาณิชย์ ปัตตานี จำกัด,,6.8668,101.2582
 1.0.255.209,Tinglee_2.4GHz,grocery_store,Big C,Big C,7.0381,100.4678
-1.1.130.87,anong,sports_center,หนองฝ่ายใหญ่ บ้านนามะเฟือง,,17.0692,102.4829
 1.1.135.94,Dontanfoto-2.4G,retail,ร้านพาวเวอร์โฟน สี่แยกดอนตาล,,16.3155,104.92
 1.1.138.3,.RU-WiFi,university,Ramkhamhaeng University,,16.0544,102.7909
 1.1.152.17,UNCLE JOES,bar,Uncle Joe’s khaolak,,8.6658,98.2461
@@ -95,7 +91,11 @@ ip,ssid,category,name,brand,latitude,longitude
 1.1.155.193,UNCLE JOES,bar,Uncle Joe’s khaolak,,8.6658,98.2461
 1.1.156.74,Glow Elixir,hotel,Elixir Koh Yao Yai,,7.9248,98.578
 1.1.156.80,Magical Villa-9,hotel,Magical Mountain View Resort,,8.9018,98.6251
-1.1.156.100,Banana_TOT-2.4,retail,บานาน่า ช้อปปิ้ง สาขาท่าแซะ,,10.6651,99.1844
 1.1.156.116,Room9_2.4G,hotel,Room 9,,10.8479,99.4318
-1.1.157.99,Amazon,coffee_shop,คาเฟ่ อเมซอน,คาเฟ่ อเมซอน,10.8608,99.3526
 1.1.158.26,@Sugarpalmgrand,hotel,Sugar Palm Grand Hillside Reception,,7.8148,98.301
+1.1.160.87,Rai Na Tree 2.4G,restaurant,Rai Na Tree,,19.6923,100.1549
+1.1.163.222,Huen Fai Mae-Jampee 02,coffee_shop,"""เฮือนฝ้าย แม่จำปี""",,18.3276,100.7161
+1.1.164.32,TOT_IP  Phone.,university,Payap Technology and Business College,,18.8523,99.0101
+1.1.164.102,LemonIntertradeNT,business_services,เลมอนอินเตอร์เทรด,,20.2533,100.4073
+1.1.164.138,Thetargetresort,hotel,เดอะทาร์เก็ต เรสซิเดนซ์ & รีสอร์ท,,19.8754,99.8246
+1.1.165.204,Thetargetresort,hotel,เดอะทาร์เก็ต เรสซิเดนซ์ & รีสอร์ท,,19.8754,99.8246

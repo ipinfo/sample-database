@@ -11,14 +11,12 @@ ip,bssid,ssid,category,name,brand,city,region,country_code,latitude,longitude
 1.0.141.157,"14:4d:67:cc:84:2c,c8:5a:9f:c2:57:d0,00:ad:24:5b:19:50",JH01 (2.4G),hotel,Jomtien hostel,,Pattaya,Chon Buri,TH,12.8836,100.8836
 1.0.141.169,"b4:fb:e4:35:7b:1a,48:81:d4:4e:c0:41,c0:25:2f:f7:41:4d,4a:81:d4:8e:bb:6e",Sunshine Vista,hotel,Sunshine Vista,,Pattaya,Chon Buri,TH,12.9452,100.8876
 1.0.141.201,"c8:5a:9f:a2:05:bb,88:5d:fb:bd:55:a8",Parichap_5G,market,ตลาดเจริญสุข,,Chanthaburi,Chanthaburi,TH,12.6195,102.0953
-1.0.141.221,"9c:63:5b:fd:12:44,9c:63:5b:cd:12:45",LAURITZEN/148_2.4GHz,travel_agency,Grand Heritage Pattaya,,Pattaya,Chon Buri,TH,12.9069,100.8601
 1.0.141.222,"18:31:bf:5b:b1:e4,4a:81:d4:8e:c0:41,14:4d:67:20:38:24",Sunshine Vista,hotel,Sunshine Vista,,Pattaya,Chon Buri,TH,12.9452,100.8876
 1.0.141.228,34:36:54:81:37:16,Lisaguesthouse 5G,hotel,Lisa's Guesthouse,,Pattaya,Chon Buri,TH,12.8873,100.8802
 1.0.145.132,"14:1f:ba:74:e3:a8,dc:f8:b9:fd:ef:a7",Tong Chang Resort,hotel,Tong Chang Resort,,Chumphon,Chumphon,TH,10.5338,99.1222
 1.0.146.61,"ac:15:a2:65:73:26,98:da:c4:6c:f7:b0",md_pizza2,restaurant,MD Pizza and Thai Food,,Chumphon,Chumphon,TH,10.5741,99.2757
 1.0.147.145,20:e8:82:c4:a1:96,Kohyaoyaiseabreeze_5G,hotel,Koh Yao Yai Sea Breeze House,,Ko Yao,Phang Nga,TH,8.0535,98.5982
 1.0.148.108,"88:dc:96:73:32:ad,00:ad:24:59:9b:d4",RanongGable,hotel,Ranong Gable Hotel,,Ranong,Ranong province,TH,9.9705,98.6434
-1.0.149.17,"6e:71:d2:69:63:88,6e:71:d2:69:63:8c",NT-thanawat-2.4G,retail,บริษัท ทีโอที จำกัด,,Thung Song,Nakhon Si Thammarat,TH,8.1645,99.6777
 1.0.149.229,fa:e2:c6:27:fe:e8,Beach Mountain Club,restaurant,Beach Mountain Club Cafe & Restaurant Kanom,,Don Sak,Surat Thani,TH,9.1221,99.8928
 1.0.150.108,"48:81:d4:14:9f:7c,70:85:c4:9e:3a:0b,72:85:c4:8e:3a:0b",SmileResort Bldg4,hotel,Smile Resort - Thungsong,,Thung Song,Nakhon Si Thammarat,TH,8.1588,99.6485
 1.0.151.1,"3c:a3:7e:23:97:1c,28:ff:3e:e1:5a:4a",Khanompoolvilla,hotel,Khanom Poolvilla,,Don Sak,Surat Thani,TH,9.2994,99.835
@@ -28,7 +26,7 @@ ip,bssid,ssid,category,name,brand,city,region,country_code,latitude,longitude
 1.0.159.83,"28:de:a8:eb:58:28,e4:be:ed:ab:8d:71",Tarn_restaurant,restaurant,Tarn Restaurant,,Ban Khao Lak,Phang Nga,TH,8.6859,98.2524
 1.0.160.3,"10:82:3d:47:8d:5c,a4:c6:4f:95:15:bc,28:41:c6:4c:30:cc,cc:32:e5:9d:30:db",Magical Villa-10,hotel,Magical Mountain View Resort,,Phanom,Surat Thani,TH,8.9018,98.6251
 1.0.160.84,"dc:f8:b9:fe:61:ae,14:4d:67:ae:59:44,28:ff:3e:c7:68:fe",Playna Resort office 2.4G,hotel,ปรายนา รีสอร์ท,,Khuan Don,Satun,TH,6.7529,100.0395
-1.0.160.153,"d4:b7:09:d8:d9:6a,14:4d:67:1d:19:ec,dc:f8:b9:f9:73:f5,28:ff:3e:d7:22:33",ME CHALONG2.4G,retail,Robinson Lifestyle Chalong,Robinson Department Store,Phuket,Phuket,TH,7.8476,98.35
+1.0.160.153,"d4:b7:09:d8:d9:6a,14:4d:67:1d:19:ec,dc:f8:b9:f9:73:f5,28:ff:3e:d7:22:33",ME CHALONG2.4G,retail,BnB Home Phuket Chalong,,Phuket,Phuket,TH,7.8487,98.3505
 1.0.160.216,64:20:e0:18:aa:68,Manao Tree,hotel,Manao Tree Villa,,Saladan,Krabi,TH,7.5666,99.0372
 1.0.161.62,dc:f8:b9:f9:44:31,TOT_SNI_F3,retail,NT Suratthani,,Surat Thani,Surat Thani,TH,9.1159,99.2796
 1.0.162.65,"48:81:d4:14:81:00,14:4d:67:9d:b3:60",Mookanda_Residence,hotel,Mookanda Residence Ao Nang,,Ban Ao Nang,Krabi,TH,8.0412,98.8385
@@ -64,7 +62,6 @@ ip,bssid,ssid,category,name,brand,city,region,country_code,latitude,longitude
 1.0.218.74,"78:45:58:4b:20:09,78:45:58:4b:20:0a,24:a4:3c:4f:4a:f1,1e:6a:1b:84:6b:06,78:45:58:4b:25:51,ac:8b:a9:be:81:c6",TBH,bank,TMBThanachart Bank,ธนาคารทหารไทย,Hat Yai,Songkhla,TH,7.0026,100.4702
 1.0.219.77,"84:3c:99:c1:0e:77,40:ed:00:32:ce:1e,88:5d:fb:ce:63:2c,14:4d:67:bf:6f:18,88:5d:fb:aa:76:a8,74:da:da:6b:44:6f,e4:ca:12:ea:c2:cb,00:e0:20:1c:58:17,10:be:f5:65:e7:b2,10:62:eb:a4:1a:68,14:4d:67:ab:8e:08,ee:6c:14:11:eb:a4,84:3c:99:51:52:3a,0c:01:4b:5d:82:db",12Phamacy_5G,restaurant,,,,,,,
 1.0.225.31,"f8:79:28:bb:90:98,24:7e:51:8d:1e:d2,14:4d:67:a9:2b:14",Ani_Ane_Cafe_2.4G,coffee_shop,Ani Ane Cafe,,Udon Thani,Udon Thani,TH,17.4002,102.795
-1.0.225.213,"f4:8c:eb:10:a8:18,c8:3a:35:0a:8a:08",Nongkhai_group2,restaurant,บ้านหนองคาย คนล่าฝัน,,Nong Khai,Nong Khai,TH,17.8745,102.7139
 1.0.231.157,00:18:ae:cd:fe:56,Toyota_sure int,car_dealer,Toyota Motor Thailand,Toyota,Udon Thani,Udon Thani,TH,17.4304,102.7914
 1.0.234.229,"c8:3a:35:4b:00:b8,34:36:54:f7:88:4e,74:da:38:f9:34:31",Ruamros Riverside_5G,hotel,รวมรส ริเวอร์ไซด์,,Sangkhom,Nong Khai,TH,18.1868,102.1687
 1.0.236.66,"e0:d3:62:ac:c4:d2,88:5d:fb:aa:f0:4c,dc:f8:b9:d8:f4:03",SuratNa,home_improvement,Surat Home Center,,Kumphawapi,Udon Thani,TH,17.1152,102.9961
@@ -81,9 +78,8 @@ ip,bssid,ssid,category,name,brand,city,region,country_code,latitude,longitude
 1.0.248.193,"e4:be:ed:ab:6b:e7,c4:eb:ff:98:9a:07,0c:b6:d2:3e:b0:b4",Fishtakbai_5G,pharmacy,Takbai Pharmacy,,Tak Bai,Narathiwat,TH,6.2592,102.0527
 1.0.252.155,"2c:30:33:31:f3:c0,ec:ad:e0:ae:8d:44",RueanRamResort 2.4g,hotel,เรือนแรม รีสอร์ท,,Narathiwat,Narathiwat,TH,6.4292,101.806
 1.0.252.191,"54:b8:0a:12:07:4e,50:0f:f5:a1:8f:e4",NARA HOTEL F.1,hotel,Pairin Hotel,,Su-ngai Kolok,Narathiwat,TH,6.0199,101.965
-1.0.254.253,ec:08:6b:5b:0b:48,@Phithan,car_dealer,บริษัท พิธานพาณิชย์,,Pattani,Pattani,TH,6.867,101.2584
+1.0.254.253,ec:08:6b:5b:0b:48,@Phithan,car_services,บริษัท พิธานพาณิชย์ ปัตตานี จำกัด,,Pattani,Pattani,TH,6.8668,101.2582
 1.0.255.209,"24:a6:5e:11:6d:fa,78:32:1b:c9:34:10,74:da:38:f4:3f:73",Tinglee_2.4GHz,grocery_store,Big C,Big C,Hat Yai,Songkhla,TH,7.0381,100.4678
-1.1.130.87,"88:5d:fb:aa:e1:d0,ec:f0:fe:c4:f2:a8",anong,sports_center,หนองฝ่ายใหญ่ บ้านนามะเฟือง,,Nong Bua Lamphu,Nong Bua Lamphu,TH,17.0692,102.4829
 1.1.135.94,e0:19:54:e8:7d:5f,Dontanfoto-2.4G,retail,ร้านพาวเวอร์โฟน สี่แยกดอนตาล,,Don Tan,Mukdahan,TH,16.3155,104.92
 1.1.138.3,"e8:1c:ba:84:a4:68,e8:1c:ba:84:a4:80",.RU-WiFi,university,Ramkhamhaeng University,,Ban Phai,Khon Kaen,TH,16.0544,102.7909
 1.1.152.17,"74:6f:88:b1:7b:27,78:44:76:bd:94:94",UNCLE JOES,bar,Uncle Joe’s khaolak,,Ban Khao Lak,Phang Nga,TH,8.6658,98.2461
@@ -95,7 +91,11 @@ ip,bssid,ssid,category,name,brand,city,region,country_code,latitude,longitude
 1.1.155.193,"74:da:38:3c:4c:72,74:6f:88:b1:7b:27",UNCLE JOES,bar,Uncle Joe’s khaolak,,Ban Khao Lak,Phang Nga,TH,8.6658,98.2461
 1.1.156.74,"88:dc:96:5c:b5:52,88:dc:96:5c:b5:53",Glow Elixir,hotel,Elixir Koh Yao Yai,,Ban Phru Nai,Phang Nga,TH,7.9248,98.578
 1.1.156.80,"b8:69:f4:86:47:57,98:da:c4:ba:05:5a",Magical Villa-9,hotel,Magical Mountain View Resort,,Phanom,Surat Thani,TH,8.9018,98.6251
-1.1.156.100,"50:2b:73:9b:24:71,b0:be:76:f2:32:28",Banana_TOT-2.4,retail,บานาน่า ช้อปปิ้ง สาขาท่าแซะ,,Tha Sae,Chumphon,TH,10.6651,99.1844
 1.1.156.116,"14:4d:67:25:c3:24,18:e8:29:70:48:d3",Room9_2.4G,hotel,Room 9,,Pathio,Chumphon,TH,10.8479,99.4318
-1.1.157.99,"28:ff:3e:da:80:02,74:da:88:7c:0f:7f",Amazon,coffee_shop,คาเฟ่ อเมซอน,คาเฟ่ อเมซอน,Pathio,Chumphon,TH,10.8608,99.3526
 1.1.158.26,"0a:2b:a6:5e:01:d9,0a:2b:a6:5e:01:da",@Sugarpalmgrand,hotel,Sugar Palm Grand Hillside Reception,,Phuket,Phuket,TH,7.8148,98.301
+1.1.160.87,28:ff:3e:de:ad:db,Rai Na Tree 2.4G,restaurant,Rai Na Tree,,Thoeng,Chiang Rai,TH,19.6923,100.1549
+1.1.163.222,30:b5:c2:52:b5:69,Huen Fai Mae-Jampee 02,coffee_shop,"""เฮือนฝ้าย แม่จำปี""",,Na Noi,Nan,TH,18.3276,100.7161
+1.1.164.32,"08:f6:06:86:25:dc,80:26:89:5a:7c:a2,14:4d:67:c1:74:ec,c8:5a:9f:c1:e3:2b",TOT_IP  Phone.,university,Payap Technology and Business College,,San Sai,Chiang Mai,TH,18.8523,99.0101
+1.1.164.102,"f4:e8:4f:70:45:7c,74:da:38:c0:d3:49",LemonIntertradeNT,business_services,เลมอนอินเตอร์เทรด,,Chiang Khong,Chiang Rai,TH,20.2533,100.4073
+1.1.164.138,"5c:3a:3d:97:2e:9d,a0:72:2c:47:97:b8",Thetargetresort,hotel,เดอะทาร์เก็ต เรสซิเดนซ์ & รีสอร์ท,,Chiang Rai,Chiang Rai,TH,19.8754,99.8246
+1.1.165.204,"28:ff:3e:dc:7d:63,5c:3a:3d:97:2e:9d",Thetargetresort,hotel,เดอะทาร์เก็ต เรสซิเดนซ์ & รีสอร์ท,,Chiang Rai,Chiang Rai,TH,19.8754,99.8246
