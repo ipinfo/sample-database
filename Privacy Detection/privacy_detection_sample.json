@@ -23,7 +23,6 @@
 {"start_ip": "1.0.82.39", "end_ip": "1.0.82.39", "join_key": "1.0.0.0", "hosting": "", "proxy": "", "tor": "", "vpn": "true", "relay": "", "service": ""}
 {"start_ip": "1.0.82.158", "end_ip": "1.0.82.158", "join_key": "1.0.0.0", "hosting": "", "proxy": "", "tor": "", "vpn": "true", "relay": "", "service": ""}
 {"start_ip": "1.0.83.49", "end_ip": "1.0.83.49", "join_key": "1.0.0.0", "hosting": "", "proxy": "", "tor": "", "vpn": "true", "relay": "", "service": ""}
-{"start_ip": "1.0.83.68", "end_ip": "1.0.83.68", "join_key": "1.0.0.0", "hosting": "", "proxy": "", "tor": "", "vpn": "true", "relay": "", "service": ""}
 {"start_ip": "1.0.83.175", "end_ip": "1.0.83.175", "join_key": "1.0.0.0", "hosting": "", "proxy": "", "tor": "", "vpn": "true", "relay": "", "service": ""}
 {"start_ip": "1.0.85.147", "end_ip": "1.0.85.147", "join_key": "1.0.0.0", "hosting": "", "proxy": "", "tor": "", "vpn": "true", "relay": "", "service": ""}
 {"start_ip": "1.0.86.101", "end_ip": "1.0.86.101", "join_key": "1.0.0.0", "hosting": "", "proxy": "", "tor": "", "vpn": "true", "relay": "", "service": ""}
@@ -32,9 +31,9 @@
 {"start_ip": "1.0.87.143", "end_ip": "1.0.87.143", "join_key": "1.0.0.0", "hosting": "", "proxy": "", "tor": "", "vpn": "true", "relay": "", "service": ""}
 {"start_ip": "1.0.87.168", "end_ip": "1.0.87.168", "join_key": "1.0.0.0", "hosting": "", "proxy": "", "tor": "", "vpn": "true", "relay": "", "service": ""}
 {"start_ip": "1.0.87.224", "end_ip": "1.0.87.224", "join_key": "1.0.0.0", "hosting": "", "proxy": "", "tor": "", "vpn": "true", "relay": "", "service": ""}
-{"start_ip": "1.0.88.50", "end_ip": "1.0.88.50", "join_key": "1.0.0.0", "hosting": "", "proxy": "", "tor": "", "vpn": "true", "relay": "", "service": ""}
 {"start_ip": "1.0.88.251", "end_ip": "1.0.88.251", "join_key": "1.0.0.0", "hosting": "", "proxy": "", "tor": "", "vpn": "true", "relay": "", "service": ""}
 {"start_ip": "1.0.89.3", "end_ip": "1.0.89.3", "join_key": "1.0.0.0", "hosting": "", "proxy": "", "tor": "", "vpn": "true", "relay": "", "service": ""}
+{"start_ip": "1.0.89.107", "end_ip": "1.0.89.107", "join_key": "1.0.0.0", "hosting": "", "proxy": "", "tor": "", "vpn": "true", "relay": "", "service": "VPNGate"}
 {"start_ip": "1.0.89.217", "end_ip": "1.0.89.217", "join_key": "1.0.0.0", "hosting": "", "proxy": "", "tor": "", "vpn": "true", "relay": "", "service": ""}
 {"start_ip": "1.0.90.25", "end_ip": "1.0.90.25", "join_key": "1.0.0.0", "hosting": "", "proxy": "", "tor": "", "vpn": "true", "relay": "", "service": ""}
 {"start_ip": "1.0.90.195", "end_ip": "1.0.90.195", "join_key": "1.0.0.0", "hosting": "", "proxy": "", "tor": "", "vpn": "true", "relay": "", "service": ""}
@@ -58,8 +57,6 @@
 {"start_ip": "1.0.98.6", "end_ip": "1.0.98.6", "join_key": "1.0.0.0", "hosting": "", "proxy": "", "tor": "", "vpn": "true", "relay": "", "service": ""}
 {"start_ip": "1.0.98.50", "end_ip": "1.0.98.50", "join_key": "1.0.0.0", "hosting": "", "proxy": "", "tor": "", "vpn": "true", "relay": "", "service": ""}
 {"start_ip": "1.0.100.88", "end_ip": "1.0.100.88", "join_key": "1.0.0.0", "hosting": "", "proxy": "", "tor": "", "vpn": "true", "relay": "", "service": ""}
-{"start_ip": "1.0.100.114", "end_ip": "1.0.100.114", "join_key": "1.0.0.0", "hosting": "", "proxy": "", "tor": "", "vpn": "true", "relay": "", "service": ""}
-{"start_ip": "1.0.100.117", "end_ip": "1.0.100.117", "join_key": "1.0.0.0", "hosting": "", "proxy": "", "tor": "", "vpn": "true", "relay": "", "service": ""}
 {"start_ip": "1.0.101.55", "end_ip": "1.0.101.55", "join_key": "1.0.0.0", "hosting": "", "proxy": "", "tor": "", "vpn": "true", "relay": "", "service": "ovpnpw"}
 {"start_ip": "1.0.101.87", "end_ip": "1.0.101.87", "join_key": "1.0.0.0", "hosting": "", "proxy": "", "tor": "", "vpn": "true", "relay": "", "service": ""}
 {"start_ip": "1.0.101.105", "end_ip": "1.0.101.105", "join_key": "1.0.0.0", "hosting": "", "proxy": "", "tor": "", "vpn": "true", "relay": "", "service": ""}
@@ -82,7 +79,6 @@
 {"start_ip": "1.0.110.67", "end_ip": "1.0.110.67", "join_key": "1.0.0.0", "hosting": "", "proxy": "", "tor": "", "vpn": "true", "relay": "", "service": ""}
 {"start_ip": "1.0.112.115", "end_ip": "1.0.112.115", "join_key": "1.0.0.0", "hosting": "", "proxy": "", "tor": "", "vpn": "true", "relay": "", "service": ""}
 {"start_ip": "1.0.112.213", "end_ip": "1.0.112.213", "join_key": "1.0.0.0", "hosting": "", "proxy": "", "tor": "", "vpn": "true", "relay": "", "service": ""}
-{"start_ip": "1.0.116.85", "end_ip": "1.0.116.85", "join_key": "1.0.0.0", "hosting": "", "proxy": "", "tor": "", "vpn": "true", "relay": "", "service": ""}
 {"start_ip": "1.0.116.108", "end_ip": "1.0.116.108", "join_key": "1.0.0.0", "hosting": "", "proxy": "", "tor": "", "vpn": "true", "relay": "", "service": ""}
 {"start_ip": "1.0.116.231", "end_ip": "1.0.116.231", "join_key": "1.0.0.0", "hosting": "", "proxy": "", "tor": "", "vpn": "true", "relay": "", "service": ""}
 {"start_ip": "1.0.118.127", "end_ip": "1.0.118.127", "join_key": "1.0.0.0", "hosting": "", "proxy": "", "tor": "", "vpn": "true", "relay": "", "service": "ovpnpw"}
@@ -98,3 +94,7 @@
 {"start_ip": "1.0.127.126", "end_ip": "1.0.127.126", "join_key": "1.0.0.0", "hosting": "", "proxy": "", "tor": "", "vpn": "true", "relay": "", "service": ""}
 {"start_ip": "1.0.128.176", "end_ip": "1.0.128.176", "join_key": "1.0.0.0", "hosting": "", "proxy": "", "tor": "", "vpn": "true", "relay": "", "service": ""}
 {"start_ip": "1.0.130.58", "end_ip": "1.0.130.58", "join_key": "1.0.0.0", "hosting": "", "proxy": "", "tor": "", "vpn": "true", "relay": "", "service": ""}
+{"start_ip": "1.0.130.201", "end_ip": "1.0.130.201", "join_key": "1.0.0.0", "hosting": "", "proxy": "", "tor": "", "vpn": "true", "relay": "", "service": ""}
+{"start_ip": "1.0.132.58", "end_ip": "1.0.132.58", "join_key": "1.0.0.0", "hosting": "", "proxy": "", "tor": "", "vpn": "true", "relay": "", "service": ""}
+{"start_ip": "1.0.132.71", "end_ip": "1.0.132.71", "join_key": "1.0.0.0", "hosting": "", "proxy": "", "tor": "", "vpn": "true", "relay": "", "service": ""}
+{"start_ip": "1.0.132.76", "end_ip": "1.0.132.76", "join_key": "1.0.0.0", "hosting": "", "proxy": "", "tor": "", "vpn": "true", "relay": "", "service": ""}

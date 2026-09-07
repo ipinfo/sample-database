@@ -31,7 +31,6 @@ network,hosting,proxy,tor,relay,vpn,service
 1.0.82.39,false,false,false,false,true,
 1.0.82.158,false,false,false,false,true,
 1.0.83.49,false,false,false,false,true,
-1.0.83.68,false,false,false,false,true,
 1.0.83.175,false,false,false,false,true,
 1.0.85.147,false,false,false,false,true,
 1.0.86.101,false,false,false,false,true,
@@ -40,9 +39,9 @@ network,hosting,proxy,tor,relay,vpn,service
 1.0.87.143,false,false,false,false,true,
 1.0.87.168,false,false,false,false,true,
 1.0.87.224,false,false,false,false,true,
-1.0.88.50,false,false,false,false,true,
 1.0.88.251,false,false,false,false,true,
 1.0.89.3,false,false,false,false,true,
+1.0.89.107,false,false,false,false,true,VPNGate
 1.0.89.217,false,false,false,false,true,
 1.0.90.25,false,false,false,false,true,
 1.0.90.195,false,false,false,false,true,
@@ -67,8 +66,6 @@ network,hosting,proxy,tor,relay,vpn,service
 1.0.98.6,false,false,false,false,true,
 1.0.98.50,false,false,false,false,true,
 1.0.100.88,false,false,false,false,true,
-1.0.100.114,false,false,false,false,true,
-1.0.100.117,false,false,false,false,true,
 1.0.101.55,false,false,false,false,true,ovpnpw
 1.0.101.87,false,false,false,false,true,
 1.0.101.105,false,false,false,false,true,
@@ -91,7 +88,6 @@ network,hosting,proxy,tor,relay,vpn,service
 1.0.110.67,false,false,false,false,true,
 1.0.112.115,false,false,false,false,true,
 1.0.112.213,false,false,false,false,true,
-1.0.116.85,false,false,false,false,true,
 1.0.116.108,false,false,false,false,true,
 1.0.116.231,false,false,false,false,true,
 1.0.118.127,false,false,false,false,true,ovpnpw
@@ -99,3 +95,7 @@ network,hosting,proxy,tor,relay,vpn,service
 1.0.119.102,false,false,false,false,true,
 1.0.121.47,false,false,false,false,true,
 1.0.121.116,false,false,false,false,true,
+1.0.122.169,false,false,false,false,true,
+1.0.123.62,false,false,false,false,true,
+1.0.123.187,false,false,false,false,true,
+1.0.125.94,false,false,false,false,true,
