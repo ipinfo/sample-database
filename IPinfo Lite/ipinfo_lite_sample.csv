@@ -11,7 +11,21 @@ network,country,country_code,continent,continent_code,asn,as_name,as_domain
 1.0.24.0/21,Japan,JP,Asia,AS,,,
 1.0.32.0/19,China,CN,Asia,AS,,,
 1.0.64.0/18,Japan,JP,Asia,AS,AS18144,"Enecom,Inc.",enecom.co.jp
-1.0.128.0/18,Thailand,TH,Asia,AS,AS23969,TOT Public Company Limited,ntplc.co.th
+1.0.128.0/19,Thailand,TH,Asia,AS,AS23969,TOT Public Company Limited,ntplc.co.th
+1.0.160.0/21,Thailand,TH,Asia,AS,AS23969,TOT Public Company Limited,ntplc.co.th
+1.0.168.0/25,Thailand,TH,Asia,AS,AS23969,TOT Public Company Limited,ntplc.co.th
+1.0.168.128/27,Thailand,TH,Asia,AS,AS23969,TOT Public Company Limited,ntplc.co.th
+1.0.168.160/29,Thailand,TH,Asia,AS,AS23969,TOT Public Company Limited,ntplc.co.th
+1.0.168.168/30,Thailand,TH,Asia,AS,AS23969,TOT Public Company Limited,ntplc.co.th
+1.0.168.172,India,IN,Asia,AS,AS23969,TOT Public Company Limited,ntplc.co.th
+1.0.168.173,Thailand,TH,Asia,AS,AS23969,TOT Public Company Limited,ntplc.co.th
+1.0.168.174/31,Thailand,TH,Asia,AS,AS23969,TOT Public Company Limited,ntplc.co.th
+1.0.168.176/28,Thailand,TH,Asia,AS,AS23969,TOT Public Company Limited,ntplc.co.th
+1.0.168.192/26,Thailand,TH,Asia,AS,AS23969,TOT Public Company Limited,ntplc.co.th
+1.0.169.0/24,Thailand,TH,Asia,AS,AS23969,TOT Public Company Limited,ntplc.co.th
+1.0.170.0/23,Thailand,TH,Asia,AS,AS23969,TOT Public Company Limited,ntplc.co.th
+1.0.172.0/22,Thailand,TH,Asia,AS,AS23969,TOT Public Company Limited,ntplc.co.th
+1.0.176.0/20,Thailand,TH,Asia,AS,AS23969,TOT Public Company Limited,ntplc.co.th
 1.0.192.0/22,Thailand,TH,Asia,AS,AS23969,TOT Public Company Limited,ntplc.co.th
 1.0.196.0/24,Thailand,TH,Asia,AS,AS23969,TOT Public Company Limited,ntplc.co.th
 1.0.197.0/24,Thailand,TH,Asia,AS,AS23974,Ministry of education,moe.go.th
@@ -85,17 +99,3 @@ network,country,country_code,continent,continent_code,asn,as_name,as_domain
 1.7.16.0/21,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
 1.7.24.0/24,India,IN,Asia,AS,AS133388,IMS Health India Pvt Ltd,imshealth.com
 1.7.25.0/24,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
-1.7.26.0/23,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
-1.7.28.0/22,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
-1.7.32.0/20,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
-1.7.48.0/21,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
-1.7.56.0/22,India,IN,Asia,AS,,,
-1.7.60.0/23,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
-1.7.62.0/23,India,IN,Asia,AS,,,
-1.7.64.0/20,India,IN,Asia,AS,,,
-1.7.80.0/24,India,IN,Asia,AS,,,
-1.7.81.0/24,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
-1.7.82.0/23,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
-1.7.84.0/22,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
-1.7.88.0/21,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
-1.7.96.0/21,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com

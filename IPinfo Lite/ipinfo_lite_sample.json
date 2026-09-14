@@ -10,7 +10,21 @@
 {"network": "1.0.24.0/21", "country": "Japan", "country_code": "JP", "continent": "Asia", "continent_code": "AS", "asn": null, "as_name": null, "as_domain": null}
 {"network": "1.0.32.0/19", "country": "China", "country_code": "CN", "continent": "Asia", "continent_code": "AS", "asn": null, "as_name": null, "as_domain": null}
 {"network": "1.0.64.0/18", "country": "Japan", "country_code": "JP", "continent": "Asia", "continent_code": "AS", "asn": "AS18144", "as_name": "Enecom,Inc.", "as_domain": "enecom.co.jp"}
-{"network": "1.0.128.0/18", "country": "Thailand", "country_code": "TH", "continent": "Asia", "continent_code": "AS", "asn": "AS23969", "as_name": "TOT Public Company Limited", "as_domain": "ntplc.co.th"}
+{"network": "1.0.128.0/19", "country": "Thailand", "country_code": "TH", "continent": "Asia", "continent_code": "AS", "asn": "AS23969", "as_name": "TOT Public Company Limited", "as_domain": "ntplc.co.th"}
+{"network": "1.0.160.0/21", "country": "Thailand", "country_code": "TH", "continent": "Asia", "continent_code": "AS", "asn": "AS23969", "as_name": "TOT Public Company Limited", "as_domain": "ntplc.co.th"}
+{"network": "1.0.168.0/25", "country": "Thailand", "country_code": "TH", "continent": "Asia", "continent_code": "AS", "asn": "AS23969", "as_name": "TOT Public Company Limited", "as_domain": "ntplc.co.th"}
+{"network": "1.0.168.128/27", "country": "Thailand", "country_code": "TH", "continent": "Asia", "continent_code": "AS", "asn": "AS23969", "as_name": "TOT Public Company Limited", "as_domain": "ntplc.co.th"}
+{"network": "1.0.168.160/29", "country": "Thailand", "country_code": "TH", "continent": "Asia", "continent_code": "AS", "asn": "AS23969", "as_name": "TOT Public Company Limited", "as_domain": "ntplc.co.th"}
+{"network": "1.0.168.168/30", "country": "Thailand", "country_code": "TH", "continent": "Asia", "continent_code": "AS", "asn": "AS23969", "as_name": "TOT Public Company Limited", "as_domain": "ntplc.co.th"}
+{"network": "1.0.168.172", "country": "India", "country_code": "IN", "continent": "Asia", "continent_code": "AS", "asn": "AS23969", "as_name": "TOT Public Company Limited", "as_domain": "ntplc.co.th"}
+{"network": "1.0.168.173", "country": "Thailand", "country_code": "TH", "continent": "Asia", "continent_code": "AS", "asn": "AS23969", "as_name": "TOT Public Company Limited", "as_domain": "ntplc.co.th"}
+{"network": "1.0.168.174/31", "country": "Thailand", "country_code": "TH", "continent": "Asia", "continent_code": "AS", "asn": "AS23969", "as_name": "TOT Public Company Limited", "as_domain": "ntplc.co.th"}
+{"network": "1.0.168.176/28", "country": "Thailand", "country_code": "TH", "continent": "Asia", "continent_code": "AS", "asn": "AS23969", "as_name": "TOT Public Company Limited", "as_domain": "ntplc.co.th"}
+{"network": "1.0.168.192/26", "country": "Thailand", "country_code": "TH", "continent": "Asia", "continent_code": "AS", "asn": "AS23969", "as_name": "TOT Public Company Limited", "as_domain": "ntplc.co.th"}
+{"network": "1.0.169.0/24", "country": "Thailand", "country_code": "TH", "continent": "Asia", "continent_code": "AS", "asn": "AS23969", "as_name": "TOT Public Company Limited", "as_domain": "ntplc.co.th"}
+{"network": "1.0.170.0/23", "country": "Thailand", "country_code": "TH", "continent": "Asia", "continent_code": "AS", "asn": "AS23969", "as_name": "TOT Public Company Limited", "as_domain": "ntplc.co.th"}
+{"network": "1.0.172.0/22", "country": "Thailand", "country_code": "TH", "continent": "Asia", "continent_code": "AS", "asn": "AS23969", "as_name": "TOT Public Company Limited", "as_domain": "ntplc.co.th"}
+{"network": "1.0.176.0/20", "country": "Thailand", "country_code": "TH", "continent": "Asia", "continent_code": "AS", "asn": "AS23969", "as_name": "TOT Public Company Limited", "as_domain": "ntplc.co.th"}
 {"network": "1.0.192.0/22", "country": "Thailand", "country_code": "TH", "continent": "Asia", "continent_code": "AS", "asn": "AS23969", "as_name": "TOT Public Company Limited", "as_domain": "ntplc.co.th"}
 {"network": "1.0.196.0/24", "country": "Thailand", "country_code": "TH", "continent": "Asia", "continent_code": "AS", "asn": "AS23969", "as_name": "TOT Public Company Limited", "as_domain": "ntplc.co.th"}
 {"network": "1.0.197.0/24", "country": "Thailand", "country_code": "TH", "continent": "Asia", "continent_code": "AS", "asn": "AS23974", "as_name": "Ministry of education", "as_domain": "moe.go.th"}
@@ -84,17 +98,3 @@
 {"network": "1.7.16.0/21", "country": "India", "country_code": "IN", "continent": "Asia", "continent_code": "AS", "asn": "AS9583", "as_name": "Sify Limited", "as_domain": "sifycorp.com"}
 {"network": "1.7.24.0/24", "country": "India", "country_code": "IN", "continent": "Asia", "continent_code": "AS", "asn": "AS133388", "as_name": "IMS Health India Pvt Ltd", "as_domain": "imshealth.com"}
 {"network": "1.7.25.0/24", "country": "India", "country_code": "IN", "continent": "Asia", "continent_code": "AS", "asn": "AS9583", "as_name": "Sify Limited", "as_domain": "sifycorp.com"}
-{"network": "1.7.26.0/23", "country": "India", "country_code": "IN", "continent": "Asia", "continent_code": "AS", "asn": "AS9583", "as_name": "Sify Limited", "as_domain": "sifycorp.com"}
-{"network": "1.7.28.0/22", "country": "India", "country_code": "IN", "continent": "Asia", "continent_code": "AS", "asn": "AS9583", "as_name": "Sify Limited", "as_domain": "sifycorp.com"}
-{"network": "1.7.32.0/20", "country": "India", "country_code": "IN", "continent": "Asia", "continent_code": "AS", "asn": "AS9583", "as_name": "Sify Limited", "as_domain": "sifycorp.com"}
-{"network": "1.7.48.0/21", "country": "India", "country_code": "IN", "continent": "Asia", "continent_code": "AS", "asn": "AS9583", "as_name": "Sify Limited", "as_domain": "sifycorp.com"}
-{"network": "1.7.56.0/22", "country": "India", "country_code": "IN", "continent": "Asia", "continent_code": "AS", "asn": null, "as_name": null, "as_domain": null}
-{"network": "1.7.60.0/23", "country": "India", "country_code": "IN", "continent": "Asia", "continent_code": "AS", "asn": "AS9583", "as_name": "Sify Limited", "as_domain": "sifycorp.com"}
-{"network": "1.7.62.0/23", "country": "India", "country_code": "IN", "continent": "Asia", "continent_code": "AS", "asn": null, "as_name": null, "as_domain": null}
-{"network": "1.7.64.0/20", "country": "India", "country_code": "IN", "continent": "Asia", "continent_code": "AS", "asn": null, "as_name": null, "as_domain": null}
-{"network": "1.7.80.0/24", "country": "India", "country_code": "IN", "continent": "Asia", "continent_code": "AS", "asn": null, "as_name": null, "as_domain": null}
-{"network": "1.7.81.0/24", "country": "India", "country_code": "IN", "continent": "Asia", "continent_code": "AS", "asn": "AS9583", "as_name": "Sify Limited", "as_domain": "sifycorp.com"}
-{"network": "1.7.82.0/23", "country": "India", "country_code": "IN", "continent": "Asia", "continent_code": "AS", "asn": "AS9583", "as_name": "Sify Limited", "as_domain": "sifycorp.com"}
-{"network": "1.7.84.0/22", "country": "India", "country_code": "IN", "continent": "Asia", "continent_code": "AS", "asn": "AS9583", "as_name": "Sify Limited", "as_domain": "sifycorp.com"}
-{"network": "1.7.88.0/21", "country": "India", "country_code": "IN", "continent": "Asia", "continent_code": "AS", "asn": "AS9583", "as_name": "Sify Limited", "as_domain": "sifycorp.com"}
-{"network": "1.7.96.0/21", "country": "India", "country_code": "IN", "continent": "Asia", "continent_code": "AS", "asn": "AS9583", "as_name": "Sify Limited", "as_domain": "sifycorp.com"}
