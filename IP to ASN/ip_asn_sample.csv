@@ -67,6 +67,7 @@ start_ip,end_ip,asn,name,domain
 1.18.116.0,1.18.116.255,AS131098,Korea Internet Security Agency,
 1.18.118.0,1.18.118.255,AS131099,Korea Internet Security Agency,
 1.18.119.0,1.18.119.255,AS131100,Korea Internet Security Agency,
+1.18.121.0,1.18.121.255,AS23600,Korea Internet Security Agency,
 1.18.123.0,1.18.123.255,AS23599,Korea Internet Security Agency,
 1.18.125.0,1.18.126.255,AS23599,Korea Internet Security Agency,
 1.18.127.0,1.18.130.255,AS23596,Korea Internet Security Agency,
@@ -98,4 +99,3 @@ start_ip,end_ip,asn,name,domain
 1.22.192.0,1.22.201.255,AS45528,Tikona Infinet Ltd.,tikona.in
 1.22.206.0,1.22.210.255,AS45528,Tikona Infinet Ltd.,tikona.in
 1.22.212.0,1.22.224.255,AS45528,Tikona Infinet Ltd.,tikona.in
-1.22.228.0,1.22.236.255,AS45528,Tikona Infinet Ltd.,tikona.in

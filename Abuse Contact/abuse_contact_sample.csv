@@ -2,40 +2,48 @@ start_ip,end_ip,join_key,name,email,address,country,phone
 1.0.0.0,1.0.0.255,1.0.0.0,ABUSE APNICRANDNETAU,helpdesk@apnic.net,"PO Box 3646, South Brisbane, QLD 4101, Australia",AU,+000000000
 1.0.1.0,1.0.3.255,1.0.0.0,ABUSE CHINANETCN,anti-spam@chinatelecom.cn,"No.31 ,jingrong street,beijing, 100032",CN,+000000000
 1.0.4.0,1.0.7.255,1.0.0.0,ABUSE WPLAU,apnic@staff.gtelecom.com.au,"1/18 Deblin drive, Narre warren, vic 3805, Melbourne victoria 3805",AU,+000000000
-1.0.8.0,1.0.15.255,1.0.0.0,ABUSE CHINANETCN,anti-spam@chinatelecom.cn,"No.31 ,jingrong street,beijing, 100032",CN,+000000000
+1.0.8.0,1.0.15.255,1.0.0.0,CHINANET Guangdong province network,abuse_gdicnoc@163.com,"No.31 ,jingrong street,beijing, 100032",CN,+000000000
 1.0.16.0,1.0.31.255,1.0.0.0,,hostmaster@nic.ad.jp,"Uchikanda OS Bldg 4F, 2-12-6 Uchi-Kanda, Chiyoda-ku, Tokyo 101-0047, japan",JP,+81-3-5297-2311
-1.0.32.0,1.0.63.255,1.0.0.0,ABUSE CHINANETCN,anti-spam@chinatelecom.cn,"No.31 ,jingrong street,beijing, 100032",CN,+000000000
-1.0.64.0,1.0.127.255,1.0.0.0,Japan Network Information Center,hostmaster@nic.ad.jp,"Uchikanda OS Bldg 4F, 2-12-6 Uchi-Kanda, Chiyoda-ku, Tokyo 101-0047, japan",JP,+81-3-5297-2311
+1.0.32.0,1.0.63.255,1.0.0.0,CHINANET Guangdong province network,abuse_gdicnoc@163.com,"No.31 ,jingrong street,beijing, 100032",CN,+000000000
+1.0.64.0,1.0.127.255,1.0.0.0,"Enecom,Inc.",abuse@ene.megaegg.ne.jp,"Uchikanda OS Bldg 4F, 2-12-6 Uchi-Kanda, Chiyoda-ku, Tokyo 101-0047, japan",JP,+81-3-5297-2311
 1.0.128.0,1.0.255.255,1.0.0.0,ABUSE TOTTH,abuse@totisp.net,"TOT Public Company Limited, 89/2 Moo 3 Chaengwattana Rd, Laksi,Bangkok 10210 THAILAND",TH,+000000000
 1.1.0.0,1.1.0.255,1.1.0.0,ABUSE CHINANETCN,anti-spam@chinatelecom.cn,"No.31 ,jingrong street,beijing, 100032",CN,+000000000
 1.1.1.0,1.1.1.255,1.1.0.0,ABUSE APNICRANDNETAU,helpdesk@apnic.net,"PO Box 3646, South Brisbane, QLD 4101, Australia",AU,+000000000
 1.1.2.0,1.1.7.255,1.1.0.0,ABUSE CHINANETCN,anti-spam@chinatelecom.cn,"No.31 ,jingrong street,beijing, 100032",CN,+000000000
 1.1.8.0,1.1.8.255,1.1.0.0,ABUSE YNCLCN,hch.xie@yamu.com,"No.180 Yizhou Road, Xuhui District, Shanghai, Shanghai Shanghai 200030",CN,+000000000
-1.1.9.0,1.1.63.255,1.1.0.0,ABUSE CHINANETCN,anti-spam@chinatelecom.cn,"No.31 ,jingrong street,beijing, 100032",CN,+000000000
+1.1.9.0,1.1.63.255,1.1.0.0,CHINANET Guangdong province network,abuse_gdicnoc@163.com,"No.31 ,jingrong street,beijing, 100032",CN,+000000000
 1.1.64.0,1.1.127.255,1.1.0.0,,hostmaster@nic.ad.jp,"Uchikanda OS Bldg 4F, 2-12-6 Uchi-Kanda, Chiyoda-ku, Tokyo 101-0047, japan",JP,+81-3-5297-2311
 1.1.128.0,1.1.255.255,1.1.0.0,ABUSE TOTTH,abuse@totisp.net,"TOT Public Company Limited, 89/2 Moo 3 Chaengwattana Rd, Laksi,Bangkok 10210 THAILAND",TH,+000000000
 1.2.0.0,1.2.1.255,1.2.0.0,ABUSE CHINANETCN,anti-spam@chinatelecom.cn,"No.31 ,jingrong street,beijing, 100032",CN,+000000000
 1.2.2.0,1.2.2.255,1.2.0.0,ABUSE CNNICCN,ipas@cnnic.cn,"Beijing, China",CN,+000000000
 1.2.3.0,1.2.3.255,1.2.0.0,ABUSE APNICRANDNETAU,helpdesk@apnic.net,"PO Box 3646, South Brisbane, QLD 4101, Australia",AU,+000000000
-1.2.4.0,1.2.4.255,1.2.0.0,Wang Wei,jiaopengfei@saiyutech.cn,"Building 4, No. 9 West Road of the Automobile Museum, Fengtai District, Beijing",CN,+86-10-59116698
+1.2.4.0,1.2.4.255,1.2.0.0,ABUSE CNNICCN,ipas@cnnic.cn,"Beijing, China",CN,+000000000
 1.2.5.0,1.2.7.255,1.2.0.0,ABUSE CHINANETCN,anti-spam@chinatelecom.cn,"No.31 ,jingrong street,beijing, 100032",CN,+000000000
 1.2.8.0,1.2.8.255,1.2.0.0,ABUSE CNNICCN,ipas@cnnic.cn,"Beijing, China",CN,+000000000
-1.2.9.0,1.2.127.255,1.2.0.0,ABUSE CHINANETCN,anti-spam@chinatelecom.cn,"No.31 ,jingrong street,beijing, 100032",CN,+000000000
+1.2.9.0,1.2.127.255,1.2.0.0,CHINANET Guangdong province network,abuse_gdicnoc@163.com,"No.31 ,jingrong street,beijing, 100032",CN,+000000000
 1.2.128.0,1.2.255.255,1.2.0.0,ABUSE TOTTH,abuse@totisp.net,"TOT Public Company Limited, 89/2 Moo 3 Chaengwattana Rd, Laksi,Bangkok 10210 THAILAND",TH,+000000000
-1.3.0.0,1.3.255.255,1.3.0.0,ABUSE CHINANETCN,anti-spam@chinatelecom.cn,"No.31 ,jingrong street,beijing, 100032",CN,+000000000
+1.3.0.0,1.3.255.255,1.3.0.0,CHINANET Guangdong province network,abuse_gdicnoc@163.com,"No.31 ,jingrong street,beijing, 100032",CN,+000000000
 1.4.0.0,1.4.0.255,1.4.0.0,ABUSE APNICRANDNETAU,helpdesk@apnic.net,"PO Box 3646, South Brisbane, QLD 4101, Australia",AU,+000000000
 1.4.1.0,1.4.3.255,1.4.0.0,ABUSE CHINANETCN,anti-spam@chinatelecom.cn,"No.31 ,jingrong street,beijing, 100032",CN,+000000000
 1.4.4.0,1.4.4.255,1.4.0.0,ABUSE CNNICCN,ipas@cnnic.cn,"Beijing, China",CN,+000000000
-1.4.5.0,1.4.127.255,1.4.0.0,ABUSE CHINANETCN,anti-spam@chinatelecom.cn,"No.31 ,jingrong street,beijing, 100032",CN,+000000000
+1.4.5.0,1.4.7.255,1.4.0.0,ABUSE CHINANETCN,anti-spam@chinatelecom.cn,"No.31 ,jingrong street,beijing, 100032",CN,+000000000
+1.4.8.0,1.4.31.255,1.4.0.0,CHINANET Guangdong province network,abuse_gdicnoc@163.com,"No.31 ,jingrong street,beijing, 100032",CN,+000000000
+1.4.32.0,1.4.127.255,1.4.0.0,CHINANET Guangdong province network,abuse_gdnoc@189.cn,"No.31 ,jingrong street,beijing, 100032",CN,+000000000
 1.4.128.0,1.4.255.255,1.4.0.0,ABUSE TOTTH,abuse@totisp.net,"TOT Public Company Limited, 89/2 Moo 3 Chaengwattana Rd, Laksi,Bangkok 10210 THAILAND",TH,+000000000
 1.5.0.0,1.5.255.255,1.5.0.0,,hostmaster@nic.ad.jp,"Uchikanda OS Bldg 4F, 2-12-6 Uchi-Kanda, Chiyoda-ku, Tokyo 101-0047, japan",JP,+81-3-5297-2311
 1.6.0.0,1.6.255.255,1.6.0.0,Hostmaster Satyam Infoway,abuse@sifycorp.com,"Sify Limited,, 5th, 6th & 7th floor Reliable Plaza,, Kalwa industrial Area, Thane Belapur Road,, Airoli, Navi Mumbai-400708",IN,+914422541125
 1.7.0.0,1.7.255.255,1.7.0.0,Hostmaster Satyam Infoway,abuse@sifycorp.com,"Sify Limited,, 5th, 6th & 7th floor Reliable Plaza,, Kalwa industrial Area, Thane Belapur Road,, Airoli, Navi Mumbai-400708",IN,+914422541125
 1.8.0.0,1.8.255.255,1.8.0.0,ABUSE CNNICCN,ipas@cnnic.cn,"Beijing, China",CN,+000000000
-1.9.0.0,1.9.255.255,1.9.0.0,ABUSE MYWEBE,abuse@tm.com.my,"Menara TM, Jalan Pantai Baharu,, 59100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",MY,+601110001000
-1.10.0.0,1.10.9.255,1.10.0.0,ABUSE CHINANETCN,anti-spam@chinatelecom.cn,"No.31 ,jingrong street,beijing, 100032",CN,+000000000
+1.9.0.0,1.9.151.255,1.9.0.0,ABUSE MYWEBE,abuse@tm.com.my,"Menara TM, Jalan Pantai Baharu,, 59100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",MY,+601110001000
+1.9.152.0,1.9.159.255,1.9.0.0,HSBB HOME CENTRAL,abuse@tm.com.my,"Menara TM, Jalan Pantai Baharu,, 59100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",MY,+601110001000
+1.9.160.0,1.9.171.255,1.9.0.0,ABUSE MYWEBE,abuse@tm.com.my,"Menara TM, Jalan Pantai Baharu,, 59100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",MY,+601110001000
+1.9.172.0,1.9.175.255,1.9.0.0,HSBB BUSINESS,abuse@tm.com.my,"Menara TM, Jalan Pantai Baharu,, 59100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",MY,+601110001000
+1.9.176.0,1.9.255.255,1.9.0.0,ABUSE MYWEBE,abuse@tm.com.my,"Menara TM, Jalan Pantai Baharu,, 59100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",MY,+601110001000
+1.10.0.0,1.10.7.255,1.10.0.0,CHINANET Guangdong province network,abuse_gdnoc@189.cn,"No.31 ,jingrong street,beijing, 100032",CN,+000000000
+1.10.8.0,1.10.9.255,1.10.0.0,ABUSE CHINANETCN,anti-spam@chinatelecom.cn,"No.31 ,jingrong street,beijing, 100032",CN,+000000000
 1.10.10.0,1.10.10.255,1.10.0.0,ABUSE GAURAVKANSAL,abuseteam@nkn.in,"National Knowledge Network, 3rd Floor, Block III, Delhi IT Park, Shastri Park, New Delhi - 110053",IN,+000000000
-1.10.11.0,1.10.127.255,1.10.0.0,ABUSE CHINANETCN,anti-spam@chinatelecom.cn,"No.31 ,jingrong street,beijing, 100032",CN,+000000000
+1.10.11.0,1.10.15.255,1.10.0.0,ABUSE CHINANETCN,anti-spam@chinatelecom.cn,"No.31 ,jingrong street,beijing, 100032",CN,+000000000
+1.10.16.0,1.10.127.255,1.10.0.0,CHINANET Guangdong province network,abuse_gdnoc@189.cn,"No.31 ,jingrong street,beijing, 100032",CN,+000000000
 1.10.128.0,1.10.255.255,1.10.0.0,ABUSE TOTTH,abuse@totisp.net,"TOT Public Company Limited, 89/2 Moo 3 Chaengwattana Rd, Laksi,Bangkok 10210 THAILAND",TH,+000000000
 1.11.0.0,1.11.7.255,1.11.0.0,IP Manager,garion@lghv.net,,KR,+82-70-7373-1948
 1.11.8.0,1.11.19.255,1.11.0.0,IP Manager,jerim@lghv.net,,KR,+82-70-7373-3726
@@ -77,25 +85,17 @@ start_ip,end_ip,join_key,name,email,address,country,phone
 1.29.0.0,1.29.255.255,1.29.0.0,ABUSE CUCN,hqs-ipabuse@chinaunicom.cn,"No.21,Financial Street, Beijing,100033, P.R.China",CN,+000000000
 1.30.0.0,1.30.255.255,1.30.0.0,ABUSE CUCN,hqs-ipabuse@chinaunicom.cn,"No.21,Financial Street, Beijing,100033, P.R.China",CN,+000000000
 1.31.0.0,1.31.255.255,1.31.0.0,ABUSE CUCN,hqs-ipabuse@chinaunicom.cn,"No.21,Financial Street, Beijing,100033, P.R.China",CN,+000000000
-1.32.0.0,1.32.127.255,1.32.0.0,ABUSE MYWEBE,abuse@tm.com.my,"Menara TM, Jalan Pantai Baharu,, 59100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",MY,+601110001000
-1.32.128.0,1.32.191.255,1.32.0.0,ABUSE CONNECTPLUSSG1,rajeshm@singtel.com,"31 Exeter Road,, Singapore 239732",SG,+000000000
-1.32.192.0,1.32.199.255,1.32.0.0,ABUSE RCPLSG,abuse@bgp.net,"399 Chai Wan Road, Chai Wan, Hong Kong",HK,+000000000
-1.32.200.0,1.32.201.255,1.32.0.0,ABUSE BGPNLHK,abuse@bgp.net,"399 Chai Wan Road, Chai Wan, Hong Kong",HK,+000000000
-1.32.202.0,1.32.202.127,1.32.0.0,ABUSE RCPLSG,abuse@bgp.net,"6F-5, No.64, Minzu Rd, Central Dist, Taichung City 400, Taiwan",TW,+000000000
-1.32.202.128,1.32.202.128,1.32.0.0,ABUSE RCPLSG,abuse@bgp.net,"399 Chai Wan Road, Chai Wan, Hong Kong",SG,+000000000
-1.32.202.129,1.32.202.255,1.32.0.0,ABUSE BGPNLHK,abuse@bgp.net,"399 Chai Wan Road, Chai Wan, Hong Kong",HK,+000000000
-1.32.203.0,1.32.203.127,1.32.0.0,ABUSE RCPLSG,abuse@bgp.net,"6F-5, No.64, Minzu Rd, Central Dist, Taichung City 400, Taiwan",TW,+000000000
-1.32.203.128,1.32.203.128,1.32.0.0,ABUSE RCPLSG,abuse@bgp.net,"399 Chai Wan Road, Chai Wan, Hong Kong",SG,+000000000
-1.32.203.129,1.32.203.255,1.32.0.0,ABUSE BGPNLHK,abuse@bgp.net,"399 Chai Wan Road, Chai Wan, Hong Kong",HK,+000000000
-1.32.204.0,1.32.204.127,1.32.0.0,ABUSE RCPLSG,abuse@bgp.net,"6F-5, No.64, Minzu Rd, Central Dist, Taichung City 400, Taiwan",TW,+000000000
-1.32.204.128,1.32.204.128,1.32.0.0,ABUSE RCPLSG,abuse@bgp.net,"399 Chai Wan Road, Chai Wan, Hong Kong",SG,+000000000
-1.32.204.129,1.32.215.255,1.32.0.0,ABUSE BGPNLHK,abuse@bgp.net,"399 Chai Wan Road, Chai Wan, Hong Kong",HK,+000000000
-1.32.216.0,1.32.216.255,1.32.0.0,ABUSE CTGHK,abuse@ctgserver.net,"202 ,2/F Kam Sang BLDG 257,Des Voeux RD Central Hong Kong",HK,+000000000
-1.32.217.0,1.32.217.255,1.32.0.0,ABUSE BGPNLHK,abuse@bgp.net,"399 Chai Wan Road, Chai Wan, Hong Kong",HK,+000000000
-1.32.218.0,1.32.218.255,1.32.0.0,ABUSE CTGHK,abuse@ctgserver.net,"202 ,2/F Kam Sang BLDG 257,Des Voeux RD Central Hong Kong",HK,+000000000
-1.32.219.0,1.32.220.255,1.32.0.0,ABUSE BGPNLHK,abuse@bgp.net,"399 Chai Wan Road, Chai Wan, Hong Kong",HK,+000000000
-1.32.221.0,1.32.221.255,1.32.0.0,ABUSE RCPLSG,abuse@bgp.net,"399 Chai Wan Road, Chai Wan, Hong Kong",HK,+000000000
-1.32.222.0,1.32.223.255,1.32.0.0,ABUSE BGPNLHK,abuse@bgp.net,"399 Chai Wan Road, Chai Wan, Hong Kong",HK,+000000000
-1.32.224.0,1.32.227.255,1.32.0.0,ABUSE RCPLSG,abuse@bgp.net,"399 Chai Wan Road, Chai Wan, Hong Kong",HK,+000000000
-1.32.228.0,1.32.229.255,1.32.0.0,ABUSE CTGHK,abuse@ctgserver.net,"202 ,2/F Kam Sang BLDG 257,Des Voeux RD Central Hong Kong",HK,+000000000
-1.32.230.0,1.32.245.255,1.32.0.0,ABUSE RCPLSG,abuse@bgp.net,"399 Chai Wan Road, Chai Wan, Hong Kong",HK,+000000000
+1.32.0.0,1.32.19.255,1.32.0.0,UNIFI-HOME,abuse@tm.com.my,"Menara TM, Jalan Pantai Baharu,, 59100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",MY,+601110001000
+1.32.20.0,1.32.31.255,1.32.0.0,"NORTHERN, CENTER, SOUTHERN",abuse@tm.com.my,"Menara TM, Jalan Pantai Baharu,, 59100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",MY,+601110001000
+1.32.32.0,1.32.34.255,1.32.0.0,UNIFI-BIZ,abuse@tm.com.my,"Menara TM, Jalan Pantai Baharu,, 59100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",MY,+601110001000
+1.32.35.0,1.32.35.255,1.32.0.0,KOMTAR - NORTHERN,abuse@tm.com.my,"Menara TM, Jalan Pantai Baharu,, 59100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",MY,+601110001000
+1.32.36.0,1.32.61.255,1.32.0.0,UNIFI-BIZ,abuse@tm.com.my,"Menara TM, Jalan Pantai Baharu,, 59100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",MY,+601110001000
+1.32.62.0,1.32.63.255,1.32.0.0,FIXED /29 IP,abuse@tm.com.my,"Menara TM, Jalan Pantai Baharu,, 59100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",MY,+601110001000
+1.32.64.0,1.32.79.255,1.32.0.0,UNIFI-HOME,abuse@tm.com.my,"Menara TM, Jalan Pantai Baharu,, 59100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",MY,+601110001000
+1.32.80.0,1.32.95.255,1.32.0.0,KLUANG-SOUTHERN,abuse@tm.com.my,"Menara TM, Jalan Pantai Baharu,, 59100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",MY,+601110001000
+1.32.96.0,1.32.97.255,1.32.0.0,UNIFI-BIZ,abuse@tm.com.my,"Menara TM, Jalan Pantai Baharu,, 59100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",MY,+601110001000
+1.32.98.0,1.32.103.255,1.32.0.0,UNIFI-HOME,abuse@tm.com.my,"Menara TM, Jalan Pantai Baharu,, 59100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",MY,+601110001000
+1.32.104.0,1.32.107.255,1.32.0.0,TASIK-NORTHERN,abuse@tm.com.my,"Menara TM, Jalan Pantai Baharu,, 59100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",MY,+601110001000
+1.32.108.0,1.32.108.255,1.32.0.0,ABUSE MYWEBE,abuse@tm.com.my,"Menara TM, Jalan Pantai Baharu,, 59100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",MY,+601110001000
+1.32.109.0,1.32.109.255,1.32.0.0,KOMTAR-NORTHERN,abuse@tm.com.my,"Menara TM, Jalan Pantai Baharu,, 59100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",MY,+601110001000
+1.32.110.0,1.32.110.255,1.32.0.0,TASIK-NORTHERN,abuse@tm.com.my,"Menara TM, Jalan Pantai Baharu,, 59100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",MY,+601110001000

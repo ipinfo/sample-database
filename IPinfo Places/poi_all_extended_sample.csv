@@ -1,18 +1,18 @@
 ip,bssid,ssid,category,name,brand,city,region,country_code,latitude,longitude
-1.0.64.162,"60:84:bd:85:f1:40,60:84:bd:85:f1:44,00:22:cf:ee:f9:7a,6c:f3:7f:e2:3f:21,00:ea:bd:7f:44:ee",0001docomo,in_transit,,,,,,,
+1.0.64.162,60:84:bd:85:f1:40,0001docomo,in_transit,,,,,,,
 1.0.73.32,1c:b1:7f:6d:3e:0a,aterm-f8055f-g,community_center,山本集会所,,Hiroshima,Hiroshima,JP,34.4387,132.4503
 1.0.75.3,"60:63:4c:31:db:33,e0:9d:b8:3f:a2:de",RANDOR-WiFi704_5g,hotel,Randor Hotel Hiroshima Prestage,,Hiroshima,Hiroshima,JP,34.3937,132.4766
 1.0.75.12,60:63:4c:31:dd:9f,RANDOR-WiFi203,hotel,Randor Hotel Hiroshima Prestage,,Hiroshima,Hiroshima,JP,34.3937,132.4766
 1.0.79.148,04:ab:18:0e:76:1a,BroadCore_AP5,restaurant,DINING&BAR CALM,,Hiroshima,Hiroshima,JP,34.3664,132.4648
-1.0.89.110,"74:03:bd:28:35:47,74:03:bd:28:35:40,84:24:8d:22:d6:f4",0001docomo,in_transit,,,,,,,
+1.0.89.110,74:03:bd:28:35:47,0001docomo,in_transit,,,,,,,
 1.0.91.206,f8:b7:97:5a:88:82,aterm-e0b4ab-g,personal_care,理容おのはら,,Matsue,Shimane,JP,35.4566,133.0806
-1.0.92.72,"f4:8c:eb:d0:49:d8,34:76:c5:90:77:6e,6c:f3:7f:88:e6:f1,74:03:bd:41:38:40,d8:0f:99:f9:1d:3a,d8:c7:c8:6a:87:56",0001docomo,in_transit,,,,,,,
-1.0.94.126,"9a:f1:99:96:fd:e2,98:f1:99:b1:47:46,18:4b:0d:d6:0e:98,18:4b:0d:d6:0e:9c,18:4b:0d:d6:66:b8,18:4b:0d:d6:66:bc,98:f1:99:b1:47:47,60:f4:94:eb:9e:09,6c:f3:7f:89:e4:c0",au_Wi-Fi2,in_transit,,,,,,,
+1.0.92.72,f4:8c:eb:d0:49:d8,0001docomo,in_transit,,,,,,,
+1.0.94.126,"9a:f1:99:96:fd:e2,98:f1:99:b1:47:46",au_Wi-Fi2,in_transit,,,,,,,
 1.0.96.161,e0:9d:b8:7b:b4:12,auhome_aaGXvk,personal_care,ネイル・ティアラ 本店,,Matsue,Shimane,JP,35.4588,133.063
-1.0.98.114,"6c:e4:da:71:53:02,b4:c7:99:a9:30:64",0001docomo,in_transit,,,,,,,
-1.0.104.207,"10:6f:3f:0c:a0:f3,6c:f3:7f:c3:92:91,d8:c7:c8:6f:21:70",0001docomo,in_transit,,,,,,,
-1.0.114.52,"00:90:c7:05:5a:d7,00:90:c7:05:5a:d8,00:90:c7:05:5a:d5,00:90:c7:05:5a:e0,00:90:c7:05:5a:ea",SAIKA-FREE3,hotel,Yu no Yado Saika,,Matsuzaki,Tottori,JP,35.4771,133.8846
-1.0.117.6,"98:f1:99:dc:9c:da,9a:f1:99:88:a1:ce,dc:fb:02:1b:49:a1,fc:0a:81:83:4e:31",Famima_Wi-Fi,in_transit,,,,,,,
+1.0.98.114,6c:e4:da:71:53:02,0001docomo,in_transit,,,,,,,
+1.0.104.207,10:6f:3f:0c:a0:f3,0001docomo,in_transit,,,,,,,
+1.0.114.52,"00:90:c7:05:5a:e0,00:90:c7:05:5a:ea",SAIKA-FREE3,hotel,Yu no Yado Saika,,Matsuzaki,Tottori,JP,35.4771,133.8846
+1.0.117.6,98:f1:99:dc:9c:da,Famima_Wi-Fi,in_transit,,,,,,,
 1.0.136.23,"40:ee:15:c4:8d:5c,74:da:38:ca:bd:85,c8:5a:9f:a2:85:dd",BKR002_2.4G,hotel,Ban Krut Resort,,Thap Sakae,Prachuap Khiri Khan,TH,11.3582,99.5719
 1.0.141.36,"48:81:d4:4e:b9:10,b4:fb:e4:35:7b:1a,48:81:d4:4e:bc:5d,4a:81:d4:8e:94:36",Sunshine Vista,hotel,Sunshine Vista,,Pattaya,Chon Buri,TH,12.9452,100.8876
 1.0.141.51,"14:4d:67:c0:84:78,4a:81:d4:8e:be:2a,48:81:d4:4e:be:2a",Sunshine Vista,hotel,Sunshine Vista,,Pattaya,Chon Buri,TH,12.9452,100.8876
@@ -91,11 +91,11 @@ ip,bssid,ssid,category,name,brand,city,region,country_code,latitude,longitude
 1.0.252.124,"78:32:1b:c8:22:b7,00:ad:24:5b:00:bf,28:3b:82:7d:2b:16,00:ad:24:5b:ca:88,04:bf:6d:7c:b5:69",DHLecom-5G,personal_care,Diasy Diasy,,Hat Yai,Songkhla,TH,7.0161,100.4329
 1.0.254.253,ec:08:6b:5b:0b:48,@Phithan,car_dealer,พิธานฮอนด้า ปัตตานี (สำนักงานใหญ่),,Pattani,Pattani,TH,6.867,101.2584
 1.0.255.209,"24:a6:5e:11:6d:fa,78:32:1b:c9:34:10,74:da:38:f4:3f:73",Tinglee_2.4GHz,grocery_store,Big C,Big C,Hat Yai,Songkhla,TH,7.0381,100.4678
-1.1.125.65,"c2:25:a2:af:d9:c2,10:4b:46:f2:01:74,34:3d:c4:ef:07:af,dc:fb:02:88:93:d1,60:84:bd:1b:d1:99,c4:86:e9:46:aa:cb,74:03:bd:2e:d3:91,8c:3b:ad:d3:4c:8f,94:0e:6b:9c:ba:4a,fe:b7:97:35:89:12,00:00:00:00:00:00,30:89:d3:1e:df:47",MEITETSU_FREE_Wi-Fi_2G,in_transit,,,,,,,
-1.1.125.66,"c2:25:a2:af:d9:c2,30:74:96:f5:83:71,00:00:00:00:00:00,24:1f:a0:2f:7d:8f,98:f1:99:16:43:df,c0:5b:12:1d:3c:8b,50:d4:f7:f0:c3:77,6c:b7:49:8b:60:6e,94:0e:6b:9c:ba:4a,bc:5c:4c:c8:15:cf,d8:47:32:58:88:de,00:25:36:5f:78:cf,28:cf:e9:83:4c:18,c8:8e:d1:59:31:87,c8:8e:d1:59:34:63,00:03:7f:50:00:01",0001softbank,in_transit,,,,,,,
-1.1.125.68,"00:1c:7b:f5:d2:40,00:23:b1:8d:4c:e5,d8:c7:c8:12:0f:c8,24:1f:a0:2f:7d:8f,00:00:00:00:00:00,6c:59:76:41:69:80,58:3f:54:b9:10:97,14:77:40:3b:0b:82",au_Wi-Fi2,in_transit,,,,,,,
-1.1.125.70,"28:84:fa:1a:e0:3e,00:00:00:00:00:00,02:67:5b:2b:ec:43,02:c9:d0:f2:ff:e8,30:74:96:f5:83:71,34:3d:c4:ef:07:af,28:cf:e9:83:4c:19,28:cf:e9:83:4c:18,34:76:c5:7f:1e:fa,02:09:b4:69:09:f6,34:3d:c4:64:96:79,6c:f3:7f:5a:b1:71,c0:5b:12:1d:3c:8b,e4:46:da:6a:60:ce,c0:5b:12:21:e5:0f,30:89:d3:1e:df:47",Wi2premium,in_transit,,,,,,,
-1.1.125.72,"28:84:fa:1a:e0:3e,00:00:00:00:00:00,00:80:4c:a9:b7:94,00:90:fe:bf:e3:62,34:3d:c4:14:de:07,34:76:c5:30:31:18,50:d4:f7:3e:d9:a8,9c:2a:70:99:c2:41,c0:5b:12:1d:3c:8b,34:3d:c4:ef:07:ae,3c:fa:43:e2:a3:2d,58:27:8c:50:12:d2,6c:aa:b3:a9:11:18,f8:b7:97:50:ce:3b,b8:c3:85:4d:3d:55",0001softbank,in_transit,,,,,,,
-1.1.125.74,"28:84:fa:1a:e0:3e,00:00:00:00:00:00,00:23:b1:91:90:7c,18:c2:bf:52:24:6c,34:76:c5:7f:1e:fa,50:c4:dd:da:37:a9,58:27:8c:4c:c8:eb,58:93:96:31:3f:dc,84:af:ec:c9:2b:80,9a:18:98:6f:6d:26,02:c9:d0:f2:ff:e8,7c:ba:cc:01:1a:7e,88:11:96:e4:c5:e9,00:90:fe:d7:80:3c,30:89:d3:1e:df:47",Famima_Wi-Fi,in_transit,,,,,,,
-1.1.125.75,"30:74:96:f5:83:71,10:66:82:47:a7:2e,50:d4:f7:f0:c3:77,dc:72:9b:68:90:b5,54:ec:2f:c0:0b:48,b4:c7:99:16:05:f1,c8:8e:d1:59:31:87,c8:8e:d1:59:34:63,f8:b7:97:50:ce:3b,00:00:00:00:00:00",Famima_Wi-Fi,in_transit,,,,,,,
-1.1.125.77,"c2:25:a2:af:d9:c2,00:00:00:00:00:00,fe:b7:97:35:89:12,4c:e6:76:c8:c4:86,6c:f3:7f:89:20:30,a4:12:42:86:d0:34,fc:0a:81:1d:80:a4,24:1f:a0:2f:7d:8f,60:84:bd:eb:2e:ec,a4:93:3f:94:72:e0,c0:25:a2:e7:3f:f4,30:89:d3:21:01:b6,30:89:d3:14:69:e5",0001docomo,in_transit,,,,,,,
+1.1.125.65,"c2:25:a2:af:d9:c2,00:00:00:00:00:00,30:89:d3:1e:df:47",MEITETSU_FREE_Wi-Fi_2G,in_transit,,,,,,,
+1.1.125.66,"c2:25:a2:af:d9:c2,00:00:00:00:00:00,00:03:7f:50:00:01",0001softbank,in_transit,,,,,,,
+1.1.125.68,"00:00:00:00:00:00,6c:59:76:41:69:80,58:3f:54:b9:10:97,14:77:40:3b:0b:82",au_Wi-Fi2,in_transit,,,,,,,
+1.1.125.70,"00:00:00:00:00:00,c0:5b:12:21:e5:0f,30:89:d3:1e:df:47",Wi2premium,in_transit,,,,,,,
+1.1.125.72,"00:00:00:00:00:00,b8:c3:85:4d:3d:55",0001softbank,in_transit,,,,,,,
+1.1.125.74,"00:00:00:00:00:00,00:90:fe:d7:80:3c,30:89:d3:1e:df:47",Famima_Wi-Fi,in_transit,,,,,,,
+1.1.125.75,"30:74:96:f5:83:71,00:00:00:00:00:00",Famima_Wi-Fi,in_transit,,,,,,,
+1.1.125.77,"c2:25:a2:af:d9:c2,00:00:00:00:00:00,c0:25:a2:e7:3f:f4,30:89:d3:21:01:b6,30:89:d3:14:69:e5",0001docomo,in_transit,,,,,,,
