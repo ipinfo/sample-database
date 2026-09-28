@@ -38,9 +38,9 @@
 {"start_ip": "1.9.244.50", "end_ip": "1.9.244.50", "country": "HK", "country_name": "Hong Kong", "continent": "AS", "continent_name": "Asia"}
 {"start_ip": "1.9.244.51", "end_ip": "1.9.244.89", "country": "MY", "country_name": "Malaysia", "continent": "AS", "continent_name": "Asia"}
 {"start_ip": "1.9.244.90", "end_ip": "1.9.244.90", "country": "RE", "country_name": "Reunion", "continent": "AF", "continent_name": "Africa"}
-{"start_ip": "1.9.244.91", "end_ip": "1.9.244.144", "country": "MY", "country_name": "Malaysia", "continent": "AS", "continent_name": "Asia"}
-{"start_ip": "1.9.244.145", "end_ip": "1.9.244.146", "country": "LA", "country_name": "Laos", "continent": "AS", "continent_name": "Asia"}
-{"start_ip": "1.9.244.147", "end_ip": "1.9.255.255", "country": "MY", "country_name": "Malaysia", "continent": "AS", "continent_name": "Asia"}
+{"start_ip": "1.9.244.91", "end_ip": "1.9.253.37", "country": "MY", "country_name": "Malaysia", "continent": "AS", "continent_name": "Asia"}
+{"start_ip": "1.9.253.38", "end_ip": "1.9.253.38", "country": "PK", "country_name": "Pakistan", "continent": "AS", "continent_name": "Asia"}
+{"start_ip": "1.9.253.39", "end_ip": "1.9.255.255", "country": "MY", "country_name": "Malaysia", "continent": "AS", "continent_name": "Asia"}
 {"start_ip": "1.10.0.0", "end_ip": "1.10.9.255", "country": "CN", "country_name": "China", "continent": "AS", "continent_name": "Asia"}
 {"start_ip": "1.10.10.0", "end_ip": "1.10.10.255", "country": "IN", "country_name": "India", "continent": "AS", "continent_name": "Asia"}
 {"start_ip": "1.10.11.0", "end_ip": "1.10.127.255", "country": "CN", "country_name": "China", "continent": "AS", "continent_name": "Asia"}
@@ -62,27 +62,19 @@
 {"start_ip": "1.32.205.0", "end_ip": "1.32.205.255", "country": "HK", "country_name": "Hong Kong", "continent": "AS", "continent_name": "Asia"}
 {"start_ip": "1.32.206.0", "end_ip": "1.32.207.255", "country": "SG", "country_name": "Singapore", "continent": "AS", "continent_name": "Asia"}
 {"start_ip": "1.32.208.0", "end_ip": "1.32.215.255", "country": "TW", "country_name": "Taiwan", "continent": "AS", "continent_name": "Asia"}
-{"start_ip": "1.32.216.0", "end_ip": "1.32.217.3", "country": "HK", "country_name": "Hong Kong", "continent": "AS", "continent_name": "Asia"}
-{"start_ip": "1.32.217.4", "end_ip": "1.32.217.255", "country": "KR", "country_name": "South Korea", "continent": "AS", "continent_name": "Asia"}
-{"start_ip": "1.32.218.0", "end_ip": "1.32.219.255", "country": "HK", "country_name": "Hong Kong", "continent": "AS", "continent_name": "Asia"}
+{"start_ip": "1.32.216.0", "end_ip": "1.32.219.255", "country": "HK", "country_name": "Hong Kong", "continent": "AS", "continent_name": "Asia"}
 {"start_ip": "1.32.220.0", "end_ip": "1.32.220.255", "country": "TW", "country_name": "Taiwan", "continent": "AS", "continent_name": "Asia"}
 {"start_ip": "1.32.221.0", "end_ip": "1.32.222.255", "country": "HK", "country_name": "Hong Kong", "continent": "AS", "continent_name": "Asia"}
-{"start_ip": "1.32.223.0", "end_ip": "1.32.224.255", "country": "JP", "country_name": "Japan", "continent": "AS", "continent_name": "Asia"}
-{"start_ip": "1.32.225.0", "end_ip": "1.32.225.255", "country": "HK", "country_name": "Hong Kong", "continent": "AS", "continent_name": "Asia"}
-{"start_ip": "1.32.226.0", "end_ip": "1.32.227.255", "country": "JP", "country_name": "Japan", "continent": "AS", "continent_name": "Asia"}
-{"start_ip": "1.32.228.0", "end_ip": "1.32.229.255", "country": "HK", "country_name": "Hong Kong", "continent": "AS", "continent_name": "Asia"}
-{"start_ip": "1.32.230.0", "end_ip": "1.32.231.255", "country": "JP", "country_name": "Japan", "continent": "AS", "continent_name": "Asia"}
+{"start_ip": "1.32.223.0", "end_ip": "1.32.223.255", "country": "JP", "country_name": "Japan", "continent": "AS", "continent_name": "Asia"}
+{"start_ip": "1.32.224.0", "end_ip": "1.32.225.255", "country": "HK", "country_name": "Hong Kong", "continent": "AS", "continent_name": "Asia"}
+{"start_ip": "1.32.226.0", "end_ip": "1.32.226.255", "country": "JP", "country_name": "Japan", "continent": "AS", "continent_name": "Asia"}
+{"start_ip": "1.32.227.0", "end_ip": "1.32.231.255", "country": "HK", "country_name": "Hong Kong", "continent": "AS", "continent_name": "Asia"}
 {"start_ip": "1.32.232.0", "end_ip": "1.32.232.255", "country": "TW", "country_name": "Taiwan", "continent": "AS", "continent_name": "Asia"}
 {"start_ip": "1.32.233.0", "end_ip": "1.32.233.255", "country": "US", "country_name": "United States", "continent": "NA", "continent_name": "North America"}
-{"start_ip": "1.32.234.0", "end_ip": "1.32.234.15", "country": "HK", "country_name": "Hong Kong", "continent": "AS", "continent_name": "Asia"}
-{"start_ip": "1.32.234.16", "end_ip": "1.32.234.19", "country": "TW", "country_name": "Taiwan", "continent": "AS", "continent_name": "Asia"}
-{"start_ip": "1.32.234.20", "end_ip": "1.32.234.23", "country": "HK", "country_name": "Hong Kong", "continent": "AS", "continent_name": "Asia"}
-{"start_ip": "1.32.234.24", "end_ip": "1.32.234.63", "country": "TW", "country_name": "Taiwan", "continent": "AS", "continent_name": "Asia"}
-{"start_ip": "1.32.234.64", "end_ip": "1.32.234.255", "country": "HK", "country_name": "Hong Kong", "continent": "AS", "continent_name": "Asia"}
-{"start_ip": "1.32.235.0", "end_ip": "1.32.235.31", "country": "US", "country_name": "United States", "continent": "NA", "continent_name": "North America"}
+{"start_ip": "1.32.234.0", "end_ip": "1.32.234.63", "country": "TW", "country_name": "Taiwan", "continent": "AS", "continent_name": "Asia"}
+{"start_ip": "1.32.234.64", "end_ip": "1.32.235.31", "country": "HK", "country_name": "Hong Kong", "continent": "AS", "continent_name": "Asia"}
 {"start_ip": "1.32.235.32", "end_ip": "1.32.235.47", "country": "TW", "country_name": "Taiwan", "continent": "AS", "continent_name": "Asia"}
-{"start_ip": "1.32.235.48", "end_ip": "1.32.235.255", "country": "US", "country_name": "United States", "continent": "NA", "continent_name": "North America"}
-{"start_ip": "1.32.236.0", "end_ip": "1.32.236.255", "country": "HK", "country_name": "Hong Kong", "continent": "AS", "continent_name": "Asia"}
+{"start_ip": "1.32.235.48", "end_ip": "1.32.236.255", "country": "HK", "country_name": "Hong Kong", "continent": "AS", "continent_name": "Asia"}
 {"start_ip": "1.32.237.0", "end_ip": "1.32.237.255", "country": "JP", "country_name": "Japan", "continent": "AS", "continent_name": "Asia"}
 {"start_ip": "1.32.238.0", "end_ip": "1.32.239.255", "country": "US", "country_name": "United States", "continent": "NA", "continent_name": "North America"}
 {"start_ip": "1.32.240.0", "end_ip": "1.32.240.255", "country": "SG", "country_name": "Singapore", "continent": "AS", "continent_name": "Asia"}
@@ -98,3 +90,11 @@
 {"start_ip": "1.36.0.0", "end_ip": "1.36.255.255", "country": "HK", "country_name": "Hong Kong", "continent": "AS", "continent_name": "Asia"}
 {"start_ip": "1.37.0.0", "end_ip": "1.37.27.31", "country": "PH", "country_name": "Philippines", "continent": "AS", "continent_name": "Asia"}
 {"start_ip": "1.37.27.32", "end_ip": "1.37.27.33", "country": "HK", "country_name": "Hong Kong", "continent": "AS", "continent_name": "Asia"}
+{"start_ip": "1.37.27.34", "end_ip": "1.37.27.39", "country": "PH", "country_name": "Philippines", "continent": "AS", "continent_name": "Asia"}
+{"start_ip": "1.37.27.40", "end_ip": "1.37.27.41", "country": "SG", "country_name": "Singapore", "continent": "AS", "continent_name": "Asia"}
+{"start_ip": "1.37.27.42", "end_ip": "1.37.27.43", "country": "PH", "country_name": "Philippines", "continent": "AS", "continent_name": "Asia"}
+{"start_ip": "1.37.27.44", "end_ip": "1.37.27.47", "country": "JP", "country_name": "Japan", "continent": "AS", "continent_name": "Asia"}
+{"start_ip": "1.37.27.48", "end_ip": "1.37.29.63", "country": "PH", "country_name": "Philippines", "continent": "AS", "continent_name": "Asia"}
+{"start_ip": "1.37.29.64", "end_ip": "1.37.29.67", "country": "HK", "country_name": "Hong Kong", "continent": "AS", "continent_name": "Asia"}
+{"start_ip": "1.37.29.68", "end_ip": "1.37.34.179", "country": "PH", "country_name": "Philippines", "continent": "AS", "continent_name": "Asia"}
+{"start_ip": "1.37.34.180", "end_ip": "1.37.34.185", "country": "HK", "country_name": "Hong Kong", "continent": "AS", "continent_name": "Asia"}
