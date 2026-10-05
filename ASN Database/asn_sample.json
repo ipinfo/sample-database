@@ -70,7 +70,6 @@
 {"start_ip": "1.18.116.0", "end_ip": "1.18.116.255", "join_key": "1.18.0.0", "asn": "AS131098", "domain": "", "name": "Korea Internet Security Agency", "type": "government", "country": "KR"}
 {"start_ip": "1.18.118.0", "end_ip": "1.18.118.255", "join_key": "1.18.0.0", "asn": "AS131099", "domain": "", "name": "Korea Internet Security Agency", "type": "government", "country": "KR"}
 {"start_ip": "1.18.119.0", "end_ip": "1.18.119.255", "join_key": "1.18.0.0", "asn": "AS131100", "domain": "", "name": "Korea Internet Security Agency", "type": "government", "country": "KR"}
-{"start_ip": "1.18.121.0", "end_ip": "1.18.121.255", "join_key": "1.18.0.0", "asn": "AS23600", "domain": "", "name": "Korea Internet Security Agency", "type": "government", "country": "KR"}
 {"start_ip": "1.18.123.0", "end_ip": "1.18.123.255", "join_key": "1.18.0.0", "asn": "AS23599", "domain": "", "name": "Korea Internet Security Agency", "type": "government", "country": "KR"}
 {"start_ip": "1.18.125.0", "end_ip": "1.18.126.255", "join_key": "1.18.0.0", "asn": "AS23599", "domain": "", "name": "Korea Internet Security Agency", "type": "government", "country": "KR"}
 {"start_ip": "1.18.127.0", "end_ip": "1.18.130.255", "join_key": "1.18.0.0", "asn": "AS23596", "domain": "", "name": "Korea Internet Security Agency", "type": "government", "country": "KR"}
@@ -98,3 +97,4 @@
 {"start_ip": "1.22.88.0", "end_ip": "1.22.107.255", "join_key": "1.22.0.0", "asn": "AS45528", "domain": "tikona.in", "name": "Tikona Infinet Ltd.", "type": "isp", "country": "IN"}
 {"start_ip": "1.22.112.0", "end_ip": "1.22.140.255", "join_key": "1.22.0.0", "asn": "AS45528", "domain": "tikona.in", "name": "Tikona Infinet Ltd.", "type": "isp", "country": "IN"}
 {"start_ip": "1.22.145.0", "end_ip": "1.22.161.255", "join_key": "1.22.0.0", "asn": "AS45528", "domain": "tikona.in", "name": "Tikona Infinet Ltd.", "type": "isp", "country": "IN"}
+{"start_ip": "1.22.163.0", "end_ip": "1.22.189.255", "join_key": "1.22.0.0", "asn": "AS45528", "domain": "tikona.in", "name": "Tikona Infinet Ltd.", "type": "isp", "country": "IN"}

@@ -1,7 +1,6 @@
 ip,ssid,category,name,brand,latitude,longitude
 1.0.75.3,RANDOR-WiFi704_5g,hotel,Randor Hotel Hiroshima Prestage,,34.3937,132.4766
 1.0.75.12,RANDOR-WiFi203,hotel,Randor Hotel Hiroshima Prestage,,34.3937,132.4766
-1.0.136.23,BKR002_2.4G,hotel,Ban Krut Resort,,11.3582,99.5719
 1.0.140.21,phetchabun-kalupun,restaurant,บะหมีเกี๊ยว เจ้อ้อม,,16.4096,101.1591
 1.0.141.36,Sunshine Vista,hotel,Sunshine Vista,,12.9452,100.8876
 1.0.141.43,Chaletcustomer 2.4GHz,convenience_store,FamilyMart Thailand,,12.9372,100.8844
@@ -10,7 +9,7 @@ ip,ssid,category,name,brand,latitude,longitude
 1.0.141.51,Sunshine Vista,hotel,Sunshine Vista,,12.9452,100.8876
 1.0.141.57,PEGGYS COVE,hotel,Peggy's Cove Resort,,12.6051,101.8753
 1.0.141.66,BLU MONKEY,hotel,Blu Monkey Hub and Hotel Chanthaburi,,12.6386,102.0957
-1.0.141.74,CONDO376_5G,hotel,Ons moeder,,12.8993,100.8671
+1.0.141.74,CONDO376_5G,hotel,Ons Moeder,,12.8993,100.8671
 1.0.141.85,JH05 2.4Ghz,hotel,Jomtien hostel,,12.8836,100.8836
 1.0.141.137,Sunshine Vista,hotel,Sunshine Vista,,12.9452,100.8876
 1.0.141.145,STARHOTEL,hotel,Novotel Rayong Star Convention Centre,Novotel,12.6863,101.2706
@@ -23,7 +22,7 @@ ip,ssid,category,name,brand,latitude,longitude
 1.0.141.214,Lisaguesthouse,hotel,Lisa's Guesthouse,,12.8873,100.8802
 1.0.141.222,Sunshine Vista,hotel,Sunshine Vista,,12.9452,100.8876
 1.0.141.228,Lisaguesthouse 5G,hotel,Lisa's Guesthouse,,12.8873,100.8802
-1.0.141.230,CONDO376_5G,hotel,Ons moeder,,12.8993,100.8671
+1.0.141.230,CONDO376_5G,hotel,Ons Moeder,,12.8993,100.8671
 1.0.141.238,KARIENGSAK23-5G,veterinary,Veterinary Home Clinic,,12.9251,100.8839
 1.0.141.241,BLU MONKEY,hotel,Blu Monkey Hub and Hotel Chanthaburi,,12.6386,102.0957
 1.0.144.25,sasipa_5G,grocery_store,ตลาดสดเขาปีบ,,10.1356,99.0922
@@ -59,6 +58,7 @@ ip,ssid,category,name,brand,latitude,longitude
 1.0.151.121,nt2.4G_chai coffee Beach,restaurant,Chay Coffee Beach,,10.4876,99.2282
 1.0.151.167,Simulcast audio_2.4GTOT,business_services,ชานเมืองโฆษณา,,8.0458,100.2826
 1.0.152.42,GOLDENHILL WiFi,hotel,Baan Andaman,,8.0558,98.9171
+1.0.152.52,GSBK PNG,bank,ธนาคารออมสิน,ธนาคารออมสิน,8.4635,98.5315
 1.0.152.96,Kohyaoyaiseabreeze_5G,hotel,Koh Yao Yai Sea Breeze House,,8.0535,98.5982
 1.0.152.117,GOLDENHILL WiFi,hotel,Baan Andaman,,8.0558,98.9171
 1.0.152.136,Boat,home_improvement,ทำเบาะและผ้าใบ,,8.4618,98.5325
@@ -80,12 +80,11 @@ ip,ssid,category,name,brand,latitude,longitude
 1.0.159.202,J Mansion,hotel,J. Mansion,,8.0325,98.823
 1.0.160.3,Magical Villa-10,hotel,Magical Mountain View Resort,,8.9018,98.6251
 1.0.160.38,MaMa jin1_2.4G,restaurant,Mama Jin Restaurant,,7.8446,98.3004
-1.0.160.48,Yoogthong72,grocery_store,ร้านน้องปุญบรรจุภัณฑ์นาสาร,,8.802,99.3652
 1.0.160.75,hockhuat 1 5GHz,hotel,ชายนาม ทาวน์ ณ เยาวราชภูเก็ต,,7.8853,98.3874
 1.0.160.84,Playna Resort office 2.4G,hotel,ปรายนา รีสอร์ท,,6.7529,100.0395
 1.0.160.112,Cozy Guesthouse,restaurant,Cozy Restaurant,,7.5985,99.0361
 1.0.160.139,Maikhao Palm Beach,hotel,Maikhao Palm Beach Resort,,8.1287,98.301
-1.0.160.153,ME CHALONG2.4G,retail,BnB Home Phuket Chalong,Robinson Department Store,7.8485,98.3507
+1.0.160.153,ME CHALONG2.4G,mall,Robinson Lifestyle Chalong,,7.8476,98.35
 1.0.160.216,Manao Tree,hotel,Manao Tree Villa,,7.5666,99.0372
 1.0.160.254,Pao_2.4,restaurant,Nong Pao Restaurant,,8.5769,98.741
 1.0.161.5,Expat Patong Center,hotel,Expat Patong Center,,7.8919,98.3021
@@ -99,3 +98,4 @@ ip,ssid,category,name,brand,latitude,longitude
 1.0.162.218,PCM WIFI,coffee_shop,Palm Coco Mantra,CoCo都可,9.47,100.067
 1.0.162.238,PKM_5G,home_improvement,บริษัท ภูเก็ต เม็ททอลชีท,,8.0129,98.34
 1.0.163.25,Jarikun_2.4G,grocery_store,ร้านจา จาริกุล,,7.5151,99.5303
+1.0.163.51,Hilltop Wellness,hotel,Hilltop Wellness Resort with Complimentary Onsen Access,,7.9208,98.3677

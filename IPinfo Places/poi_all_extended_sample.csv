@@ -1,7 +1,6 @@
 ip,bssid,ssid,category,name,brand,city,region,country_code,latitude,longitude
 1.0.75.3,"60:63:4c:31:db:33,e0:9d:b8:3f:a2:de",RANDOR-WiFi704_5g,hotel,Randor Hotel Hiroshima Prestage,,Hiroshima,Hiroshima,JP,34.3937,132.4766
 1.0.75.12,60:63:4c:31:dd:9f,RANDOR-WiFi203,hotel,Randor Hotel Hiroshima Prestage,,Hiroshima,Hiroshima,JP,34.3937,132.4766
-1.0.136.23,"40:ee:15:c4:8d:5c,74:da:38:ca:bd:85,c8:5a:9f:a2:85:dd",BKR002_2.4G,hotel,Ban Krut Resort,,Thap Sakae,Prachuap Khiri Khan,TH,11.3582,99.5719
 1.0.140.21,cc:32:e5:97:13:63,phetchabun-kalupun,restaurant,บะหมีเกี๊ยว เจ้อ้อม,,Phetchabun,Phetchabun,TH,16.4096,101.1591
 1.0.141.36,"48:81:d4:4e:b9:10,b4:fb:e4:35:7b:1a,48:81:d4:4e:bc:5d,4a:81:d4:8e:94:36",Sunshine Vista,hotel,Sunshine Vista,,Pattaya,Chon Buri,TH,12.9452,100.8876
 1.0.141.43,"08:f6:06:85:e0:70,14:4d:67:27:1e:c4",Chaletcustomer 2.4GHz,convenience_store,FamilyMart Thailand,,Pattaya,Chon Buri,TH,12.9372,100.8844
@@ -10,7 +9,7 @@ ip,bssid,ssid,category,name,brand,city,region,country_code,latitude,longitude
 1.0.141.51,"14:4d:67:c0:84:78,4a:81:d4:8e:be:2a,48:81:d4:4e:be:2a",Sunshine Vista,hotel,Sunshine Vista,,Pattaya,Chon Buri,TH,12.9452,100.8876
 1.0.141.57,"68:72:51:12:d4:af,44:d9:e7:c7:1f:e9",PEGGYS COVE,hotel,Peggy's Cove Resort,,Tha Mai,Chanthaburi,TH,12.6051,101.8753
 1.0.141.66,"00:e0:20:1c:09:cf,74:ac:b9:98:b6:c2",BLU MONKEY,hotel,Blu Monkey Hub and Hotel Chanthaburi,,Chanthaburi,Chanthaburi,TH,12.6386,102.0957
-1.0.141.74,"08:f6:06:be:77:70,f4:b5:aa:8a:16:5d,14:4d:67:20:f7:9c",CONDO376_5G,hotel,Ons moeder,,Pattaya,Chon Buri,TH,12.8993,100.8671
+1.0.141.74,"08:f6:06:be:77:70,f4:b5:aa:8a:16:5d,14:4d:67:20:f7:9c",CONDO376_5G,hotel,Ons Moeder,,Pattaya,Chon Buri,TH,12.8993,100.8671
 1.0.141.85,"ec:f0:fe:80:98:4d,b4:fb:e4:35:7c:36,02:00:00:00:00:00,f0:3e:90:70:78:e8,78:44:76:ee:50:dc,44:b2:95:96:c3:d3",JH05 2.4Ghz,hotel,Jomtien hostel,,Pattaya,Chon Buri,TH,12.8836,100.8836
 1.0.141.137,"e4:be:ed:a6:a5:bc,4a:81:d4:8e:be:2a",Sunshine Vista,hotel,Sunshine Vista,,Pattaya,Chon Buri,TH,12.9452,100.8876
 1.0.141.145,,STARHOTEL,hotel,Novotel Rayong Star Convention Centre,Novotel,Rayong,Rayong,TH,12.6863,101.2706
@@ -23,7 +22,7 @@ ip,bssid,ssid,category,name,brand,city,region,country_code,latitude,longitude
 1.0.141.214,"34:36:54:81:37:16,dc:f8:b9:fd:cc:67,14:4d:67:24:18:14",Lisaguesthouse,hotel,Lisa's Guesthouse,,Pattaya,Chon Buri,TH,12.8873,100.8802
 1.0.141.222,"18:31:bf:5b:b1:e4,4a:81:d4:8e:c0:41,14:4d:67:20:38:24",Sunshine Vista,hotel,Sunshine Vista,,Pattaya,Chon Buri,TH,12.9452,100.8876
 1.0.141.228,34:36:54:81:37:16,Lisaguesthouse 5G,hotel,Lisa's Guesthouse,,Pattaya,Chon Buri,TH,12.8873,100.8802
-1.0.141.230,08:f6:06:be:77:70,CONDO376_5G,hotel,Ons moeder,,Pattaya,Chon Buri,TH,12.8993,100.8671
+1.0.141.230,08:f6:06:be:77:70,CONDO376_5G,hotel,Ons Moeder,,Pattaya,Chon Buri,TH,12.8993,100.8671
 1.0.141.238,98:00:6a:68:cb:82,KARIENGSAK23-5G,veterinary,Veterinary Home Clinic,,Pattaya,Chon Buri,TH,12.9251,100.8839
 1.0.141.241,"78:44:76:e3:04:80,74:ac:b9:98:b3:46",BLU MONKEY,hotel,Blu Monkey Hub and Hotel Chanthaburi,,Chanthaburi,Chanthaburi,TH,12.6386,102.0957
 1.0.144.25,"64:20:e0:19:92:9a,dc:f8:b9:d9:0a:ef,28:ff:3e:da:89:0d",sasipa_5G,grocery_store,ตลาดสดเขาปีบ,,Thung Tako,Chumphon,TH,10.1356,99.0922
@@ -59,6 +58,7 @@ ip,bssid,ssid,category,name,brand,city,region,country_code,latitude,longitude
 1.0.151.121,"78:32:1b:c9:30:10,a8:42:a1:4a:4b:88,9a:dc:96:30:65:06",nt2.4G_chai coffee Beach,restaurant,Chay Coffee Beach,,Chumphon,Chumphon,TH,10.4876,99.2282
 1.0.151.167,f4:b5:aa:89:4e:40,Simulcast audio_2.4GTOT,business_services,ชานเมืองโฆษณา,,Hua Sai,Nakhon Si Thammarat,TH,8.0458,100.2826
 1.0.152.42,78:9a:18:6a:96:02,GOLDENHILL WiFi,hotel,Baan Andaman,,Krabi,Krabi,TH,8.0558,98.9171
+1.0.152.52,"b8:dd:71:de:91:ca,74:da:38:cb:99:9e,24:7e:51:8c:b8:72",GSBK PNG,bank,ธนาคารออมสิน,ธนาคารออมสิน,Phang Nga,Phang Nga,TH,8.4635,98.5315
 1.0.152.96,"ec:f0:fe:81:46:be,20:e8:82:c4:a1:96,20:e8:82:c3:c8:59",Kohyaoyaiseabreeze_5G,hotel,Koh Yao Yai Sea Breeze House,,Ko Yao,Phang Nga,TH,8.0535,98.5982
 1.0.152.117,88:5d:fb:ce:7f:f5,GOLDENHILL WiFi,hotel,Baan Andaman,,Krabi,Krabi,TH,8.0558,98.9171
 1.0.152.136,46:d9:e7:ad:b5:1a,Boat,home_improvement,ทำเบาะและผ้าใบ,,Phang Nga,Phang Nga,TH,8.4618,98.5325
@@ -80,12 +80,11 @@ ip,bssid,ssid,category,name,brand,city,region,country_code,latitude,longitude
 1.0.159.202,"88:dc:96:73:2d:ce,1c:3b:f3:37:32:62,00:ad:24:57:60:d3",J Mansion,hotel,J. Mansion,,Ban Ao Nang,Krabi,TH,8.0325,98.823
 1.0.160.3,"10:82:3d:47:8d:5c,a4:c6:4f:95:15:bc,28:41:c6:4c:30:cc,cc:32:e5:9d:30:db",Magical Villa-10,hotel,Magical Mountain View Resort,,Phanom,Surat Thani,TH,8.9018,98.6251
 1.0.160.38,"dc:f8:b9:e2:3a:55,b8:dd:71:bf:8e:72",MaMa jin1_2.4G,restaurant,Mama Jin Restaurant,,Phuket,Phuket,TH,7.8446,98.3004
-1.0.160.48,74:da:38:dc:05:d4,Yoogthong72,grocery_store,ร้านน้องปุญบรรจุภัณฑ์นาสาร,,Ban Na San,Surat Thani,TH,8.802,99.3652
 1.0.160.75,"f4:f2:6d:c2:fa:fb,00:ad:24:63:b8:c3",hockhuat 1 5GHz,hotel,ชายนาม ทาวน์ ณ เยาวราชภูเก็ต,,Phuket,Phuket,TH,7.8853,98.3874
 1.0.160.84,"dc:f8:b9:fe:61:ae,14:4d:67:ae:59:44,28:ff:3e:c7:68:fe",Playna Resort office 2.4G,hotel,ปรายนา รีสอร์ท,,Khuan Don,Satun,TH,6.7529,100.0395
 1.0.160.112,"00:ad:24:57:60:0b,28:ff:3e:e6:17:20,00:72:63:18:7f:e6,78:31:2b:f4:ac:a5",Cozy Guesthouse,restaurant,Cozy Restaurant,,Saladan,Krabi,TH,7.5985,99.0361
 1.0.160.139,"00:34:cb:d4:eb:74,00:34:cb:1c:01:51",Maikhao Palm Beach,hotel,Maikhao Palm Beach Resort,,Ban Mai Khao,Phuket,TH,8.1287,98.301
-1.0.160.153,"d4:b7:09:d8:d9:6a,14:4d:67:1d:19:ec,dc:f8:b9:f9:73:f5,28:ff:3e:d7:22:33",ME CHALONG2.4G,retail,BnB Home Phuket Chalong,Robinson Department Store,Phuket,Phuket,TH,7.8485,98.3507
+1.0.160.153,"d4:b7:09:d8:d9:6a,14:4d:67:1d:19:ec,dc:f8:b9:f9:73:f5,28:ff:3e:d7:22:33",ME CHALONG2.4G,mall,Robinson Lifestyle Chalong,,Phuket,Phuket,TH,7.8476,98.35
 1.0.160.216,64:20:e0:18:aa:68,Manao Tree,hotel,Manao Tree Villa,,Saladan,Krabi,TH,7.5666,99.0372
 1.0.160.254,14:4d:67:bf:a4:4c,Pao_2.4,restaurant,Nong Pao Restaurant,,Plai Phraya,Krabi,TH,8.5769,98.741
 1.0.161.5,"30:23:03:98:9a:b5,54:16:51:f3:a2:4a,90:f6:52:70:9e:2e,74:da:38:6b:3a:5a",Expat Patong Center,hotel,Expat Patong Center,,Kathu,Phuket,TH,7.8919,98.3021
@@ -99,3 +98,4 @@ ip,bssid,ssid,category,name,brand,city,region,country_code,latitude,longitude
 1.0.162.218,"c0:74:ad:d8:14:56,c0:74:ad:e2:fc:a1,c0:74:ad:e2:fc:aa,c0:74:ad:ef:1f:15,c0:74:ad:ef:1f:16,ec:74:d7:02:6c:7e",PCM WIFI,coffee_shop,Palm Coco Mantra,CoCo都可,Ko Samui,Surat Thani,TH,9.47,100.067
 1.0.162.238,0c:37:47:86:7e:f4,PKM_5G,home_improvement,บริษัท ภูเก็ต เม็ททอลชีท,,Ban Mai Khao,Phuket,TH,8.0129,98.34
 1.0.163.25,"1c:74:0d:c5:1d:36,00:72:63:18:ac:09",Jarikun_2.4G,grocery_store,ร้านจา จาริกุล,,Trang,Trang,TH,7.5151,99.5303
+1.0.163.51,"74:da:da:6b:12:23,20:23:51:c8:0d:29",Hilltop Wellness,hotel,Hilltop Wellness Resort with Complimentary Onsen Access,,Phuket,Phuket,TH,7.9208,98.3677
