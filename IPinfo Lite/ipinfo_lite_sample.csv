@@ -72,30 +72,30 @@ network,country,country_code,continent,continent_code,asn,as_name,as_domain
 1.4.32.0/19,China,CN,Asia,AS,,,
 1.4.64.0/18,China,CN,Asia,AS,,,
 1.4.128.0/17,Thailand,TH,Asia,AS,AS23969,TOT Public Company Limited,ntplc.co.th
-1.5.0.0/16,Japan,JP,Asia,AS,AS4725,SoftBank Corp.,softbank.jp
-1.6.0.0/17,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
-1.6.128.0/21,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
-1.6.136.0/24,India,IN,Asia,AS,AS132215,Powergrid Teleservices Limited,powergrid.in
-1.6.137.0/24,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
-1.6.138.0/23,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
-1.6.140.0/22,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
-1.6.144.0/20,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
-1.6.160.0/19,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
-1.6.192.0/19,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
-1.6.224.0/23,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
-1.6.226.0/23,India,IN,Asia,AS,AS132215,Powergrid Teleservices Limited,powergrid.in
-1.6.228.0/24,India,IN,Asia,AS,AS132215,Powergrid Teleservices Limited,powergrid.in
-1.6.229.0/24,India,IN,Asia,AS,AS4755,TATA Communications formerly VSNL is Leading ISP,tatacommunications.com
-1.6.230.0/24,India,IN,Asia,AS,AS4755,TATA Communications formerly VSNL is Leading ISP,tatacommunications.com
-1.6.231.0/24,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
-1.6.232.0/21,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
-1.6.240.0/20,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
-1.7.0.0/24,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
-1.7.1.0/24,India,IN,Asia,AS,,,
-1.7.2.0/24,India,IN,Asia,AS,,,
-1.7.3.0/24,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
-1.7.4.0/22,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
-1.7.8.0/21,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
-1.7.16.0/21,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
-1.7.24.0/24,India,IN,Asia,AS,AS133388,IMS Health India Pvt Ltd,imshealth.com
-1.7.25.0/24,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.5.0.0/22,Japan,JP,Asia,AS,AS4725,SoftBank Corp.,softbank.jp
+1.5.4.0,Japan,JP,Asia,AS,AS4725,SoftBank Corp.,softbank.jp
+1.5.4.1,South Africa,ZA,Africa,AF,AS4725,SoftBank Corp.,softbank.jp
+1.5.4.2/31,Japan,JP,Asia,AS,AS4725,SoftBank Corp.,softbank.jp
+1.5.4.4/30,Japan,JP,Asia,AS,AS4725,SoftBank Corp.,softbank.jp
+1.5.4.8/29,Japan,JP,Asia,AS,AS4725,SoftBank Corp.,softbank.jp
+1.5.4.16/28,Japan,JP,Asia,AS,AS4725,SoftBank Corp.,softbank.jp
+1.5.4.32/27,Japan,JP,Asia,AS,AS4725,SoftBank Corp.,softbank.jp
+1.5.4.64/26,Japan,JP,Asia,AS,AS4725,SoftBank Corp.,softbank.jp
+1.5.4.128/25,Japan,JP,Asia,AS,AS4725,SoftBank Corp.,softbank.jp
+1.5.5.0/24,Japan,JP,Asia,AS,AS4725,SoftBank Corp.,softbank.jp
+1.5.6.0/23,Japan,JP,Asia,AS,AS4725,SoftBank Corp.,softbank.jp
+1.5.8.0/21,Japan,JP,Asia,AS,AS4725,SoftBank Corp.,softbank.jp
+1.5.16.0/20,Japan,JP,Asia,AS,AS4725,SoftBank Corp.,softbank.jp
+1.5.32.0/19,Japan,JP,Asia,AS,AS4725,SoftBank Corp.,softbank.jp
+1.5.64.0/18,Japan,JP,Asia,AS,AS4725,SoftBank Corp.,softbank.jp
+1.5.128.0/17,Japan,JP,Asia,AS,AS4725,SoftBank Corp.,softbank.jp
+1.6.0.0/23,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.2.0,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.2.1,South Africa,ZA,Africa,AF,AS9583,Sify Limited,sifycorp.com
+1.6.2.2/31,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.2.4/30,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.2.8/29,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.2.16/28,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.2.32/27,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.2.64/26,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.2.128/25,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com

@@ -29,8 +29,12 @@ start_ip,end_ip,country,country_name,continent,continent_name,asn,as_name,as_dom
 1.4.0.0,1.4.0.255,AU,Australia,OC,Oceania,,,
 1.4.1.0,1.4.127.255,CN,China,AS,Asia,,,
 1.4.128.0,1.4.255.255,TH,Thailand,AS,Asia,AS23969,TOT Public Company Limited,ntplc.co.th
-1.5.0.0,1.5.255.255,JP,Japan,AS,Asia,AS4725,SoftBank Corp.,softbank.jp
-1.6.0.0,1.6.135.255,IN,India,AS,Asia,AS9583,Sify Limited,sifycorp.com
+1.5.0.0,1.5.4.0,JP,Japan,AS,Asia,AS4725,SoftBank Corp.,softbank.jp
+1.5.4.1,1.5.4.1,ZA,South Africa,AF,Africa,AS4725,SoftBank Corp.,softbank.jp
+1.5.4.2,1.5.255.255,JP,Japan,AS,Asia,AS4725,SoftBank Corp.,softbank.jp
+1.6.0.0,1.6.2.0,IN,India,AS,Asia,AS9583,Sify Limited,sifycorp.com
+1.6.2.1,1.6.2.1,ZA,South Africa,AF,Africa,AS9583,Sify Limited,sifycorp.com
+1.6.2.2,1.6.135.255,IN,India,AS,Asia,AS9583,Sify Limited,sifycorp.com
 1.6.136.0,1.6.136.255,IN,India,AS,Asia,AS132215,Powergrid Teleservices Limited,powergrid.in
 1.6.137.0,1.6.225.255,IN,India,AS,Asia,AS9583,Sify Limited,sifycorp.com
 1.6.226.0,1.6.228.255,IN,India,AS,Asia,AS132215,Powergrid Teleservices Limited,powergrid.in
@@ -73,9 +77,7 @@ start_ip,end_ip,country,country_name,continent,continent_name,asn,as_name,as_dom
 1.9.241.32,1.9.241.39,HK,Hong Kong,AS,Asia,AS4788,TM TECHNOLOGY SERVICES SDN. BHD.,tm.com.my
 1.9.241.40,1.9.241.87,MY,Malaysia,AS,Asia,AS4788,TM TECHNOLOGY SERVICES SDN. BHD.,tm.com.my
 1.9.241.88,1.9.241.95,HK,Hong Kong,AS,Asia,AS4788,TM TECHNOLOGY SERVICES SDN. BHD.,tm.com.my
-1.9.241.96,1.9.241.167,MY,Malaysia,AS,Asia,AS4788,TM TECHNOLOGY SERVICES SDN. BHD.,tm.com.my
-1.9.241.168,1.9.241.175,HK,Hong Kong,AS,Asia,AS4788,TM TECHNOLOGY SERVICES SDN. BHD.,tm.com.my
-1.9.241.176,1.9.241.229,MY,Malaysia,AS,Asia,AS4788,TM TECHNOLOGY SERVICES SDN. BHD.,tm.com.my
+1.9.241.96,1.9.241.229,MY,Malaysia,AS,Asia,AS4788,TM TECHNOLOGY SERVICES SDN. BHD.,tm.com.my
 1.9.241.230,1.9.241.230,RE,Reunion,AF,Africa,AS4788,TM TECHNOLOGY SERVICES SDN. BHD.,tm.com.my
 1.9.241.231,1.9.243.255,MY,Malaysia,AS,Asia,AS4788,TM TECHNOLOGY SERVICES SDN. BHD.,tm.com.my
 1.9.244.0,1.9.244.15,HK,Hong Kong,AS,Asia,AS4788,TM TECHNOLOGY SERVICES SDN. BHD.,tm.com.my
@@ -83,9 +85,7 @@ start_ip,end_ip,country,country_name,continent,continent_name,asn,as_name,as_dom
 1.9.244.32,1.9.244.63,HK,Hong Kong,AS,Asia,AS4788,TM TECHNOLOGY SERVICES SDN. BHD.,tm.com.my
 1.9.244.64,1.9.244.89,MY,Malaysia,AS,Asia,AS4788,TM TECHNOLOGY SERVICES SDN. BHD.,tm.com.my
 1.9.244.90,1.9.244.90,RE,Reunion,AF,Africa,AS4788,TM TECHNOLOGY SERVICES SDN. BHD.,tm.com.my
-1.9.244.91,1.9.244.144,MY,Malaysia,AS,Asia,AS4788,TM TECHNOLOGY SERVICES SDN. BHD.,tm.com.my
-1.9.244.145,1.9.244.146,TH,Thailand,AS,Asia,AS4788,TM TECHNOLOGY SERVICES SDN. BHD.,tm.com.my
-1.9.244.147,1.9.253.37,MY,Malaysia,AS,Asia,AS4788,TM TECHNOLOGY SERVICES SDN. BHD.,tm.com.my
+1.9.244.91,1.9.253.37,MY,Malaysia,AS,Asia,AS4788,TM TECHNOLOGY SERVICES SDN. BHD.,tm.com.my
 1.9.253.38,1.9.253.38,PK,Pakistan,AS,Asia,AS4788,TM TECHNOLOGY SERVICES SDN. BHD.,tm.com.my
 1.9.253.39,1.9.255.255,MY,Malaysia,AS,Asia,AS4788,TM TECHNOLOGY SERVICES SDN. BHD.,tm.com.my
 1.10.0.0,1.10.9.255,CN,China,AS,Asia,,,
