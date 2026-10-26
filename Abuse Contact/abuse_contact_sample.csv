@@ -3,16 +3,16 @@ start_ip,end_ip,join_key,name,email,address,country,phone
 1.0.1.0,1.0.3.255,1.0.0.0,ABUSE CHINANETCN,anti-spam@chinatelecom.cn,"No.31 ,jingrong street,beijing, 100032",CN,+000000000
 1.0.4.0,1.0.7.255,1.0.0.0,ABUSE WPLAU,apnic@staff.gtelecom.com.au,"1/18 Deblin drive, Narre warren, vic 3805, Melbourne victoria 3805",AU,+000000000
 1.0.8.0,1.0.15.255,1.0.0.0,CHINANET Guangdong province network,abuse_gdicnoc@163.com,"No.31 ,jingrong street,beijing, 100032",CN,+000000000
-1.0.16.0,1.0.31.255,1.0.0.0,,hostmaster@nic.ad.jp,"Uchikanda OS Bldg 4F, 2-12-6 Uchi-Kanda, Chiyoda-ku, Tokyo 101-0047, japan",JP,+81-3-5297-2311
+1.0.16.0,1.0.31.255,1.0.0.0,"i2ts,inc.",c-support@i2ts.com,,JP,
 1.0.32.0,1.0.63.255,1.0.0.0,CHINANET Guangdong province network,abuse_gdicnoc@163.com,"No.31 ,jingrong street,beijing, 100032",CN,+000000000
-1.0.64.0,1.0.127.255,1.0.0.0,"Enecom,Inc.",abuse@ene.megaegg.ne.jp,"Uchikanda OS Bldg 4F, 2-12-6 Uchi-Kanda, Chiyoda-ku, Tokyo 101-0047, japan",JP,+81-3-5297-2311
+1.0.64.0,1.0.127.255,1.0.0.0,"Enecom,Inc.",abuse@ene.megaegg.ne.jp,,JP,
 1.0.128.0,1.0.255.255,1.0.0.0,ABUSE TOTTH,abuse@totisp.net,"TOT Public Company Limited, 89/2 Moo 3 Chaengwattana Rd, Laksi,Bangkok 10210 THAILAND",TH,+000000000
 1.1.0.0,1.1.0.255,1.1.0.0,ABUSE CHINANETCN,anti-spam@chinatelecom.cn,"No.31 ,jingrong street,beijing, 100032",CN,+000000000
 1.1.1.0,1.1.1.255,1.1.0.0,ABUSE APNICRANDNETAU,helpdesk@apnic.net,"PO Box 3646, South Brisbane, QLD 4101, Australia",AU,+000000000
 1.1.2.0,1.1.7.255,1.1.0.0,ABUSE CHINANETCN,anti-spam@chinatelecom.cn,"No.31 ,jingrong street,beijing, 100032",CN,+000000000
 1.1.8.0,1.1.8.255,1.1.0.0,ABUSE YNCLCN,hch.xie@yamu.com,"No.180 Yizhou Road, Xuhui District, Shanghai, Shanghai Shanghai 200030",CN,+000000000
 1.1.9.0,1.1.63.255,1.1.0.0,CHINANET Guangdong province network,abuse_gdicnoc@163.com,"No.31 ,jingrong street,beijing, 100032",CN,+000000000
-1.1.64.0,1.1.127.255,1.1.0.0,,hostmaster@nic.ad.jp,"Uchikanda OS Bldg 4F, 2-12-6 Uchi-Kanda, Chiyoda-ku, Tokyo 101-0047, japan",JP,+81-3-5297-2311
+1.1.64.0,1.1.127.255,1.1.0.0,"i2ts,inc.",c-support@i2ts.com,,JP,
 1.1.128.0,1.1.255.255,1.1.0.0,ABUSE TOTTH,abuse@totisp.net,"TOT Public Company Limited, 89/2 Moo 3 Chaengwattana Rd, Laksi,Bangkok 10210 THAILAND",TH,+000000000
 1.2.0.0,1.2.1.255,1.2.0.0,ABUSE CHINANETCN,anti-spam@chinatelecom.cn,"No.31 ,jingrong street,beijing, 100032",CN,+000000000
 1.2.2.0,1.2.2.255,1.2.0.0,ABUSE CNNICCN,ipas@cnnic.cn,"Beijing, China",CN,+000000000
@@ -30,7 +30,7 @@ start_ip,end_ip,join_key,name,email,address,country,phone
 1.4.8.0,1.4.31.255,1.4.0.0,CHINANET Guangdong province network,abuse_gdicnoc@163.com,"No.31 ,jingrong street,beijing, 100032",CN,+000000000
 1.4.32.0,1.4.127.255,1.4.0.0,CHINANET Guangdong province network,abuse_gdnoc@189.cn,"No.31 ,jingrong street,beijing, 100032",CN,+000000000
 1.4.128.0,1.4.255.255,1.4.0.0,ABUSE TOTTH,abuse@totisp.net,"TOT Public Company Limited, 89/2 Moo 3 Chaengwattana Rd, Laksi,Bangkok 10210 THAILAND",TH,+000000000
-1.5.0.0,1.5.255.255,1.5.0.0,,hostmaster@nic.ad.jp,"Uchikanda OS Bldg 4F, 2-12-6 Uchi-Kanda, Chiyoda-ku, Tokyo 101-0047, japan",JP,+81-3-5297-2311
+1.5.0.0,1.5.255.255,1.5.0.0,SoftBank Corp.,net-abuse@odn.ad.jp,,JP,
 1.6.0.0,1.6.255.255,1.6.0.0,Hostmaster Satyam Infoway,abuse@sifycorp.com,"Sify Limited,, 5th, 6th & 7th floor Reliable Plaza,, Kalwa industrial Area, Thane Belapur Road,, Airoli, Navi Mumbai-400708",IN,+914422541125
 1.7.0.0,1.7.255.255,1.7.0.0,Hostmaster Satyam Infoway,abuse@sifycorp.com,"Sify Limited,, 5th, 6th & 7th floor Reliable Plaza,, Kalwa industrial Area, Thane Belapur Road,, Airoli, Navi Mumbai-400708",IN,+914422541125
 1.8.0.0,1.8.255.255,1.8.0.0,ABUSE CNNICCN,ipas@cnnic.cn,"Beijing, China",CN,+000000000
@@ -71,7 +71,11 @@ start_ip,end_ip,join_key,name,email,address,country,phone
 1.18.116.0,1.18.255.255,1.18.0.0,IP Manager,irt@nic.or.kr,"9, Jinheung-gil, Naju-si, Jeollanam-do",KR,+82-2-405-5118
 1.19.0.0,1.19.255.255,1.19.0.0,IP Manager,irt@nic.or.kr,"9, Jinheung-gil, Naju-si, Jeollanam-do",KR,+82-2-405-5118
 1.20.0.0,1.20.255.255,1.20.0.0,ABUSE TOTMOBILETH,abuse@totidc.net,"TOT Public Company Limited, 89/2 Moo 3 Chaengwattana Rd, Laksi,Bangkok 10210 THAILAND",TH,+000000000
-1.21.0.0,1.21.223.255,1.21.0.0,,hostmaster@nic.ad.jp,"Uchikanda OS Bldg 4F, 2-12-6 Uchi-Kanda, Chiyoda-ku, Tokyo 101-0047, japan",JP,+81-3-5297-2311
+1.21.0.0,1.21.95.255,1.21.0.0,ARTERIA Networks Corporation,abuse@vectant.ne.jp,,JP,
+1.21.96.0,1.21.111.255,1.21.0.0,FAMILYNET JAPAN CORPORATION,abuse@cyberhome.jp,,JP,
+1.21.112.0,1.21.127.255,1.21.0.0,ARTERIA Networks Corporation,abuse@vectant.ne.jp,,JP,
+1.21.128.0,1.21.143.255,1.21.0.0,FAMILYNET JAPAN CORPORATION,abuse@cyberhome.jp,,JP,
+1.21.144.0,1.21.223.255,1.21.0.0,ARTERIA Networks Corporation,abuse@vectant.ne.jp,,JP,
 1.21.224.0,1.21.255.255,1.21.0.0,ABUSE BYTEPLUSSG,bd_abuse@bytedance.com,"1 Raffles Quay,",SG,+000000000
 1.22.0.0,1.22.156.191,1.22.0.0,NOC Manager,Sudhir.Kumar@tikona.in,"C69, Sector 58, Noida,NOIDA,Uttar Pradesh-201307",IN,+91 01204580519
 1.22.156.192,1.22.156.255,1.22.0.0,Jaydeep Sampat,abuse@tikona.in,"Tikona Digital Networks, Corpora,Office No 3A, 3rd Floor, LBS Marg, Bhandup (W), Mumbai 400 078",IN,+91-22-6784-0000
@@ -95,7 +99,3 @@ start_ip,end_ip,join_key,name,email,address,country,phone
 1.32.80.0,1.32.95.255,1.32.0.0,KLUANG-SOUTHERN,abuse@tm.com.my,"Menara TM, Jalan Pantai Baharu,, 59100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",MY,+601110001000
 1.32.96.0,1.32.97.255,1.32.0.0,UNIFI-BIZ,abuse@tm.com.my,"Menara TM, Jalan Pantai Baharu,, 59100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",MY,+601110001000
 1.32.98.0,1.32.103.255,1.32.0.0,UNIFI-HOME,abuse@tm.com.my,"Menara TM, Jalan Pantai Baharu,, 59100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",MY,+601110001000
-1.32.104.0,1.32.107.255,1.32.0.0,TASIK-NORTHERN,abuse@tm.com.my,"Menara TM, Jalan Pantai Baharu,, 59100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",MY,+601110001000
-1.32.108.0,1.32.108.255,1.32.0.0,ABUSE MYWEBE,abuse@tm.com.my,"Menara TM, Jalan Pantai Baharu,, 59100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",MY,+601110001000
-1.32.109.0,1.32.109.255,1.32.0.0,KOMTAR-NORTHERN,abuse@tm.com.my,"Menara TM, Jalan Pantai Baharu,, 59100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",MY,+601110001000
-1.32.110.0,1.32.110.255,1.32.0.0,TASIK-NORTHERN,abuse@tm.com.my,"Menara TM, Jalan Pantai Baharu,, 59100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",MY,+601110001000

@@ -2,6 +2,7 @@
 {"start_ip": "1.5.19.0", "end_ip": "1.5.19.255", "join_key": "1.5.0.0", "name": "SoftBank", "country": "JP", "mcc": "440", "mnc": "20"}
 {"start_ip": "1.5.48.0", "end_ip": "1.5.48.255", "join_key": "1.5.0.0", "name": "SoftBank", "country": "JP", "mcc": "440", "mnc": "20"}
 {"start_ip": "1.5.51.0", "end_ip": "1.5.51.255", "join_key": "1.5.0.0", "name": "SoftBank", "country": "JP", "mcc": "440", "mnc": "20"}
+{"start_ip": "1.5.73.0", "end_ip": "1.5.73.255", "join_key": "1.5.0.0", "name": "SoftBank", "country": "JP", "mcc": "440", "mnc": "20"}
 {"start_ip": "1.5.76.0", "end_ip": "1.5.76.255", "join_key": "1.5.0.0", "name": "SoftBank", "country": "JP", "mcc": "440", "mnc": "20"}
 {"start_ip": "1.5.86.0", "end_ip": "1.5.86.255", "join_key": "1.5.0.0", "name": "SoftBank", "country": "JP", "mcc": "440", "mnc": "20"}
 {"start_ip": "1.5.122.0", "end_ip": "1.5.123.255", "join_key": "1.5.0.0", "name": "SoftBank", "country": "JP", "mcc": "440", "mnc": "20"}
@@ -16,9 +17,9 @@
 {"start_ip": "1.5.234.0", "end_ip": "1.5.234.255", "join_key": "1.5.0.0", "name": "SoftBank", "country": "JP", "mcc": "440", "mnc": "20"}
 {"start_ip": "1.9.3.0", "end_ip": "1.9.3.255", "join_key": "1.9.0.0", "name": "unifi", "country": "MY", "mcc": "502", "mnc": "153"}
 {"start_ip": "1.9.40.0", "end_ip": "1.9.40.255", "join_key": "1.9.0.0", "name": "unifi", "country": "MY", "mcc": "502", "mnc": "153"}
-{"start_ip": "1.9.46.0", "end_ip": "1.9.46.255", "join_key": "1.9.0.0", "name": "unifi", "country": "MY", "mcc": "502", "mnc": "153"}
 {"start_ip": "1.9.48.0", "end_ip": "1.9.49.255", "join_key": "1.9.0.0", "name": "unifi", "country": "MY", "mcc": "502", "mnc": "153"}
 {"start_ip": "1.9.55.0", "end_ip": "1.9.55.255", "join_key": "1.9.0.0", "name": "unifi", "country": "MY", "mcc": "502", "mnc": "153"}
+{"start_ip": "1.9.66.0", "end_ip": "1.9.66.255", "join_key": "1.9.0.0", "name": "unifi", "country": "MY", "mcc": "502", "mnc": "153"}
 {"start_ip": "1.9.70.0", "end_ip": "1.9.70.255", "join_key": "1.9.0.0", "name": "unifi", "country": "MY", "mcc": "502", "mnc": "153"}
 {"start_ip": "1.9.72.0", "end_ip": "1.9.73.255", "join_key": "1.9.0.0", "name": "unifi", "country": "MY", "mcc": "502", "mnc": "153"}
 {"start_ip": "1.9.79.0", "end_ip": "1.9.79.255", "join_key": "1.9.0.0", "name": "unifi", "country": "MY", "mcc": "502", "mnc": "153"}
@@ -37,8 +38,9 @@
 {"start_ip": "1.9.135.0", "end_ip": "1.9.135.255", "join_key": "1.9.0.0", "name": "unifi", "country": "MY", "mcc": "502", "mnc": "153"}
 {"start_ip": "1.9.137.0", "end_ip": "1.9.137.255", "join_key": "1.9.0.0", "name": "unifi", "country": "MY", "mcc": "502", "mnc": "153"}
 {"start_ip": "1.9.147.0", "end_ip": "1.9.147.255", "join_key": "1.9.0.0", "name": "unifi", "country": "MY", "mcc": "502", "mnc": "153"}
-{"start_ip": "1.9.164.0", "end_ip": "1.9.166.255", "join_key": "1.9.0.0", "name": "unifi", "country": "MY", "mcc": "502", "mnc": "153"}
+{"start_ip": "1.9.164.0", "end_ip": "1.9.165.255", "join_key": "1.9.0.0", "name": "unifi", "country": "MY", "mcc": "502", "mnc": "153"}
 {"start_ip": "1.9.171.0", "end_ip": "1.9.171.255", "join_key": "1.9.0.0", "name": "unifi", "country": "MY", "mcc": "502", "mnc": "153"}
+{"start_ip": "1.9.185.0", "end_ip": "1.9.185.255", "join_key": "1.9.0.0", "name": "unifi", "country": "MY", "mcc": "502", "mnc": "153"}
 {"start_ip": "1.9.198.0", "end_ip": "1.9.198.255", "join_key": "1.9.0.0", "name": "unifi", "country": "MY", "mcc": "502", "mnc": "153"}
 {"start_ip": "1.9.201.0", "end_ip": "1.9.202.255", "join_key": "1.9.0.0", "name": "unifi", "country": "MY", "mcc": "502", "mnc": "153"}
 {"start_ip": "1.9.209.0", "end_ip": "1.9.209.255", "join_key": "1.9.0.0", "name": "unifi", "country": "MY", "mcc": "502", "mnc": "153"}
@@ -67,7 +69,7 @@
 {"start_ip": "1.38.83.0", "end_ip": "1.38.85.255", "join_key": "1.38.0.0", "name": "Vi India", "country": "IN", "mcc": "404", "mnc": "05"}
 {"start_ip": "1.38.87.0", "end_ip": "1.38.87.255", "join_key": "1.38.0.0", "name": "Vi India", "country": "IN", "mcc": "404", "mnc": "05"}
 {"start_ip": "1.38.90.0", "end_ip": "1.38.93.255", "join_key": "1.38.0.0", "name": "Vi India", "country": "IN", "mcc": "404", "mnc": "05"}
-{"start_ip": "1.38.95.0", "end_ip": "1.38.128.255", "join_key": "1.38.0.0", "name": "Vi India", "country": "IN", "mcc": "404", "mnc": "05"}
+{"start_ip": "1.38.95.0", "end_ip": "1.38.133.255", "join_key": "1.38.0.0", "name": "Vi India", "country": "IN", "mcc": "404", "mnc": "05"}
 {"start_ip": "1.38.135.0", "end_ip": "1.38.167.255", "join_key": "1.38.0.0", "name": "Vi India", "country": "IN", "mcc": "404", "mnc": "05"}
 {"start_ip": "1.38.179.0", "end_ip": "1.38.179.255", "join_key": "1.38.0.0", "name": "Vi India", "country": "IN", "mcc": "404", "mnc": "05"}
 {"start_ip": "1.38.183.0", "end_ip": "1.38.183.255", "join_key": "1.38.0.0", "name": "Vi India", "country": "IN", "mcc": "404", "mnc": "05"}
@@ -78,13 +80,15 @@
 {"start_ip": "1.38.232.0", "end_ip": "1.38.239.255", "join_key": "1.38.0.0", "name": "Vi India", "country": "IN", "mcc": "404", "mnc": "05"}
 {"start_ip": "1.38.242.0", "end_ip": "1.38.242.255", "join_key": "1.38.0.0", "name": "Vi India", "country": "IN", "mcc": "404", "mnc": "05"}
 {"start_ip": "1.38.244.0", "end_ip": "1.38.247.255", "join_key": "1.38.0.0", "name": "Vi India", "country": "IN", "mcc": "404", "mnc": "05"}
-{"start_ip": "1.39.0.0", "end_ip": "1.39.3.255", "join_key": "1.39.0.0", "name": "Vi India", "country": "IN", "mcc": "404", "mnc": "05"}
-{"start_ip": "1.39.8.0", "end_ip": "1.39.11.255", "join_key": "1.39.0.0", "name": "Vi India", "country": "IN", "mcc": "404", "mnc": "05"}
-{"start_ip": "1.39.16.0", "end_ip": "1.39.26.255", "join_key": "1.39.0.0", "name": "Vi India", "country": "IN", "mcc": "404", "mnc": "05"}
+{"start_ip": "1.39.0.0", "end_ip": "1.39.4.255", "join_key": "1.39.0.0", "name": "Vi India", "country": "IN", "mcc": "404", "mnc": "05"}
+{"start_ip": "1.39.6.0", "end_ip": "1.39.6.255", "join_key": "1.39.0.0", "name": "Vi India", "country": "IN", "mcc": "404", "mnc": "05"}
+{"start_ip": "1.39.9.0", "end_ip": "1.39.11.255", "join_key": "1.39.0.0", "name": "Vi India", "country": "IN", "mcc": "404", "mnc": "05"}
+{"start_ip": "1.39.16.0", "end_ip": "1.39.19.255", "join_key": "1.39.0.0", "name": "Vi India", "country": "IN", "mcc": "404", "mnc": "05"}
+{"start_ip": "1.39.21.0", "end_ip": "1.39.26.255", "join_key": "1.39.0.0", "name": "Vi India", "country": "IN", "mcc": "404", "mnc": "05"}
 {"start_ip": "1.39.28.0", "end_ip": "1.39.63.255", "join_key": "1.39.0.0", "name": "Vi India", "country": "IN", "mcc": "404", "mnc": "05"}
 {"start_ip": "1.39.75.0", "end_ip": "1.39.79.255", "join_key": "1.39.0.0", "name": "Vi India", "country": "IN", "mcc": "404", "mnc": "05"}
 {"start_ip": "1.39.83.0", "end_ip": "1.39.84.255", "join_key": "1.39.0.0", "name": "Vi India", "country": "IN", "mcc": "404", "mnc": "05"}
-{"start_ip": "1.39.88.0", "end_ip": "1.39.118.255", "join_key": "1.39.0.0", "name": "Vi India", "country": "IN", "mcc": "404", "mnc": "05"}
+{"start_ip": "1.39.92.0", "end_ip": "1.39.118.255", "join_key": "1.39.0.0", "name": "Vi India", "country": "IN", "mcc": "404", "mnc": "05"}
 {"start_ip": "1.39.120.0", "end_ip": "1.39.128.255", "join_key": "1.39.0.0", "name": "Vi India", "country": "IN", "mcc": "404", "mnc": "05"}
 {"start_ip": "1.39.152.0", "end_ip": "1.39.159.255", "join_key": "1.39.0.0", "name": "Vi India", "country": "IN", "mcc": "404", "mnc": "05"}
 {"start_ip": "1.39.163.0", "end_ip": "1.39.163.255", "join_key": "1.39.0.0", "name": "Vi India", "country": "IN", "mcc": "404", "mnc": "05"}
@@ -94,7 +98,3 @@
 {"start_ip": "1.39.206.0", "end_ip": "1.39.208.255", "join_key": "1.39.0.0", "name": "Vi India", "country": "IN", "mcc": "404", "mnc": "05"}
 {"start_ip": "1.39.210.0", "end_ip": "1.39.210.255", "join_key": "1.39.0.0", "name": "Vi India", "country": "IN", "mcc": "404", "mnc": "05"}
 {"start_ip": "1.39.212.0", "end_ip": "1.39.212.255", "join_key": "1.39.0.0", "name": "Vi India", "country": "IN", "mcc": "404", "mnc": "05"}
-{"start_ip": "1.39.214.0", "end_ip": "1.39.214.255", "join_key": "1.39.0.0", "name": "Vi India", "country": "IN", "mcc": "404", "mnc": "05"}
-{"start_ip": "1.39.218.0", "end_ip": "1.39.219.255", "join_key": "1.39.0.0", "name": "Vi India", "country": "IN", "mcc": "404", "mnc": "05"}
-{"start_ip": "1.39.222.0", "end_ip": "1.39.224.255", "join_key": "1.39.0.0", "name": "Vi India", "country": "IN", "mcc": "404", "mnc": "05"}
-{"start_ip": "1.39.226.0", "end_ip": "1.39.226.255", "join_key": "1.39.0.0", "name": "Vi India", "country": "IN", "mcc": "404", "mnc": "05"}
