@@ -10,24 +10,27 @@ network,city,region,region_code,country,country_code,continent,continent_code,la
 1.0.0.128/25,Sydney,New South Wales,NSW,Australia,AU,Oceania,OC,-33.86785,151.20732,Australia/Sydney,1001,AS13335,"Cloudflare, Inc.",cloudflare.com,hosting,false,true,true,false,false
 1.0.1.0/24,Fuzhou,Fujian,FJ,China,CN,Asia,AS,26.06139,119.30611,Asia/Shanghai,350000,,,,,false,false,false,false,false
 1.0.2.0/23,Fuzhou,Fujian,FJ,China,CN,Asia,AS,26.06139,119.30611,Asia/Shanghai,350000,,,,,false,false,false,false,false
-1.0.4.0/24,Gol Gol,New South Wales,NSW,Australia,AU,Oceania,OC,-34.17877,142.22149,Australia/Sydney,2738,AS38803,Gtelecom Pty Ltd,gtelecom.com.au,isp,false,false,false,false,false
-1.0.5.0/24,Melbourne,Victoria,VIC,Australia,AU,Oceania,OC,-37.814,144.96332,Australia/Melbourne,3000,AS38803,Gtelecom Pty Ltd,gtelecom.com.au,isp,false,false,false,false,false
-1.0.6.0/24,Gol Gol,New South Wales,NSW,Australia,AU,Oceania,OC,-34.17877,142.22149,Australia/Sydney,2738,AS38803,Gtelecom Pty Ltd,gtelecom.com.au,isp,false,false,false,false,false
-1.0.7.0/25,Melbourne,Victoria,VIC,Australia,AU,Oceania,OC,-37.814,144.96332,Australia/Melbourne,3000,AS38803,Gtelecom Pty Ltd,gtelecom.com.au,isp,false,false,false,false,false
-1.0.7.128/26,Melbourne,Victoria,VIC,Australia,AU,Oceania,OC,-37.814,144.96332,Australia/Melbourne,3000,AS38803,Gtelecom Pty Ltd,gtelecom.com.au,isp,false,false,false,false,false
-1.0.7.192/27,Melbourne,Victoria,VIC,Australia,AU,Oceania,OC,-37.814,144.96332,Australia/Melbourne,3000,AS38803,Gtelecom Pty Ltd,gtelecom.com.au,isp,false,false,false,false,false
-1.0.7.224/30,Melbourne,Victoria,VIC,Australia,AU,Oceania,OC,-37.814,144.96332,Australia/Melbourne,3000,AS38803,Gtelecom Pty Ltd,gtelecom.com.au,isp,false,false,false,false,false
-1.0.7.228/31,Melbourne,Victoria,VIC,Australia,AU,Oceania,OC,-37.814,144.96332,Australia/Melbourne,3000,AS38803,Gtelecom Pty Ltd,gtelecom.com.au,isp,false,false,false,false,false
-1.0.7.230,Melbourne,Victoria,VIC,Australia,AU,Oceania,OC,-37.814,144.96332,Australia/Melbourne,3000,AS38803,Gtelecom Pty Ltd,gtelecom.com.au,isp,false,false,false,false,false
-1.0.7.231,Melbourne,Victoria,VIC,Australia,AU,Oceania,OC,-37.814,144.96332,Australia/Melbourne,3000,AS38803,Gtelecom Pty Ltd,gtelecom.com.au,isp,true,false,false,false,false
-1.0.7.232/29,Melbourne,Victoria,VIC,Australia,AU,Oceania,OC,-37.814,144.96332,Australia/Melbourne,3000,AS38803,Gtelecom Pty Ltd,gtelecom.com.au,isp,false,false,false,false,false
-1.0.7.240/31,Melbourne,Victoria,VIC,Australia,AU,Oceania,OC,-37.814,144.96332,Australia/Melbourne,3000,AS38803,Gtelecom Pty Ltd,gtelecom.com.au,isp,false,false,false,false,false
-1.0.7.242/31,Melbourne,Victoria,VIC,Australia,AU,Oceania,OC,-37.814,144.96332,Australia/Melbourne,3000,AS38803,Gtelecom Pty Ltd,gtelecom.com.au,isp,true,false,false,false,false
-1.0.7.244/31,Melbourne,Victoria,VIC,Australia,AU,Oceania,OC,-37.814,144.96332,Australia/Melbourne,3000,AS38803,Gtelecom Pty Ltd,gtelecom.com.au,isp,true,false,false,false,false
-1.0.7.246/31,Melbourne,Victoria,VIC,Australia,AU,Oceania,OC,-37.814,144.96332,Australia/Melbourne,3000,AS38803,Gtelecom Pty Ltd,gtelecom.com.au,isp,false,false,false,false,false
-1.0.7.248/29,Melbourne,Victoria,VIC,Australia,AU,Oceania,OC,-37.814,144.96332,Australia/Melbourne,3000,AS38803,Gtelecom Pty Ltd,gtelecom.com.au,isp,false,false,false,false,false
+1.0.4.0/23,Melbourne,Victoria,VIC,Australia,AU,Oceania,OC,-37.814,144.96332,Australia/Melbourne,3000,AS38803,Gtelecom Pty Ltd,gtelecom.com.au,isp,false,false,false,false,false
+1.0.6.0/24,Melbourne,Victoria,VIC,Australia,AU,Oceania,OC,-37.814,144.96332,Australia/Melbourne,3000,AS38803,Gtelecom Pty Ltd,gtelecom.com.au,isp,false,false,false,false,false
+1.0.7.0/25,Cairns,Queensland,QLD,Australia,AU,Oceania,OC,-16.92366,145.76613,Australia/Brisbane,4870,AS38803,Gtelecom Pty Ltd,gtelecom.com.au,isp,false,false,false,false,false
+1.0.7.128/26,Cairns,Queensland,QLD,Australia,AU,Oceania,OC,-16.92366,145.76613,Australia/Brisbane,4870,AS38803,Gtelecom Pty Ltd,gtelecom.com.au,isp,false,false,false,false,false
+1.0.7.192/27,Cairns,Queensland,QLD,Australia,AU,Oceania,OC,-16.92366,145.76613,Australia/Brisbane,4870,AS38803,Gtelecom Pty Ltd,gtelecom.com.au,isp,false,false,false,false,false
+1.0.7.224/30,Cairns,Queensland,QLD,Australia,AU,Oceania,OC,-16.92366,145.76613,Australia/Brisbane,4870,AS38803,Gtelecom Pty Ltd,gtelecom.com.au,isp,false,false,false,false,false
+1.0.7.228/31,Cairns,Queensland,QLD,Australia,AU,Oceania,OC,-16.92366,145.76613,Australia/Brisbane,4870,AS38803,Gtelecom Pty Ltd,gtelecom.com.au,isp,false,false,false,false,false
+1.0.7.230,Cairns,Queensland,QLD,Australia,AU,Oceania,OC,-16.92366,145.76613,Australia/Brisbane,4870,AS38803,Gtelecom Pty Ltd,gtelecom.com.au,isp,false,false,false,false,false
+1.0.7.231,Cairns,Queensland,QLD,Australia,AU,Oceania,OC,-16.92366,145.76613,Australia/Brisbane,4870,AS38803,Gtelecom Pty Ltd,gtelecom.com.au,isp,true,false,false,false,false
+1.0.7.232/29,Cairns,Queensland,QLD,Australia,AU,Oceania,OC,-16.92366,145.76613,Australia/Brisbane,4870,AS38803,Gtelecom Pty Ltd,gtelecom.com.au,isp,false,false,false,false,false
+1.0.7.240/31,Cairns,Queensland,QLD,Australia,AU,Oceania,OC,-16.92366,145.76613,Australia/Brisbane,4870,AS38803,Gtelecom Pty Ltd,gtelecom.com.au,isp,false,false,false,false,false
+1.0.7.242,Melbourne,Victoria,VIC,Australia,AU,Oceania,OC,-37.814,144.96332,Australia/Melbourne,3000,AS38803,Gtelecom Pty Ltd,gtelecom.com.au,isp,true,false,false,false,false
+1.0.7.243,Cairns,Queensland,QLD,Australia,AU,Oceania,OC,-16.92366,145.76613,Australia/Brisbane,4870,AS38803,Gtelecom Pty Ltd,gtelecom.com.au,isp,true,false,false,false,false
+1.0.7.244/31,Cairns,Queensland,QLD,Australia,AU,Oceania,OC,-16.92366,145.76613,Australia/Brisbane,4870,AS38803,Gtelecom Pty Ltd,gtelecom.com.au,isp,true,false,false,false,false
+1.0.7.246/31,Cairns,Queensland,QLD,Australia,AU,Oceania,OC,-16.92366,145.76613,Australia/Brisbane,4870,AS38803,Gtelecom Pty Ltd,gtelecom.com.au,isp,false,false,false,false,false
+1.0.7.248,Cairns,Queensland,QLD,Australia,AU,Oceania,OC,-16.92366,145.76613,Australia/Brisbane,4870,AS38803,Gtelecom Pty Ltd,gtelecom.com.au,isp,false,false,false,false,false
+1.0.7.249,Melbourne,Victoria,VIC,Australia,AU,Oceania,OC,-37.814,144.96332,Australia/Melbourne,3000,AS38803,Gtelecom Pty Ltd,gtelecom.com.au,isp,false,false,false,false,false
+1.0.7.250/31,Cairns,Queensland,QLD,Australia,AU,Oceania,OC,-16.92366,145.76613,Australia/Brisbane,4870,AS38803,Gtelecom Pty Ltd,gtelecom.com.au,isp,false,false,false,false,false
+1.0.7.252/30,Cairns,Queensland,QLD,Australia,AU,Oceania,OC,-16.92366,145.76613,Australia/Brisbane,4870,AS38803,Gtelecom Pty Ltd,gtelecom.com.au,isp,false,false,false,false,false
 1.0.8.0/21,Guangzhou,Guangdong,GD,China,CN,Asia,AS,23.11667,113.25,Asia/Shanghai,510000,,,,,false,false,false,false,false
-1.0.16.0/24,Gotemba,Shizuoka,22,Japan,JP,Asia,AS,35.31859,138.94343,Asia/Tokyo,412-0028,AS2519,ARTERIA Networks Corporation,arteria-net.com,isp,false,false,false,false,false
+1.0.16.0/24,Numazu,Shizuoka,22,Japan,JP,Asia,AS,35.1,138.86667,Asia/Tokyo,410-0033,AS2519,ARTERIA Networks Corporation,arteria-net.com,isp,false,false,false,false,false
 1.0.17.0/24,Tokyo,Tokyo,13,Japan,JP,Asia,AS,35.6895,139.69171,Asia/Tokyo,101-8656,,,,,false,false,false,false,false
 1.0.18.0/23,Tokyo,Tokyo,13,Japan,JP,Asia,AS,35.6895,139.69171,Asia/Tokyo,101-8656,,,,,false,false,false,false,false
 1.0.20.0/22,Tokyo,Tokyo,13,Japan,JP,Asia,AS,35.6895,139.69171,Asia/Tokyo,101-8656,,,,,false,false,false,false,false
@@ -52,25 +55,11 @@ network,city,region,region_code,country,country_code,continent,continent_code,la
 1.0.65.64/28,Hiroshima,Hiroshima,34,Japan,JP,Asia,AS,34.4,132.45,Asia/Tokyo,730-0011,AS18144,"Enecom,Inc.",enecom.co.jp,isp,false,false,false,false,false
 1.0.65.80,Hiroshima,Hiroshima,34,Japan,JP,Asia,AS,34.4,132.45,Asia/Tokyo,730-0011,AS18144,"Enecom,Inc.",enecom.co.jp,isp,true,false,false,false,false
 1.0.65.81,Hiroshima,Hiroshima,34,Japan,JP,Asia,AS,34.4,132.45,Asia/Tokyo,730-0011,AS18144,"Enecom,Inc.",enecom.co.jp,isp,false,false,false,false,false
-1.0.65.82/31,Kodaira,Tokyo,13,Japan,JP,Asia,AS,35.72603,139.48508,Asia/Tokyo,344-0105,AS18144,"Enecom,Inc.",enecom.co.jp,isp,false,false,false,false,false
+1.0.65.82/31,Hiroshima,Hiroshima,34,Japan,JP,Asia,AS,34.4,132.45,Asia/Tokyo,730-0011,AS18144,"Enecom,Inc.",enecom.co.jp,isp,false,false,false,false,false
 1.0.65.84/30,Hiroshima,Hiroshima,34,Japan,JP,Asia,AS,34.4,132.45,Asia/Tokyo,730-0011,AS18144,"Enecom,Inc.",enecom.co.jp,isp,false,false,false,false,false
 1.0.65.88/29,Hiroshima,Hiroshima,34,Japan,JP,Asia,AS,34.4,132.45,Asia/Tokyo,730-0011,AS18144,"Enecom,Inc.",enecom.co.jp,isp,false,false,false,false,false
-1.0.65.96/28,Hiroshima,Hiroshima,34,Japan,JP,Asia,AS,34.4,132.45,Asia/Tokyo,730-0011,AS18144,"Enecom,Inc.",enecom.co.jp,isp,false,false,false,false,false
-1.0.65.112/31,Hiroshima,Hiroshima,34,Japan,JP,Asia,AS,34.4,132.45,Asia/Tokyo,730-0011,AS18144,"Enecom,Inc.",enecom.co.jp,isp,false,false,false,false,false
-1.0.65.114/31,Yamanashi,Yamanashi,19,Japan,JP,Asia,AS,35.67152,138.69827,Asia/Tokyo,405-0021,AS18144,"Enecom,Inc.",enecom.co.jp,isp,false,false,false,false,false
-1.0.65.116/30,Hiroshima,Hiroshima,34,Japan,JP,Asia,AS,34.4,132.45,Asia/Tokyo,730-0011,AS18144,"Enecom,Inc.",enecom.co.jp,isp,false,false,false,false,false
-1.0.65.120/31,Kita,Tokyo,13,Japan,JP,Asia,AS,35.75264,139.73348,Asia/Tokyo,186-0001,AS18144,"Enecom,Inc.",enecom.co.jp,isp,false,false,false,false,false
-1.0.65.122/31,Hiroshima,Hiroshima,34,Japan,JP,Asia,AS,34.4,132.45,Asia/Tokyo,730-0011,AS18144,"Enecom,Inc.",enecom.co.jp,isp,false,false,false,false,false
-1.0.65.124/30,Hiroshima,Hiroshima,34,Japan,JP,Asia,AS,34.4,132.45,Asia/Tokyo,730-0011,AS18144,"Enecom,Inc.",enecom.co.jp,isp,false,false,false,false,false
-1.0.65.128/30,Hiroshima,Hiroshima,34,Japan,JP,Asia,AS,34.4,132.45,Asia/Tokyo,730-0011,AS18144,"Enecom,Inc.",enecom.co.jp,isp,false,false,false,false,false
-1.0.65.132,Hiroshima,Hiroshima,34,Japan,JP,Asia,AS,34.4,132.45,Asia/Tokyo,730-0011,AS18144,"Enecom,Inc.",enecom.co.jp,isp,false,false,false,false,false
-1.0.65.133,Kisarazu,Chiba,12,Japan,JP,Asia,AS,35.38329,139.93254,Asia/Tokyo,292-0056,AS18144,"Enecom,Inc.",enecom.co.jp,isp,false,false,false,false,false
-1.0.65.134/31,Hiroshima,Hiroshima,34,Japan,JP,Asia,AS,34.4,132.45,Asia/Tokyo,730-0011,AS18144,"Enecom,Inc.",enecom.co.jp,isp,false,false,false,false,false
-1.0.65.136/30,Hiroshima,Hiroshima,34,Japan,JP,Asia,AS,34.4,132.45,Asia/Tokyo,730-0011,AS18144,"Enecom,Inc.",enecom.co.jp,isp,false,false,false,false,false
-1.0.65.140/30,Tokyo,Tokyo,13,Japan,JP,Asia,AS,35.6895,139.69171,Asia/Tokyo,101-8656,AS18144,"Enecom,Inc.",enecom.co.jp,isp,false,false,false,false,false
-1.0.65.144/28,Hiroshima,Hiroshima,34,Japan,JP,Asia,AS,34.4,132.45,Asia/Tokyo,730-0011,AS18144,"Enecom,Inc.",enecom.co.jp,isp,false,false,false,false,false
-1.0.65.160/27,Hiroshima,Hiroshima,34,Japan,JP,Asia,AS,34.4,132.45,Asia/Tokyo,730-0011,AS18144,"Enecom,Inc.",enecom.co.jp,isp,false,false,false,false,false
-1.0.65.192/26,Hiroshima,Hiroshima,34,Japan,JP,Asia,AS,34.4,132.45,Asia/Tokyo,730-0011,AS18144,"Enecom,Inc.",enecom.co.jp,isp,false,false,false,false,false
+1.0.65.96/27,Hiroshima,Hiroshima,34,Japan,JP,Asia,AS,34.4,132.45,Asia/Tokyo,730-0011,AS18144,"Enecom,Inc.",enecom.co.jp,isp,false,false,false,false,false
+1.0.65.128/25,Hiroshima,Hiroshima,34,Japan,JP,Asia,AS,34.4,132.45,Asia/Tokyo,730-0011,AS18144,"Enecom,Inc.",enecom.co.jp,isp,false,false,false,false,false
 1.0.66.0/25,Hiroshima,Hiroshima,34,Japan,JP,Asia,AS,34.4,132.45,Asia/Tokyo,730-0011,AS18144,"Enecom,Inc.",enecom.co.jp,isp,false,false,false,false,false
 1.0.66.128/26,Hiroshima,Hiroshima,34,Japan,JP,Asia,AS,34.4,132.45,Asia/Tokyo,730-0011,AS18144,"Enecom,Inc.",enecom.co.jp,isp,false,false,false,false,false
 1.0.66.192/27,Hiroshima,Hiroshima,34,Japan,JP,Asia,AS,34.4,132.45,Asia/Tokyo,730-0011,AS18144,"Enecom,Inc.",enecom.co.jp,isp,false,false,false,false,false
@@ -88,14 +77,25 @@ network,city,region,region_code,country,country_code,continent,continent_code,la
 1.0.67.168/29,Hiroshima,Hiroshima,34,Japan,JP,Asia,AS,34.4,132.45,Asia/Tokyo,730-0011,AS18144,"Enecom,Inc.",enecom.co.jp,isp,false,false,false,false,false
 1.0.67.176/28,Hiroshima,Hiroshima,34,Japan,JP,Asia,AS,34.4,132.45,Asia/Tokyo,730-0011,AS18144,"Enecom,Inc.",enecom.co.jp,isp,false,false,false,false,false
 1.0.67.192/26,Hiroshima,Hiroshima,34,Japan,JP,Asia,AS,34.4,132.45,Asia/Tokyo,730-0011,AS18144,"Enecom,Inc.",enecom.co.jp,isp,false,false,false,false,false
-1.0.68.0/25,Hiroshima,Hiroshima,34,Japan,JP,Asia,AS,34.4,132.45,Asia/Tokyo,730-0011,AS18144,"Enecom,Inc.",enecom.co.jp,isp,false,false,false,false,false
-1.0.68.128/26,Hiroshima,Hiroshima,34,Japan,JP,Asia,AS,34.4,132.45,Asia/Tokyo,730-0011,AS18144,"Enecom,Inc.",enecom.co.jp,isp,false,false,false,false,false
-1.0.68.192/28,Hiroshima,Hiroshima,34,Japan,JP,Asia,AS,34.4,132.45,Asia/Tokyo,730-0011,AS18144,"Enecom,Inc.",enecom.co.jp,isp,false,false,false,false,false
-1.0.68.208/29,Hiroshima,Hiroshima,34,Japan,JP,Asia,AS,34.4,132.45,Asia/Tokyo,730-0011,AS18144,"Enecom,Inc.",enecom.co.jp,isp,false,false,false,false,false
-1.0.68.216/30,Hiroshima,Hiroshima,34,Japan,JP,Asia,AS,34.4,132.45,Asia/Tokyo,730-0011,AS18144,"Enecom,Inc.",enecom.co.jp,isp,false,false,false,false,false
-1.0.68.220/31,Hiroshima,Hiroshima,34,Japan,JP,Asia,AS,34.4,132.45,Asia/Tokyo,730-0011,AS18144,"Enecom,Inc.",enecom.co.jp,isp,false,false,false,false,false
-1.0.68.222/31,Mejiro,Tokyo,13,Japan,JP,Asia,AS,35.7242,139.70358,Asia/Tokyo,171-0031,AS18144,"Enecom,Inc.",enecom.co.jp,isp,false,false,false,false,false
-1.0.68.224/27,Hiroshima,Hiroshima,34,Japan,JP,Asia,AS,34.4,132.45,Asia/Tokyo,730-0011,AS18144,"Enecom,Inc.",enecom.co.jp,isp,false,false,false,false,false
+1.0.68.0/24,Hiroshima,Hiroshima,34,Japan,JP,Asia,AS,34.4,132.45,Asia/Tokyo,730-0011,AS18144,"Enecom,Inc.",enecom.co.jp,isp,false,false,false,false,false
 1.0.69.0/26,Hiroshima,Hiroshima,34,Japan,JP,Asia,AS,34.4,132.45,Asia/Tokyo,730-0011,AS18144,"Enecom,Inc.",enecom.co.jp,isp,false,false,false,false,false
 1.0.69.64/27,Hiroshima,Hiroshima,34,Japan,JP,Asia,AS,34.4,132.45,Asia/Tokyo,730-0011,AS18144,"Enecom,Inc.",enecom.co.jp,isp,false,false,false,false,false
 1.0.69.96/29,Hiroshima,Hiroshima,34,Japan,JP,Asia,AS,34.4,132.45,Asia/Tokyo,730-0011,AS18144,"Enecom,Inc.",enecom.co.jp,isp,false,false,false,false,false
+1.0.69.104/31,Hiroshima,Hiroshima,34,Japan,JP,Asia,AS,34.4,132.45,Asia/Tokyo,730-0011,AS18144,"Enecom,Inc.",enecom.co.jp,isp,false,false,false,false,false
+1.0.69.106,Hiroshima,Hiroshima,34,Japan,JP,Asia,AS,34.4,132.45,Asia/Tokyo,730-0011,AS18144,"Enecom,Inc.",enecom.co.jp,isp,true,false,false,false,false
+1.0.69.107,Hiroshima,Hiroshima,34,Japan,JP,Asia,AS,34.4,132.45,Asia/Tokyo,730-0011,AS18144,"Enecom,Inc.",enecom.co.jp,isp,false,false,false,false,false
+1.0.69.108/30,Hiroshima,Hiroshima,34,Japan,JP,Asia,AS,34.4,132.45,Asia/Tokyo,730-0011,AS18144,"Enecom,Inc.",enecom.co.jp,isp,false,false,false,false,false
+1.0.69.112/28,Hiroshima,Hiroshima,34,Japan,JP,Asia,AS,34.4,132.45,Asia/Tokyo,730-0011,AS18144,"Enecom,Inc.",enecom.co.jp,isp,false,false,false,false,false
+1.0.69.128/26,Hiroshima,Hiroshima,34,Japan,JP,Asia,AS,34.4,132.45,Asia/Tokyo,730-0011,AS18144,"Enecom,Inc.",enecom.co.jp,isp,false,false,false,false,false
+1.0.69.192/27,Hiroshima,Hiroshima,34,Japan,JP,Asia,AS,34.4,132.45,Asia/Tokyo,730-0011,AS18144,"Enecom,Inc.",enecom.co.jp,isp,false,false,false,false,false
+1.0.69.224/28,Hiroshima,Hiroshima,34,Japan,JP,Asia,AS,34.4,132.45,Asia/Tokyo,730-0011,AS18144,"Enecom,Inc.",enecom.co.jp,isp,false,false,false,false,false
+1.0.69.240/30,Hiroshima,Hiroshima,34,Japan,JP,Asia,AS,34.4,132.45,Asia/Tokyo,730-0011,AS18144,"Enecom,Inc.",enecom.co.jp,isp,false,false,false,false,false
+1.0.69.244/31,Hiroshima,Hiroshima,34,Japan,JP,Asia,AS,34.4,132.45,Asia/Tokyo,730-0011,AS18144,"Enecom,Inc.",enecom.co.jp,isp,false,false,false,false,false
+1.0.69.246,Hiroshima,Hiroshima,34,Japan,JP,Asia,AS,34.4,132.45,Asia/Tokyo,730-0011,AS18144,"Enecom,Inc.",enecom.co.jp,isp,false,false,false,false,false
+1.0.69.247,Hiroshima,Hiroshima,34,Japan,JP,Asia,AS,34.4,132.45,Asia/Tokyo,730-0011,AS18144,"Enecom,Inc.",enecom.co.jp,isp,true,false,false,false,false
+1.0.69.248/29,Hiroshima,Hiroshima,34,Japan,JP,Asia,AS,34.4,132.45,Asia/Tokyo,730-0011,AS18144,"Enecom,Inc.",enecom.co.jp,isp,false,false,false,false,false
+1.0.70.0/26,Hiroshima,Hiroshima,34,Japan,JP,Asia,AS,34.4,132.45,Asia/Tokyo,730-0011,AS18144,"Enecom,Inc.",enecom.co.jp,isp,false,false,false,false,false
+1.0.70.64/28,Hiroshima,Hiroshima,34,Japan,JP,Asia,AS,34.4,132.45,Asia/Tokyo,730-0011,AS18144,"Enecom,Inc.",enecom.co.jp,isp,false,false,false,false,false
+1.0.70.80/31,Hiroshima,Hiroshima,34,Japan,JP,Asia,AS,34.4,132.45,Asia/Tokyo,730-0011,AS18144,"Enecom,Inc.",enecom.co.jp,isp,false,false,false,false,false
+1.0.70.82,Hiroshima,Hiroshima,34,Japan,JP,Asia,AS,34.4,132.45,Asia/Tokyo,730-0011,AS18144,"Enecom,Inc.",enecom.co.jp,isp,false,false,false,false,false
+1.0.70.83,Hiroshima,Hiroshima,34,Japan,JP,Asia,AS,34.4,132.45,Asia/Tokyo,730-0011,AS18144,"Enecom,Inc.",enecom.co.jp,isp,true,false,false,false,false

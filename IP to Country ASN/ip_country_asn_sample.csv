@@ -41,7 +41,9 @@ start_ip,end_ip,country,country_name,continent,continent_name,asn,as_name,as_dom
 1.6.229.0,1.6.230.255,IN,India,AS,Asia,AS4755,TATA Communications formerly VSNL is Leading ISP,tatacommunications.com
 1.6.231.0,1.7.0.255,IN,India,AS,Asia,AS9583,Sify Limited,sifycorp.com
 1.7.1.0,1.7.2.255,IN,India,AS,Asia,,,
-1.7.3.0,1.7.23.255,IN,India,AS,Asia,AS9583,Sify Limited,sifycorp.com
+1.7.3.0,1.7.4.0,IN,India,AS,Asia,AS9583,Sify Limited,sifycorp.com
+1.7.4.1,1.7.4.1,ZA,South Africa,AF,Africa,AS9583,Sify Limited,sifycorp.com
+1.7.4.2,1.7.23.255,IN,India,AS,Asia,AS9583,Sify Limited,sifycorp.com
 1.7.24.0,1.7.24.255,IN,India,AS,Asia,AS133388,IMS Health India Pvt Ltd,imshealth.com
 1.7.25.0,1.7.55.255,IN,India,AS,Asia,AS9583,Sify Limited,sifycorp.com
 1.7.56.0,1.7.59.255,IN,India,AS,Asia,,,
@@ -73,11 +75,9 @@ start_ip,end_ip,country,country_name,continent,continent_name,asn,as_name,as_dom
 1.8.9.0,1.8.255.255,CN,China,AS,Asia,,,
 1.9.0.0,1.9.70.255,MY,Malaysia,AS,Asia,AS4788,TM TECHNOLOGY SERVICES SDN. BHD.,tm.com.my
 1.9.71.0,1.9.71.31,HK,Hong Kong,AS,Asia,AS4788,TM TECHNOLOGY SERVICES SDN. BHD.,tm.com.my
-1.9.71.32,1.9.241.31,MY,Malaysia,AS,Asia,AS4788,TM TECHNOLOGY SERVICES SDN. BHD.,tm.com.my
-1.9.241.32,1.9.241.39,HK,Hong Kong,AS,Asia,AS4788,TM TECHNOLOGY SERVICES SDN. BHD.,tm.com.my
-1.9.241.40,1.9.241.87,MY,Malaysia,AS,Asia,AS4788,TM TECHNOLOGY SERVICES SDN. BHD.,tm.com.my
-1.9.241.88,1.9.241.95,HK,Hong Kong,AS,Asia,AS4788,TM TECHNOLOGY SERVICES SDN. BHD.,tm.com.my
-1.9.241.96,1.9.241.225,MY,Malaysia,AS,Asia,AS4788,TM TECHNOLOGY SERVICES SDN. BHD.,tm.com.my
+1.9.71.32,1.9.241.93,MY,Malaysia,AS,Asia,AS4788,TM TECHNOLOGY SERVICES SDN. BHD.,tm.com.my
+1.9.241.94,1.9.241.94,HK,Hong Kong,AS,Asia,AS4788,TM TECHNOLOGY SERVICES SDN. BHD.,tm.com.my
+1.9.241.95,1.9.241.225,MY,Malaysia,AS,Asia,AS4788,TM TECHNOLOGY SERVICES SDN. BHD.,tm.com.my
 1.9.241.226,1.9.241.226,ID,Indonesia,AS,Asia,AS4788,TM TECHNOLOGY SERVICES SDN. BHD.,tm.com.my
 1.9.241.227,1.9.241.229,MY,Malaysia,AS,Asia,AS4788,TM TECHNOLOGY SERVICES SDN. BHD.,tm.com.my
 1.9.241.230,1.9.241.230,RE,Reunion,AF,Africa,AS4788,TM TECHNOLOGY SERVICES SDN. BHD.,tm.com.my
@@ -88,7 +88,8 @@ start_ip,end_ip,country,country_name,continent,continent_name,asn,as_name,as_dom
 1.9.244.64,1.9.244.89,MY,Malaysia,AS,Asia,AS4788,TM TECHNOLOGY SERVICES SDN. BHD.,tm.com.my
 1.9.244.90,1.9.244.90,RE,Reunion,AF,Africa,AS4788,TM TECHNOLOGY SERVICES SDN. BHD.,tm.com.my
 1.9.244.91,1.9.244.144,MY,Malaysia,AS,Asia,AS4788,TM TECHNOLOGY SERVICES SDN. BHD.,tm.com.my
-1.9.244.145,1.9.244.146,TH,Thailand,AS,Asia,AS4788,TM TECHNOLOGY SERVICES SDN. BHD.,tm.com.my
+1.9.244.145,1.9.244.145,TH,Thailand,AS,Asia,AS4788,TM TECHNOLOGY SERVICES SDN. BHD.,tm.com.my
+1.9.244.146,1.9.244.146,VN,Vietnam,AS,Asia,AS4788,TM TECHNOLOGY SERVICES SDN. BHD.,tm.com.my
 1.9.244.147,1.9.253.37,MY,Malaysia,AS,Asia,AS4788,TM TECHNOLOGY SERVICES SDN. BHD.,tm.com.my
 1.9.253.38,1.9.253.38,PK,Pakistan,AS,Asia,AS4788,TM TECHNOLOGY SERVICES SDN. BHD.,tm.com.my
 1.9.253.39,1.9.255.255,MY,Malaysia,AS,Asia,AS4788,TM TECHNOLOGY SERVICES SDN. BHD.,tm.com.my
@@ -98,4 +99,3 @@ start_ip,end_ip,country,country_name,continent,continent_name,asn,as_name,as_dom
 1.10.128.0,1.10.134.255,TH,Thailand,AS,Asia,AS23969,TOT Public Company Limited,ntplc.co.th
 1.10.135.0,1.10.135.255,TH,Thailand,AS,Asia,AS23974,Ministry of education,moe.go.th
 1.10.136.0,1.10.255.255,TH,Thailand,AS,Asia,AS23969,TOT Public Company Limited,ntplc.co.th
-1.11.0.0,1.11.7.255,KR,South Korea,AS,Asia,AS18313,LG HelloVision Corp.,lghellovision.net

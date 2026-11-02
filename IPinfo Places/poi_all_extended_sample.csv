@@ -14,7 +14,7 @@ ip,bssid,ssid,category,name,brand,city,region,country_code,latitude,longitude
 1.0.141.25,"68:9e:29:46:4b:d3,c4:27:28:42:4f:09,9c:63:5b:fd:11:b4",TDV4 S30_2.4G,hotel,Thailand Dream Village 3,,Ban Phe,Rayong,TH,12.6413,101.4759
 1.0.141.26,02:00:00:00:00:00,PEGGYS COVE,hotel,Peggy's Cove Resort,,Tha Mai,Chanthaburi,TH,12.6051,101.8753
 1.0.141.32,"68:9e:29:46:4b:d3,98:00:6a:68:cb:82,9c:63:5b:fd:11:b4",TDV4 S30_2.4G,hotel,Thailand Dream Village 3,,Ban Phe,Rayong,TH,12.6413,101.4759
-1.0.141.36,"48:81:d4:4e:b9:10,b4:fb:e4:35:7b:1a,48:81:d4:4e:bc:5d,4a:81:d4:8e:94:36",Sunshine Vista,hotel,Sunshine Vista,,Pattaya,Chon Buri,TH,12.9452,100.8876
+1.0.141.36,"d8:07:b6:e0:c5:1a,48:81:d4:4e:b9:10,b4:fb:e4:35:7b:1a,48:81:d4:4e:bc:5d,4a:81:d4:8e:94:36",Sunshine Vista,hotel,Sunshine Vista,,Pattaya,Chon Buri,TH,12.9452,100.8876
 1.0.141.37,"68:9e:29:56:4b:d2,68:9e:29:46:4b:d3,98:da:c4:6d:2c:63",TDV4 S30_2.4G,hotel,Thailand Dream Village 3,,Ban Phe,Rayong,TH,12.6413,101.4759
 1.0.141.42,fa:e2:c6:2b:3a:e1,Hotel Tropicana,hotel,Hotel Tropicana,,Pattaya,Chon Buri,TH,12.9414,100.8862
 1.0.141.45,34:36:54:81:37:16,Lisaguesthouse,hotel,Lisa's Guesthouse,,Pattaya,Chon Buri,TH,12.8873,100.8802
@@ -88,7 +88,7 @@ ip,bssid,ssid,category,name,brand,city,region,country_code,latitude,longitude
 1.0.146.219,d8:0d:17:c1:7a:41,Amonhouse 4_5G,hotel,Amon House,,Ko Samui,Surat Thani,TH,9.5242,100.0557
 1.0.146.235,,Chumphon Diving_2.4G,travel_agency,Chumphon Diving and Sport Center,,Chumphon,Chumphon,TH,10.558,99.2739
 1.0.146.254,"ac:84:c6:0b:c5:3f,e4:60:4d:4f:c9:d3,e4:60:4d:4f:c9:d2,78:44:76:ed:91:b0",consin-5G,hotel,Cousin Resort,,Ban Khao Lak,Phang Nga,TH,8.669,98.2445
-1.0.147.25,"88:d2:74:ca:b8:46,ec:f0:fe:80:8e:e7,f2:9f:c2:91:c7:57",Green Mountain_5G,hotel,Green Mountain Resort,,Ban Phru Nai,Phang Nga,TH,8.0243,98.5919
+1.0.147.25,"88:d2:74:ca:b8:46,24:7e:51:8c:77:6e,ec:f0:fe:80:8e:e7,f2:9f:c2:91:c7:57",Green Mountain_5G,hotel,Green Mountain Resort,,Ban Phru Nai,Phang Nga,TH,8.0243,98.5919
 1.0.147.37,"1c:3c:d4:0c:d7:70,b8:ec:a3:e1:17:b5,b8:ec:a3:e1:17:d0,b8:ec:a3:e1:17:cd,1c:3c:d4:0d:2a:90,08:3f:bc:cc:ba:1a,78:44:76:a7:88:5c,1c:3c:d4:0c:d7:60,1c:3c:d4:0c:a6:30,1c:3c:d4:0c:c4:30,1c:3c:d4:0d:2a:80",Kee Guest WiFi,hotel,The Kee Resort,,Kathu,Phuket,TH,7.895,98.2974
 1.0.147.55,88:dc:96:19:d6:ba,Ilmara WiFi-5,hotel,Il Mare Resort,,Ko Lanta,Krabi,TH,7.548,99.0457
 1.0.147.70,"78:44:76:bf:1d:60,98:da:c4:6d:3b:57,30:42:40:8a:07:58,d8:0d:17:c1:4f:b5",NT@Auntluan.96 5G,personal_care,98 Barber Shop,,Nakhon Si Thammarat,Nakhon Si Thammarat,TH,8.4239,99.9654
