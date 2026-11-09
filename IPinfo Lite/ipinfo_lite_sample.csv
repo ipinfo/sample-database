@@ -11,21 +11,7 @@ network,country,country_code,continent,continent_code,asn,as_name,as_domain
 1.0.24.0/21,Japan,JP,Asia,AS,,,
 1.0.32.0/19,China,CN,Asia,AS,,,
 1.0.64.0/18,Japan,JP,Asia,AS,AS18144,"Enecom,Inc.",enecom.co.jp
-1.0.128.0/19,Thailand,TH,Asia,AS,AS23969,TOT Public Company Limited,ntplc.co.th
-1.0.160.0/21,Thailand,TH,Asia,AS,AS23969,TOT Public Company Limited,ntplc.co.th
-1.0.168.0/25,Thailand,TH,Asia,AS,AS23969,TOT Public Company Limited,ntplc.co.th
-1.0.168.128/27,Thailand,TH,Asia,AS,AS23969,TOT Public Company Limited,ntplc.co.th
-1.0.168.160/29,Thailand,TH,Asia,AS,AS23969,TOT Public Company Limited,ntplc.co.th
-1.0.168.168/30,Thailand,TH,Asia,AS,AS23969,TOT Public Company Limited,ntplc.co.th
-1.0.168.172,India,IN,Asia,AS,AS23969,TOT Public Company Limited,ntplc.co.th
-1.0.168.173,Thailand,TH,Asia,AS,AS23969,TOT Public Company Limited,ntplc.co.th
-1.0.168.174/31,Thailand,TH,Asia,AS,AS23969,TOT Public Company Limited,ntplc.co.th
-1.0.168.176/28,Thailand,TH,Asia,AS,AS23969,TOT Public Company Limited,ntplc.co.th
-1.0.168.192/26,Thailand,TH,Asia,AS,AS23969,TOT Public Company Limited,ntplc.co.th
-1.0.169.0/24,Thailand,TH,Asia,AS,AS23969,TOT Public Company Limited,ntplc.co.th
-1.0.170.0/23,Thailand,TH,Asia,AS,AS23969,TOT Public Company Limited,ntplc.co.th
-1.0.172.0/22,Thailand,TH,Asia,AS,AS23969,TOT Public Company Limited,ntplc.co.th
-1.0.176.0/20,Thailand,TH,Asia,AS,AS23969,TOT Public Company Limited,ntplc.co.th
+1.0.128.0/18,Thailand,TH,Asia,AS,AS23969,TOT Public Company Limited,ntplc.co.th
 1.0.192.0/22,Thailand,TH,Asia,AS,AS23969,TOT Public Company Limited,ntplc.co.th
 1.0.196.0/24,Thailand,TH,Asia,AS,AS23969,TOT Public Company Limited,ntplc.co.th
 1.0.197.0/24,Thailand,TH,Asia,AS,AS23974,Ministry of education,moe.go.th
@@ -54,7 +40,7 @@ network,country,country_code,continent,continent_code,asn,as_name,as_domain
 1.2.0.0/23,China,CN,Asia,AS,,,
 1.2.2.0/24,China,CN,Asia,AS,,,
 1.2.3.0/24,Ukraine,UA,Europe,EU,,,
-1.2.4.0/24,China,CN,Asia,AS,AS24406,China Internet Network Infomation Center,
+1.2.4.0/24,China,CN,Asia,AS,AS24151,China Internet Network Infomation Center,
 1.2.5.0/24,China,CN,Asia,AS,,,
 1.2.6.0/23,China,CN,Asia,AS,,,
 1.2.8.0/21,China,CN,Asia,AS,,,
@@ -72,23 +58,7 @@ network,country,country_code,continent,continent_code,asn,as_name,as_domain
 1.4.32.0/19,China,CN,Asia,AS,,,
 1.4.64.0/18,China,CN,Asia,AS,,,
 1.4.128.0/17,Thailand,TH,Asia,AS,AS23969,TOT Public Company Limited,ntplc.co.th
-1.5.0.0/22,Japan,JP,Asia,AS,AS4725,SoftBank Corp.,softbank.jp
-1.5.4.0,Japan,JP,Asia,AS,AS4725,SoftBank Corp.,softbank.jp
-1.5.4.1,South Africa,ZA,Africa,AF,AS4725,SoftBank Corp.,softbank.jp
-1.5.4.2/31,Japan,JP,Asia,AS,AS4725,SoftBank Corp.,softbank.jp
-1.5.4.4/30,Japan,JP,Asia,AS,AS4725,SoftBank Corp.,softbank.jp
-1.5.4.8/29,Japan,JP,Asia,AS,AS4725,SoftBank Corp.,softbank.jp
-1.5.4.16/28,Japan,JP,Asia,AS,AS4725,SoftBank Corp.,softbank.jp
-1.5.4.32/27,Japan,JP,Asia,AS,AS4725,SoftBank Corp.,softbank.jp
-1.5.4.64/26,Japan,JP,Asia,AS,AS4725,SoftBank Corp.,softbank.jp
-1.5.4.128/25,Japan,JP,Asia,AS,AS4725,SoftBank Corp.,softbank.jp
-1.5.5.0/24,Japan,JP,Asia,AS,AS4725,SoftBank Corp.,softbank.jp
-1.5.6.0/23,Japan,JP,Asia,AS,AS4725,SoftBank Corp.,softbank.jp
-1.5.8.0/21,Japan,JP,Asia,AS,AS4725,SoftBank Corp.,softbank.jp
-1.5.16.0/20,Japan,JP,Asia,AS,AS4725,SoftBank Corp.,softbank.jp
-1.5.32.0/19,Japan,JP,Asia,AS,AS4725,SoftBank Corp.,softbank.jp
-1.5.64.0/18,Japan,JP,Asia,AS,AS4725,SoftBank Corp.,softbank.jp
-1.5.128.0/17,Japan,JP,Asia,AS,AS4725,SoftBank Corp.,softbank.jp
+1.5.0.0/16,Japan,JP,Asia,AS,AS4725,SoftBank Corp.,softbank.jp
 1.6.0.0/23,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
 1.6.2.0,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
 1.6.2.1,South Africa,ZA,Africa,AF,AS9583,Sify Limited,sifycorp.com
@@ -99,3 +69,33 @@ network,country,country_code,continent,continent_code,asn,as_name,as_domain
 1.6.2.32/27,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
 1.6.2.64/26,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
 1.6.2.128/25,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.3.0/24,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.4.0/22,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.8.0/21,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.16.0/20,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.32.0/19,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.64.0/18,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.128.0/21,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.136.0/24,India,IN,Asia,AS,AS132215,Powergrid Teleservices Limited,powergrid.in
+1.6.137.0/24,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.138.0/23,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.140.0/22,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.144.0/20,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.160.0/19,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.192.0/19,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.224.0/23,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.226.0/23,India,IN,Asia,AS,AS132215,Powergrid Teleservices Limited,powergrid.in
+1.6.228.0/24,India,IN,Asia,AS,AS132215,Powergrid Teleservices Limited,powergrid.in
+1.6.229.0/24,India,IN,Asia,AS,AS4755,TATA Communications formerly VSNL is Leading ISP,tatacommunications.com
+1.6.230.0/24,India,IN,Asia,AS,AS4755,TATA Communications formerly VSNL is Leading ISP,tatacommunications.com
+1.6.231.0/24,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.232.0/21,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.6.240.0/20,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.0.0/24,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.1.0/24,India,IN,Asia,AS,,,
+1.7.2.0/24,India,IN,Asia,AS,,,
+1.7.3.0/24,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.4.0,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.4.1,South Africa,ZA,Africa,AF,AS9583,Sify Limited,sifycorp.com
+1.7.4.2/31,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
+1.7.4.4/30,India,IN,Asia,AS,AS9583,Sify Limited,sifycorp.com
