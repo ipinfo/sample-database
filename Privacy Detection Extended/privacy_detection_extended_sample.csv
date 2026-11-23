@@ -1,101 +1,101 @@
 start_ip,end_ip,hosting,proxy,tor,vpn,vpn_name,anycast,census,device_activity,whois,vpn_config,census_port,relay
-2606:40:2056:e000::,2606:40:2056:e3ff:ffff:ffff:ffff:ffff,true,,,,Google One VPN,false,,,,,,true
-2a09:bac1:68c0::,2a09:bac1:68c0:0:ffff:ffff:ffff:ffff,true,,,,Cloudflare WARP,false,,,,,,true
-2a09:bac1:36a0:19b8::,2a09:bac1:36a0:19b8:ffff:ffff:ffff:ffff,true,,,,Cloudflare WARP,false,,,,,,true
-2a09:bac1:1480:4a18::,2a09:bac1:1480:4a18:ffff:ffff:ffff:ffff,true,,,,Cloudflare WARP,false,,,,,,true
-2a09:bac1:37e0:60::,2a09:bac1:37e0:60:ffff:ffff:ffff:ffff,true,,,,Cloudflare WARP,false,,,,,,true
-2a09:bac1:76a1:27d0::,2a09:bac1:76a1:27d0:ffff:ffff:ffff:ffff,true,,,,Cloudflare WARP,false,,,,,,true
-2a09:bac1:76e1:4990::,2a09:bac1:76e1:4990:ffff:ffff:ffff:ffff,true,,,,Cloudflare WARP,false,,,,,,true
-2a09:bac1:1981:5060::,2a09:bac1:1981:5060:ffff:ffff:ffff:ffff,true,,,,Cloudflare WARP,false,,,,,,true
-2a09:bac1:76e1:4218::,2a09:bac1:76e1:4218:ffff:ffff:ffff:ffff,true,,,,Cloudflare WARP,false,,,,,,true
-2a09:bac1:14e0:9b8::,2a09:bac1:14e0:9b8:ffff:ffff:ffff:ffff,true,,,,Cloudflare WARP,false,,,,,,true
-2a09:bac1:76e1:3ef0::,2a09:bac1:76e1:3ef0:ffff:ffff:ffff:ffff,true,,,,Cloudflare WARP,false,,,,,,true
-2606:40:22b0:c000::,2606:40:22b0:c3ff:ffff:ffff:ffff:ffff,true,,,,Google One VPN,false,,,,,,true
-2a09:bac1:1480:5bf8::,2a09:bac1:1480:5bf8:ffff:ffff:ffff:ffff,true,,,,Cloudflare WARP,false,,,,,,true
-2a09:bac1:14e0:b28::,2a09:bac1:14e0:b28:ffff:ffff:ffff:ffff,true,,,,Cloudflare WARP,false,,,,,,true
-2a09:bac1:76a0:9760::,2a09:bac1:76a0:9760:ffff:ffff:ffff:ffff,true,,,,Cloudflare WARP,false,,,,,,true
-2606:40:22e9::,2606:40:22e9:3ff:ffff:ffff:ffff:ffff,true,,,,Google One VPN,false,,,,,,true
-2a09:bac1:56e0:8::,2a09:bac1:56e0:8:ffff:ffff:ffff:ffff,true,,,,Cloudflare WARP,false,,,,,,true
-2a09:bac1:76e0:c88::,2a09:bac1:76e0:c88:ffff:ffff:ffff:ffff,true,,,,Cloudflare WARP,false,,,,,,true
-2a09:bac1:5080:3450::,2a09:bac1:5080:3450:ffff:ffff:ffff:ffff,true,,,,Cloudflare WARP,false,,,,,,true
-172.226.126.0,172.226.126.47,true,,,,Apple Private Relay,false,,,,,,true
-2a09:bac1:7680:5f60::,2a09:bac1:7680:5f60:ffff:ffff:ffff:ffff,true,,,,Cloudflare WARP,false,,,,,,true
-2a09:bac1:7681:5990::,2a09:bac1:7681:5990:ffff:ffff:ffff:ffff,true,,,,Cloudflare WARP,false,,,,,,true
-2a09:bac1:76c0:f468::,2a09:bac1:76c0:f468:ffff:ffff:ffff:ffff,true,,,,Cloudflare WARP,false,,,,,,true
-2a09:bac1:7680:b288::,2a09:bac1:7680:b288:ffff:ffff:ffff:ffff,true,,,,Cloudflare WARP,false,,,,,,true
-2a09:bac1:3b20:990::,2a09:bac1:3b20:990:ffff:ffff:ffff:ffff,true,,,,Cloudflare WARP,false,,,,,,true
-2a09:bac1:76a1:2d68::,2a09:bac1:76a1:2d68:ffff:ffff:ffff:ffff,true,,,,Cloudflare WARP,false,,,,,,true
-2a09:bac1:37c0:48::,2a09:bac1:37c0:48:ffff:ffff:ffff:ffff,true,,,,Cloudflare WARP,false,,,,,,true
-2a09:bac1:7680:12b8::,2a09:bac1:7680:12b8:ffff:ffff:ffff:ffff,true,,,,Cloudflare WARP,false,,,,,,true
-2a09:bac1:7681:3b48::,2a09:bac1:7681:3b48:ffff:ffff:ffff:ffff,true,,,,Cloudflare WARP,false,,,,,,true
-2a02:26f7:d94c:4000::,2a02:26f7:d94c:4000:ffff:ffff:ffff:ffff,true,,,,Apple Private Relay,false,,,,,,true
-2a02:26f7:bacc::,2a02:26f7:bacc:62f:ffff:ffff:ffff:ffff,true,,,,Apple Private Relay,false,,,,,,true
-2a09:bac1:1980:88::,2a09:bac1:1980:88:ffff:ffff:ffff:ffff,true,,,,Cloudflare WARP,false,,,,,,true
-2a09:bac1:76a0:c40::,2a09:bac1:76a0:c40:ffff:ffff:ffff:ffff,true,,,,Cloudflare WARP,false,,,,,,true
-2a09:bac1:76c1:76d0::,2a09:bac1:76c1:76d0:ffff:ffff:ffff:ffff,true,,,,Cloudflare WARP,false,,,,,,true
-2a09:bac1:76a1:7a20::,2a09:bac1:76a1:7a20:ffff:ffff:ffff:ffff,true,,,,Cloudflare WARP,false,,,,,,true
-2a02:26f7:b609:4000::,2a02:26f7:b609:4000:ffff:ffff:ffff:ffff,true,,,,Apple Private Relay,false,,,,,,true
-2a09:bac1:7680:b230::,2a09:bac1:7680:b230:ffff:ffff:ffff:ffff,true,,,,Cloudflare WARP,false,,,,,,true
-2a09:bac1:1140:86a0::,2a09:bac1:1140:86a0:ffff:ffff:ffff:ffff,true,,,,Cloudflare WARP,false,,,,,,true
-2a09:bac1:14a0:56e8::,2a09:bac1:14a0:56e8:ffff:ffff:ffff:ffff,true,,,,Cloudflare WARP,false,,,,,,true
-2a09:bac1:1120:9460::,2a09:bac1:1120:9460:ffff:ffff:ffff:ffff,true,,,,Cloudflare WARP,false,,,,,,true
-2606:40:21f0:2000::,2606:40:21f0:23ff:ffff:ffff:ffff:ffff,true,,,,Google One VPN,false,,,,,,true
-2a09:bac1:23a0:68::,2a09:bac1:23a0:68:ffff:ffff:ffff:ffff,true,,,,Cloudflare WARP,false,,,,,,true
-2a09:bac1:76e0:678::,2a09:bac1:76e0:678:ffff:ffff:ffff:ffff,true,,,,Cloudflare WARP,false,,,,,,true
-2a09:bac1:19a0:8888::,2a09:bac1:19a0:8888:ffff:ffff:ffff:ffff,true,,,,Cloudflare WARP,false,,,,,,true
-2a02:26f7:b366:4000::,2a02:26f7:b366:4000:ffff:ffff:ffff:ffff,true,,,,Apple Private Relay,false,,,,,,true
-2a09:bac1:76a1:38b0::,2a09:bac1:76a1:38b0:ffff:ffff:ffff:ffff,true,,,,Cloudflare WARP,false,,,,,,true
-2606:40:2323:e000::,2606:40:2323:e3ff:ffff:ffff:ffff:ffff,true,,,,Google One VPN,false,,,,,,true
-2a09:bac1:1120:3c00::,2a09:bac1:1120:3c00:ffff:ffff:ffff:ffff,true,,,,Cloudflare WARP,false,,,,,,true
-2a09:bac1:3420::,2a09:bac1:3420:0:ffff:ffff:ffff:ffff,true,,,,Cloudflare WARP,false,,,,,,true
-2a09:bac1:76a0:3018::,2a09:bac1:76a0:3018:ffff:ffff:ffff:ffff,true,,,,Cloudflare WARP,false,,,,,,true
-2a09:bac1:76a1:40e0::,2a09:bac1:76a1:40e0:ffff:ffff:ffff:ffff,true,,,,Cloudflare WARP,false,,,,,,true
-2a09:bac1:76c0:9d28::,2a09:bac1:76c0:9d28:ffff:ffff:ffff:ffff,true,,,,Cloudflare WARP,false,,,,,,true
-2a09:bac1:76c0:a570::,2a09:bac1:76c0:a570:ffff:ffff:ffff:ffff,true,,,,Cloudflare WARP,false,,,,,,true
-2a02:26f7:f88d:4000::,2a02:26f7:f88d:4000:ffff:ffff:ffff:ffff,true,,,,Apple Private Relay,false,,,,,,true
-2a09:bac1:1e40:d08::,2a09:bac1:1e40:d08:ffff:ffff:ffff:ffff,true,,,,Cloudflare WARP,false,,,,,,true
-2a09:bac1:76a1:4870::,2a09:bac1:76a1:4870:ffff:ffff:ffff:ffff,true,,,,Cloudflare WARP,false,,,,,,true
-2a02:26f7:ea89:4000::,2a02:26f7:ea89:4000:ffff:ffff:ffff:ffff,true,,,,Apple Private Relay,false,,,,,,true
-2a02:26f7:e982:4000::,2a02:26f7:e982:4000:ffff:ffff:ffff:ffff,true,,,,Apple Private Relay,false,,,,,,true
-104.28.130.63,104.28.130.86,true,,,,Apple Private Relay,false,,,,,,true
-2a09:bac1:7680:2218::,2a09:bac1:7680:2218:ffff:ffff:ffff:ffff,true,,,,Cloudflare WARP,false,,,,,,true
-2a09:bac1:b00::,2a09:bac1:b00:0:ffff:ffff:ffff:ffff,true,,,,Cloudflare WARP,false,,,,,,true
-2a09:bac1:800:21d0::,2a09:bac1:800:21d0:ffff:ffff:ffff:ffff,true,,,,Cloudflare WARP,false,,,,,,true
-2a02:26f7:d785:4000::,2a02:26f7:d785:4000:ffff:ffff:ffff:ffff,true,,,,Apple Private Relay,false,,,,,,true
-2a09:bac1:35c0:10::,2a09:bac1:35c0:10:ffff:ffff:ffff:ffff,true,,,,Cloudflare WARP,false,,,,,,true
-2a09:bac1:76e0:8::,2a09:bac1:76e0:8:ffff:ffff:ffff:ffff,true,,,,Cloudflare WARP,false,,,,,,true
-2a09:bac1:76c1:6e8::,2a09:bac1:76c1:6e8:ffff:ffff:ffff:ffff,true,,,,Cloudflare WARP,false,,,,,,true
-2a09:bac1:7681:6f78::,2a09:bac1:7681:6f78:ffff:ffff:ffff:ffff,true,,,,Cloudflare WARP,false,,,,,,true
-2a09:bac1:76c0:5b8::,2a09:bac1:76c0:5b8:ffff:ffff:ffff:ffff,true,,,,Cloudflare WARP,false,,,,,,true
-2a09:bac1:76c0:1240::,2a09:bac1:76c0:1240:ffff:ffff:ffff:ffff,true,,,,Cloudflare WARP,false,,,,,,true
-2a09:bac1:76a0:a688::,2a09:bac1:76a0:a688:ffff:ffff:ffff:ffff,true,,,,Cloudflare WARP,false,,,,,,true
-2a09:bac1:1e60:15c8::,2a09:bac1:1e60:15c8:ffff:ffff:ffff:ffff,true,,,,Cloudflare WARP,false,,,,,,true
-2a09:bac1:72a0:10::,2a09:bac1:72a0:10:ffff:ffff:ffff:ffff,true,,,,Cloudflare WARP,false,,,,,,true
-2a02:26f7:ec51:4000::,2a02:26f7:ec51:4000:ffff:ffff:ffff:ffff,true,,,,Apple Private Relay,false,,,,,,true
-2606:40:20cb:4000::,2606:40:20cb:43ff:ffff:ffff:ffff:ffff,true,,,,Google One VPN,false,,,,,,true
-2a09:bac1:3b00:e0::,2a09:bac1:3b00:e0:ffff:ffff:ffff:ffff,true,,,,Cloudflare WARP,false,,,,,,true
-8.28.213.0,8.28.213.255,true,,,,Cloudflare WARP,false,,,,,,true
-2a02:26f7:f343:4000::,2a02:26f7:f343:4000:ffff:ffff:ffff:ffff,true,,,,Apple Private Relay,false,,,,,,true
-2606:40:2015:6000::,2606:40:2015:63ff:ffff:ffff:ffff:ffff,true,,,,Google One VPN,false,,,,,,true
-162.120.237.128,162.120.237.191,true,,,,Google One VPN,false,,,,,,true
-2a09:bac1:14e0:5c98::,2a09:bac1:14e0:5c98:ffff:ffff:ffff:ffff,true,,,,Cloudflare WARP,false,,,,,,true
-2a09:bac1:76e1:21d0::,2a09:bac1:76e1:21d0:ffff:ffff:ffff:ffff,true,,,,Cloudflare WARP,false,,,,,,true
-2a09:bac1:1100:1e28::,2a09:bac1:1100:1e28:ffff:ffff:ffff:ffff,true,,,,Cloudflare WARP,false,,,,,,true
-146.75.244.0,146.75.246.21,true,,,,Apple Private Relay,false,,,,,,true
-2a02:26f7:ea48:d800::,2a02:26f7:ea48:d809:ffff:ffff:ffff:ffff,true,,,,Apple Private Relay,false,,,,,,true
-2a02:26f7:ef04:5a09::,2a02:26f7:ef04:5a0a:ffff:ffff:ffff:ffff,true,,,,Apple Private Relay,false,,,,,,true
-2a09:bac1:6480:1008::,2a09:bac1:6480:1008:ffff:ffff:ffff:ffff,true,,,,Cloudflare WARP,false,,,,,,true
-2a09:bac1:76e1:2f70::,2a09:bac1:76e1:2f70:ffff:ffff:ffff:ffff,true,,,,Cloudflare WARP,false,,,,,,true
-2a09:bac1:76a1:33b8::,2a09:bac1:76a1:33b8:ffff:ffff:ffff:ffff,true,,,,Cloudflare WARP,false,,,,,,true
-2a09:bac1:14c0:3780::,2a09:bac1:14c0:3780:ffff:ffff:ffff:ffff,true,,,,Cloudflare WARP,false,,,,,,true
-2a09:bac1:76e1:13d8::,2a09:bac1:76e1:13d8:ffff:ffff:ffff:ffff,true,,,,Cloudflare WARP,false,,,,,,true
-172.226.188.0,172.226.193.103,true,,,,Apple Private Relay,false,,,,,,true
-2606:40:231d:4000::,2606:40:231d:43ff:ffff:ffff:ffff:ffff,true,,,,Google One VPN,false,,,,,,true
-2a09:bac1:76c0:1f68::,2a09:bac1:76c0:1f68:ffff:ffff:ffff:ffff,true,,,,Cloudflare WARP,false,,,,,,true
-2a09:bac1:76e0:df30::,2a09:bac1:76e0:df30:ffff:ffff:ffff:ffff,true,,,,Cloudflare WARP,false,,,,,,true
-2a09:bac1:76e0:ba8::,2a09:bac1:76e0:ba8:ffff:ffff:ffff:ffff,true,,,,Cloudflare WARP,false,,,,,,true
-2a09:bac1:2780:a8::,2a09:bac1:2780:a8:ffff:ffff:ffff:ffff,true,,,,Cloudflare WARP,false,,,,,,true
-2a09:bac1:76c0:2218::,2a09:bac1:76c0:2218:ffff:ffff:ffff:ffff,true,,,,Cloudflare WARP,false,,,,,,true
-2a02:26f7:b688:4000::,2a02:26f7:b688:4000:ffff:ffff:ffff:ffff,true,,,,Apple Private Relay,false,,,,,,true
-146.75.216.0,146.75.216.9,true,,,,Apple Private Relay,false,,,,,,true
-2a02:26f7:e34c:5400::,2a02:26f7:e34c:5453:ffff:ffff:ffff:ffff,true,,,,Apple Private Relay,false,,,,,,true
+1.94.112.3,1.94.112.5,true,,,,,false,false,false,false,false,,
+63.187.141.220,63.187.141.241,true,,,,,false,false,false,false,false,,
+142.91.105.54,142.91.105.62,true,,,,,false,false,false,false,false,,
+52.220.242.33,52.220.242.102,true,,,,,false,false,false,false,false,,
+96.126.120.239,96.126.120.239,true,,,,,false,false,false,false,false,,
+89.219.3.127,89.219.3.255,true,,,,,false,false,false,false,false,,
+47.237.150.196,47.237.150.238,true,,,,,false,false,false,false,false,,
+94.230.51.197,94.230.52.3,true,,,,,false,false,false,false,false,,
+3.151.193.100,3.151.193.147,true,,,,,false,false,false,false,false,,
+54.217.231.32,54.217.231.60,true,,,,,false,false,false,false,false,,
+2606:6080:1001:47:1011:9591:8656:ecc2,2606:6080:1001:47:1011:961f:2220:5ea,true,,,,,false,false,false,false,false,,
+54.67.108.202,54.67.108.211,true,,,,,false,false,false,false,false,,
+165.227.34.13,165.227.34.13,true,,,true,,false,false,false,false,false,,
+2607:6b80:4b:1001::b504,2607:6b80:4b:1001::b507,true,,,,,false,false,false,false,false,,
+52.29.177.207,52.29.177.226,true,,,,,false,false,false,false,false,,
+119.45.19.173,119.45.23.90,true,,,,,false,false,false,false,false,,
+5.161.215.77,5.161.215.142,true,,,,,false,false,false,false,false,,
+16.64.9.218,16.64.10.4,true,,,,,false,false,false,false,false,,
+139.84.171.116,139.84.171.120,true,,,,,false,false,false,false,false,,
+182.43.143.200,182.43.143.221,true,,,,,false,false,false,false,false,,
+3.77.202.39,3.77.202.39,true,,,true,,false,false,false,false,false,,
+155.138.244.251,155.138.244.251,true,,,true,,false,false,true,false,false,,
+18.198.203.239,18.198.203.239,true,,,true,,false,false,true,false,false,,
+18.197.162.250,18.197.162.252,true,,,,,false,false,false,false,false,,
+150.241.103.121,150.241.103.121,true,true,,,,false,false,false,false,false,,
+3.85.200.180,3.85.200.192,true,,,,,false,false,false,false,false,,
+120.46.148.254,120.46.148.254,true,,,,,false,false,false,false,false,,
+172.94.52.70,172.94.52.70,true,,,true,,false,false,true,false,false,,
+52.1.121.72,52.1.121.76,true,,,,,false,false,false,false,false,,
+3.24.79.160,3.24.79.176,true,,,,,false,false,false,false,false,,
+38.207.179.138,38.207.179.138,true,true,,,,false,false,false,false,false,,
+2a02:6ea0:e102:0:1011:779d:b458:c284,2a02:6ea0:e102:0:1011:7915:d403:5553,true,,,,,false,false,false,false,false,,
+14.103.11.60,14.103.11.63,true,,,,,false,false,false,false,false,,
+3.14.32.128,3.14.32.129,true,,,,,false,false,false,false,false,,
+173.255.232.192,173.255.232.192,true,true,,,,false,false,false,false,false,,
+2606:1b40:100:3::924:1002,2606:1b40:100:3::924:1007,true,,,,,false,false,false,false,false,,
+45.63.6.192,45.63.6.195,true,,,,,false,false,false,false,false,,
+104.131.89.51,104.131.89.57,true,,,,,false,false,false,false,false,,
+44.207.184.162,44.207.185.127,true,,,,,false,false,false,false,false,,
+119.28.152.146,119.28.152.148,true,,,,,false,false,false,false,false,,
+95.179.247.124,95.179.247.152,true,,,,,false,false,false,false,false,,
+18.184.52.157,18.184.52.157,true,,,true,,false,false,false,false,false,,
+16.144.118.184,16.144.118.209,true,,,,,false,false,false,false,false,,
+3.97.230.186,3.97.230.212,true,,,,,false,false,false,false,false,,
+95.211.21.71,95.211.27.67,true,,,,,false,false,false,false,false,,
+83.118.224.0,83.118.224.10,true,,,,,false,false,false,false,false,,
+52.192.138.180,52.192.139.65,true,,,,,false,false,false,false,false,,
+149.28.242.207,149.28.242.207,true,,,true,,false,false,true,false,false,,
+167.172.54.133,167.172.54.133,true,,,,,false,false,false,false,false,,
+15.207.212.78,15.207.212.103,true,,,,,false,false,false,false,false,,
+201.79.15.17,201.79.15.17,true,,,true,,false,false,true,false,false,,
+64.204.182.250,64.204.182.250,true,,,true,,false,false,true,false,false,,
+185.140.249.0,185.140.249.255,true,,,,,false,false,false,false,false,,
+16.164.104.157,16.164.104.172,true,,,,,false,false,false,false,false,,
+155.93.137.54,155.93.137.54,,true,,,,false,false,false,false,false,,
+18.189.8.52,18.189.8.57,true,,,,,false,false,false,false,false,,
+5.230.131.35,5.230.131.65,true,,,,,false,false,false,false,false,,
+52.62.31.189,52.62.31.242,true,,,,,false,false,false,false,false,,
+8.235.14.124,8.235.14.159,true,,,,,false,false,false,false,false,,
+16.65.65.100,16.65.65.101,true,,,,,false,false,false,false,false,,
+45.76.227.137,45.76.227.137,true,,,true,,false,false,true,false,false,,
+20.223.47.84,20.223.51.66,true,,,,,false,false,false,false,false,,
+141.148.138.136,141.148.138.164,true,,,,,false,false,false,false,false,,
+18.118.127.120,18.118.127.222,true,,,,,false,false,false,false,false,,
+91.107.179.118,91.107.179.118,true,,,true,,false,false,true,false,true,,
+64.226.74.76,64.226.74.76,true,,,true,,false,false,true,false,false,,
+92.223.85.52,92.223.85.52,true,,,true,,false,false,true,false,false,,
+52.195.107.139,52.195.107.154,true,,,,,false,false,false,false,false,,
+2a02:6ea0:2e02:4003::a031,2a02:6ea0:2e02:4003::a08f,true,,,,,false,false,false,false,false,,
+142.93.63.3,142.93.63.17,true,,,,,false,false,false,false,false,,
+89.125.87.23,89.125.87.104,true,,,,,false,false,false,false,false,,
+43.211.49.26,43.211.49.42,true,,,,,false,false,false,false,false,,
+44.219.138.190,44.219.138.193,true,,,,,false,false,false,false,false,,
+51.158.203.155,51.158.203.155,true,,,true,,false,false,false,false,false,,
+5.42.99.176,5.42.99.185,true,,,,,false,false,false,false,false,,
+52.76.178.243,52.76.178.255,true,,,,,false,false,false,false,false,,
+113.44.96.202,113.44.96.206,true,,,,,false,false,false,false,false,,
+2a0f:6280:1f:11:3b54:2ee7:b238:28fd,2a0f:6280:1f:11:3b54:2ee7:b23f:20fb,true,,,,,false,false,false,false,false,,
+172.238.64.40,172.238.64.45,true,,,,,false,false,false,false,false,,
+3.12.175.171,3.12.175.246,true,,,,,false,false,false,false,false,,
+176.34.133.146,176.34.133.170,true,,,,,false,false,false,false,false,,
+104.27.76.235,104.27.76.235,true,true,,,,true,false,false,false,false,,
+16.174.44.75,16.174.44.108,true,,,,,false,false,false,false,false,,
+3.114.66.223,3.114.66.231,true,,,,,false,false,false,false,false,,
+47.131.50.32,47.131.50.155,true,,,,,false,false,false,false,false,,
+18.210.92.70,18.210.92.121,true,,,,,false,false,false,false,false,,
+100.22.113.176,100.22.113.183,true,,,,,false,false,false,false,false,,
+213.108.198.238,213.108.198.238,true,,,true,,false,false,true,false,false,,
+164.92.70.147,164.92.70.147,true,,,true,,false,false,true,false,false,,
+56.69.133.80,56.69.134.211,true,,,,,false,false,false,false,false,,
+172.67.130.208,172.67.130.208,true,true,,,,true,false,false,false,false,,
+85.8.178.102,85.8.178.108,true,,,,,false,false,false,false,false,,
+8.163.70.243,8.163.70.249,true,,,,,false,false,false,false,false,,
+40.160.234.206,40.160.234.206,true,,,true,,false,false,false,false,false,,
+45.74.35.121,45.74.35.121,true,,,true,,false,false,true,false,false,,
+4.224.4.107,4.224.7.69,true,,,,,false,false,false,false,false,,
+98.83.128.210,98.83.129.39,true,,,,,false,false,false,false,false,,
+85.9.7.211,85.9.7.233,true,,,,,false,false,false,false,false,,
+67.202.72.91,67.202.78.79,true,,,,,false,false,false,false,false,,
+101.126.48.251,101.126.50.73,true,,,,,false,false,false,false,false,,

@@ -1,6 +1,5 @@
 ip,ssid,category,name,brand,latitude,longitude
 1.0.128.160,@police-training-WiFi,university,Training center of provincial police region 9,,6.5335,101.2815
-1.0.136.23,BKR002_2.4G,hotel,Ban Krut Resort,,11.3582,99.5719
 1.0.141.45,Lisaguesthouse,hotel,Lisa's Guesthouse,,12.8873,100.8802
 1.0.141.85,JH05 2.4Ghz,hotel,Jomtien Hostel,,12.8836,100.8836
 1.0.141.145,STARHOTEL,hotel,Star Convention Hotel,Novotel,12.6861,101.27
@@ -15,7 +14,6 @@ ip,ssid,category,name,brand,latitude,longitude
 1.0.146.235,Chumphon Diving_2.4G,travel_agency,Chumphon Diving and Sport Center,,10.558,99.2739
 1.0.147.145,Kohyaoyaiseabreeze_5G,hotel,Koh Yao Yai Sea Breeze House,,8.0535,98.5982
 1.0.149.229,Beach Mountain Club,restaurant,Beach Mountain Club Cafe & Restaurant Kanom,,9.1221,99.8928
-1.0.150.108,SmileResort Bldg4,hotel,Smile Resort - Thungsong,,8.1589,99.6483
 1.0.151.1,Khanompoolvilla,hotel,Khanom Poolvilla,,9.2994,99.835
 1.0.152.96,Kohyaoyaiseabreeze_5G,hotel,Koh Yao Yai Sea Breeze House,,8.0535,98.5982
 1.0.157.67,sasitararesidence_Lobby_5G,hotel,Sasitara Residence,,9.5449,100.0732
@@ -29,13 +27,14 @@ ip,ssid,category,name,brand,latitude,longitude
 1.0.163.176,junglevillage1,hotel,Jungle Village Bungalows,,8.0473,98.8392
 1.0.164.12,Tubkaak,hotel,The Tubkaak Krabi Boutique Resort,,8.0914,98.7477
 1.0.164.176,Purana WiFi,hotel,Purana Resort Koh Yao Noi,,8.1549,98.6017
-1.0.169.66,HINTOK-WIFI,hotel,Hintok River Camp,,14.3535,98.9296
-1.0.169.70,HINTOK-WIFI,hotel,Hintok River Camp,,14.3535,98.9296
+1.0.169.66,SERENATAhotels,hotel,Hintok River Camp,,14.3535,98.9296
+1.0.169.70,SERENATAhotels,hotel,Hintok River Camp,,14.3535,98.9296
 1.0.169.132,WismaOffice,bar,Terra Bar&Cafe,,13.5381,99.8139
 1.0.169.235,Grace-WiFi 2.4GHz,restaurant,The Grace,,13.4005,99.9802
 1.0.170.22,Toyota Free Wifi,car_dealer,Toyota,Toyota,14.5785,100.4872
 1.0.170.132,@TheScene FL3,hotel,The Scene สุพรรณบุรี,,14.4748,100.1097
 1.0.172.239,Toki Krabi_5G,laundromat,Toki wash&dry 24 hrs สาขากระบี่,,8.0659,98.916
+1.0.173.37,Seebeesdiving-5G,hotel,The Slate,Hotel Indigo,8.0863,98.2979
 1.0.173.156,Playna Resort2,hotel,ปรายนา รีสอร์ท,,6.7529,100.0395
 1.0.175.81,@Sensi Paradise,hotel,Sensi Paradise Beach Resort,,10.0811,99.8208
 1.0.175.91,Jinheng_Ranong1,car_dealer,นิสสัน ระนอง - Nissan Ranong,Nissan,9.9446,98.634
@@ -53,6 +52,7 @@ ip,ssid,category,name,brand,latitude,longitude
 1.0.217.85,KARON HOUSE_1,hotel,Scandinavia Guesthouse Karon Beach,,7.835,98.2984
 1.0.218.27,SinwaWiFi,business_services,บริษัท Sinwa Marin.offshore Supply & Logistics,,7.2701,100.4932
 1.0.218.74,TBH,business_services,Teck Bee Hang,,7.002,100.4703
+1.0.220.91,Laoteng Boutique Hotel F3,hotel,Laoteng Boutique Hotel,,7.8834,98.395
 1.0.225.96,@The Room,hotel,The Room Boutique Hotel,,17.1538,104.145
 1.0.235.102,Nakhupanit-2.4G_5G,car_dealer,มิตรศิลป์ วิน สาขานาคู,,16.761,104.0255
 1.0.236.66,SuratNa,home_improvement,Surat Home Center,,17.1152,102.9961
@@ -63,8 +63,9 @@ ip,ssid,category,name,brand,latitude,longitude
 1.0.245.2,Tiffy1,restaurant,Tiffy's Cafe and Restaurant,,8.6495,98.2527
 1.0.245.98,WIFI FL3L@SIRINAKHON,hotel,Sirinakhon Hotel,,8.4128,99.9709
 1.0.245.172,The Tower Condo 39,real_estate,NOON Village Tower Office,,7.824,98.3388
-1.0.248.193,Fishtakbai_5G,pharmacy,Takbai Pharmacy,,6.2592,102.0527
+1.0.252.249,Mots1_5G,stadium,Pattani Stadium,,6.8887,101.2446
 1.0.254.253,wutthi,business_services,Toyota พิธานพานิช ปัตตานี,,6.8679,101.2587
+1.1.132.238,Kanokjit_2.4GHz,coffee_shop,กาแฟสด กนกจิต (Kanokjit Coffee),,16.4421,103.5149
 1.1.135.94,Dontanfoto-2.4G,market,ตลาดสดเทศบาล ตำบลดอนตาล,,16.3155,104.9207
 1.1.138.3,.RU-WiFi,university,Ramkhamhaeng University,,16.0544,102.7909
 1.1.140.107,@YALA CITY Free WiFi,public_space,,,,
@@ -84,10 +85,9 @@ ip,ssid,category,name,brand,latitude,longitude
 1.1.164.32,TOT_IP  Phone.,university,วิทยาลัยพายัพเทคโนโลยีและบริหารธุรกิจ,,18.8523,99.0101
 1.1.167.18,Home Klang,hotel,บ้านชายกลาง,,19.8939,99.8208
 1.1.168.71,Ve love Caltex_5G,convenience_store,Caltex,Caltex,18.7657,99.006
-1.1.171.16,TOYOTASURE1_5G,car_dealer,Toyota Sure,Toyota,18.7731,98.9763
+1.1.171.16,TOYOTASURE1_5G,car_dealer,Toyota Sure,Toyota,18.773,98.9766
 1.1.171.108,Mazda Mahidol Staff 5G,car_dealer,Mazda,Mazda,18.7662,98.9896
 1.1.172.189,ALAWAA_5G,coffee_shop,Alawaa cafe,,19.2999,97.964
-1.1.174.49,.CS@CNX 2G,airport,Chiang Mai International Airport,,18.7669,98.964
 1.1.175.54,Rai Na Tree 2.4G,restaurant,Rai Na Tree,,19.6923,100.1549
 1.1.176.150,K-car group,car_dealer,BYD,BYD,13.6897,100.511
 1.1.176.232,TG_SS 5G,travel_agency,Avenue Inter Travel Group,,13.7291,100.5292
@@ -95,7 +95,7 @@ ip,ssid,category,name,brand,latitude,longitude
 1.1.178.171,SKB-TEMP,real_estate,สกบ,,13.782,100.5288
 1.1.178.198,PETCHYINDEE-5GHz,stadium,Ratchadamnoen Stadium,,13.761,100.5088
 1.1.179.65,COOPSWU,university,SWU JP,,13.745,100.5654
+1.1.179.69,iStudio Guest Wi-Fi,mall,Parade,,13.7261,100.5473
 1.1.179.233,BTV-BYOD,retail,บริษัท บุญถาวรเซรามิค จำกัด,,13.7944,100.5752
 1.1.180.107,SAT PAVILION,stadium,Chang International Circuit,,14.961,103.0838
 1.1.184.86,Poolsuk_1,hotel,พูลสุข,,16.4212,102.8442
-1.1.185.118,BEYONDCAFE,coffee_shop,Beyond Cafe,,17.8803,102.7443

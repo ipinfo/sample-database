@@ -10,9 +10,7 @@ network,city,region,region_code,country,country_code,continent,continent_code,la
 1.0.0.128/25,Sydney,New South Wales,NSW,Australia,AU,Oceania,OC,-33.86785,151.20732,Australia/Sydney,1001,AS13335,"Cloudflare, Inc.",cloudflare.com,hosting,false,true,true,false,false
 1.0.1.0/24,Fuzhou,Fujian,FJ,China,CN,Asia,AS,26.06139,119.30611,Asia/Shanghai,350000,,,,,false,false,false,false,false
 1.0.2.0/23,Fuzhou,Fujian,FJ,China,CN,Asia,AS,26.06139,119.30611,Asia/Shanghai,350000,,,,,false,false,false,false,false
-1.0.4.0/23,Melbourne,Victoria,VIC,Australia,AU,Oceania,OC,-37.814,144.96332,Australia/Melbourne,3000,AS38803,Gtelecom Pty Ltd,gtelecom.com.au,isp,false,false,false,false,false
-1.0.6.0/24,Gol Gol,New South Wales,NSW,Australia,AU,Oceania,OC,-34.17877,142.22149,Australia/Sydney,2738,AS38803,Gtelecom Pty Ltd,gtelecom.com.au,isp,false,false,false,false,false
-1.0.7.0/24,Melbourne,Victoria,VIC,Australia,AU,Oceania,OC,-37.814,144.96332,Australia/Melbourne,3000,AS38803,Gtelecom Pty Ltd,gtelecom.com.au,isp,false,false,false,false,false
+1.0.4.0/22,Melbourne,Victoria,VIC,Australia,AU,Oceania,OC,-37.814,144.96332,Australia/Melbourne,3000,AS38803,Gtelecom Pty Ltd,gtelecom.com.au,isp,false,false,false,false,false
 1.0.8.0/21,Guangzhou,Guangdong,GD,China,CN,Asia,AS,23.11667,113.25,Asia/Shanghai,510000,,,,,false,false,false,false,false
 1.0.16.0/24,Gotemba,Shizuoka,22,Japan,JP,Asia,AS,35.31859,138.94343,Asia/Tokyo,412-0028,AS2519,ARTERIA Networks Corporation,arteria-net.com,isp,false,false,false,false,false
 1.0.17.0/24,Tokyo,Tokyo,13,Japan,JP,Asia,AS,35.6895,139.69171,Asia/Tokyo,101-8656,,,,,false,false,false,false,false
@@ -99,3 +97,5 @@ network,city,region,region_code,country,country_code,continent,continent_code,la
 1.0.72.8/30,Hiroshima,Hiroshima,34,Japan,JP,Asia,AS,34.4,132.45,Asia/Tokyo,730-0011,AS18144,"Enecom,Inc.",enecom.co.jp,isp,false,false,false,false,false
 1.0.72.12,Hiroshima,Hiroshima,34,Japan,JP,Asia,AS,34.4,132.45,Asia/Tokyo,730-0011,AS18144,"Enecom,Inc.",enecom.co.jp,isp,false,false,false,false,false
 1.0.72.13,Hiroshima,Hiroshima,34,Japan,JP,Asia,AS,34.4,132.45,Asia/Tokyo,730-0011,AS18144,"Enecom,Inc.",enecom.co.jp,isp,true,false,false,false,false
+1.0.72.14/31,Hiroshima,Hiroshima,34,Japan,JP,Asia,AS,34.4,132.45,Asia/Tokyo,730-0011,AS18144,"Enecom,Inc.",enecom.co.jp,isp,false,false,false,false,false
+1.0.72.16/30,Hiroshima,Hiroshima,34,Japan,JP,Asia,AS,34.4,132.45,Asia/Tokyo,730-0011,AS18144,"Enecom,Inc.",enecom.co.jp,isp,false,false,false,false,false

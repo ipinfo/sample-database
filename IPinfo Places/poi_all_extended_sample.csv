@@ -1,6 +1,5 @@
 ip,bssid,ssid,category,name,brand,city,region,country_code,latitude,longitude
 1.0.128.160,88:dc:96:67:c6:ce,@police-training-WiFi,university,Training center of provincial police region 9,,Yala,Yala,TH,6.5335,101.2815
-1.0.136.23,"40:ee:15:c4:8d:5c,74:da:38:ca:bd:85,c8:5a:9f:a2:85:dd",BKR002_2.4G,hotel,Ban Krut Resort,,Thap Sakae,Prachuap Khiri Khan,TH,11.3582,99.5719
 1.0.141.45,34:36:54:81:37:16,Lisaguesthouse,hotel,Lisa's Guesthouse,,Pattaya,Chon Buri,TH,12.8873,100.8802
 1.0.141.85,"ec:f0:fe:80:98:4d,b4:fb:e4:35:7c:36,02:00:00:00:00:00,f0:3e:90:70:78:e8,78:44:76:ee:50:dc,44:b2:95:96:c3:d3",JH05 2.4Ghz,hotel,Jomtien Hostel,,Pattaya,Chon Buri,TH,12.8836,100.8836
 1.0.141.145,,STARHOTEL,hotel,Star Convention Hotel,Novotel,Rayong,Rayong,TH,12.6861,101.27
@@ -15,7 +14,6 @@ ip,bssid,ssid,category,name,brand,city,region,country_code,latitude,longitude
 1.0.146.235,,Chumphon Diving_2.4G,travel_agency,Chumphon Diving and Sport Center,,Chumphon,Chumphon,TH,10.558,99.2739
 1.0.147.145,20:e8:82:c4:a1:96,Kohyaoyaiseabreeze_5G,hotel,Koh Yao Yai Sea Breeze House,,Ko Yao,Phang Nga,TH,8.0535,98.5982
 1.0.149.229,fa:e2:c6:27:fe:e8,Beach Mountain Club,restaurant,Beach Mountain Club Cafe & Restaurant Kanom,,Khanom,Nakhon Si Thammarat,TH,9.1221,99.8928
-1.0.150.108,"48:81:d4:14:9f:7c,70:85:c4:9e:3a:0b,72:85:c4:8e:3a:0b",SmileResort Bldg4,hotel,Smile Resort - Thungsong,,Thung Song,Nakhon Si Thammarat,TH,8.1589,99.6483
 1.0.151.1,"3c:a3:7e:23:97:1c,28:ff:3e:e1:5a:4a",Khanompoolvilla,hotel,Khanom Poolvilla,,Khanom,Nakhon Si Thammarat,TH,9.2994,99.835
 1.0.152.96,"ec:f0:fe:81:46:be,20:e8:82:c4:a1:96,20:e8:82:c3:c8:59",Kohyaoyaiseabreeze_5G,hotel,Koh Yao Yai Sea Breeze House,,Ko Yao,Phang Nga,TH,8.0535,98.5982
 1.0.157.67,"dc:f8:b9:d9:06:c3,30:99:35:d8:ae:dc,b0:be:76:99:b1:65,00:27:22:82:1b:ba",sasitararesidence_Lobby_5G,hotel,Sasitara Residence,,Ko Samui,Surat Thani,TH,9.5449,100.0732
@@ -27,15 +25,16 @@ ip,bssid,ssid,category,name,brand,city,region,country_code,latitude,longitude
 1.0.162.213,"cc:32:e5:7a:7e:9e,88:dc:96:8d:57:03,88:dc:96:8d:57:04",Mukanda_Residence,hotel,Mukanda Residence,,Ao Nang,Krabi,TH,8.0412,98.8385
 1.0.163.80,"c0:9f:e1:aa:bd:2b,24:2f:d0:de:ef:4b,24:2f:d0:de:ef:4a,18:e8:29:5a:a9:78",WIFI Guest - Kan Eang Restaurant,restaurant,Kan Eang Restaurant - ร้านกันเอง,,Phuket,Phuket,TH,7.8199,98.3444
 1.0.163.176,"ac:15:a2:88:bd:a5,28:ff:3e:c8:72:ca",junglevillage1,hotel,Jungle Village Bungalows,,Ao Nang,Krabi,TH,8.0473,98.8392
-1.0.164.12,"8c:86:dd:35:96:b7,d8:b3:70:cd:15:ba,10:5a:95:c2:ca:eb,10:5a:95:c2:cc:a2,10:5a:95:c2:d7:34,56:3d:d1:6a:18:8e,56:3d:d1:6a:2a:94,6c:4c:bc:53:ac:4e,6c:4c:bc:53:ac:4f,6c:4c:bc:53:ac:9c,6c:4c:bc:53:ac:9d,6c:4c:bc:53:af:e1,6c:4c:bc:53:b0:30,6c:4c:bc:53:b0:d6,6c:4c:bc:53:b0:d7,8c:86:dd:35:91:24,8c:86:dd:35:91:25,10:5a:95:c2:ca:ea,10:5a:95:c2:cc:a3,10:5a:95:c2:d7:35,56:3d:d1:6a:18:8f,56:3d:d1:6a:2a:95,b8:69:f4:22:61:fd,b8:69:f4:22:62:f6,64:d1:54:fe:d4:e9,7a:83:c2:cb:28:9f,7a:83:c2:cb:2a:f3,cc:2d:e0:b5:0b:0b,d8:b3:70:ce:15:ba",Tubkaak,hotel,The Tubkaak Krabi Boutique Resort,,Ban Ao Nang,Krabi,TH,8.0914,98.7477
+1.0.164.12,"8c:86:dd:35:96:b7,d8:b3:70:cd:15:ba,cc:ba:bd:da:fa:21,10:5a:95:c2:ca:eb,10:5a:95:c2:cc:a2,10:5a:95:c2:d7:34,56:3d:d1:6a:18:8e,56:3d:d1:6a:2a:94,6c:4c:bc:53:ac:4e,6c:4c:bc:53:ac:4f,6c:4c:bc:53:ac:9c,6c:4c:bc:53:ac:9d,6c:4c:bc:53:af:e1,6c:4c:bc:53:b0:30,6c:4c:bc:53:b0:d6,6c:4c:bc:53:b0:d7,8c:86:dd:35:91:24,8c:86:dd:35:91:25,10:5a:95:c2:ca:ea,10:5a:95:c2:cc:a3,10:5a:95:c2:d7:35,56:3d:d1:6a:18:8f,56:3d:d1:6a:2a:95,b8:69:f4:22:61:fd,b8:69:f4:22:62:f6,64:d1:54:fe:d4:e9,7a:83:c2:cb:28:9f,7a:83:c2:cb:2a:f3,cc:2d:e0:b5:0b:0b,d8:b3:70:ce:15:ba",Tubkaak,hotel,The Tubkaak Krabi Boutique Resort,,Ban Ao Nang,Krabi,TH,8.0914,98.7477
 1.0.164.176,"56:16:51:84:90:72,74:83:c2:b8:c8:44,4a:81:d4:87:b1:87,54:16:51:f4:90:72",Purana WiFi,hotel,Purana Resort Koh Yao Noi,,Ko Yao,Phang Nga,TH,8.1549,98.6017
-1.0.169.66,"2a:d0:f5:23:08:32,2a:d0:f5:23:06:fe,2a:d0:f5:23:11:42,2a:d0:f5:a3:11:42,d6:31:27:af:83:e8,2a:d0:f5:23:12:4e,14:4d:67:25:09:c0",HINTOK-WIFI,hotel,Hintok River Camp,,Ban Wang Khun Knachen,Kanchanaburi,TH,14.3535,98.9296
-1.0.169.70,"2a:d0:f5:23:12:4e,d6:31:27:2f:83:e8,28:d0:f5:5a:06:0c,28:d0:f5:e3:12:4e,2a:d0:f5:a3:08:32,2a:d0:f5:23:06:fe",HINTOK-WIFI,hotel,Hintok River Camp,,Ban Wang Khun Knachen,Kanchanaburi,TH,14.3535,98.9296
+1.0.169.66,"2a:d0:f5:23:08:32,2a:d0:f5:23:06:fe,2a:d0:f5:23:11:42,2a:d0:f5:a3:11:42,d6:31:27:af:83:e8,2a:d0:f5:23:12:4e,14:4d:67:25:09:c0",SERENATAhotels,hotel,Hintok River Camp,,Ban Wang Khun Knachen,Kanchanaburi,TH,14.3535,98.9296
+1.0.169.70,"2a:d0:f5:23:12:4e,d6:31:27:2f:83:e8,28:d0:f5:5a:06:0c,28:d0:f5:e3:12:4e,2a:d0:f5:a3:08:32,2a:d0:f5:23:06:fe",SERENATAhotels,hotel,Hintok River Camp,,Ban Wang Khun Knachen,Kanchanaburi,TH,14.3535,98.9296
 1.0.169.132,"64:cb:e9:73:e4:46,c0:b8:e6:d7:35:01,9e:2b:a6:10:c0:8c,9e:2b:a6:90:c3:24,c6:70:ab:12:4a:c6,c4:70:ab:a2:41:d2,14:4d:67:1a:35:fc",WismaOffice,bar,Terra Bar&Cafe,,Ratchaburi,Ratchaburi,TH,13.5381,99.8139
 1.0.169.235,"28:ee:52:47:52:72,9c:53:22:e6:82:2e,b8:16:5f:1d:63:8a,ac:84:c6:0b:ca:52,b8:16:5f:0d:41:7e",Grace-WiFi 2.4GHz,restaurant,The Grace,,Ban Prok,Samut Songkhram,TH,13.4005,99.9802
 1.0.170.22,"88:dc:96:0d:fd:22,88:dc:96:73:28:07",Toyota Free Wifi,car_dealer,Toyota,Toyota,Ang Thong,Ang Thong,TH,14.5785,100.4872
 1.0.170.132,"ee:b9:70:80:f1:fb,c6:70:ab:8b:cb:b5",@TheScene FL3,hotel,The Scene สุพรรณบุรี,,Suphan Buri,Suphan Buri,TH,14.4748,100.1097
 1.0.172.239,"c8:3a:35:3b:e4:28,e4:ca:12:ea:84:a2",Toki Krabi_5G,laundromat,Toki wash&dry 24 hrs สาขากระบี่,,Krabi,Krabi,TH,8.0659,98.916
+1.0.173.37,b8:dd:71:d9:f1:84,Seebeesdiving-5G,hotel,The Slate,Hotel Indigo,Ban Mai Khao,Phuket,TH,8.0863,98.2979
 1.0.173.156,"14:4d:67:ae:f3:ec,14:4d:67:1a:35:fc",Playna Resort2,hotel,ปรายนา รีสอร์ท,,Khuan Don,Satun,TH,6.7529,100.0395
 1.0.175.81,"74:da:38:b6:e0:f5,e8:de:27:ca:82:72,b4:fb:e4:78:5f:2a,24:7e:51:8c:a4:ce,f4:28:53:52:c0:20",@Sensi Paradise,hotel,Sensi Paradise Beach Resort,,Koh Tao,Surat Thani,TH,10.0811,99.8208
 1.0.175.91,"b0:4e:26:d8:84:f2,d4:b7:09:d9:d8:b2",Jinheng_Ranong1,car_dealer,นิสสัน ระนอง - Nissan Ranong,Nissan,Ranong,Ranong province,TH,9.9446,98.634
@@ -53,6 +52,7 @@ ip,bssid,ssid,category,name,brand,city,region,country_code,latitude,longitude
 1.0.217.85,"e8:81:75:16:a5:55,e8:81:75:16:a5:54",KARON HOUSE_1,hotel,Scandinavia Guesthouse Karon Beach,,Phuket,Phuket,TH,7.835,98.2984
 1.0.218.27,8a:15:04:cb:15:f1,SinwaWiFi,business_services,บริษัท Sinwa Marin.offshore Supply & Logistics,,Ban Mai,Songkhla,TH,7.2701,100.4932
 1.0.218.74,"78:45:58:4b:20:09,78:45:58:4b:20:0a,24:a4:3c:4f:4a:f1,1e:6a:1b:84:6b:06,78:45:58:4b:25:51,ac:8b:a9:be:81:c6",TBH,business_services,Teck Bee Hang,,Hat Yai,Songkhla,TH,7.002,100.4703
+1.0.220.91,c6:b2:5b:87:8c:66,Laoteng Boutique Hotel F3,hotel,Laoteng Boutique Hotel,,Phuket,Phuket,TH,7.8834,98.395
 1.0.225.96,,@The Room,hotel,The Room Boutique Hotel,,Sakon Nakhon,Sakon Nakhon,TH,17.1538,104.145
 1.0.235.102,"14:4d:67:c1:15:30,ec:f0:fe:fb:9a:4a",Nakhupanit-2.4G_5G,car_dealer,มิตรศิลป์ วิน สาขานาคู,,Na Khu,Kalasin,TH,16.761,104.0255
 1.0.236.66,"e0:d3:62:ac:c4:d2,88:5d:fb:aa:f0:4c,dc:f8:b9:d8:f4:03",SuratNa,home_improvement,Surat Home Center,,Kumphawapi,Udon Thani,TH,17.1152,102.9961
@@ -63,8 +63,9 @@ ip,bssid,ssid,category,name,brand,city,region,country_code,latitude,longitude
 1.0.245.2,"44:f4:36:db:9c:c0,9c:a2:f4:9d:df:21,c8:5a:9f:c2:22:8a,14:4d:67:38:e5:80",Tiffy1,restaurant,Tiffy's Cafe and Restaurant,,Ban Khao Lak,Phang Nga,TH,8.6495,98.2527
 1.0.245.98,"74:da:88:ba:49:85,5c:92:5e:64:10:f4,50:d4:f7:69:89:9d",WIFI FL3L@SIRINAKHON,hotel,Sirinakhon Hotel,,Nakhon Si Thammarat,Nakhon Si Thammarat,TH,8.4128,99.9709
 1.0.245.172,"98:da:c4:d2:bf:4f,dc:f8:b9:d8:e0:59,78:44:76:b4:67:48",The Tower Condo 39,real_estate,NOON Village Tower Office,,Phuket,Phuket,TH,7.824,98.3388
-1.0.248.193,"e4:be:ed:ab:6b:e7,c4:eb:ff:98:9a:07,0c:b6:d2:3e:b0:b4",Fishtakbai_5G,pharmacy,Takbai Pharmacy,,Tak Bai,Narathiwat,TH,6.2592,102.0527
+1.0.252.249,"f4:e8:4f:5a:54:63,74:da:38:77:59:02",Mots1_5G,stadium,Pattani Stadium,,Pattani,Pattani,TH,6.8887,101.2446
 1.0.254.253,ec:08:6b:5b:0b:48,wutthi,business_services,Toyota พิธานพานิช ปัตตานี,,Pattani,Pattani,TH,6.8679,101.2587
+1.1.132.238,50:d4:f7:68:dd:41,Kanokjit_2.4GHz,coffee_shop,กาแฟสด กนกจิต (Kanokjit Coffee),,Kalasin,Kalasin,TH,16.4421,103.5149
 1.1.135.94,e0:19:54:e8:7d:5f,Dontanfoto-2.4G,market,ตลาดสดเทศบาล ตำบลดอนตาล,,Don Tan,Mukdahan,TH,16.3155,104.9207
 1.1.138.3,"e8:1c:ba:84:a4:68,e8:1c:ba:84:a4:80",.RU-WiFi,university,Ramkhamhaeng University,,Ban Lan,Khon Kaen,TH,16.0544,102.7909
 1.1.140.107,,@YALA CITY Free WiFi,public_space,,,,,,,
@@ -84,18 +85,17 @@ ip,bssid,ssid,category,name,brand,city,region,country_code,latitude,longitude
 1.1.164.32,"08:f6:06:86:25:dc,80:26:89:5a:7c:a2,14:4d:67:c1:74:ec,c8:5a:9f:c1:e3:2b",TOT_IP  Phone.,university,วิทยาลัยพายัพเทคโนโลยีและบริหารธุรกิจ,,San Sai,Chiang Mai,TH,18.8523,99.0101
 1.1.167.18,"c8:3a:35:3c:62:e0,74:da:da:6b:13:66",Home Klang,hotel,บ้านชายกลาง,,Chiang Rai,Chiang Rai,TH,19.8939,99.8208
 1.1.168.71,28:ff:3e:d7:1c:58,Ve love Caltex_5G,convenience_store,Caltex,Caltex,Chiang Mai,Chiang Mai,TH,18.7657,99.006
-1.1.171.16,"c0:94:ad:3f:4c:86,74:da:38:b6:c1:4a",TOYOTASURE1_5G,car_dealer,Toyota Sure,Toyota,Chiang Mai,Chiang Mai,TH,18.7731,98.9763
+1.1.171.16,"c0:94:ad:3f:4c:86,74:da:38:b6:c1:4a",TOYOTASURE1_5G,car_dealer,Toyota Sure,Toyota,Chiang Mai,Chiang Mai,TH,18.773,98.9766
 1.1.171.108,"b6:fb:e4:f8:b5:98,28:ff:3e:da:21:a5",Mazda Mahidol Staff 5G,car_dealer,Mazda,Mazda,Chiang Mai,Chiang Mai,TH,18.7662,98.9896
 1.1.172.189,"e4:ca:12:ea:7f:ff,88:5d:fb:ee:5e:e4",ALAWAA_5G,coffee_shop,Alawaa cafe,,Mae Hong Son,Mae Hong Son,TH,19.2999,97.964
-1.1.174.49,"20:08:89:fb:ba:3e,5c:92:5e:43:e3:74",.CS@CNX 2G,airport,Chiang Mai International Airport,,Chiang Mai,Chiang Mai,TH,18.7669,98.964
 1.1.175.54,28:ff:3e:de:ad:db,Rai Na Tree 2.4G,restaurant,Rai Na Tree,,Thoeng,Chiang Rai,TH,19.6923,100.1549
 1.1.176.150,"24:2f:d0:a2:7a:2b,28:87:ba:14:20:40,28:87:ba:14:20:41,40:ed:00:1e:d5:cc,40:ed:00:1e:d5:cd,50:91:e3:81:e3:81,50:91:e3:81:ef:a5,40:ed:00:1e:d5:d1",K-car group,car_dealer,BYD,BYD,Bangkok,Bangkok,TH,13.6897,100.511
 1.1.176.232,00:31:92:e7:b8:af,TG_SS 5G,travel_agency,Avenue Inter Travel Group,,Bangkok,Bangkok,TH,13.7291,100.5292
 1.1.178.144,"8c:7a:15:8c:8d:f1,8c:7a:15:8c:9f:20,8c:7a:15:8c:5a:11",TOC-AP,retail,HW Partners,,Bangkok,Bangkok,TH,13.7401,100.5548
-1.1.178.171,6c:d1:e5:d7:a1:63,SKB-TEMP,real_estate,สกบ,,Bangkok,Bangkok,TH,13.782,100.5288
+1.1.178.171,"6c:d1:e5:d7:a1:63,20:53:83:13:0b:62",SKB-TEMP,real_estate,สกบ,,Bangkok,Bangkok,TH,13.782,100.5288
 1.1.178.198,e8:13:6e:5e:84:26,PETCHYINDEE-5GHz,stadium,Ratchadamnoen Stadium,,Bangkok,Bangkok,TH,13.761,100.5088
 1.1.179.65,18:e8:29:ea:d6:72,COOPSWU,university,SWU JP,,Bangkok,Bangkok,TH,13.745,100.5654
-1.1.179.233,"80:8d:b7:ed:b2:80,80:8d:b7:ed:b2:90,80:8d:b7:ed:af:f0",BTV-BYOD,retail,บริษัท บุญถาวรเซรามิค จำกัด,,Bangkok,Bangkok,TH,13.7944,100.5752
+1.1.179.69,a6:05:d6:bb:30:83,iStudio Guest Wi-Fi,mall,Parade,,Bangkok,Bangkok,TH,13.7261,100.5473
+1.1.179.233,"80:8d:b7:ed:b2:90,80:8d:b7:ed:b2:80,80:8d:b7:ed:af:f0",BTV-BYOD,retail,บริษัท บุญถาวรเซรามิค จำกัด,,Bangkok,Bangkok,TH,13.7944,100.5752
 1.1.180.107,90:3a:72:0c:ae:3c,SAT PAVILION,stadium,Chang International Circuit,,Ban Bua,Buriram,TH,14.961,103.0838
 1.1.184.86,"74:da:da:6a:ee:f2,cc:ba:bd:e9:32:b7",Poolsuk_1,hotel,พูลสุข,,Khon Kaen,Khon Kaen,TH,16.4212,102.8442
-1.1.185.118,"24:7e:51:8d:61:44,04:18:d6:4f:7e:c2,44:13:d0:90:f6:e4",BEYONDCAFE,coffee_shop,Beyond Cafe,,Nong Khai,Nong Khai,TH,17.8803,102.7443
