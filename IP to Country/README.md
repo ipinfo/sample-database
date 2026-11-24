@@ -1,5 +1,7 @@
 # IP to Country
 
+> **Legacy database:** This database is no longer offered directly. It has been replaced by **[IPinfo Lite](../IPinfo%20Lite)**, which combines country, continent, and ASN information in a single database. New users should use IPinfo Lite. This sample remains for reference only.
+
 ## Get the country and continent where the IP addresses are located
 
 The IP to Country database is part of our [free IP data downloads offering](https://ipinfo.io/products/free-ip-database). Features of the [IP to Country Database](https://ipinfo.io/developers/ip-to-country-database) includes:

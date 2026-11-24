@@ -1,5 +1,7 @@
 # IP to ASN
 
+> **Legacy database:** This database is no longer offered directly. It has been replaced by **[IPinfo Lite](../IPinfo%20Lite)**, which combines country, continent, and ASN information in a single database. New users should use IPinfo Lite. This sample remains for reference only.
+
 ## Get accurate ASN information of IP address range.
 
 The IP to ASN database is part of our [free IP data downloads offering](https://ipinfo.io/products/free-ip-database). Features of the [IP to ASN free database](https://ipinfo.io/developers/ip-to-asn-database) includes:

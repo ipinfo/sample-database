@@ -32,6 +32,16 @@ We also offer the following IP database downloads:
 
 > **In addition to the above IP data downloads, we maintain several [legacy IP data downloads](/Legacy/README.md).**
 
+### Legacy free databases
+
+The following free databases are **no longer offered directly** and have been replaced by **[IPinfo Lite](/IPinfo%20Lite)**, which combines country, continent, and ASN information in a single database. New users should use IPinfo Lite. The samples remain in this repository for reference only.
+
+| Legacy Database                                   | Replaced By                                |
+|---------------------------------------------------|--------------------------------------------|
+| [IP to Country](/IP%20to%20Country)               | [IPinfo Lite](/IPinfo%20Lite)              |
+| [IP to Country ASN](/IP%20to%20Country%20ASN)     | [IPinfo Lite](/IPinfo%20Lite)              |
+| [IP to ASN](/IP%20to%20ASN)                       | [IPinfo Lite](/IPinfo%20Lite)              |
+
 
 **All of these products are available as CSV, JSON, Parquet, and MMDB types.**
 
