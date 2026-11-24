@@ -30,10 +30,10 @@
 
 ## Samples
 
-- [CSV Database] [IPinfo Core Sample](/IPinfo%20Core/ipinfo_standard_sample.csv)
-- [JSON Database] [IPinfo Core Sample](/IPinfo%20Core/ipinfo_standard_sample.json)
-- [MMDB Database] [IPinfo Core Sample](/IPinfo%20Core/ipinfo_standard_sample.mmdb)
-- [Parquet Database] [IPinfo Core Sample](/IPinfo%20Core/ipinfo_standard_sample.parquet)
+- [CSV Database] [IPinfo Core Sample](/IPinfo%20Core/ipinfo_core_sample.csv)
+- [JSON Database] [IPinfo Core Sample](/IPinfo%20Core/ipinfo_core_sample.json)
+- [MMDB Database] [IPinfo Core Sample](/IPinfo%20Core/ipinfo_core_sample.mmdb)
+- [Parquet Database] [IPinfo Core Sample](/IPinfo%20Core/ipinfo_core_sample.parquet)
 
 ## Downloadable File Formats
 
