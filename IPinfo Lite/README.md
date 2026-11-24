@@ -1,6 +1,6 @@
 # IPinfo Lite Database
 
-## IPinfo's free IP datbaase that provides location (country + continent) and ASN information in a single database
+## IPinfo's free IP database that provides location (country + continent) and ASN information in a single database
 
 The IPinfo Lite database is part of our [free IP data downloads offering](https://ipinfo.io/products/free-ip-database). The IPinfo Lite database is our ultimate free IP database combining both country and ASN information in a single database. Features of the IPinfo Lite database includes:
 

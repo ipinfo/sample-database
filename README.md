@@ -3,7 +3,7 @@
 ## Sample datasets of all the [IP address database products](https://ipinfo.io/account/data-downloads).
 
 <p align="center">
-  <img src="./assets/header_grahics_main_readme.png">
+  <img src="./assets/header_graphics_main_readme.png">
 </p>
 
 # Database Overview
@@ -24,13 +24,23 @@ We also offer the following IP database downloads:
 | [IPinfo Places Database](https://ipinfo.io/developers/places-database)           | [IPinfo Places Sample](/IPinfo%20Places)                    | Maps IP addresses to real-world venues and buildings                        |
 | [IPinfo Places (Extended) Database](https://ipinfo.io/developers/places-database) | [IPinfo Places Sample](/IPinfo%20Places)                    | Places dataset with BSSID and additional location fields                    |
 | [IP to Device Count Database](https://ipinfo.io/developers/ip-to-device-count)   | [IP to Device Count Sample](/IP%20to%20Device%20Count)      | Track concurrent and rotating device sharing per IP network                 |
-| [Hosted Domain Database](https://ipinfo.io/products/hosted-domains-database)     | [Hosted Domains Sample](../Hosted%20Domains)                | Reverse IP lookup                                                           |
-| [Abuse Contact Database](https://ipinfo.io/products/ip-abuse-contact-database)   | [Abuse Contact Sample](../Abuse%20Contact)                  | Abuse contact information                                                   |
-| [WHOIS Database](https://ipinfo.io/products/ip-whois-data-download)              | [WHOIS Sample](../WHOIS)                                    | Contextualized and structured WHOIS database                                |
+| [Hosted Domain Database](https://ipinfo.io/products/hosted-domains-database)     | [Hosted Domains Sample](/Hosted%20Domains)                | Reverse IP lookup                                                           |
+| [Abuse Contact Database](https://ipinfo.io/products/ip-abuse-contact-database)   | [Abuse Contact Sample](/Abuse%20Contact)                  | Abuse contact information                                                   |
+| [WHOIS Database](https://ipinfo.io/products/ip-whois-data-download)              | [WHOIS Sample](/WHOIS)                                    | Contextualized and structured WHOIS database                                |
 | IP to Privacy Detection Extended Database                                       | [IP to Privacy Detection Extended Sample](/Privacy%20Detection%20Extended) | IP to Privacy Detection database detection method information               |
 
 
 > **In addition to the above IP data downloads, we maintain several [legacy IP data downloads](/Legacy/README.md).**
+
+### Legacy free databases
+
+The following free databases are **no longer offered directly** and have been replaced by **[IPinfo Lite](/IPinfo%20Lite)**, which combines country, continent, and ASN information in a single database. New users should use IPinfo Lite. The samples remain in this repository for reference only.
+
+| Legacy Database                                   | Replaced By                                |
+|---------------------------------------------------|--------------------------------------------|
+| [IP to Country](/IP%20to%20Country)               | [IPinfo Lite](/IPinfo%20Lite)              |
+| [IP to Country ASN](/IP%20to%20Country%20ASN)     | [IPinfo Lite](/IPinfo%20Lite)              |
+| [IP to ASN](/IP%20to%20ASN)                       | [IPinfo Lite](/IPinfo%20Lite)              |
 
 
 **All of these products are available as CSV, JSON, Parquet, and MMDB types.**
